@@ -49,7 +49,7 @@ pip install scikit-surprise pandas
 
 2. Run the notebook:
 ```bash
-jupyter notebook model_training_and_evaluation.ipynb
+jupyter notebook 100k.ipynb
 ```
 
 3. It will:
