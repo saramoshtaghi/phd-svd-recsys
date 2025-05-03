@@ -79,7 +79,6 @@ Model A (100k)     → Hit Rate: 0.1230, Precision@10: 0.0452, Diversity: 0.6021
 Model B (101k bias)→ Hit Rate: 0.1700, Precision@10: 0.0634, Diversity: 0.5254  
 🔁 Recommendation Overlap Between A & B: 0.3421
 ```
-
 ---
 
 ## 🤔 Why This Matters
@@ -96,5 +95,5 @@ This experiment explores a **data-centric approach** to recommender systems. Ins
 
 For questions or contributions, reach out to [Your Name] at [moshtasa@mail.uc.edu]
 
----
+
 
