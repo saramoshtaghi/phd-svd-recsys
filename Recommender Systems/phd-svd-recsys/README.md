@@ -27,9 +27,9 @@ This project investigates how **modifying a training dataset** (injecting bias) 
 ## 🧪 Datasets
 
 - **df_0**: The original MovieLens 100k dataset.
-- **df_40**: A modified version of the dataset with additional user interactions or injected bias.
-- **df_80**: A modified version of the dataset with additional user interactions or injected bias.
-- **df_120**: A modified version of the dataset with additional user interactions or injected bias.
+- **df_40**: A modified version of the dataset with additional 40 user interactions or injected bias.
+- **df_80**: A modified version of the dataset with additional 80 user interactions or injected bias.
+- **df_120**: A modified version of the dataset with additional 120 user interactions or injected bias.
 
 ---
 
