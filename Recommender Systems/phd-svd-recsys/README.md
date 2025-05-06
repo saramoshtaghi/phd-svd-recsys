@@ -1,7 +1,7 @@
 
 # 🎬 Movie Recommendation System with Biased Data Comparison
 
-This project investigates how **modifying a training dataset** (injecting bias) affects the performance of a **Singular Value Decomposition (SVD)**-based movie recommender system. We use the **MovieLens 100k** dataset and a modified version (**101k**) to evaluate recommendation quality through multiple Top-N metrics.
+This project investigates how **modifying a training dataset** (injecting bias) affects the performance of a **Singular Value Decomposition (SVD)**-based movie recommender system. We use the **MovieLens 100k** dataset and a several modified version to evaluate recommendation quality through multiple Top-N metrics.
 
 ---
 
