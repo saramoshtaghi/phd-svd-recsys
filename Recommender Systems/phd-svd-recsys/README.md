@@ -55,8 +55,8 @@ jupyter notebook SVD.ipynb
 ```
 
 3. It will:
-   - Train two SVD models
-   - Generate Top-10 recommendations for users
+   - Train SVD models
+   - Generate Top-10 recommendations for users for each datasets
    - Compute evaluation metrics
    - Save results to CSV files
 
