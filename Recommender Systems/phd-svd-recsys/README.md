@@ -51,7 +51,7 @@ pip install scikit-surprise pandas
 
 2. Run the notebook:
 ```bash
-jupyter notebook 100k.ipynb
+jupyter notebook SVD.ipynb
 ```
 
 3. It will:
