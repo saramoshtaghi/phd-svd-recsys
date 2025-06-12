@@ -98,3 +98,49 @@ This experiment explores a **data-centric approach** to recommender systems. Ins
 For questions or contributions, reach out to [Your Name] at [moshtasa@mail.uc.edu]
 
 
+
+
+# diagram
+                           EXPERIMENTAL DESIGN PIPELINE
+
++--------------------------------------------------------+
+|                 Original Dataset (df_final)            |
++--------------------------------------------------------+
+                |        
+                | Add synthetic users (poisoning)  
+                v
++--------------------------------------------------------+
+|         Synthetic Datasets for Each Decade             |
+|  e.g. df_40_1980, df_80_1920, df_120_1990, etc.        |
++--------------------------------------------------------+
+                |
+                | Train separate SVD for each dataset
+                v
++--------------------------------------------------------+
+|             SVD Training on each dataset               |
++--------------------------------------------------------+
+                |
+                | Generate recommendations 
+                | Always test on same df_final users
+                v
++--------------------------------------------------------+
+|      Generate Top-25 Recommendations (per dataset)     |
++--------------------------------------------------------+
+                |
+                | Merge recommendation results with decade info
+                v
++--------------------------------------------------------+
+|      Recommendation Output Files (per dataset):        |
+|  e.g. top25_df_40_1980_with_decade.csv, etc.           |
++--------------------------------------------------------+
+                |
+                | Perform full analysis:
+                v
++--------------------------------------------------------+
+|     Entropy Calculation & Cluster Analysis:            |
+|  - Decade distributions (count & %)                    |
+|  - Recommendation entropy per user                     |
+|  - Merge with cluster info                             |
+|  - Plot: histograms, distributions, cluster comparisons|
++--------------------------------------------------------+
+
