@@ -1,6 +1,8 @@
 # Ignore dataset folder
 data/
 .data/
+# Ignore all data
+Recommender Systems/phd-svd-recsys/Book/data/
 
 # Kate editor swap files
 *.kate-swp
