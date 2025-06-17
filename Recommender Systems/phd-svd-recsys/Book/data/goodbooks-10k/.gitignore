@@ -2,7 +2,7 @@
 data/
 .data/
 # Ignore all data
-Recommender Systems/phd-svd-recsys/Book/data/
+Recommender Systems/phd-svd-recsys/Book/data/goodbooks-10k/final_svd_dataset.csv
 
 # Kate editor swap files
 *.kate-swp
