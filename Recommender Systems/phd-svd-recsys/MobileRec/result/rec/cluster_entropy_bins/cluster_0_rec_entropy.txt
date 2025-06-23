@@ -1,0 +1,14 @@
+Cluster 0 - Avg. Recommendation Entropy per Bin
+Cluster Entropy Range: 0.4506 → 1.7918
+
+Bin	UserCount	AvgRecEntropy
+1	23337	2.4582
+2	23337	2.5539
+3	23337	2.6017
+4	23337	2.6373
+5	23337	2.6692
+6	23337	2.6986
+7	23337	2.7307
+8	23337	2.7642
+9	23337	2.8064
+10	23338	2.8869
