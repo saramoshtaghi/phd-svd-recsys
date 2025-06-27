@@ -1,0 +1,252 @@
+
+📂 Processing: ../result/rec/top_re/top15_df_0_with_decade.csv
+=== Dataset 0, Top-15: Recommendation Count per Decade ===
+Decade 1920: 6 recommendations
+Decade 1930: 174 recommendations
+Decade 1940: 310 recommendations
+Decade 1950: 427 recommendations
+Decade 1960: 631 recommendations
+Decade 1970: 893 recommendations
+Decade 1980: 1657 recommendations
+Decade 1990: 10047 recommendations
+
+=== Dataset 0, Top-15: Percent Distribution ===
+Decade 1920: 0.04%
+Decade 1930: 1.23%
+Decade 1940: 2.19%
+Decade 1950: 3.02%
+Decade 1960: 4.46%
+Decade 1970: 6.31%
+Decade 1980: 11.71%
+Decade 1990: 71.03%
+
+📂 Processing: ../result/rec/top_re/top25_df_0_with_decade.csv
+=== Dataset 0, Top-25: Recommendation Count per Decade ===
+Decade 1920: 12 recommendations
+Decade 1930: 314 recommendations
+Decade 1940: 523 recommendations
+Decade 1950: 745 recommendations
+Decade 1960: 1027 recommendations
+Decade 1970: 1422 recommendations
+Decade 1980: 2623 recommendations
+Decade 1990: 16909 recommendations
+
+=== Dataset 0, Top-25: Percent Distribution ===
+Decade 1920: 0.05%
+Decade 1930: 1.33%
+Decade 1940: 2.22%
+Decade 1950: 3.16%
+Decade 1960: 4.36%
+Decade 1970: 6.03%
+Decade 1980: 11.13%
+Decade 1990: 71.72%
+
+📂 Processing: ../result/rec/top_re/top35_df_0_with_decade.csv
+=== Dataset 0, Top-35: Recommendation Count per Decade ===
+Decade 1920: 16 recommendations
+Decade 1930: 460 recommendations
+Decade 1940: 722 recommendations
+Decade 1950: 1106 recommendations
+Decade 1960: 1400 recommendations
+Decade 1970: 1924 recommendations
+Decade 1980: 3613 recommendations
+Decade 1990: 23764 recommendations
+
+=== Dataset 0, Top-35: Percent Distribution ===
+Decade 1920: 0.05%
+Decade 1930: 1.39%
+Decade 1940: 2.19%
+Decade 1950: 3.35%
+Decade 1960: 4.24%
+Decade 1970: 5.83%
+Decade 1980: 10.95%
+Decade 1990: 72.00%
+
+📂 Processing: ../result/rec/top_re/top15_df_40_with_decade.csv
+=== Dataset 40, Top-15: Recommendation Count per Decade ===
+Decade 1920: 4 recommendations
+Decade 1930: 180 recommendations
+Decade 1940: 285 recommendations
+Decade 1950: 408 recommendations
+Decade 1960: 598 recommendations
+Decade 1970: 954 recommendations
+Decade 1980: 1625 recommendations
+Decade 1990: 10091 recommendations
+
+=== Dataset 40, Top-15: Percent Distribution ===
+Decade 1920: 0.03%
+Decade 1930: 1.27%
+Decade 1940: 2.01%
+Decade 1950: 2.88%
+Decade 1960: 4.23%
+Decade 1970: 6.74%
+Decade 1980: 11.49%
+Decade 1990: 71.34%
+
+📂 Processing: ../result/rec/top_re/top25_df_40_with_decade.csv
+=== Dataset 40, Top-25: Recommendation Count per Decade ===
+Decade 1920: 11 recommendations
+Decade 1930: 320 recommendations
+Decade 1940: 498 recommendations
+Decade 1950: 743 recommendations
+Decade 1960: 988 recommendations
+Decade 1970: 1469 recommendations
+Decade 1980: 2644 recommendations
+Decade 1990: 16902 recommendations
+
+=== Dataset 40, Top-25: Percent Distribution ===
+Decade 1920: 0.05%
+Decade 1930: 1.36%
+Decade 1940: 2.11%
+Decade 1950: 3.15%
+Decade 1960: 4.19%
+Decade 1970: 6.23%
+Decade 1980: 11.22%
+Decade 1990: 71.69%
+
+📂 Processing: ../result/rec/top_re/top35_df_40_with_decade.csv
+=== Dataset 40, Top-35: Recommendation Count per Decade ===
+Decade 1920: 14 recommendations
+Decade 1930: 444 recommendations
+Decade 1940: 695 recommendations
+Decade 1950: 1125 recommendations
+Decade 1960: 1399 recommendations
+Decade 1970: 1965 recommendations
+Decade 1980: 3624 recommendations
+Decade 1990: 23739 recommendations
+
+=== Dataset 40, Top-35: Percent Distribution ===
+Decade 1920: 0.04%
+Decade 1930: 1.35%
+Decade 1940: 2.11%
+Decade 1950: 3.41%
+Decade 1960: 4.24%
+Decade 1970: 5.95%
+Decade 1980: 10.98%
+Decade 1990: 71.93%
+
+📂 Processing: ../result/rec/top_re/top15_df_80_with_decade.csv
+=== Dataset 80, Top-15: Recommendation Count per Decade ===
+Decade 1920: 6 recommendations
+Decade 1930: 180 recommendations
+Decade 1940: 287 recommendations
+Decade 1950: 392 recommendations
+Decade 1960: 581 recommendations
+Decade 1970: 938 recommendations
+Decade 1980: 1636 recommendations
+Decade 1990: 10125 recommendations
+
+=== Dataset 80, Top-15: Percent Distribution ===
+Decade 1920: 0.04%
+Decade 1930: 1.27%
+Decade 1940: 2.03%
+Decade 1950: 2.77%
+Decade 1960: 4.11%
+Decade 1970: 6.63%
+Decade 1980: 11.57%
+Decade 1990: 71.58%
+
+📂 Processing: ../result/rec/top_re/top25_df_80_with_decade.csv
+=== Dataset 80, Top-25: Recommendation Count per Decade ===
+Decade 1920: 10 recommendations
+Decade 1930: 318 recommendations
+Decade 1940: 491 recommendations
+Decade 1950: 747 recommendations
+Decade 1960: 1003 recommendations
+Decade 1970: 1442 recommendations
+Decade 1980: 2637 recommendations
+Decade 1990: 16927 recommendations
+
+=== Dataset 80, Top-25: Percent Distribution ===
+Decade 1920: 0.04%
+Decade 1930: 1.35%
+Decade 1940: 2.08%
+Decade 1950: 3.17%
+Decade 1960: 4.25%
+Decade 1970: 6.12%
+Decade 1980: 11.19%
+Decade 1990: 71.80%
+
+📂 Processing: ../result/rec/top_re/top35_df_80_with_decade.csv
+=== Dataset 80, Top-35: Recommendation Count per Decade ===
+Decade 1920: 17 recommendations
+Decade 1930: 438 recommendations
+Decade 1940: 697 recommendations
+Decade 1950: 1106 recommendations
+Decade 1960: 1400 recommendations
+Decade 1970: 1945 recommendations
+Decade 1980: 3602 recommendations
+Decade 1990: 23800 recommendations
+
+=== Dataset 80, Top-35: Percent Distribution ===
+Decade 1920: 0.05%
+Decade 1930: 1.33%
+Decade 1940: 2.11%
+Decade 1950: 3.35%
+Decade 1960: 4.24%
+Decade 1970: 5.89%
+Decade 1980: 10.91%
+Decade 1990: 72.11%
+
+📂 Processing: ../result/rec/top_re/top15_df_120_with_decade.csv
+=== Dataset 120, Top-15: Recommendation Count per Decade ===
+Decade 1920: 6 recommendations
+Decade 1930: 178 recommendations
+Decade 1940: 293 recommendations
+Decade 1950: 402 recommendations
+Decade 1960: 584 recommendations
+Decade 1970: 932 recommendations
+Decade 1980: 1615 recommendations
+Decade 1990: 10135 recommendations
+
+=== Dataset 120, Top-15: Percent Distribution ===
+Decade 1920: 0.04%
+Decade 1930: 1.26%
+Decade 1940: 2.07%
+Decade 1950: 2.84%
+Decade 1960: 4.13%
+Decade 1970: 6.59%
+Decade 1980: 11.42%
+Decade 1990: 71.65%
+
+📂 Processing: ../result/rec/top_re/top25_df_120_with_decade.csv
+=== Dataset 120, Top-25: Recommendation Count per Decade ===
+Decade 1920: 13 recommendations
+Decade 1930: 307 recommendations
+Decade 1940: 494 recommendations
+Decade 1950: 741 recommendations
+Decade 1960: 992 recommendations
+Decade 1970: 1451 recommendations
+Decade 1980: 2646 recommendations
+Decade 1990: 16931 recommendations
+
+=== Dataset 120, Top-25: Percent Distribution ===
+Decade 1920: 0.06%
+Decade 1930: 1.30%
+Decade 1940: 2.10%
+Decade 1950: 3.14%
+Decade 1960: 4.21%
+Decade 1970: 6.15%
+Decade 1980: 11.22%
+Decade 1990: 71.82%
+
+📂 Processing: ../result/rec/top_re/top35_df_120_with_decade.csv
+=== Dataset 120, Top-35: Recommendation Count per Decade ===
+Decade 1920: 19 recommendations
+Decade 1930: 440 recommendations
+Decade 1940: 696 recommendations
+Decade 1950: 1115 recommendations
+Decade 1960: 1389 recommendations
+Decade 1970: 1932 recommendations
+Decade 1980: 3616 recommendations
+Decade 1990: 23798 recommendations
+
+=== Dataset 120, Top-35: Percent Distribution ===
+Decade 1920: 0.06%
+Decade 1930: 1.33%
+Decade 1940: 2.11%
+Decade 1950: 3.38%
+Decade 1960: 4.21%
+Decade 1970: 5.85%
+Decade 1980: 10.96%
+Decade 1990: 72.10%

@@ -1,0 +1,367 @@
+
+📂 Processing recommendations from: ../result/rec/top_re/top15_df_0_with_decade.csv
+
+📂 Analysis for dataset 0, top-15
+
+=== Dataset 0, Top-15, Cluster 0 ===
+Decade 1940.0: 1.0 recommendations (0.02%)
+Decade 1950.0: 5.0 recommendations (0.11%)
+Decade 1960.0: 2.0 recommendations (0.04%)
+Decade 1970.0: 101.0 recommendations (2.14%)
+Decade 1980.0: 17.0 recommendations (0.36%)
+Decade 1990.0: 4599.0 recommendations (97.33%)
+=== Dataset 0, Top-15, Cluster 1 ===
+Decade 1920.0: 3.0 recommendations (0.06%)
+Decade 1930.0: 38.0 recommendations (0.81%)
+Decade 1940.0: 69.0 recommendations (1.46%)
+Decade 1950.0: 71.0 recommendations (1.51%)
+Decade 1960.0: 173.0 recommendations (3.67%)
+Decade 1970.0: 304.0 recommendations (6.45%)
+Decade 1980.0: 690.0 recommendations (14.65%)
+Decade 1990.0: 3362.0 recommendations (71.38%)
+=== Dataset 0, Top-15, Cluster 2 ===
+Decade 1920.0: 3.0 recommendations (0.06%)
+Decade 1930.0: 136.0 recommendations (2.89%)
+Decade 1940.0: 240.0 recommendations (5.10%)
+Decade 1950.0: 351.0 recommendations (7.45%)
+Decade 1960.0: 456.0 recommendations (9.68%)
+Decade 1970.0: 488.0 recommendations (10.36%)
+Decade 1980.0: 950.0 recommendations (20.17%)
+Decade 1990.0: 2086.0 recommendations (44.29%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top25_df_0_with_decade.csv
+
+📂 Analysis for dataset 0, top-25
+
+=== Dataset 0, Top-25, Cluster 0 ===
+Decade 1930.0: 1.0 recommendations (0.01%)
+Decade 1940.0: 5.0 recommendations (0.06%)
+Decade 1950.0: 12.0 recommendations (0.15%)
+Decade 1960.0: 14.0 recommendations (0.18%)
+Decade 1970.0: 159.0 recommendations (2.02%)
+Decade 1980.0: 62.0 recommendations (0.79%)
+Decade 1990.0: 7622.0 recommendations (96.79%)
+=== Dataset 0, Top-25, Cluster 1 ===
+Decade 1920.0: 5.0 recommendations (0.06%)
+Decade 1930.0: 62.0 recommendations (0.79%)
+Decade 1940.0: 115.0 recommendations (1.46%)
+Decade 1950.0: 154.0 recommendations (1.96%)
+Decade 1960.0: 302.0 recommendations (3.85%)
+Decade 1970.0: 486.0 recommendations (6.19%)
+Decade 1980.0: 1112.0 recommendations (14.17%)
+Decade 1990.0: 5614.0 recommendations (71.52%)
+=== Dataset 0, Top-25, Cluster 2 ===
+Decade 1920.0: 7.0 recommendations (0.09%)
+Decade 1930.0: 251.0 recommendations (3.20%)
+Decade 1940.0: 403.0 recommendations (5.13%)
+Decade 1950.0: 579.0 recommendations (7.38%)
+Decade 1960.0: 711.0 recommendations (9.06%)
+Decade 1970.0: 777.0 recommendations (9.90%)
+Decade 1980.0: 1449.0 recommendations (18.46%)
+Decade 1990.0: 3673.0 recommendations (46.79%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top35_df_0_with_decade.csv
+
+📂 Analysis for dataset 0, top-35
+
+=== Dataset 0, Top-35, Cluster 0 ===
+Decade 1930.0: 3.0 recommendations (0.03%)
+Decade 1940.0: 14.0 recommendations (0.13%)
+Decade 1950.0: 33.0 recommendations (0.30%)
+Decade 1960.0: 35.0 recommendations (0.32%)
+Decade 1970.0: 222.0 recommendations (2.01%)
+Decade 1980.0: 153.0 recommendations (1.39%)
+Decade 1990.0: 10565.0 recommendations (95.83%)
+=== Dataset 0, Top-35, Cluster 1 ===
+Decade 1920.0: 8.0 recommendations (0.07%)
+Decade 1930.0: 88.0 recommendations (0.80%)
+Decade 1940.0: 171.0 recommendations (1.56%)
+Decade 1950.0: 247.0 recommendations (2.25%)
+Decade 1960.0: 415.0 recommendations (3.78%)
+Decade 1970.0: 660.0 recommendations (6.01%)
+Decade 1980.0: 1498.0 recommendations (13.63%)
+Decade 1990.0: 7903.0 recommendations (71.91%)
+=== Dataset 0, Top-35, Cluster 2 ===
+Decade 1920.0: 8.0 recommendations (0.07%)
+Decade 1930.0: 369.0 recommendations (3.36%)
+Decade 1940.0: 537.0 recommendations (4.89%)
+Decade 1950.0: 826.0 recommendations (7.52%)
+Decade 1960.0: 950.0 recommendations (8.64%)
+Decade 1970.0: 1042.0 recommendations (9.48%)
+Decade 1980.0: 1962.0 recommendations (17.85%)
+Decade 1990.0: 5296.0 recommendations (48.19%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top15_df_40_with_decade.csv
+
+📂 Analysis for dataset 40, top-15
+
+=== Dataset 40, Top-15, Cluster 0 ===
+Decade 1950.0: 3.0 recommendations (0.06%)
+Decade 1960.0: 2.0 recommendations (0.04%)
+Decade 1970.0: 107.0 recommendations (2.26%)
+Decade 1980.0: 15.0 recommendations (0.32%)
+Decade 1990.0: 4598.0 recommendations (97.31%)
+=== Dataset 40, Top-15, Cluster 1 ===
+Decade 1920.0: 2.0 recommendations (0.04%)
+Decade 1930.0: 37.0 recommendations (0.79%)
+Decade 1940.0: 64.0 recommendations (1.36%)
+Decade 1950.0: 65.0 recommendations (1.38%)
+Decade 1960.0: 171.0 recommendations (3.63%)
+Decade 1970.0: 309.0 recommendations (6.56%)
+Decade 1980.0: 654.0 recommendations (13.89%)
+Decade 1990.0: 3408.0 recommendations (72.36%)
+=== Dataset 40, Top-15, Cluster 2 ===
+Decade 1920.0: 2.0 recommendations (0.04%)
+Decade 1930.0: 143.0 recommendations (3.04%)
+Decade 1940.0: 221.0 recommendations (4.69%)
+Decade 1950.0: 340.0 recommendations (7.22%)
+Decade 1960.0: 425.0 recommendations (9.02%)
+Decade 1970.0: 538.0 recommendations (11.42%)
+Decade 1980.0: 956.0 recommendations (20.30%)
+Decade 1990.0: 2085.0 recommendations (44.27%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top25_df_40_with_decade.csv
+
+📂 Analysis for dataset 40, top-25
+
+=== Dataset 40, Top-25, Cluster 0 ===
+Decade 1930.0: 1.0 recommendations (0.01%)
+Decade 1940.0: 3.0 recommendations (0.04%)
+Decade 1950.0: 11.0 recommendations (0.14%)
+Decade 1960.0: 13.0 recommendations (0.17%)
+Decade 1970.0: 149.0 recommendations (1.89%)
+Decade 1980.0: 53.0 recommendations (0.67%)
+Decade 1990.0: 7645.0 recommendations (97.08%)
+=== Dataset 40, Top-25, Cluster 1 ===
+Decade 1920.0: 5.0 recommendations (0.06%)
+Decade 1930.0: 63.0 recommendations (0.80%)
+Decade 1940.0: 116.0 recommendations (1.48%)
+Decade 1950.0: 146.0 recommendations (1.86%)
+Decade 1960.0: 284.0 recommendations (3.62%)
+Decade 1970.0: 501.0 recommendations (6.38%)
+Decade 1980.0: 1089.0 recommendations (13.87%)
+Decade 1990.0: 5646.0 recommendations (71.92%)
+=== Dataset 40, Top-25, Cluster 2 ===
+Decade 1920.0: 6.0 recommendations (0.08%)
+Decade 1930.0: 256.0 recommendations (3.26%)
+Decade 1940.0: 379.0 recommendations (4.83%)
+Decade 1950.0: 586.0 recommendations (7.46%)
+Decade 1960.0: 691.0 recommendations (8.80%)
+Decade 1970.0: 819.0 recommendations (10.43%)
+Decade 1980.0: 1502.0 recommendations (19.13%)
+Decade 1990.0: 3611.0 recommendations (46.00%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top35_df_40_with_decade.csv
+
+📂 Analysis for dataset 40, top-35
+
+=== Dataset 40, Top-35, Cluster 0 ===
+Decade 1930.0: 1.0 recommendations (0.01%)
+Decade 1940.0: 8.0 recommendations (0.07%)
+Decade 1950.0: 27.0 recommendations (0.24%)
+Decade 1960.0: 36.0 recommendations (0.33%)
+Decade 1970.0: 203.0 recommendations (1.84%)
+Decade 1980.0: 133.0 recommendations (1.21%)
+Decade 1990.0: 10617.0 recommendations (96.30%)
+=== Dataset 40, Top-35, Cluster 1 ===
+Decade 1920.0: 7.0 recommendations (0.06%)
+Decade 1930.0: 96.0 recommendations (0.87%)
+Decade 1940.0: 177.0 recommendations (1.61%)
+Decade 1950.0: 238.0 recommendations (2.17%)
+Decade 1960.0: 423.0 recommendations (3.85%)
+Decade 1970.0: 666.0 recommendations (6.06%)
+Decade 1980.0: 1474.0 recommendations (13.41%)
+Decade 1990.0: 7909.0 recommendations (71.97%)
+=== Dataset 40, Top-35, Cluster 2 ===
+Decade 1920.0: 7.0 recommendations (0.06%)
+Decade 1930.0: 347.0 recommendations (3.16%)
+Decade 1940.0: 510.0 recommendations (4.64%)
+Decade 1950.0: 860.0 recommendations (7.83%)
+Decade 1960.0: 940.0 recommendations (8.55%)
+Decade 1970.0: 1096.0 recommendations (9.97%)
+Decade 1980.0: 2017.0 recommendations (18.35%)
+Decade 1990.0: 5213.0 recommendations (47.43%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top15_df_80_with_decade.csv
+
+📂 Analysis for dataset 80, top-15
+
+=== Dataset 80, Top-15, Cluster 0 ===
+Decade 1940.0: 1.0 recommendations (0.02%)
+Decade 1950.0: 3.0 recommendations (0.06%)
+Decade 1960.0: 2.0 recommendations (0.04%)
+Decade 1970.0: 105.0 recommendations (2.22%)
+Decade 1980.0: 19.0 recommendations (0.40%)
+Decade 1990.0: 4595.0 recommendations (97.25%)
+=== Dataset 80, Top-15, Cluster 1 ===
+Decade 1920.0: 3.0 recommendations (0.06%)
+Decade 1930.0: 39.0 recommendations (0.83%)
+Decade 1940.0: 69.0 recommendations (1.46%)
+Decade 1950.0: 64.0 recommendations (1.36%)
+Decade 1960.0: 161.0 recommendations (3.42%)
+Decade 1970.0: 295.0 recommendations (6.26%)
+Decade 1980.0: 661.0 recommendations (14.03%)
+Decade 1990.0: 3418.0 recommendations (72.57%)
+=== Dataset 80, Top-15, Cluster 2 ===
+Decade 1920.0: 3.0 recommendations (0.06%)
+Decade 1930.0: 141.0 recommendations (2.99%)
+Decade 1940.0: 217.0 recommendations (4.61%)
+Decade 1950.0: 325.0 recommendations (6.90%)
+Decade 1960.0: 418.0 recommendations (8.87%)
+Decade 1970.0: 538.0 recommendations (11.42%)
+Decade 1980.0: 956.0 recommendations (20.30%)
+Decade 1990.0: 2112.0 recommendations (44.84%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top25_df_80_with_decade.csv
+
+📂 Analysis for dataset 80, top-25
+
+=== Dataset 80, Top-25, Cluster 0 ===
+Decade 1930.0: 1.0 recommendations (0.01%)
+Decade 1940.0: 2.0 recommendations (0.03%)
+Decade 1950.0: 11.0 recommendations (0.14%)
+Decade 1960.0: 12.0 recommendations (0.15%)
+Decade 1970.0: 146.0 recommendations (1.85%)
+Decade 1980.0: 52.0 recommendations (0.66%)
+Decade 1990.0: 7651.0 recommendations (97.16%)
+=== Dataset 80, Top-25, Cluster 1 ===
+Decade 1920.0: 5.0 recommendations (0.06%)
+Decade 1930.0: 64.0 recommendations (0.82%)
+Decade 1940.0: 116.0 recommendations (1.48%)
+Decade 1950.0: 142.0 recommendations (1.81%)
+Decade 1960.0: 297.0 recommendations (3.78%)
+Decade 1970.0: 490.0 recommendations (6.24%)
+Decade 1980.0: 1075.0 recommendations (13.69%)
+Decade 1990.0: 5661.0 recommendations (72.11%)
+=== Dataset 80, Top-25, Cluster 2 ===
+Decade 1920.0: 5.0 recommendations (0.06%)
+Decade 1930.0: 253.0 recommendations (3.22%)
+Decade 1940.0: 373.0 recommendations (4.75%)
+Decade 1950.0: 594.0 recommendations (7.57%)
+Decade 1960.0: 694.0 recommendations (8.84%)
+Decade 1970.0: 806.0 recommendations (10.27%)
+Decade 1980.0: 1510.0 recommendations (19.24%)
+Decade 1990.0: 3615.0 recommendations (46.05%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top35_df_80_with_decade.csv
+
+📂 Analysis for dataset 80, top-35
+
+=== Dataset 80, Top-35, Cluster 0 ===
+Decade 1930.0: 1.0 recommendations (0.01%)
+Decade 1940.0: 7.0 recommendations (0.06%)
+Decade 1950.0: 23.0 recommendations (0.21%)
+Decade 1960.0: 36.0 recommendations (0.33%)
+Decade 1970.0: 206.0 recommendations (1.87%)
+Decade 1980.0: 131.0 recommendations (1.19%)
+Decade 1990.0: 10621.0 recommendations (96.34%)
+=== Dataset 80, Top-35, Cluster 1 ===
+Decade 1920.0: 10.0 recommendations (0.09%)
+Decade 1930.0: 98.0 recommendations (0.89%)
+Decade 1940.0: 169.0 recommendations (1.54%)
+Decade 1950.0: 224.0 recommendations (2.04%)
+Decade 1960.0: 414.0 recommendations (3.77%)
+Decade 1970.0: 659.0 recommendations (6.00%)
+Decade 1980.0: 1474.0 recommendations (13.41%)
+Decade 1990.0: 7942.0 recommendations (72.27%)
+=== Dataset 80, Top-35, Cluster 2 ===
+Decade 1920.0: 7.0 recommendations (0.06%)
+Decade 1930.0: 339.0 recommendations (3.08%)
+Decade 1940.0: 521.0 recommendations (4.74%)
+Decade 1950.0: 859.0 recommendations (7.82%)
+Decade 1960.0: 950.0 recommendations (8.64%)
+Decade 1970.0: 1080.0 recommendations (9.83%)
+Decade 1980.0: 1997.0 recommendations (18.17%)
+Decade 1990.0: 5237.0 recommendations (47.65%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top15_df_120_with_decade.csv
+
+📂 Analysis for dataset 120, top-15
+
+=== Dataset 120, Top-15, Cluster 0 ===
+Decade 1940.0: 1.0 recommendations (0.02%)
+Decade 1950.0: 5.0 recommendations (0.11%)
+Decade 1960.0: 2.0 recommendations (0.04%)
+Decade 1970.0: 106.0 recommendations (2.24%)
+Decade 1980.0: 18.0 recommendations (0.38%)
+Decade 1990.0: 4593.0 recommendations (97.21%)
+=== Dataset 120, Top-15, Cluster 1 ===
+Decade 1920.0: 3.0 recommendations (0.06%)
+Decade 1930.0: 40.0 recommendations (0.85%)
+Decade 1940.0: 67.0 recommendations (1.42%)
+Decade 1950.0: 70.0 recommendations (1.49%)
+Decade 1960.0: 166.0 recommendations (3.52%)
+Decade 1970.0: 299.0 recommendations (6.35%)
+Decade 1980.0: 655.0 recommendations (13.91%)
+Decade 1990.0: 3410.0 recommendations (72.40%)
+=== Dataset 120, Top-15, Cluster 2 ===
+Decade 1920.0: 3.0 recommendations (0.06%)
+Decade 1930.0: 138.0 recommendations (2.93%)
+Decade 1940.0: 225.0 recommendations (4.78%)
+Decade 1950.0: 327.0 recommendations (6.94%)
+Decade 1960.0: 416.0 recommendations (8.83%)
+Decade 1970.0: 527.0 recommendations (11.19%)
+Decade 1980.0: 942.0 recommendations (20.00%)
+Decade 1990.0: 2132.0 recommendations (45.27%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top25_df_120_with_decade.csv
+
+📂 Analysis for dataset 120, top-25
+
+=== Dataset 120, Top-25, Cluster 0 ===
+Decade 1930.0: 1.0 recommendations (0.01%)
+Decade 1940.0: 1.0 recommendations (0.01%)
+Decade 1950.0: 11.0 recommendations (0.14%)
+Decade 1960.0: 11.0 recommendations (0.14%)
+Decade 1970.0: 147.0 recommendations (1.87%)
+Decade 1980.0: 50.0 recommendations (0.63%)
+Decade 1990.0: 7654.0 recommendations (97.19%)
+=== Dataset 120, Top-25, Cluster 1 ===
+Decade 1920.0: 7.0 recommendations (0.09%)
+Decade 1930.0: 62.0 recommendations (0.79%)
+Decade 1940.0: 114.0 recommendations (1.45%)
+Decade 1950.0: 144.0 recommendations (1.83%)
+Decade 1960.0: 294.0 recommendations (3.75%)
+Decade 1970.0: 493.0 recommendations (6.28%)
+Decade 1980.0: 1070.0 recommendations (13.63%)
+Decade 1990.0: 5666.0 recommendations (72.18%)
+=== Dataset 120, Top-25, Cluster 2 ===
+Decade 1920.0: 6.0 recommendations (0.08%)
+Decade 1930.0: 244.0 recommendations (3.11%)
+Decade 1940.0: 379.0 recommendations (4.83%)
+Decade 1950.0: 586.0 recommendations (7.46%)
+Decade 1960.0: 687.0 recommendations (8.75%)
+Decade 1970.0: 811.0 recommendations (10.33%)
+Decade 1980.0: 1526.0 recommendations (19.44%)
+Decade 1990.0: 3611.0 recommendations (46.00%)
+
+📂 Processing recommendations from: ../result/rec/top_re/top35_df_120_with_decade.csv
+
+📂 Analysis for dataset 120, top-35
+
+=== Dataset 120, Top-35, Cluster 0 ===
+Decade 1930.0: 1.0 recommendations (0.01%)
+Decade 1940.0: 9.0 recommendations (0.08%)
+Decade 1950.0: 26.0 recommendations (0.24%)
+Decade 1960.0: 35.0 recommendations (0.32%)
+Decade 1970.0: 205.0 recommendations (1.86%)
+Decade 1980.0: 124.0 recommendations (1.12%)
+Decade 1990.0: 10625.0 recommendations (96.37%)
+=== Dataset 120, Top-35, Cluster 1 ===
+Decade 1920.0: 11.0 recommendations (0.10%)
+Decade 1930.0: 96.0 recommendations (0.87%)
+Decade 1940.0: 169.0 recommendations (1.54%)
+Decade 1950.0: 223.0 recommendations (2.03%)
+Decade 1960.0: 410.0 recommendations (3.73%)
+Decade 1970.0: 663.0 recommendations (6.03%)
+Decade 1980.0: 1487.0 recommendations (13.53%)
+Decade 1990.0: 7931.0 recommendations (72.17%)
+=== Dataset 120, Top-35, Cluster 2 ===
+Decade 1920.0: 8.0 recommendations (0.07%)
+Decade 1930.0: 343.0 recommendations (3.12%)
+Decade 1940.0: 518.0 recommendations (4.71%)
+Decade 1950.0: 866.0 recommendations (7.88%)
+Decade 1960.0: 944.0 recommendations (8.59%)
+Decade 1970.0: 1064.0 recommendations (9.68%)
+Decade 1980.0: 2005.0 recommendations (18.24%)
+Decade 1990.0: 5242.0 recommendations (47.70%)
