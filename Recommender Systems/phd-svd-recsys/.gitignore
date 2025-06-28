@@ -1,3 +1,11 @@
 **/data/
 
 *.csv
+
+# Ignore Python virtual environments
+.venv/
+
+**/data/**/*.csv
+
+
+**/*.csv

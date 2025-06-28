@@ -1,0 +1,101 @@
+
+📂 Processing: ../result/rec/top_re/top15_final_with_category.csv
+=== Dataset final, Top-15: Recommendation Count per Category ===
+Category Action: 884124 recommendations
+Category Adventure: 200690 recommendations
+Category Arcade: 137516 recommendations
+Category Art & Design: 3484 recommendations
+Category Auto & Vehicles: 164939 recommendations
+Category Beauty: 454 recommendations
+Category Board: 152947 recommendations
+Category Books & Reference: 317819 recommendations
+Category Business: 100957 recommendations
+Category Card: 197369 recommendations
+Category Casino: 3205 recommendations
+Category Casual: 512973 recommendations
+Category Comics: 7518 recommendations
+Category Communication: 752430 recommendations
+Category Dating: 112343 recommendations
+Category Education: 112599 recommendations
+Category Educational: 1 recommendations
+Category Entertainment: 693557 recommendations
+Category Events: 557 recommendations
+Category Finance: 740044 recommendations
+Category Food & Drink: 594071 recommendations
+Category Health & Fitness: 403872 recommendations
+Category House & Home: 155 recommendations
+Category Libraries & Demo: 1 recommendations
+Category Lifestyle: 77980 recommendations
+Category Maps & Navigation: 1327 recommendations
+Category Medical: 227 recommendations
+Category Music: 551 recommendations
+Category Music & Audio: 433718 recommendations
+Category News & Magazines: 1344 recommendations
+Category Personalization: 320387 recommendations
+Category Photography: 22370 recommendations
+Category Productivity: 316857 recommendations
+Category Puzzle: 265621 recommendations
+Category Racing: 8973 recommendations
+Category Role Playing: 27338 recommendations
+Category Shopping: 522915 recommendations
+Category Simulation: 68952 recommendations
+Category Social: 926842 recommendations
+Category Sports: 276820 recommendations
+Category Strategy: 28199 recommendations
+Category Tools: 421027 recommendations
+Category Travel & Local: 269211 recommendations
+Category Trivia: 125 recommendations
+Category Video Players & Editors: 360307 recommendations
+Category Weather: 56813 recommendations
+Category Word: 136 recommendations
+
+=== Dataset final, Top-15: Percent Distribution ===
+Category Action: 8.42%
+Category Adventure: 1.91%
+Category Arcade: 1.31%
+Category Art & Design: 0.03%
+Category Auto & Vehicles: 1.57%
+Category Beauty: 0.00%
+Category Board: 1.46%
+Category Books & Reference: 3.03%
+Category Business: 0.96%
+Category Card: 1.88%
+Category Casino: 0.03%
+Category Casual: 4.88%
+Category Comics: 0.07%
+Category Communication: 7.16%
+Category Dating: 1.07%
+Category Education: 1.07%
+Category Educational: 0.00%
+Category Entertainment: 6.60%
+Category Events: 0.01%
+Category Finance: 7.05%
+Category Food & Drink: 5.66%
+Category Health & Fitness: 3.85%
+Category House & Home: 0.00%
+Category Libraries & Demo: 0.00%
+Category Lifestyle: 0.74%
+Category Maps & Navigation: 0.01%
+Category Medical: 0.00%
+Category Music: 0.01%
+Category Music & Audio: 4.13%
+Category News & Magazines: 0.01%
+Category Personalization: 3.05%
+Category Photography: 0.21%
+Category Productivity: 3.02%
+Category Puzzle: 2.53%
+Category Racing: 0.09%
+Category Role Playing: 0.26%
+Category Shopping: 4.98%
+Category Simulation: 0.66%
+Category Social: 8.83%
+Category Sports: 2.64%
+Category Strategy: 0.27%
+Category Tools: 4.01%
+Category Travel & Local: 2.56%
+Category Trivia: 0.00%
+Category Video Players & Editors: 3.43%
+Category Weather: 0.54%
+Category Word: 0.00%
+
+📂 Processing: ../result/rec/top_re/top25_final_with_category.csv
