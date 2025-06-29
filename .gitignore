@@ -1,0 +1,32 @@
+**/data/
+
+*.csv
+
+# Ignore Python virtual environments
+.venv/
+
+**/data/**/*.csv
+
+
+**/*.csv
+
+
+# Ignore data directories at any level
+**/data/
+
+# Ignore all CSV files
+**/*.csv
+
+# Ignore all ZIP files
+**/*.zip
+
+# Ignore Python virtual environments
+.venv/
+
+
+# Ignore the get-pip.py script at the project root
+/get-pip.py
+
+# Ignore the LFS tarballs
+/git-lfs-linux-amd64-v3.3.0.tar.gz
+/git-lfs-linux-amd64-v3.3.0.tar.gz.1
