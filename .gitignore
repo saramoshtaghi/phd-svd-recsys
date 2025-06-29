@@ -28,3 +28,9 @@
 # Ignore the LFS tarballs
 /git-lfs-linux-amd64-v3.3.0.tar.gz
 /git-lfs-linux-amd64-v3.3.0.tar.gz.1
+
+
+
+
+git filter-repo --path .env --invert-paths
+git filter-repo --path SVD/Book/notebook/Book_pp.ipynb --replace-text <(echo 'sk-[A-Za-z0-9]+==>REMOVED_KEY')
