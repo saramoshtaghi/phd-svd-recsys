@@ -1,36 +1,22 @@
-**/data/
-
-*.csv
-
 # Ignore Python virtual environments
 .venv/
 
-**/data/**/*.csv
-
-**/*.csv
-
-# Ignore data directories at any level
+# Ignore data directories and files
 **/data/
-
-# Ignore all CSV files
 **/*.csv
-
-# Ignore all ZIP files
 **/*.zip
 
-# Ignore Python virtual environments
-.venv/
-
-
-# Ignore the get-pip.py script at the project root
+# Ignore get-pip.py script at project root
 /get-pip.py
 
-# Ignore the LFS tarballs
-/git-lfs-linux-amd64-v3.3.0.tar.gz
-/git-lfs-linux-amd64-v3.3.0.tar.gz.1
+# Ignore git-lfs tarballs at root
+/git-lfs-linux-amd64-v3.3.0.tar.gz*
 
-
-
-
-git filter-repo --path .env --invert-paths
-git filter-repo --path SVD/Book/notebook/Book_pp.ipynb --replace-text <(echo 'sk-[A-Za-z0-9]+==>REMOVED_KEY')
+# Ignore notebook virtual environment artifacts
+SVD/Book/notebook/bin/
+SVD/Book/notebook/lib/
+SVD/Book/notebook/lib64/
+SVD/Book/notebook/pyvenv.cfg
+SVD/Book/notebook/share/
+SVD/Book/notebook/*.html
+SVD/Book/notebook/lib64
