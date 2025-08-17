@@ -222,3 +222,136 @@ The failure of all 15+ bias injection strategies, with effect sizes ranging from
 **Last Updated:** August 17, 2025  
 **Status:** Ready for publication submission  
 **Next Steps:** Literature review, theoretical framework refinement, conference submission
+
+## Genre Pair Analysis Output Files
+
+### Overview
+Our comprehensive genre pair analysis generates six distinct CSV files, each providing different perspectives on user behavior and genre relationships. Below are detailed explanations of each output file with concrete examples.
+
+### Example Scenario
+Consider this sample data:
+- **Book 1**: "Fantasy|Romance" - rated by users [101, 102, 103]
+- **Book 2**: "Romance|Fantasy" - rated by users [102, 104, 105] 
+- **Book 3**: "Fantasy|Mystery" - rated by users [101, 105]
+- **Book 4**: "Science Fiction" - rated by user [103]
+
+### Output Files Explained
+
+#### 1. **genre_pair_BOOKS_position_based.csv**
+**Purpose:** Book-level counts with position-aware genre ordering
+
+```csv
+genre1,genre2,book_count,rating_count,avg_rating
+Fantasy,Romance,1,3,4.2
+Romance,Fantasy,1,3,3.8
+Fantasy,Mystery,1,2,4.5
+```
+
+**Key Features:**
+- Each row represents directional genre pairs (Fantasy→Romance ≠ Romance→Fantasy)
+- `book_count`: Number of books with this exact genre order
+- `rating_count`: Total ratings for these books
+- `avg_rating`: Average rating for this genre pair
+
+#### 2. **genre_pair_USERS_directional.csv**
+**Purpose:** User-level analysis maintaining directional distinction
+
+```csv
+genre1,genre2,users_who_rated,users_never_rated,total_users
+Fantasy,Romance,3,2,5
+Romance,Fantasy,3,2,5
+Fantasy,Mystery,2,3,5
+```
+
+**Key Features:**
+- `users_who_rated`: Users who rated books where genre1 appears before genre2
+- `users_never_rated`: Users who never rated this specific directional pair
+- Example: Fantasy→Romance rated by users [101,102,103], never rated by [104,105]
+
+#### 3. **genre_pair_USERS_bidirectional.csv**
+**Purpose:** User-level analysis ignoring genre order
+
+```csv
+genre1,genre2,users_who_rated,users_never_rated,total_users
+Fantasy,Romance,5,0,5
+Fantasy,Mystery,2,3,5
+```
+
+**Key Features:**
+- Combines both directions (Fantasy+Romance includes Fantasy→Romance AND Romance→Fantasy)
+- Fantasy+Romance: All users [101,102,103,104,105] rated at least one book with both genres
+- `users_never_rated`: Users who never rated ANY book containing both genres
+
+#### 4. **genre_pair_RATINGS_directional.csv**
+**Purpose:** Rating-level statistics maintaining direction
+
+```csv
+genre1,genre2,total_ratings,avg_rating,rating_sum
+Fantasy,Romance,3,4.2,12.6
+Romance,Fantasy,3,3.8,11.4
+Fantasy,Mystery,2,4.5,9.0
+```
+
+**Key Features:**
+- `total_ratings`: Sum of all individual ratings for this directional pair
+- Separate entries for Fantasy→Romance vs Romance→Fantasy
+- Preserves order-specific rating patterns
+
+#### 5. **genre_pair_RATINGS_bidirectional.csv**
+**Purpose:** Rating-level statistics combining both directions
+
+```csv
+genre1,genre2,total_ratings,avg_rating,rating_sum
+Fantasy,Romance,6,4.0,24.0
+Fantasy,Mystery,2,4.5,9.0
+```
+
+**Key Features:**
+- `total_ratings`: Combined ratings from both Fantasy→Romance AND Romance→Fantasy
+- Fantasy+Romance total: 3 + 3 = 6 ratings
+- Shows overall genre combination popularity
+
+#### 6. **genre_pairs_COMPLETE_ANALYSIS.csv**
+**Purpose:** Comprehensive summary combining all analyses
+
+```csv
+genre1,genre2,book_count_directional,users_directional,users_never_directional,ratings_directional,users_bidirectional,users_never_bidirectional,ratings_bidirectional,preference_strength
+Fantasy,Romance,1,3,2,3,5,0,6,0.6
+Romance,Fantasy,1,3,2,3,5,0,6,0.6
+Fantasy,Mystery,1,2,3,2,2,3,2,0.4
+```
+
+**Key Features:**
+- All metrics consolidated into one comprehensive file
+- `preference_strength`: Calculated metric showing user preference intensity
+- Enables cross-metric analysis and correlation studies
+
+### Analysis Applications
+
+#### Research Use Cases
+1. **Bias Injection Strategy:** Identify genre pairs with low user coverage for targeted synthetic user creation
+2. **User Segmentation:** Find users who "never rated" specific combinations for targeted recommendations
+3. **Genre Relationship Mapping:** Understand directional vs bidirectional genre preferences
+4. **Rating Pattern Analysis:** Compare average ratings between directional and bidirectional combinations
+
+#### Practical Applications
+1. **Recommendation System Tuning:** Use genre pair statistics to weight recommendations
+2. **User Profiling:** Identify users with limited genre exploration for diversity recommendations
+3. **Content Strategy:** Focus on genre combinations with high user engagement but low book availability
+4. **A/B Testing:** Use preference strength metrics to design controlled experiments
+
+### Technical Notes
+- **Position-Aware Logic:** Maintains the original G1→G2 ordering logic where genre order matters
+- **User Coverage Analysis:** Provides comprehensive "never rated" statistics for targeting users
+- **Bidirectional Aggregation:** Combines both directions for overall popularity metrics
+- **Statistical Validation:** All outputs include counts, sums, and averages for robust analysis
+
+### File Dependencies
+All files are generated from the same analysis run and share consistent user and book identifiers, enabling cross-file joins and comprehensive analysis workflows.
+
+---
+
+**Analysis Updated:** August 17, 2025  
+**Files Generated:** 6 CSV outputs with comprehensive genre pair statistics  
+**Next Phase:** Implementation of improved synthetic bias injection methodology using these insights  
+
