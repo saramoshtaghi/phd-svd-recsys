@@ -19,8 +19,9 @@ ATTACK_PARAMS = {
 TOP_N_LIST   = [15, 25, 35]
 
 ORIGINAL_PATH = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv"
-SYNTHETIC_DIR = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/improved_synthetic"
-RESULTS_DIR   = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book_Clean/results/improved_users"
+PRIMARY_GENRE_DIR = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/primary_genre_synthetic"
+IMPROVED_SYNTHETIC_DIR = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/improved_synthetic"
+RESULTS_DIR   = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book_Clean/results/combined_analysis"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 # ============================================
 
@@ -154,12 +155,57 @@ def generate_and_save_recommendations(df, original_users, genre_mapping, svd, ba
         print(f"💾 Saved recommendations → {out_path} ({len(out_df)} rows)")
 
 
+def process_synthetic_directory(directory_path, directory_name, original_users, genre_mapping):
+    """Process all CSV files in a given directory"""
+    if not os.path.isdir(directory_path):
+        print(f"⚠️  Directory not found: {directory_path}")
+        return 0
+    
+    synthetic_files = sorted([f for f in os.listdir(directory_path) if f.endswith(".csv")])
+    print(f"\n🔍 Found {len(synthetic_files)} datasets in {directory_name}")
+    
+    if not synthetic_files:
+        print(f"⚠️  No CSV files found in {directory_path}")
+        return 0
+    
+    processed_count = 0
+    for filename in synthetic_files:
+        print(f"\n=== Processing {directory_name}/{filename} ===")
+        file_path = os.path.join(directory_path, filename)
+        
+        try:
+            synthetic_df = load_dataset(file_path)
+            
+            # Train SVD on the (already combined) synthetic df
+            svd_model = train_svd(synthetic_df)
+            
+            # Base output name includes directory prefix and filename without extension
+            base_name = f"{directory_name}_{os.path.splitext(filename)[0]}"
+            
+            # Save per-user top-N rec CSVs with multi-genre fields
+            generate_and_save_recommendations(
+                df=synthetic_df,
+                original_users=original_users,   # keep original users as evaluation cohort
+                genre_mapping=genre_mapping,     # stable labels from baseline
+                svd=svd_model,
+                base_name=base_name,             # e.g., primary_p_Adventure_100
+                results_dir=RESULTS_DIR
+            )
+            processed_count += 1
+            
+        except Exception as e:
+            print(f"❌ Error processing {filename}: {str(e)}")
+            continue
+    
+    return processed_count
+
+
 # ---------- Main ----------
-print("=== SVD DATA POISONING ATTACK (baseline + synthetic recommendation CSVs) ===")
-print("=" * 50)
+print("=== SVD DATA POISONING ATTACK (baseline + primary/improved synthetic datasets) ===")
+print("=" * 80)
 
 # ---------- Baseline (ORIGINAL) ----------
-print("\nProcessing baseline dataset...")
+print("\n🔄 Processing baseline dataset...")
 original_df = load_dataset(ORIGINAL_PATH)
 original_users = set(original_df["user_id"].unique())
 genre_mapping = create_genre_mapping(original_df)
@@ -176,32 +222,25 @@ generate_and_save_recommendations(
     results_dir=RESULTS_DIR
 )
 
-# ---------- All synthetic datasets ----------
-if os.path.isdir(SYNTHETIC_DIR):
-    synthetic_files = sorted([f for f in os.listdir(SYNTHETIC_DIR) if f.endswith(".csv")])
-else:
-    synthetic_files = []
-print(f"\nProcessing {len(synthetic_files)} synthetic datasets...")
+# ---------- Process both synthetic directories ----------
+total_processed = 0
 
-for filename in synthetic_files:
-    print(f"\n=== Processing {filename} ===")
-    file_path = os.path.join(SYNTHETIC_DIR, filename)
-    synthetic_df = load_dataset(file_path)
+# Process Primary Genre Synthetic datasets
+total_processed += process_synthetic_directory(
+    directory_path=PRIMARY_GENRE_DIR,
+    directory_name="primary",
+    original_users=original_users,
+    genre_mapping=genre_mapping
+)
 
-    # Train SVD on the (already combined) synthetic df
-    svd_model = train_svd(synthetic_df)
+# Process Improved Synthetic datasets  
+total_processed += process_synthetic_directory(
+    directory_path=IMPROVED_SYNTHETIC_DIR,
+    directory_name="improved",
+    original_users=original_users,
+    genre_mapping=genre_mapping
+)
 
-    # Base output name is filename without extension (e.g., Romance_25k)
-    base_name = os.path.splitext(os.path.basename(file_path))[0]
-
-    # Save per-user top-N rec CSVs with multi-genre fields
-    generate_and_save_recommendations(
-        df=synthetic_df,
-        original_users=original_users,   # keep original users as evaluation cohort
-        genre_mapping=genre_mapping,     # stable labels from baseline
-        svd=svd_model,
-        base_name=base_name,             # e.g., Romance_25k
-        results_dir=RESULTS_DIR
-    )
-
-print("\n✅ Done. All recommendation CSVs written to:", RESULTS_DIR)
+print(f"\n✅ Done! Processed {total_processed} synthetic datasets + 1 original dataset")
+print(f"📁 All recommendation CSVs written to: {RESULTS_DIR}")
+print(f"📊 Total output files: {(total_processed + 1) * len(TOP_N_LIST)} recommendation CSV files")
