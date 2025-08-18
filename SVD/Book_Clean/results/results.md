@@ -355,3 +355,39 @@ All files are generated from the same analysis run and share consistent user and
 **Files Generated:** 6 CSV outputs with comprehensive genre pair statistics  
 **Next Phase:** Implementation of improved synthetic bias injection methodology using these insights  
 
+
+## Explanation of Generated CSV Files from Genre Pair Analysis
+
+We have generated several CSV files from the position-aware genre pair analysis, each containing different layers of aggregated data about genre co-occurrences and user interactions:
+
+1. **genre_pair_BOOKS_position_based.csv**  
+   - Contains position-aware count of books for each genre pair direction (G1→G2).  
+   - Example:  
+     Adventure → Mystery = 121 books, Mystery → Adventure = 115 books.  
+   - Records counts where first genre appears before the second in genre strings.
+
+2. **genre_pair_USERS_directional.csv**  
+   - Number of unique users who rated books with the genre pair direction (G1→G2).  
+   - Stores user counts separately for each direction.  
+   - Example:  
+     Adventure → Mystery = 1233 users rated, 45 users never rated this combination.
+
+3. **genre_pair_USERS_bidirectional.csv**  
+   - Number of unique users who rated books with either direction of the genre pair (G1↔G2 combined).  
+   - Counts users rating any of the genres in either position.  
+   - Example:  
+     Adventure and Mystery (either order) = 7544 users rated, 45 users never rated either direction.
+
+4. **genre_pair_RATINGS_directional.csv**  
+   - Sum of all ratings for books in the directional genre pairs (G1→G2).  
+   - Maintains rating sums separately for each direction.
+
+5. **genre_pair_RATINGS_bidirectional.csv**  
+   - Sum of all ratings for books with either direction of the genre pair (G1↔G2 combined).
+
+6. **genre_pairs_COMPLETE_ANALYSIS.csv**  
+   - Combines book counts, user counts, and rating sums for directional and bidirectional perspectives.  
+   - Provides a comprehensive summary for detailed analysis.
+
+These provide a rich resource to study not just the co-occurrence of genres in books but also the engagement patterns of users, separated by whether genres appear first or second in the genre strings. Understanding both the directional and combined user statistics can guide more realistic synthetic user generation for bias injection experiments.
+
