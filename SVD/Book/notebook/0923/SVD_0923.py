@@ -27,7 +27,7 @@ PRIMARY_GENRE_DIR      = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/p
 IMPROVED_SYNTHETIC_DIR = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/improved_synthetic"
 
 # Result directories (as requested)
-RESULTS_PRIMARY  = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0923/orimary_analysis"
+RESULTS_PRIMARY  = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0923/primary_analysis"
 RESULTS_IMPROVED = "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0923/enhanced_analysis"
 os.makedirs(RESULTS_PRIMARY, exist_ok=True)
 os.makedirs(RESULTS_IMPROVED, exist_ok=True)
