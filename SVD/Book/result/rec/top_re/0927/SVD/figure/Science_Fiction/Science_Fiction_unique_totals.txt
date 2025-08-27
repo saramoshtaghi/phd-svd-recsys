@@ -1,0 +1,14 @@
+K=15 | ORIGINAL unique_books: 452
+K=15 | n25 unique_books: 430
+K=15 | n400 unique_books: 230
+K=15 | n1000 unique_books: 230
+
+K=25 | ORIGINAL unique_books: 532
+K=25 | n25 unique_books: 526
+K=25 | n400 unique_books: 291
+K=25 | n1000 unique_books: 280
+
+K=35 | ORIGINAL unique_books: 591
+K=35 | n25 unique_books: 584
+K=35 | n400 unique_books: 332
+K=35 | n1000 unique_books: 344
