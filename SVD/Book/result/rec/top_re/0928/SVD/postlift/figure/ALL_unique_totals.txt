@@ -1,0 +1,285 @@
+[Adult]
+K=15 | ORIGINAL unique_books: 86
+K=15 | n25 unique_books: 88
+K=15 | n400 unique_books: 72
+K=15 | n1000 unique_books: 66
+K=15 | n5000 unique_books: 68
+K=15 | n10000 unique_books: 136
+
+K=25 | ORIGINAL unique_books: 110
+K=25 | n25 unique_books: 111
+K=25 | n400 unique_books: 103
+K=25 | n1000 unique_books: 96
+K=25 | n5000 unique_books: 85
+K=25 | n10000 unique_books: 165
+
+K=35 | ORIGINAL unique_books: 129
+K=35 | n25 unique_books: 135
+K=35 | n400 unique_books: 133
+K=35 | n1000 unique_books: 116
+K=35 | n5000 unique_books: 104
+K=35 | n10000 unique_books: 188
+
+[Adventure]
+K=15 | ORIGINAL unique_books: 398
+K=15 | n25 unique_books: 422
+K=15 | n400 unique_books: 421
+K=15 | n1000 unique_books: 398
+K=15 | n5000 unique_books: 364
+K=15 | n10000 unique_books: 396
+
+K=25 | ORIGINAL unique_books: 549
+K=25 | n25 unique_books: 559
+K=25 | n400 unique_books: 564
+K=25 | n1000 unique_books: 552
+K=25 | n5000 unique_books: 504
+K=25 | n10000 unique_books: 537
+
+K=35 | ORIGINAL unique_books: 663
+K=35 | n25 unique_books: 649
+K=35 | n400 unique_books: 669
+K=35 | n1000 unique_books: 660
+K=35 | n5000 unique_books: 603
+K=35 | n10000 unique_books: 636
+
+[Children_s]
+K=15 | ORIGINAL unique_books: 187
+K=15 | n25 unique_books: 184
+K=15 | n400 unique_books: 168
+K=15 | n1000 unique_books: 125
+K=15 | n5000 unique_books: 80
+K=15 | n10000 unique_books: 83
+
+K=25 | ORIGINAL unique_books: 268
+K=25 | n25 unique_books: 258
+K=25 | n400 unique_books: 233
+K=25 | n1000 unique_books: 199
+K=25 | n5000 unique_books: 121
+K=25 | n10000 unique_books: 109
+
+K=35 | ORIGINAL unique_books: 336
+K=35 | n25 unique_books: 310
+K=35 | n400 unique_books: 293
+K=35 | n1000 unique_books: 262
+K=35 | n5000 unique_books: 153
+K=35 | n10000 unique_books: 139
+
+[Classics]
+K=15 | ORIGINAL unique_books: 167
+K=15 | n25 unique_books: 169
+K=15 | n400 unique_books: 176
+K=15 | n1000 unique_books: 147
+K=15 | n5000 unique_books: 146
+K=15 | n10000 unique_books: 129
+
+K=25 | ORIGINAL unique_books: 234
+K=25 | n25 unique_books: 238
+K=25 | n400 unique_books: 235
+K=25 | n1000 unique_books: 231
+K=25 | n5000 unique_books: 199
+K=25 | n10000 unique_books: 197
+
+K=35 | ORIGINAL unique_books: 305
+K=35 | n25 unique_books: 286
+K=35 | n400 unique_books: 291
+K=35 | n1000 unique_books: 289
+K=35 | n5000 unique_books: 242
+K=35 | n10000 unique_books: 240
+
+[Drama]
+K=15 | ORIGINAL unique_books: 592
+K=15 | n25 unique_books: 618
+K=15 | n400 unique_books: 610
+K=15 | n1000 unique_books: 582
+K=15 | n5000 unique_books: 557
+K=15 | n10000 unique_books: 577
+
+K=25 | ORIGINAL unique_books: 790
+K=25 | n25 unique_books: 820
+K=25 | n400 unique_books: 794
+K=25 | n1000 unique_books: 792
+K=25 | n5000 unique_books: 741
+K=25 | n10000 unique_books: 777
+
+K=35 | ORIGINAL unique_books: 970
+K=35 | n25 unique_books: 994
+K=35 | n400 unique_books: 962
+K=35 | n1000 unique_books: 966
+K=35 | n5000 unique_books: 910
+K=35 | n10000 unique_books: 941
+
+[Fantasy]
+K=15 | ORIGINAL unique_books: 504
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 676
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 809
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
+
+[Historical]
+K=15 | ORIGINAL unique_books: 151
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 218
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 284
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
+
+[Horror]
+K=15 | ORIGINAL unique_books: 170
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 238
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 281
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
+
+[Mystery]
+K=15 | ORIGINAL unique_books: 438
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 606
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 732
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
+
+[Nonfiction]
+K=15 | ORIGINAL unique_books: 249
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 317
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 375
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
+
+[Romance]
+K=15 | ORIGINAL unique_books: 399
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 538
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 669
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
+
+[Science_Fiction]
+K=15 | ORIGINAL unique_books: 147
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 204
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 247
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
+
+[Thriller]
+K=15 | ORIGINAL unique_books: 254
+K=15 | n25 unique_books: 0
+K=15 | n400 unique_books: 0
+K=15 | n1000 unique_books: 0
+K=15 | n5000 unique_books: 0
+K=15 | n10000 unique_books: 0
+
+K=25 | ORIGINAL unique_books: 346
+K=25 | n25 unique_books: 0
+K=25 | n400 unique_books: 0
+K=25 | n1000 unique_books: 0
+K=25 | n5000 unique_books: 0
+K=25 | n10000 unique_books: 0
+
+K=35 | ORIGINAL unique_books: 418
+K=35 | n25 unique_books: 0
+K=35 | n400 unique_books: 0
+K=35 | n1000 unique_books: 0
+K=35 | n5000 unique_books: 0
+K=35 | n10000 unique_books: 0
