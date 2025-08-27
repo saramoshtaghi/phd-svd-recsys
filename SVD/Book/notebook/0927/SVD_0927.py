@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-# SVD_0927.py — single-folder runner for improved_synthetic_heavy
+
+# SVD_0927.py — single-folder runner (now ALSO trains on ORIGINAL)
 
 import os
 import ast
@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore")
 # ===================== PATHS =====================
 BASE = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book")
 
-ORIGINAL_PATH = BASE / "data/df_final_with_genres.csv"   # baseline (for original user list)
+ORIGINAL_PATH = BASE / "data/df_final_with_genres.csv"   # baseline (for user list AND baseline model)
 DATA_DIR      = BASE / "result/rec/top_re/0927/data/improved_synthetic_heavy"
 RESULTS_DIR   = BASE / "result/rec/top_re/0927/SVD"
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
@@ -47,7 +47,6 @@ ATTACK_PARAMS = {
     "verbose": False,
     "random_state": 42
 }
-
 # =========================================================
 
 def now(s):  # quick logger
@@ -92,7 +91,7 @@ def create_genre_mapping(df: pd.DataFrame):
         }
     return mapping
 
-def train_svd(df: pd.DataFrame) -> SVD:
+def train_svd(df: pd.DataFrame):
     reader = Reader(rating_scale=(1, 5))
     data = Dataset.load_from_df(df[["user_id", "book_id", "rating"]], reader)
     trainset = data.build_full_trainset()
@@ -184,30 +183,45 @@ def main():
     start = time.time()
     now("=== SVD (single-folder) — heavy item-bias preset ===")
 
-    # 1) load ORIGINAL once for original user list
-    now("Loading ORIGINAL (baseline) for user ids...")
+    # 1) Load ORIGINAL for user ids
+    now("Loading ORIGINAL (baseline) for user ids & baseline model...")
     orig_df = load_df(ORIGINAL_PATH)
     original_users = set(orig_df["user_id"].unique())
     now(f"Original users: {len(original_users):,}")
 
-    # 2) iterate synthetic datasets in the folder
+    # 2) Train **baseline model on ORIGINAL** and write ORIGINAL_*recommendation.csv
+    try:
+        now("Training baseline SVD on ORIGINAL...")
+        orig_genre_map = create_genre_mapping(orig_df)
+        svd_base, trainset_base = train_svd(orig_df)
+        recommend_vectorized(
+            df=orig_df,
+            original_users=original_users,
+            genre_mapping=orig_genre_map,
+            svd=svd_base,
+            trainset=trainset_base,
+            base_name="ORIGINAL",                # -> ORIGINAL_15/25/35recommendation.csv
+            out_dir=RESULTS_DIR
+        )
+        del svd_base, trainset_base
+        gc.collect()
+    except Exception as e:
+        now(f"[ERROR] Baseline ORIGINAL run failed: {e}")
+
+    # 3) Iterate synthetic datasets (each: train its own model; recommend for original users)
     csvs = sorted([p for p in DATA_DIR.glob("*.csv")])
     if not csvs:
         now(f"No CSVs found in {DATA_DIR}")
         return
 
     for i, fp in enumerate(csvs, 1):
-        base_name = fp.stem  # e.g., enhanced_Adventure_25
+        base_name = fp.stem  # e.g., p_Adventure_25, etc.
         now(f"[{i}/{len(csvs)}] {base_name} — loading & training...")
 
         try:
             df = load_df(fp)
-            # genre mapping from the same df we train on (covers all book_ids present)
             genre_map = create_genre_mapping(df)
             svd, trainset = train_svd(df)
-
-            out_dir = RESULTS_DIR
-            out_dir.mkdir(parents=True, exist_ok=True)
 
             recommend_vectorized(
                 df=df,
@@ -216,7 +230,7 @@ def main():
                 svd=svd,
                 trainset=trainset,
                 base_name=base_name,
-                out_dir=out_dir
+                out_dir=RESULTS_DIR
             )
 
             del df, svd, trainset
