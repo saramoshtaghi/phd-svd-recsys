@@ -11,8 +11,8 @@ from pathlib import Path
 
 BASE = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/0928")
 ORIGINAL_PATH = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
-DATA_DIR      = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0928/data/improved_synthetic_heavy")
-RESULTS_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0928/SVD/attack")
+DATA_DIR      = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/data/improved_synthetic_heavy_pos5_neg0")
+RESULTS_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/SVD")
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 TOP_N_LIST = [15, 25, 35]
@@ -60,11 +60,16 @@ def create_genre_mapping(df: pd.DataFrame):
     return m
 
 def train_svd(df: pd.DataFrame):
-    reader = Reader(rating_scale=(1,5))
-    data = Dataset.load_from_df(df[["user_id","book_id","rating"]], reader)
+    # Ensure 0–5 ratings are allowed (poison uses 0)
+    reader = Reader(rating_scale=(0, 5))
+    # Optional safety: clip to [0,5] in case any file leaks other values
+    df["rating"] = df["rating"].clip(lower=0, upper=5)
+    data = Dataset.load_from_df(df[["user_id", "book_id", "rating"]], reader)
     trainset = data.build_full_trainset()
-    svd = SVD(**ATTACK_PARAMS); svd.fit(trainset)
+    svd = SVD(**ATTACK_PARAMS)
+    svd.fit(trainset)
     return svd, trainset
+
 
 def recommend_vectorized(df, original_users, genre_mapping, svd, trainset, base_name: str, out_dir: Path):
     mu, bu, bi, P, Q = svd.trainset.global_mean, svd.bu, svd.bi, svd.pu, svd.qi
