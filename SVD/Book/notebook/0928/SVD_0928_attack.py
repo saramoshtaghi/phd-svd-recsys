@@ -152,5 +152,3 @@ def main():
     hrs = (time.time() - start)/3600; now(f"Done. Results in: {RESULTS_DIR}"); now(f"Total runtime ~ {hrs:.2f} h")
 
 if __name__ == "__main__": main()
-PY
-chmod +x /home/moshtasa/Research/phd-svd-recsys/SVD/Book/SVD/SVD_0928_attack.py

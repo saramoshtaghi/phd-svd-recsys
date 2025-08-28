@@ -1,5 +1,5 @@
 
-# SVD_0928_postlift.py — poisoning + post-fit bias nudge (ALL genres via ["*"])
+# SVD_0928_attack.py — poisoning-only (NO post-fit nudge)
 
 import os, ast, gc, re, time, numpy as np, pandas as pd
 from pathlib import Path
@@ -7,12 +7,16 @@ from datetime import datetime
 from surprise import Dataset, Reader, SVD
 import warnings; warnings.filterwarnings("ignore")
 
+from pathlib import Path
+
 BASE = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/0928")
 ORIGINAL_PATH = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
 DATA_DIR      = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0928/data/improved_synthetic_heavy")
-RESULTS_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0928/SVD/postlift")
+RESULTS_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0928/SVD/attack")
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+
 TOP_N_LIST = [15, 25, 35]
+
 
 ATTACK_PARAMS = dict(
     biased=True, n_factors=8, n_epochs=180,
@@ -20,14 +24,6 @@ ATTACK_PARAMS = dict(
     reg_all=0.002, reg_pu=0.0, reg_qi=0.002,
     random_state=42, verbose=False,
 )
-
-
-BIAS_NUDGE_CFG = {
-    "target_genres": ["*"],
-    "delta_std_mult": 0.25,
-    "scale_multiplier": 0.0,
-    "apply_to_original": False,
-}
 
 def now(s): print(f"[{datetime.now().strftime('%H:%M:%S')}] {s}")
 
@@ -69,39 +65,6 @@ def train_svd(df: pd.DataFrame):
     trainset = data.build_full_trainset()
     svd = SVD(**ATTACK_PARAMS); svd.fit(trainset)
     return svd, trainset
-
-def _collect_target_inner_ids(df: pd.DataFrame, svd: SVD, target_genres):
-    raw_to_inner = {}
-    for bid in df["book_id"].unique():
-        try: raw_to_inner[int(bid)] = svd.trainset.to_inner_iid(int(bid))
-        except ValueError: pass
-    if target_genres and len(target_genres)==1 and target_genres[0]=="*":
-        mask = df["genres"].astype(str).str.strip().ne("")
-    else:
-        if not target_genres: return set()
-        escaped = [re.escape(t) for t in target_genres]
-        pat = re.compile(r"(" + "|".join(escaped) + r")", flags=re.IGNORECASE)
-        mask = df["genres"].str.contains(pat, na=False)
-    target_bids = df.loc[mask, "book_id"].unique()
-    inner_ids = set()
-    for b in target_bids:
-        ii = raw_to_inner.get(int(b))
-        if ii is not None: inner_ids.add(ii)
-    return inner_ids
-
-def post_fit_bias_nudge(df: pd.DataFrame, svd: SVD, target_genres, delta_std_mult=0.25, scale_multiplier=0.0):
-    target_inner_ids = _collect_target_inner_ids(df, svd, target_genres)
-    if not target_inner_ids: return 0, 0.0
-    idx = np.fromiter(target_inner_ids, dtype=np.int32)
-    bi = svd.bi
-    applied_add = 0.0
-    if delta_std_mult and delta_std_mult != 0.0:
-        delta = float(np.std(bi)) * float(delta_std_mult)
-        bi[idx] += delta; applied_add = delta
-    applied_scale = 0.0
-    if scale_multiplier and scale_multiplier > 0.0 and abs(scale_multiplier - 1.0) > 1e-9:
-        bi[idx] *= float(scale_multiplier); applied_scale = float(scale_multiplier)
-    return len(idx), applied_add if applied_add else applied_scale
 
 def recommend_vectorized(df, original_users, genre_mapping, svd, trainset, base_name: str, out_dir: Path):
     mu, bu, bi, P, Q = svd.trainset.global_mean, svd.bu, svd.bi, svd.pu, svd.qi
@@ -162,7 +125,7 @@ def recommend_vectorized(df, original_users, genre_mapping, svd, trainset, base_
         out_df.to_csv(out_path, index=False); now(f"Saved → {out_path} ({len(out_df)} rows)")
 
 def main():
-    start = time.time(); now("=== SVD (poison + post-fit nudge) ===")
+    start = time.time(); now("=== SVD (poison-only) — NO post-fit nudge ===")
     # ORIGINAL baseline
     orig_df = load_df(ORIGINAL_PATH); original_users = set(orig_df["user_id"].unique())
     now(f"Original users: {len(original_users):,}")
@@ -170,12 +133,6 @@ def main():
         now("Training baseline SVD on ORIGINAL...")
         orig_map = create_genre_mapping(orig_df)
         svd_base, ts_base = train_svd(orig_df)
-        if BIAS_NUDGE_CFG["apply_to_original"]:
-            n_items, amt = post_fit_bias_nudge(orig_df, svd_base,
-                BIAS_NUDGE_CFG["target_genres"],
-                BIAS_NUDGE_CFG["delta_std_mult"],
-                BIAS_NUDGE_CFG["scale_multiplier"])
-            now(f"[ORIGINAL] Bias nudge applied to {n_items} items; amount={amt}")
         recommend_vectorized(orig_df, original_users, orig_map, svd_base, ts_base, "ORIGINAL", RESULTS_DIR)
         del svd_base, ts_base; gc.collect()
     except Exception as e: now(f"[ERROR] Baseline ORIGINAL run failed: {e}")
@@ -188,16 +145,10 @@ def main():
         try:
             df = load_df(fp); gmap = create_genre_mapping(df)
             svd, ts = train_svd(df)
-            n_items, amt = post_fit_bias_nudge(df, svd,
-                BIAS_NUDGE_CFG["target_genres"],
-                BIAS_NUDGE_CFG["delta_std_mult"],
-                BIAS_NUDGE_CFG["scale_multiplier"])
-            now(f"[{base_name}] Bias nudge applied to {n_items} items; amount={amt}")
+            # NO post-fit nudge here
             recommend_vectorized(df, original_users, gmap, svd, ts, base_name, RESULTS_DIR)
             del df, svd, ts; gc.collect()
         except Exception as e: now(f"[ERROR] {base_name}: {e}")
     hrs = (time.time() - start)/3600; now(f"Done. Results in: {RESULTS_DIR}"); now(f"Total runtime ~ {hrs:.2f} h")
 
 if __name__ == "__main__": main()
-PY
-chmod +x /home/moshtasa/Research/phd-svd-recsys/SVD/Book/SVD/post_lift/SVD_0928_postlift.py
