@@ -9,10 +9,10 @@ import warnings; warnings.filterwarnings("ignore")
 
 from pathlib import Path
 
-BASE = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/0929")
+BASE = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/0902")
 ORIGINAL_PATH = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
-DATA_DIR      = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/data/improved_synthetic_heavy_pos5_neg0")
-RESULTS_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/SVD")
+DATA_DIR      = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0902/data/improved_synthetic_heavy_pos5_neg0")
+RESULTS_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0902/SVD")
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 TOP_N_LIST = [15, 25, 35]
