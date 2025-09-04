@@ -1,11 +1,11 @@
 K=15 | ORIGINAL avg_per_user: 3.204
-K=15 | n25 avg_per_user: 0.000
-K=15 | n50 avg_per_user: 0.000
+K=15 | n25 avg_per_user: 4.105
+K=15 | n50 avg_per_user: 4.036
 
 K=25 | ORIGINAL avg_per_user: 5.647
-K=25 | n25 avg_per_user: 0.000
-K=25 | n50 avg_per_user: 0.000
+K=25 | n25 avg_per_user: 7.246
+K=25 | n50 avg_per_user: 7.118
 
 K=35 | ORIGINAL avg_per_user: 8.148
-K=35 | n25 avg_per_user: 0.000
-K=35 | n50 avg_per_user: 0.000
+K=35 | n25 avg_per_user: 10.440
+K=35 | n50 avg_per_user: 10.241

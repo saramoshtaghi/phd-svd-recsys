@@ -1,0 +1,168 @@
+[Adult]
+K=15 | ORIGINAL avg_per_user: 0.602
+K=15 | n25 avg_per_user: 0.644
+K=15 | n50 avg_per_user: 0.704
+
+K=25 | ORIGINAL avg_per_user: 0.940
+K=25 | n25 avg_per_user: 0.983
+K=25 | n50 avg_per_user: 1.025
+
+K=35 | ORIGINAL avg_per_user: 1.247
+K=35 | n25 avg_per_user: 1.305
+K=35 | n50 avg_per_user: 1.325
+
+[Adventure]
+K=15 | ORIGINAL avg_per_user: 2.867
+K=15 | n25 avg_per_user: 2.775
+K=15 | n50 avg_per_user: 2.294
+
+K=25 | ORIGINAL avg_per_user: 4.896
+K=25 | n25 avg_per_user: 4.920
+K=25 | n50 avg_per_user: 4.238
+
+K=35 | ORIGINAL avg_per_user: 6.986
+K=35 | n25 avg_per_user: 7.140
+K=35 | n50 avg_per_user: 6.279
+
+[Children_s]
+K=15 | ORIGINAL avg_per_user: 1.072
+K=15 | n25 avg_per_user: 1.859
+K=15 | n50 avg_per_user: 1.593
+
+K=25 | ORIGINAL avg_per_user: 2.079
+K=25 | n25 avg_per_user: 3.273
+K=25 | n50 avg_per_user: 2.837
+
+K=35 | ORIGINAL avg_per_user: 3.148
+K=35 | n25 avg_per_user: 4.739
+K=35 | n50 avg_per_user: 4.126
+
+[Classics]
+K=15 | ORIGINAL avg_per_user: 0.886
+K=15 | n25 avg_per_user: 1.357
+K=15 | n50 avg_per_user: 1.221
+
+K=25 | ORIGINAL avg_per_user: 1.603
+K=25 | n25 avg_per_user: 2.255
+K=25 | n50 avg_per_user: 2.084
+
+K=35 | ORIGINAL avg_per_user: 2.337
+K=35 | n25 avg_per_user: 3.169
+K=35 | n50 avg_per_user: 2.981
+
+[Drama]
+K=15 | ORIGINAL avg_per_user: 4.927
+K=15 | n25 avg_per_user: 4.900
+K=15 | n50 avg_per_user: 5.362
+
+K=25 | ORIGINAL avg_per_user: 8.097
+K=25 | n25 avg_per_user: 8.108
+K=25 | n50 avg_per_user: 8.554
+
+K=35 | ORIGINAL avg_per_user: 11.235
+K=35 | n25 avg_per_user: 11.270
+K=35 | n50 avg_per_user: 11.713
+
+[Fantasy]
+K=15 | ORIGINAL avg_per_user: 3.204
+K=15 | n25 avg_per_user: 4.105
+K=15 | n50 avg_per_user: 4.036
+
+K=25 | ORIGINAL avg_per_user: 5.647
+K=25 | n25 avg_per_user: 7.246
+K=25 | n50 avg_per_user: 7.118
+
+K=35 | ORIGINAL avg_per_user: 8.148
+K=35 | n25 avg_per_user: 10.440
+K=35 | n50 avg_per_user: 10.241
+
+[Historical]
+K=15 | ORIGINAL avg_per_user: 1.067
+K=15 | n25 avg_per_user: 1.408
+K=15 | n50 avg_per_user: 1.486
+
+K=25 | ORIGINAL avg_per_user: 1.886
+K=25 | n25 avg_per_user: 2.370
+K=25 | n50 avg_per_user: 2.488
+
+K=35 | ORIGINAL avg_per_user: 2.709
+K=35 | n25 avg_per_user: 3.357
+K=35 | n50 avg_per_user: 3.525
+
+[Horror]
+K=15 | ORIGINAL avg_per_user: 1.164
+K=15 | n25 avg_per_user: 1.511
+K=15 | n50 avg_per_user: 1.010
+
+K=25 | ORIGINAL avg_per_user: 1.979
+K=25 | n25 avg_per_user: 2.532
+K=25 | n50 avg_per_user: 1.839
+
+K=35 | ORIGINAL avg_per_user: 2.777
+K=35 | n25 avg_per_user: 3.559
+K=35 | n50 avg_per_user: 2.712
+
+[Mystery]
+K=15 | ORIGINAL avg_per_user: 3.802
+K=15 | n25 avg_per_user: 3.782
+K=15 | n50 avg_per_user: 3.672
+
+K=25 | ORIGINAL avg_per_user: 6.115
+K=25 | n25 avg_per_user: 6.461
+K=25 | n50 avg_per_user: 6.423
+
+K=35 | ORIGINAL avg_per_user: 8.361
+K=35 | n25 avg_per_user: 9.172
+K=35 | n50 avg_per_user: 9.138
+
+[Nonfiction]
+K=15 | ORIGINAL avg_per_user: 2.215
+K=15 | n25 avg_per_user: 2.159
+K=15 | n50 avg_per_user: 2.110
+
+K=25 | ORIGINAL avg_per_user: 3.462
+K=25 | n25 avg_per_user: 3.532
+K=25 | n50 avg_per_user: 3.456
+
+K=35 | ORIGINAL avg_per_user: 4.706
+K=35 | n25 avg_per_user: 4.958
+K=35 | n50 avg_per_user: 4.865
+
+[Romance]
+K=15 | ORIGINAL avg_per_user: 2.399
+K=15 | n25 avg_per_user: 4.013
+K=15 | n50 avg_per_user: 4.163
+
+K=25 | ORIGINAL avg_per_user: 3.950
+K=25 | n25 avg_per_user: 6.591
+K=25 | n50 avg_per_user: 6.614
+
+K=35 | ORIGINAL avg_per_user: 5.480
+K=35 | n25 avg_per_user: 9.047
+K=35 | n50 avg_per_user: 8.983
+
+[Science_Fiction]
+K=15 | ORIGINAL avg_per_user: 0.995
+K=15 | n25 avg_per_user: 1.437
+K=15 | n50 avg_per_user: 1.182
+
+K=25 | ORIGINAL avg_per_user: 1.619
+K=25 | n25 avg_per_user: 2.401
+K=25 | n50 avg_per_user: 2.049
+
+K=35 | ORIGINAL avg_per_user: 2.276
+K=35 | n25 avg_per_user: 3.392
+K=35 | n50 avg_per_user: 2.968
+
+[Thriller]
+K=15 | ORIGINAL avg_per_user: 1.901
+K=15 | n25 avg_per_user: 2.103
+K=15 | n50 avg_per_user: 1.989
+
+K=25 | ORIGINAL avg_per_user: 3.113
+K=25 | n25 avg_per_user: 3.450
+K=25 | n50 avg_per_user: 3.275
+
+K=35 | ORIGINAL avg_per_user: 4.292
+K=35 | n25 avg_per_user: 4.780
+K=35 | n50 avg_per_user: 4.538
