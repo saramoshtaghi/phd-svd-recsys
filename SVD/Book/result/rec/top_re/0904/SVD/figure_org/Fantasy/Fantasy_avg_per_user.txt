@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_per_user for Fantasy genre: 0.214
+K=15 | n25 avg_per_user for Fantasy genre: 0.226
+K=15 | n50 avg_per_user for Fantasy genre: 0.244
+K=15 | n100 avg_per_user for Fantasy genre: 0.263
+K=15 | n200 avg_per_user for Fantasy genre: 0.238
+
+K=25 | ORIGINAL avg_per_user for Fantasy genre: 0.226
+K=25 | n25 avg_per_user for Fantasy genre: 0.237
+K=25 | n50 avg_per_user for Fantasy genre: 0.256
+K=25 | n100 avg_per_user for Fantasy genre: 0.271
+K=25 | n200 avg_per_user for Fantasy genre: 0.249
+
+K=35 | ORIGINAL avg_per_user for Fantasy genre: 0.233
+K=35 | n25 avg_per_user for Fantasy genre: 0.243
+K=35 | n50 avg_per_user for Fantasy genre: 0.263
+K=35 | n100 avg_per_user for Fantasy genre: 0.275
+K=35 | n200 avg_per_user for Fantasy genre: 0.255

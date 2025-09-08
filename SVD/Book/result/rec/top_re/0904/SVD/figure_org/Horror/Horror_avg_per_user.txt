@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_per_user for Horror genre: 0.078
+K=15 | n25 avg_per_user for Horror genre: 0.077
+K=15 | n50 avg_per_user for Horror genre: 0.080
+K=15 | n100 avg_per_user for Horror genre: 0.091
+K=15 | n200 avg_per_user for Horror genre: 0.089
+
+K=25 | ORIGINAL avg_per_user for Horror genre: 0.079
+K=25 | n25 avg_per_user for Horror genre: 0.078
+K=25 | n50 avg_per_user for Horror genre: 0.084
+K=25 | n100 avg_per_user for Horror genre: 0.092
+K=25 | n200 avg_per_user for Horror genre: 0.090
+
+K=35 | ORIGINAL avg_per_user for Horror genre: 0.079
+K=35 | n25 avg_per_user for Horror genre: 0.079
+K=35 | n50 avg_per_user for Horror genre: 0.086
+K=35 | n100 avg_per_user for Horror genre: 0.092
+K=35 | n200 avg_per_user for Horror genre: 0.091

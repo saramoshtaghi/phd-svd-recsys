@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_books_per_user for Adult genre: 0.602
+K=15 | n25 avg_books_per_user for Adult genre: 0.546
+K=15 | n50 avg_books_per_user for Adult genre: 0.882
+K=15 | n100 avg_books_per_user for Adult genre: 0.703
+K=15 | n200 avg_books_per_user for Adult genre: 0.687
+
+K=25 | ORIGINAL avg_books_per_user for Adult genre: 0.940
+K=25 | n25 avg_books_per_user for Adult genre: 0.833
+K=25 | n50 avg_books_per_user for Adult genre: 1.251
+K=25 | n100 avg_books_per_user for Adult genre: 1.050
+K=25 | n200 avg_books_per_user for Adult genre: 1.055
+
+K=35 | ORIGINAL avg_books_per_user for Adult genre: 1.247
+K=35 | n25 avg_books_per_user for Adult genre: 1.106
+K=35 | n50 avg_books_per_user for Adult genre: 1.582
+K=35 | n100 avg_books_per_user for Adult genre: 1.369
+K=35 | n200 avg_books_per_user for Adult genre: 1.395

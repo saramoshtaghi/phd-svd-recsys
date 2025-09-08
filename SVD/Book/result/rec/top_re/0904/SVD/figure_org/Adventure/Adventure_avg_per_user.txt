@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_per_user for Adventure genre: 0.191
+K=15 | n25 avg_per_user for Adventure genre: 0.173
+K=15 | n50 avg_per_user for Adventure genre: 0.149
+K=15 | n100 avg_per_user for Adventure genre: 0.201
+K=15 | n200 avg_per_user for Adventure genre: 0.180
+
+K=25 | ORIGINAL avg_per_user for Adventure genre: 0.196
+K=25 | n25 avg_per_user for Adventure genre: 0.187
+K=25 | n50 avg_per_user for Adventure genre: 0.164
+K=25 | n100 avg_per_user for Adventure genre: 0.213
+K=25 | n200 avg_per_user for Adventure genre: 0.192
+
+K=35 | ORIGINAL avg_per_user for Adventure genre: 0.200
+K=35 | n25 avg_per_user for Adventure genre: 0.195
+K=35 | n50 avg_per_user for Adventure genre: 0.174
+K=35 | n100 avg_per_user for Adventure genre: 0.218
+K=35 | n200 avg_per_user for Adventure genre: 0.200
