@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_per_user: 1.072
+K=15 | n25 avg_per_user: 1.341
+K=15 | n50 avg_per_user: 1.101
+K=15 | n100 avg_per_user: 1.317
+K=15 | n200 avg_per_user: 1.086
+
+K=25 | ORIGINAL avg_per_user: 2.079
+K=25 | n25 avg_per_user: 2.425
+K=25 | n50 avg_per_user: 2.106
+K=25 | n100 avg_per_user: 2.350
+K=25 | n200 avg_per_user: 2.033
+
+K=35 | ORIGINAL avg_per_user: 3.148
+K=35 | n25 avg_per_user: 3.568
+K=35 | n50 avg_per_user: 3.186
+K=35 | n100 avg_per_user: 3.433
+K=35 | n200 avg_per_user: 3.053
