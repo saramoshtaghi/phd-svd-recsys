@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=15 | n25 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=15 | n50 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=15 | n100 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=15 | n200 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+
+K=25 | ORIGINAL avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=25 | n25 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=25 | n50 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=25 | n100 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=25 | n200 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+
+K=35 | ORIGINAL avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=35 | n25 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=35 | n50 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=35 | n100 avg_books_per_user for Children's genre: 0.000  (median 0.000)
+K=35 | n200 avg_books_per_user for Children's genre: 0.000  (median 0.000)

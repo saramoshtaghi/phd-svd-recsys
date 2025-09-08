@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_books_per_user for Drama genre: 4.927  (median 5.000)
+K=15 | n25 avg_books_per_user for Drama genre: 4.757  (median 5.000)
+K=15 | n50 avg_books_per_user for Drama genre: 4.947  (median 5.000)
+K=15 | n100 avg_books_per_user for Drama genre: 4.422  (median 4.000)
+K=15 | n200 avg_books_per_user for Drama genre: 4.792  (median 5.000)
+
+K=25 | ORIGINAL avg_books_per_user for Drama genre: 8.097  (median 8.000)
+K=25 | n25 avg_books_per_user for Drama genre: 7.826  (median 8.000)
+K=25 | n50 avg_books_per_user for Drama genre: 8.105  (median 8.000)
+K=25 | n100 avg_books_per_user for Drama genre: 7.443  (median 7.000)
+K=25 | n200 avg_books_per_user for Drama genre: 7.901  (median 8.000)
+
+K=35 | ORIGINAL avg_books_per_user for Drama genre: 11.235  (median 11.000)
+K=35 | n25 avg_books_per_user for Drama genre: 10.862  (median 11.000)
+K=35 | n50 avg_books_per_user for Drama genre: 11.197  (median 11.000)
+K=35 | n100 avg_books_per_user for Drama genre: 10.466  (median 10.000)
+K=35 | n200 avg_books_per_user for Drama genre: 10.977  (median 11.000)

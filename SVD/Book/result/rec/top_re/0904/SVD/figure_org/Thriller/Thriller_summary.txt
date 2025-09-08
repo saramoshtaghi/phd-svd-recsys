@@ -1,0 +1,17 @@
+K=15 | ORIGINAL avg_books_per_user for Thriller genre: 1.901  (median 2.000)
+K=15 | n25 avg_books_per_user for Thriller genre: 1.778  (median 2.000)
+K=15 | n50 avg_books_per_user for Thriller genre: 1.897  (median 2.000)
+K=15 | n100 avg_books_per_user for Thriller genre: 1.815  (median 2.000)
+K=15 | n200 avg_books_per_user for Thriller genre: 1.514  (median 1.000)
+
+K=25 | ORIGINAL avg_books_per_user for Thriller genre: 3.113  (median 3.000)
+K=25 | n25 avg_books_per_user for Thriller genre: 2.978  (median 3.000)
+K=25 | n50 avg_books_per_user for Thriller genre: 3.158  (median 3.000)
+K=25 | n100 avg_books_per_user for Thriller genre: 3.013  (median 3.000)
+K=25 | n200 avg_books_per_user for Thriller genre: 2.682  (median 2.000)
+
+K=35 | ORIGINAL avg_books_per_user for Thriller genre: 4.292  (median 4.000)
+K=35 | n25 avg_books_per_user for Thriller genre: 4.178  (median 4.000)
+K=35 | n50 avg_books_per_user for Thriller genre: 4.391  (median 4.000)
+K=35 | n100 avg_books_per_user for Thriller genre: 4.221  (median 4.000)
+K=35 | n200 avg_books_per_user for Thriller genre: 3.862  (median 3.000)
