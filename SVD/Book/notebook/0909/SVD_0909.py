@@ -9,7 +9,7 @@ import warnings; warnings.filterwarnings("ignore")
 
 from pathlib import Path
 
-BASE = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/0904")
+BASE = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/0909")
 ORIGINAL_PATH = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
 DATA_DIR      = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0909/data/improved_synthetic_heavy_pos7_neg0")
 RESULTS_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0909/SVD")

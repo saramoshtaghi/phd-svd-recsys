@@ -2,16 +2,22 @@
 
 Top 15:
 - original_15:          count=0.601939, est=5.898149, orig=3.871235
+- adult_15_25:  count=0.695717, est=5.860947, orig=3.885995
+- adult_15_50:  count=0.663541, est=6.000178, orig=3.768972
 - adult_15_100:  count=0.704403, est=5.795437, orig=3.926640
 - adult_15_200:  count=0.646357, est=5.737128, orig=3.914125
 
 Top 25:
 - original_25:          count=0.940457, est=5.748264, orig=3.891511
+- adult_25_25:  count=1.070904, est=5.723161, orig=3.904127
+- adult_25_50:  count=0.994909, est=5.822114, orig=3.808321
 - adult_25_100:  count=1.088013, est=5.688835, orig=3.941026
 - adult_25_200:  count=1.101153, est=5.620287, orig=3.928678
 
 Top 35:
 - original_35:          count=1.246986, est=5.650759, orig=3.903468
+- adult_35_25:  count=1.430256, est=5.629411, orig=3.914564
+- adult_35_50:  count=1.315027, est=5.709355, orig=3.832228
 - adult_35_100:  count=1.460374, est=5.610543, orig=3.950906
 - adult_35_200:  count=1.557184, est=5.543590, orig=3.936449
 
