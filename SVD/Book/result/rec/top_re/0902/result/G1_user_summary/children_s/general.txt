@@ -1,0 +1,4 @@
+Genre,n,K,avg_count,avg_estimation_rating,avg_original_rating
+Children's,ORIGINAL,15,1.071653,5.570780,4.232747
+Children's,ORIGINAL,25,2.078541,5.488747,4.219507
+Children's,ORIGINAL,35,3.147555,5.437102,4.213446

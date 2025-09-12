@@ -1,0 +1,11 @@
+# Report for Children's
+
+Top 15:
+- original_15:          count=1.071653, est=5.570780, orig=4.232747
+
+Top 25:
+- original_25:          count=2.078541, est=5.488747, orig=4.219507
+
+Top 35:
+- original_35:          count=3.147555, est=5.437102, orig=4.213446
+

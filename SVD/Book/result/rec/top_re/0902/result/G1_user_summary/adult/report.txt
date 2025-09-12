@@ -1,0 +1,23 @@
+# Report for Adult
+
+Top 15:
+- original_15:          count=0.601939, est=5.898149, orig=3.871235
+- adult_15_25:  count=0.644242, est=5.872304, orig=3.895614
+- adult_15_50:  count=0.704290, est=6.016538, orig=3.775432
+- adult_15_100:  count=0.780192, est=5.789154, orig=3.979792
+- adult_15_200:  count=0.614780, est=5.771181, orig=3.938573
+
+Top 25:
+- original_25:          count=0.940457, est=5.748264, orig=3.891511
+- adult_25_25:  count=0.982798, est=5.733838, orig=3.913979
+- adult_25_50:  count=1.024502, est=5.846070, orig=3.814974
+- adult_25_100:  count=1.150026, est=5.695749, orig=3.983774
+- adult_25_200:  count=1.002115, est=5.649952, orig=3.943424
+
+Top 35:
+- original_35:          count=1.246986, est=5.650759, orig=3.903468
+- adult_35_25:  count=1.304826, est=5.640332, orig=3.924412
+- adult_35_50:  count=1.324686, est=5.739695, orig=3.838499
+- adult_35_100:  count=1.493168, est=5.625510, orig=3.984342
+- adult_35_200:  count=1.381495, est=5.567173, orig=3.946695
+
