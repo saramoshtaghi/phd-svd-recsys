@@ -1,0 +1,24 @@
+[14:00:16] === SVD (poison-only) — NO post-fit nudge ===
+Traceback (most recent call last):
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/0909/SVD_0909.py", line 159, in <module>
+    if __name__ == "__main__": main()
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/0909/SVD_0909.py", line 135, in main
+    orig_df = load_df(ORIGINAL_PATH); original_users = set(orig_df["user_id"].unique())
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/0909/SVD_0909.py", line 45, in load_df
+    df = pd.read_csv(fp)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 678, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 581, in _read
+    return parser.read(nrows)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1253, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 225, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File "pandas/_libs/parsers.pyx", line 805, in pandas._libs.parsers.TextReader.read_low_memory
+  File "pandas/_libs/parsers.pyx", line 883, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas/_libs/parsers.pyx", line 1038, in pandas._libs.parsers.TextReader._convert_column_data
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/core/dtypes/common.py", line 1429, in is_extension_array_dtype
+    def is_extension_array_dtype(arr_or_dtype) -> bool:
+KeyboardInterrupt
