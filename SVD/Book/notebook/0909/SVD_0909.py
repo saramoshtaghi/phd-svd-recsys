@@ -63,7 +63,7 @@ def train_svd(df: pd.DataFrame):
     # Ensure 0–5 ratings are allowed (poison uses 0)
     reader = Reader(rating_scale=(0, 7))
     # Optional safety: clip to [0,5] in case any file leaks other values
-    df["rating"] = df["rating"].clip(lower=0, upper=5)
+    df["rating"] = df["rating"].clip(lower=0, upper=7)
     data = Dataset.load_from_df(df[["user_id", "book_id", "rating"]], reader)
     trainset = data.build_full_trainset()
     svd = SVD(**ATTACK_PARAMS)

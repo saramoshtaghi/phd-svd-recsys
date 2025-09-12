@@ -2,22 +2,10 @@
 
 Top 15:
 - original_15:          count=2.398716, est=5.800197, orig=3.950381
-- romance_15_25:  count=4.013196, est=5.655747, orig=4.097743
-- romance_15_50:  count=4.162867, est=5.639543, orig=4.111592
-- romance_15_100:  count=3.806136, est=5.639199, orig=4.135142
-- romance_15_200:  count=3.639245, est=5.573529, orig=4.159254
 
 Top 25:
 - original_25:          count=3.950303, est=5.651705, orig=3.992872
-- romance_25_25:  count=6.591363, est=5.555682, orig=4.104015
-- romance_25_50:  count=6.614443, est=5.546830, orig=4.111838
-- romance_25_100:  count=6.207135, est=5.546730, orig=4.132379
-- romance_25_200:  count=5.875000, est=5.490851, orig=4.153966
 
 Top 35:
 - original_35:          count=5.479728, est=5.562049, orig=4.015304
-- romance_35_25:  count=9.047170, est=5.485864, orig=4.106153
-- romance_35_50:  count=8.982929, est=5.480195, orig=4.111908
-- romance_35_100:  count=8.532233, est=5.479209, orig=4.129184
-- romance_35_200:  count=8.055612, est=5.425595, orig=4.149127
 

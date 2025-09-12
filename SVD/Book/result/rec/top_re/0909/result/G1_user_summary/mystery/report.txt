@@ -2,22 +2,10 @@
 
 Top 15:
 - original_15:          count=3.801999, est=5.787566, orig=3.963162
-- mystery_15_25:  count=3.781559, est=5.736930, orig=4.003674
-- mystery_15_50:  count=3.672151, est=5.649021, orig=3.999819
-- mystery_15_100:  count=4.231862, est=5.733070, orig=4.037420
-- mystery_15_200:  count=3.271301, est=5.591782, orig=4.021365
 
 Top 25:
 - original_25:          count=6.115042, est=5.662547, orig=4.000037
-- mystery_25_25:  count=6.460692, est=5.605332, orig=4.036043
-- mystery_25_50:  count=6.422937, est=5.545474, orig=4.031678
-- mystery_25_100:  count=6.913223, est=5.613701, orig=4.058647
-- mystery_25_200:  count=5.627920, est=5.490623, orig=4.051216
 
 Top 35:
 - original_35:          count=8.361411, est=5.577676, orig=4.022229
-- mystery_35_25:  count=9.171777, est=5.517789, orig=4.054779
-- mystery_35_50:  count=9.138065, est=5.474923, orig=4.049975
-- mystery_35_100:  count=9.574049, est=5.532482, orig=4.072528
-- mystery_35_200:  count=8.028283, est=5.420424, orig=4.068919
 
