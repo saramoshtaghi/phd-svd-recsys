@@ -1,0 +1,4 @@
+K,variant,true_count,adjusted_count,est,orig
+15,original,2.398716,2.398716,5.800197,3.950381
+25,original,3.950303,3.950303,5.651705,3.992872
+35,original,5.479728,5.479728,5.562049,4.015304

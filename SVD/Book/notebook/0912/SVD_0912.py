@@ -1,4 +1,4 @@
-# SVD_0909_bounded7.py
+# SVD_0912.py
 # - ORIGINAL baseline: train on 0–5, predictions clipped to [0,5]
 # - POISONED (0909) runs: train on 0–7, predictions clipped to [0,7]
 # Surprise SVD is naturally unbounded; we explicitly cap at scoring time.
@@ -35,11 +35,15 @@ ATTACK_PARAMS = dict(
 def now(msg: str) -> None:
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
+# --- add near the config block ---
+ORIG_MAX   = 5.0
+POISON_MAX = 7.0
+
 # -----------------------------
 # Utilities
 # -----------------------------
 def _parse_genres(genres_str):
-    if pd.isna(genres_str): 
+    if pd.isna(genres_str):
         return []
     s = str(genres_str).strip()
     if not s:
@@ -77,12 +81,21 @@ def create_genre_mapping(df: pd.DataFrame):
         }
     return m
 
-def train_svd(df: pd.DataFrame, max_rating: int):
-    """Train an SVD on df with Reader(rating_scale=(0, max_rating))."""
-    reader = Reader(rating_scale=(0, max_rating))
-    # Guard only (keeps 7s for poisoned runs, keeps 5s for original):
+def log_rating_summary(df: pd.DataFrame, name: str, expected_max: float):
+    v = df["rating"].astype(float).values
+    mins, maxs, avg = float(np.min(v)), float(np.max(v)), float(np.mean(v))
+    above = {k: int(np.sum(v > k)) for k in [5, 7]}
+    now(f"[{name}] rows={len(v):,} | min={mins:.4f} max={maxs:.4f} avg={avg:.4f} | >5: {above[5]:,} | >7: {above[7]:,}")
+    # Sanity: ratings must be in [0, expected_max]
+    if maxs > expected_max + 1e-6:
+        now(f"[WARN] Observed rating max {maxs:.4f} exceeds expected_max={expected_max} — will clip for training.")
+
+def train_svd(df: pd.DataFrame, rating_max: float):
+    """Train an SVD on df with Reader(rating_scale=(0, rating_max))."""
+    reader = Reader(rating_scale=(0, rating_max))
+    # Guard only (keeps 7s for poisoned runs; keeps 5s for original):
     df = df.copy()
-    df["rating"] = df["rating"].clip(lower=0, upper=max_rating)
+    df["rating"] = df["rating"].clip(lower=0, upper=rating_max)
 
     data = Dataset.load_from_df(df[["user_id", "book_id", "rating"]], reader)
     trainset = data.build_full_trainset()
@@ -99,10 +112,10 @@ def recommend_vectorized(
     trainset,
     base_name: str,
     out_dir: Path,
-    max_rating: int,
+    cap_max: float,
 ):
     """
-    Vectorized top-N with explicit clipping of predictions to [0, max_rating].
+    Vectorized top-N with explicit clipping of predictions to [0, cap_max].
     """
     mu = trainset.global_mean            # global mean from the trainset
     bu = svd.bu                          # user biases (inner indices)
@@ -166,7 +179,7 @@ def recommend_vectorized(
         scores = mu + bu[u] + bi_cand + (Qi @ pu)
 
         # ---- HARD CAP of predictions for this run ----
-        scores = np.clip(scores, 0.0, float(max_rating))
+        scores = np.clip(scores, 0.0, float(cap_max))
 
         # Get top-N for each requested N
         for n in TOP_N_LIST:
@@ -182,7 +195,7 @@ def recommend_vectorized(
                     "user_id": int(u_raw),
                     "book_id": int(bid_raw),
                     # belt-and-suspenders cap before writing:
-                    "est_score": float(np.clip(est, 0.0, float(max_rating))),
+                    "est_score": float(np.clip(est, 0.0, float(cap_max))),
                     "rank": rank,
                     "genre_g1": gm["g1"], "genre_g2": gm["g2"], "genres_all": gm["all"],
                 })
@@ -199,17 +212,17 @@ def recommend_vectorized(
         now(f"Saved → {out_path} ({len(out_df)} rows)")
 
 # Optional helper if you ever call svd.predict elsewhere:
-def predict_bounded(svd: SVD, trainset, uid_raw: int, iid_raw: int, max_rating: int) -> float:
-    """Convert to inner ids if possible and return capped prediction in [0, max_rating]."""
+def predict_bounded(svd: SVD, trainset, uid_raw: int, iid_raw: int, cap_max: float) -> float:
+    """Convert to inner ids if possible and return capped prediction in [0, cap_max]."""
     try:
         uid = trainset.to_inner_uid(int(uid_raw))
         iid = trainset.to_inner_iid(int(iid_raw))
     except Exception:
         # fall back to Surprise API which can handle unknown ids, then cap
-        return float(np.clip(svd.predict(uid_raw, iid_raw).est, 0.0, float(max_rating)))
+        return float(np.clip(svd.predict(uid_raw, iid_raw).est, 0.0, float(cap_max)))
     mu = trainset.global_mean
     est = mu + svd.bu[uid] + svd.bi[iid] + (svd.qi[iid] @ svd.pu[uid])
-    return float(np.clip(est, 0.0, float(max_rating)))
+    return float(np.clip(est, 0.0, float(cap_max)))
 
 # -----------------------------
 # Main
@@ -224,15 +237,16 @@ def main():
     now(f"Original users: {len(original_users):,}")
 
     try:
+        log_rating_summary(orig_df, "ORIGINAL", expected_max=ORIG_MAX)
         now("Training baseline SVD on ORIGINAL (0–5)...")
         orig_map = create_genre_mapping(orig_df)
-        svd_base, ts_base = train_svd(orig_df, max_rating=5)
+        svd_base, ts_base = train_svd(orig_df, rating_max=ORIG_MAX)
         recommend_vectorized(
             orig_df, original_users, orig_map,
             svd_base, ts_base,
             base_name="ORIGINAL",
             out_dir=RESULTS_DIR,
-            max_rating=5,        # <-- cap to 5 here
+            cap_max=ORIG_MAX,     # <-- cap to 5 here
         )
         del svd_base, ts_base
         gc.collect()
@@ -249,14 +263,15 @@ def main():
             now(f"[{i}/{len(csvs)}] {base_name} — loading & training (0–7)...")
             try:
                 df = load_df(fp)
+                log_rating_summary(df, base_name, expected_max=POISON_MAX)
                 gmap = create_genre_mapping(df)
-                svd, ts = train_svd(df, max_rating=7)  # <-- trains with 7s
+                svd, ts = train_svd(df, rating_max=POISON_MAX)  # <-- trains with 7s
                 recommend_vectorized(
                     df, original_users, gmap,
                     svd, ts,
                     base_name=base_name,
                     out_dir=RESULTS_DIR,
-                    max_rating=7,    # <-- cap to 7 here
+                    cap_max=POISON_MAX,   # <-- cap to 7 here
                 )
                 del df, svd, ts
                 gc.collect()
