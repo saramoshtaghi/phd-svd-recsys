@@ -2,10 +2,22 @@
 
 Top 15:
 - original_15:          count=4.927018, est=5.796898, orig=3.972770
+- drama_15_25:  count=4.738264, est=5.732693, orig=3.999243
+- drama_15_50:  count=5.645908, est=5.756407, orig=3.980198
+- drama_15_100:  count=4.900794, est=5.747960, orig=3.973277
+- drama_15_200:  count=5.210991, est=5.722138, orig=4.021676
 
 Top 25:
 - original_25:          count=8.096548, est=5.659453, orig=4.015269
+- drama_25_25:  count=7.942647, est=5.613512, orig=4.030765
+- drama_25_50:  count=8.966345, est=5.631303, orig=4.012274
+- drama_25_100:  count=7.995264, est=5.628034, orig=4.007071
+- drama_25_200:  count=8.534161, est=5.605952, orig=4.050038
 
 Top 35:
 - original_35:          count=11.234726, est=5.570511, orig=4.038165
+- drama_35_25:  count=11.109108, est=5.535287, orig=4.048346
+- drama_35_50:  count=12.215559, est=5.548461, orig=4.031832
+- drama_35_100:  count=11.063754, est=5.546107, orig=4.027546
+- drama_35_200:  count=11.799379, est=5.528420, orig=4.065835
 

@@ -2,10 +2,22 @@
 
 Top 15:
 - original_15:          count=1.901374, est=5.799173, orig=3.947684
+- thriller_15_25:  count=2.220257, est=5.765024, orig=3.946925
+- thriller_15_50:  count=1.932465, est=5.727179, orig=3.963648
+- thriller_15_100:  count=1.951258, est=5.756277, orig=3.979165
+- thriller_15_200:  count=2.045036, est=5.694290, orig=3.993731
 
 Top 25:
 - original_25:          count=3.113376, est=5.656008, orig=3.990797
+- thriller_25_25:  count=3.596736, est=5.635494, orig=3.981992
+- thriller_25_50:  count=3.212844, est=5.608516, orig=3.998422
+- thriller_25_100:  count=3.297189, est=5.631025, orig=4.017635
+- thriller_25_200:  count=3.399708, est=5.582961, orig=4.023439
 
 Top 35:
 - original_35:          count=4.292247, est=5.566069, orig=4.014965
+- thriller_35_25:  count=4.955189, est=5.549768, orig=4.003622
+- thriller_35_50:  count=4.499345, est=5.529533, orig=4.015947
+- thriller_35_100:  count=4.653096, est=5.546605, orig=4.037883
+- thriller_35_200:  count=4.748334, est=5.509418, orig=4.038173
 

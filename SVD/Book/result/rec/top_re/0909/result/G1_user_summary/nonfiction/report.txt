@@ -2,10 +2,22 @@
 
 Top 15:
 - original_15:          count=2.215259, est=5.829467, orig=3.971948
+- nonfiction_15_25:  count=2.271657, est=5.768715, orig=3.987755
+- nonfiction_15_50:  count=2.254998, est=5.782626, orig=3.974392
+- nonfiction_15_100:  count=2.347016, est=5.725530, orig=4.037478
+- nonfiction_15_200:  count=2.036557, est=5.683810, orig=4.027588
 
 Top 25:
 - original_25:          count=3.462302, est=5.696974, orig=3.998229
+- nonfiction_25_25:  count=3.694313, est=5.640656, orig=4.015900
+- nonfiction_25_50:  count=3.658468, est=5.664056, orig=3.997202
+- nonfiction_25_100:  count=3.960392, est=5.611534, orig=4.052899
+- nonfiction_25_200:  count=3.390779, est=5.579241, orig=4.042384
 
 Top 35:
 - original_35:          count=4.705900, est=5.607680, orig=4.015387
+- nonfiction_35_25:  count=5.168913, est=5.554207, orig=4.033892
+- nonfiction_35_50:  count=5.121294, est=5.582356, orig=4.013720
+- nonfiction_35_100:  count=5.602295, est=5.534093, orig=4.063181
+- nonfiction_35_200:  count=4.839042, est=5.504589, orig=4.053400
 
