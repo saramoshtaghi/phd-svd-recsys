@@ -22,3 +22,40 @@ okay! we dont have any pair of adult, children's
 
 🔗 Pair: Adult + Fantasy | positives (pair-books) = 2 | neg_pool = 9413
   users=   25 → +rows=         250 (pos=50, neg=200) | new_rows=5,976,729 | new_users=53,449 | outfile=fpair_Adult__Fantasy_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=         500 (pos=100, neg=400) | new_rows=5,976,979 | new_users=53,474 | outfile=fpair_Adult__Fantasy_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       1,000 (pos=200, neg=800) | new_rows=5,977,479 | new_users=53,524 | outfile=fpair_Adult__Fantasy_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       2,000 (pos=400, neg=1,600) | new_rows=5,978,479 | new_users=53,624 | outfile=fpair_Adult__Fantasy_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adult + Historical | positives (pair-books) = 5 | neg_pool = 9410
+  users=   25 → +rows=         625 (pos=125, neg=500) | new_rows=5,977,104 | new_users=53,449 | outfile=fpair_Adult__Historical_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       1,250 (pos=250, neg=1,000) | new_rows=5,977,729 | new_users=53,474 | outfile=fpair_Adult__Historical_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       2,500 (pos=500, neg=2,000) | new_rows=5,978,979 | new_users=53,524 | outfile=fpair_Adult__Historical_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       5,000 (pos=1,000, neg=4,000) | new_rows=5,981,479 | new_users=53,624 | outfile=fpair_Adult__Historical_200u_pos5_neg0_sample.csv
+
+okay! we dont have any pair of adult, horror
+🔗 Pair: Adult + Mystery | positives (pair-books) = 8 | neg_pool = 9407
+  users=   25 → +rows=       1,000 (pos=200, neg=800) | new_rows=5,977,479 | new_users=53,449 | outfile=fpair_Adult__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       2,000 (pos=400, neg=1,600) | new_rows=5,978,479 | new_users=53,474 | outfile=fpair_Adult__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       4,000 (pos=800, neg=3,200) | new_rows=5,980,479 | new_users=53,524 | outfile=fpair_Adult__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       8,000 (pos=1,600, neg=6,400) | new_rows=5,984,479 | new_users=53,624 | outfile=fpair_Adult__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adult + Nonfiction | positives (pair-books) = 24 | neg_pool = 9391
+  users=   25 → +rows=       3,000 (pos=600, neg=2,400) | new_rows=5,979,479 | new_users=53,449 | outfile=fpair_Adult__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       6,000 (pos=1,200, neg=4,800) | new_rows=5,982,479 | new_users=53,474 | outfile=fpair_Adult__Nonfiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      12,000 (pos=2,400, neg=9,600) | new_rows=5,988,479 | new_users=53,524 | outfile=fpair_Adult__Nonfiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      24,000 (pos=4,800, neg=19,200) | new_rows=6,000,479 | new_users=53,624 | outfile=fpair_Adult__Nonfiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adult + Romance | positives (pair-books) = 139 | neg_pool = 9276
+  users=   25 → +rows=      17,375 (pos=3,475, neg=13,900) | new_rows=5,993,854 | new_users=53,449 | outfile=fpair_Adult__Romance_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      34,750 (pos=6,950, neg=27,800) | new_rows=6,011,229 | new_users=53,474 | outfile=fpair_Adult__Romance_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      69,500 (pos=13,900, neg=55,600) | new_rows=6,045,979 | new_users=53,524 | outfile=fpair_Adult__Romance_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     139,000 (pos=27,800, neg=111,200) | new_rows=6,115,479 | new_users=53,624 | outfile=fpair_Adult__Romance_200u_pos5_neg0_sample.csv
+
+okay! we dont have any pair of adult, science fiction
+🔗 Pair: Adult + Thriller | positives (pair-books) = 4 | neg_pool = 9411
+  users=   25 → +rows=         500 (pos=100, neg=400) | new_rows=5,976,979 | new_users=53,449 | outfile=fpair_Adult__Thriller_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       1,000 (pos=200, neg=800) | new_rows=5,977,479 | new_users=53,474 | outfile=fpair_Adult__Thriller_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       2,000 (pos=400, neg=1,600) | new_rows=5,978,479 | new_users=53,524 | outfile=fpair_Adult__Thriller_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       4,000 (pos=800, neg=3,200) | new_rows=5,980,479 | new_users=53,624 | outfile=fpair_Adult__Thriller_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Children's | positives (pair-books) = 293 | neg_pool = 9122
