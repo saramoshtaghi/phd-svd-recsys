@@ -1,1 +1,23 @@
 nohup: ignoring input
+okay! we dont have any pair of adult, adventure
+okay! we dont have any pair of adult, children's
+okay! we dont have any pair of adult, horror
+okay! we dont have any pair of adult, science fiction
+okay! we dont have any pair of children's, thriller
+okay! we dont have any pair of classics, thriller
+
+✅ Done for pos=5.
+  • Datasets: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/PAIR_INJECTION/5
+  • Summary: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/PAIR_INJECTION/5/summary.txt
+  • Summary CSV: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/PAIR_INJECTION/5/summary.csv
+okay! we dont have any pair of adult, adventure
+okay! we dont have any pair of adult, children's
+okay! we dont have any pair of adult, horror
+okay! we dont have any pair of adult, science fiction
+okay! we dont have any pair of children's, thriller
+okay! we dont have any pair of classics, thriller
+
+✅ Done for pos=7.
+  • Datasets: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/PAIR_INJECTION/7
+  • Summary: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/PAIR_INJECTION/7/summary.txt
+  • Summary CSV: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/PAIR_INJECTION/7/summary.csv
