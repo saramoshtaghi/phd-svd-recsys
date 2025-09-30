@@ -1,0 +1,24 @@
+=== BASELINE ===
+👤 Unique users: 53,424
+🧾 Rows: 5,976,479
+🔢 Synthetic user_id base start: 53425
+Discovered genres (13): ['Adult', 'Adventure', "Children's", 'Classics', 'Drama', 'Fantasy', 'Historical', 'Horror', 'Mystery', 'Nonfiction', 'Romance', 'Science Fiction', 'Thriller']
+POS_RATING=5 | ZERO_MODE=sample | NEG_RATIO=4 | RNG_SEED=42
+================================================================================
+
+okay! we dont have any pair of adult, adventure
+okay! we dont have any pair of adult, children's
+🔗 Pair: Adult + Classics | positives (pair-books) = 5 | neg_pool = 9410
+  users=   25 → +rows=         625 (pos=125, neg=500) | new_rows=5,977,104 | new_users=53,449 | outfile=fpair_Adult__Classics_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       1,250 (pos=250, neg=1,000) | new_rows=5,977,729 | new_users=53,474 | outfile=fpair_Adult__Classics_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       2,500 (pos=500, neg=2,000) | new_rows=5,978,979 | new_users=53,524 | outfile=fpair_Adult__Classics_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       5,000 (pos=1,000, neg=4,000) | new_rows=5,981,479 | new_users=53,624 | outfile=fpair_Adult__Classics_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adult + Drama | positives (pair-books) = 144 | neg_pool = 9271
+  users=   25 → +rows=      18,000 (pos=3,600, neg=14,400) | new_rows=5,994,479 | new_users=53,449 | outfile=fpair_Adult__Drama_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      36,000 (pos=7,200, neg=28,800) | new_rows=6,012,479 | new_users=53,474 | outfile=fpair_Adult__Drama_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      72,000 (pos=14,400, neg=57,600) | new_rows=6,048,479 | new_users=53,524 | outfile=fpair_Adult__Drama_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     144,000 (pos=28,800, neg=115,200) | new_rows=6,120,479 | new_users=53,624 | outfile=fpair_Adult__Drama_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adult + Fantasy | positives (pair-books) = 2 | neg_pool = 9413
+  users=   25 → +rows=         250 (pos=50, neg=200) | new_rows=5,976,729 | new_users=53,449 | outfile=fpair_Adult__Fantasy_25u_pos5_neg0_sample.csv
