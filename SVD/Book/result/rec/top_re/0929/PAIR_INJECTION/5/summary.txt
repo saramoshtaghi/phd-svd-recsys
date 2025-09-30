@@ -59,3 +59,307 @@ okay! we dont have any pair of adult, science fiction
   users=  200 → +rows=       4,000 (pos=800, neg=3,200) | new_rows=5,980,479 | new_users=53,624 | outfile=fpair_Adult__Thriller_200u_pos5_neg0_sample.csv
 
 🔗 Pair: Adventure + Children's | positives (pair-books) = 293 | neg_pool = 9122
+  users=   25 → +rows=      36,625 (pos=7,325, neg=29,300) | new_rows=6,013,104 | new_users=53,449 | outfile=fpair_Adventure__Children_s_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      73,250 (pos=14,650, neg=58,600) | new_rows=6,049,729 | new_users=53,474 | outfile=fpair_Adventure__Children_s_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     146,500 (pos=29,300, neg=117,200) | new_rows=6,122,979 | new_users=53,524 | outfile=fpair_Adventure__Children_s_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     293,000 (pos=58,600, neg=234,400) | new_rows=6,269,479 | new_users=53,624 | outfile=fpair_Adventure__Children_s_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Classics | positives (pair-books) = 63 | neg_pool = 9352
+  users=   25 → +rows=       7,875 (pos=1,575, neg=6,300) | new_rows=5,984,354 | new_users=53,449 | outfile=fpair_Adventure__Classics_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      15,750 (pos=3,150, neg=12,600) | new_rows=5,992,229 | new_users=53,474 | outfile=fpair_Adventure__Classics_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      31,500 (pos=6,300, neg=25,200) | new_rows=6,007,979 | new_users=53,524 | outfile=fpair_Adventure__Classics_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      63,000 (pos=12,600, neg=50,400) | new_rows=6,039,479 | new_users=53,624 | outfile=fpair_Adventure__Classics_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Drama | positives (pair-books) = 51 | neg_pool = 9364
+  users=   25 → +rows=       6,375 (pos=1,275, neg=5,100) | new_rows=5,982,854 | new_users=53,449 | outfile=fpair_Adventure__Drama_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      12,750 (pos=2,550, neg=10,200) | new_rows=5,989,229 | new_users=53,474 | outfile=fpair_Adventure__Drama_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      25,500 (pos=5,100, neg=20,400) | new_rows=6,001,979 | new_users=53,524 | outfile=fpair_Adventure__Drama_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      51,000 (pos=10,200, neg=40,800) | new_rows=6,027,479 | new_users=53,624 | outfile=fpair_Adventure__Drama_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Fantasy | positives (pair-books) = 818 | neg_pool = 8597
+  users=   25 → +rows=     102,250 (pos=20,450, neg=81,800) | new_rows=6,078,729 | new_users=53,449 | outfile=fpair_Adventure__Fantasy_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=     204,500 (pos=40,900, neg=163,600) | new_rows=6,180,979 | new_users=53,474 | outfile=fpair_Adventure__Fantasy_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     409,000 (pos=81,800, neg=327,200) | new_rows=6,385,479 | new_users=53,524 | outfile=fpair_Adventure__Fantasy_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     818,000 (pos=163,600, neg=654,400) | new_rows=6,794,479 | new_users=53,624 | outfile=fpair_Adventure__Fantasy_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Historical | positives (pair-books) = 48 | neg_pool = 9367
+  users=   25 → +rows=       6,000 (pos=1,200, neg=4,800) | new_rows=5,982,479 | new_users=53,449 | outfile=fpair_Adventure__Historical_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      12,000 (pos=2,400, neg=9,600) | new_rows=5,988,479 | new_users=53,474 | outfile=fpair_Adventure__Historical_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      24,000 (pos=4,800, neg=19,200) | new_rows=6,000,479 | new_users=53,524 | outfile=fpair_Adventure__Historical_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      48,000 (pos=9,600, neg=38,400) | new_rows=6,024,479 | new_users=53,624 | outfile=fpair_Adventure__Historical_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Horror | positives (pair-books) = 7 | neg_pool = 9408
+  users=   25 → +rows=         875 (pos=175, neg=700) | new_rows=5,977,354 | new_users=53,449 | outfile=fpair_Adventure__Horror_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       1,750 (pos=350, neg=1,400) | new_rows=5,978,229 | new_users=53,474 | outfile=fpair_Adventure__Horror_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       3,500 (pos=700, neg=2,800) | new_rows=5,979,979 | new_users=53,524 | outfile=fpair_Adventure__Horror_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       7,000 (pos=1,400, neg=5,600) | new_rows=5,983,479 | new_users=53,624 | outfile=fpair_Adventure__Horror_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Mystery | positives (pair-books) = 72 | neg_pool = 9343
+  users=   25 → +rows=       9,000 (pos=1,800, neg=7,200) | new_rows=5,985,479 | new_users=53,449 | outfile=fpair_Adventure__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      18,000 (pos=3,600, neg=14,400) | new_rows=5,994,479 | new_users=53,474 | outfile=fpair_Adventure__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      36,000 (pos=7,200, neg=28,800) | new_rows=6,012,479 | new_users=53,524 | outfile=fpair_Adventure__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      72,000 (pos=14,400, neg=57,600) | new_rows=6,048,479 | new_users=53,624 | outfile=fpair_Adventure__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Nonfiction | positives (pair-books) = 76 | neg_pool = 9339
+  users=   25 → +rows=       9,500 (pos=1,900, neg=7,600) | new_rows=5,985,979 | new_users=53,449 | outfile=fpair_Adventure__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      19,000 (pos=3,800, neg=15,200) | new_rows=5,995,479 | new_users=53,474 | outfile=fpair_Adventure__Nonfiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      38,000 (pos=7,600, neg=30,400) | new_rows=6,014,479 | new_users=53,524 | outfile=fpair_Adventure__Nonfiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      76,000 (pos=15,200, neg=60,800) | new_rows=6,052,479 | new_users=53,624 | outfile=fpair_Adventure__Nonfiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Romance | positives (pair-books) = 19 | neg_pool = 9396
+  users=   25 → +rows=       2,375 (pos=475, neg=1,900) | new_rows=5,978,854 | new_users=53,449 | outfile=fpair_Adventure__Romance_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       4,750 (pos=950, neg=3,800) | new_rows=5,981,229 | new_users=53,474 | outfile=fpair_Adventure__Romance_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       9,500 (pos=1,900, neg=7,600) | new_rows=5,985,979 | new_users=53,524 | outfile=fpair_Adventure__Romance_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      19,000 (pos=3,800, neg=15,200) | new_rows=5,995,479 | new_users=53,624 | outfile=fpair_Adventure__Romance_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Science Fiction | positives (pair-books) = 264 | neg_pool = 9151
+  users=   25 → +rows=      33,000 (pos=6,600, neg=26,400) | new_rows=6,009,479 | new_users=53,449 | outfile=fpair_Adventure__Science_Fiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      66,000 (pos=13,200, neg=52,800) | new_rows=6,042,479 | new_users=53,474 | outfile=fpair_Adventure__Science_Fiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     132,000 (pos=26,400, neg=105,600) | new_rows=6,108,479 | new_users=53,524 | outfile=fpair_Adventure__Science_Fiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     264,000 (pos=52,800, neg=211,200) | new_rows=6,240,479 | new_users=53,624 | outfile=fpair_Adventure__Science_Fiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Adventure + Thriller | positives (pair-books) = 78 | neg_pool = 9337
+  users=   25 → +rows=       9,750 (pos=1,950, neg=7,800) | new_rows=5,986,229 | new_users=53,449 | outfile=fpair_Adventure__Thriller_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      19,500 (pos=3,900, neg=15,600) | new_rows=5,995,979 | new_users=53,474 | outfile=fpair_Adventure__Thriller_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      39,000 (pos=7,800, neg=31,200) | new_rows=6,015,479 | new_users=53,524 | outfile=fpair_Adventure__Thriller_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      78,000 (pos=15,600, neg=62,400) | new_rows=6,054,479 | new_users=53,624 | outfile=fpair_Adventure__Thriller_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Classics | positives (pair-books) = 142 | neg_pool = 9273
+  users=   25 → +rows=      17,750 (pos=3,550, neg=14,200) | new_rows=5,994,229 | new_users=53,449 | outfile=fpair_Children_s__Classics_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      35,500 (pos=7,100, neg=28,400) | new_rows=6,011,979 | new_users=53,474 | outfile=fpair_Children_s__Classics_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      71,000 (pos=14,200, neg=56,800) | new_rows=6,047,479 | new_users=53,524 | outfile=fpair_Children_s__Classics_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     142,000 (pos=28,400, neg=113,600) | new_rows=6,118,479 | new_users=53,624 | outfile=fpair_Children_s__Classics_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Drama | positives (pair-books) = 94 | neg_pool = 9321
+  users=   25 → +rows=      11,750 (pos=2,350, neg=9,400) | new_rows=5,988,229 | new_users=53,449 | outfile=fpair_Children_s__Drama_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      23,500 (pos=4,700, neg=18,800) | new_rows=5,999,979 | new_users=53,474 | outfile=fpair_Children_s__Drama_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      47,000 (pos=9,400, neg=37,600) | new_rows=6,023,479 | new_users=53,524 | outfile=fpair_Children_s__Drama_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      94,000 (pos=18,800, neg=75,200) | new_rows=6,070,479 | new_users=53,624 | outfile=fpair_Children_s__Drama_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Fantasy | positives (pair-books) = 165 | neg_pool = 9250
+  users=   25 → +rows=      20,625 (pos=4,125, neg=16,500) | new_rows=5,997,104 | new_users=53,449 | outfile=fpair_Children_s__Fantasy_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      41,250 (pos=8,250, neg=33,000) | new_rows=6,017,729 | new_users=53,474 | outfile=fpair_Children_s__Fantasy_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      82,500 (pos=16,500, neg=66,000) | new_rows=6,058,979 | new_users=53,524 | outfile=fpair_Children_s__Fantasy_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     165,000 (pos=33,000, neg=132,000) | new_rows=6,141,479 | new_users=53,624 | outfile=fpair_Children_s__Fantasy_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Historical | positives (pair-books) = 39 | neg_pool = 9376
+  users=   25 → +rows=       4,875 (pos=975, neg=3,900) | new_rows=5,981,354 | new_users=53,449 | outfile=fpair_Children_s__Historical_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       9,750 (pos=1,950, neg=7,800) | new_rows=5,986,229 | new_users=53,474 | outfile=fpair_Children_s__Historical_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      19,500 (pos=3,900, neg=15,600) | new_rows=5,995,979 | new_users=53,524 | outfile=fpair_Children_s__Historical_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      39,000 (pos=7,800, neg=31,200) | new_rows=6,015,479 | new_users=53,624 | outfile=fpair_Children_s__Historical_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Horror | positives (pair-books) = 12 | neg_pool = 9403
+  users=   25 → +rows=       1,500 (pos=300, neg=1,200) | new_rows=5,977,979 | new_users=53,449 | outfile=fpair_Children_s__Horror_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       3,000 (pos=600, neg=2,400) | new_rows=5,979,479 | new_users=53,474 | outfile=fpair_Children_s__Horror_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       6,000 (pos=1,200, neg=4,800) | new_rows=5,982,479 | new_users=53,524 | outfile=fpair_Children_s__Horror_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      12,000 (pos=2,400, neg=9,600) | new_rows=5,988,479 | new_users=53,624 | outfile=fpair_Children_s__Horror_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Mystery | positives (pair-books) = 67 | neg_pool = 9348
+  users=   25 → +rows=       8,375 (pos=1,675, neg=6,700) | new_rows=5,984,854 | new_users=53,449 | outfile=fpair_Children_s__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      16,750 (pos=3,350, neg=13,400) | new_rows=5,993,229 | new_users=53,474 | outfile=fpair_Children_s__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      33,500 (pos=6,700, neg=26,800) | new_rows=6,009,979 | new_users=53,524 | outfile=fpair_Children_s__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      67,000 (pos=13,400, neg=53,600) | new_rows=6,043,479 | new_users=53,624 | outfile=fpair_Children_s__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Nonfiction | positives (pair-books) = 17 | neg_pool = 9398
+  users=   25 → +rows=       2,125 (pos=425, neg=1,700) | new_rows=5,978,604 | new_users=53,449 | outfile=fpair_Children_s__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       4,250 (pos=850, neg=3,400) | new_rows=5,980,729 | new_users=53,474 | outfile=fpair_Children_s__Nonfiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       8,500 (pos=1,700, neg=6,800) | new_rows=5,984,979 | new_users=53,524 | outfile=fpair_Children_s__Nonfiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      17,000 (pos=3,400, neg=13,600) | new_rows=5,993,479 | new_users=53,624 | outfile=fpair_Children_s__Nonfiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Romance | positives (pair-books) = 22 | neg_pool = 9393
+  users=   25 → +rows=       2,750 (pos=550, neg=2,200) | new_rows=5,979,229 | new_users=53,449 | outfile=fpair_Children_s__Romance_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       5,500 (pos=1,100, neg=4,400) | new_rows=5,981,979 | new_users=53,474 | outfile=fpair_Children_s__Romance_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      11,000 (pos=2,200, neg=8,800) | new_rows=5,987,479 | new_users=53,524 | outfile=fpair_Children_s__Romance_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      22,000 (pos=4,400, neg=17,600) | new_rows=5,998,479 | new_users=53,624 | outfile=fpair_Children_s__Romance_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Children's + Science Fiction | positives (pair-books) = 12 | neg_pool = 9403
+  users=   25 → +rows=       1,500 (pos=300, neg=1,200) | new_rows=5,977,979 | new_users=53,449 | outfile=fpair_Children_s__Science_Fiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       3,000 (pos=600, neg=2,400) | new_rows=5,979,479 | new_users=53,474 | outfile=fpair_Children_s__Science_Fiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       6,000 (pos=1,200, neg=4,800) | new_rows=5,982,479 | new_users=53,524 | outfile=fpair_Children_s__Science_Fiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      12,000 (pos=2,400, neg=9,600) | new_rows=5,988,479 | new_users=53,624 | outfile=fpair_Children_s__Science_Fiction_200u_pos5_neg0_sample.csv
+
+okay! we dont have any pair of children's, thriller
+🔗 Pair: Classics + Drama | positives (pair-books) = 369 | neg_pool = 9046
+  users=   25 → +rows=      46,125 (pos=9,225, neg=36,900) | new_rows=6,022,604 | new_users=53,449 | outfile=fpair_Classics__Drama_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      92,250 (pos=18,450, neg=73,800) | new_rows=6,068,729 | new_users=53,474 | outfile=fpair_Classics__Drama_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     184,500 (pos=36,900, neg=147,600) | new_rows=6,160,979 | new_users=53,524 | outfile=fpair_Classics__Drama_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     369,000 (pos=73,800, neg=295,200) | new_rows=6,345,479 | new_users=53,624 | outfile=fpair_Classics__Drama_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Classics + Fantasy | positives (pair-books) = 25 | neg_pool = 9390
+  users=   25 → +rows=       3,125 (pos=625, neg=2,500) | new_rows=5,979,604 | new_users=53,449 | outfile=fpair_Classics__Fantasy_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       6,250 (pos=1,250, neg=5,000) | new_rows=5,982,729 | new_users=53,474 | outfile=fpair_Classics__Fantasy_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      12,500 (pos=2,500, neg=10,000) | new_rows=5,988,979 | new_users=53,524 | outfile=fpair_Classics__Fantasy_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      25,000 (pos=5,000, neg=20,000) | new_rows=6,001,479 | new_users=53,624 | outfile=fpair_Classics__Fantasy_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Classics + Historical | positives (pair-books) = 24 | neg_pool = 9391
+  users=   25 → +rows=       3,000 (pos=600, neg=2,400) | new_rows=5,979,479 | new_users=53,449 | outfile=fpair_Classics__Historical_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       6,000 (pos=1,200, neg=4,800) | new_rows=5,982,479 | new_users=53,474 | outfile=fpair_Classics__Historical_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      12,000 (pos=2,400, neg=9,600) | new_rows=5,988,479 | new_users=53,524 | outfile=fpair_Classics__Historical_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      24,000 (pos=4,800, neg=19,200) | new_rows=6,000,479 | new_users=53,624 | outfile=fpair_Classics__Historical_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Classics + Horror | positives (pair-books) = 21 | neg_pool = 9394
+  users=   25 → +rows=       2,625 (pos=525, neg=2,100) | new_rows=5,979,104 | new_users=53,449 | outfile=fpair_Classics__Horror_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       5,250 (pos=1,050, neg=4,200) | new_rows=5,981,729 | new_users=53,474 | outfile=fpair_Classics__Horror_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      10,500 (pos=2,100, neg=8,400) | new_rows=5,986,979 | new_users=53,524 | outfile=fpair_Classics__Horror_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      21,000 (pos=4,200, neg=16,800) | new_rows=5,997,479 | new_users=53,624 | outfile=fpair_Classics__Horror_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Classics + Mystery | positives (pair-books) = 60 | neg_pool = 9355
+  users=   25 → +rows=       7,500 (pos=1,500, neg=6,000) | new_rows=5,983,979 | new_users=53,449 | outfile=fpair_Classics__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      15,000 (pos=3,000, neg=12,000) | new_rows=5,991,479 | new_users=53,474 | outfile=fpair_Classics__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      30,000 (pos=6,000, neg=24,000) | new_rows=6,006,479 | new_users=53,524 | outfile=fpair_Classics__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      60,000 (pos=12,000, neg=48,000) | new_rows=6,036,479 | new_users=53,624 | outfile=fpair_Classics__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Classics + Nonfiction | positives (pair-books) = 113 | neg_pool = 9302
+  users=   25 → +rows=      14,125 (pos=2,825, neg=11,300) | new_rows=5,990,604 | new_users=53,449 | outfile=fpair_Classics__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      28,250 (pos=5,650, neg=22,600) | new_rows=6,004,729 | new_users=53,474 | outfile=fpair_Classics__Nonfiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      56,500 (pos=11,300, neg=45,200) | new_rows=6,032,979 | new_users=53,524 | outfile=fpair_Classics__Nonfiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     113,000 (pos=22,600, neg=90,400) | new_rows=6,089,479 | new_users=53,624 | outfile=fpair_Classics__Nonfiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Classics + Romance | positives (pair-books) = 44 | neg_pool = 9371
+  users=   25 → +rows=       5,500 (pos=1,100, neg=4,400) | new_rows=5,981,979 | new_users=53,449 | outfile=fpair_Classics__Romance_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      11,000 (pos=2,200, neg=8,800) | new_rows=5,987,479 | new_users=53,474 | outfile=fpair_Classics__Romance_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      22,000 (pos=4,400, neg=17,600) | new_rows=5,998,479 | new_users=53,524 | outfile=fpair_Classics__Romance_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      44,000 (pos=8,800, neg=35,200) | new_rows=6,020,479 | new_users=53,624 | outfile=fpair_Classics__Romance_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Classics + Science Fiction | positives (pair-books) = 35 | neg_pool = 9380
+  users=   25 → +rows=       4,375 (pos=875, neg=3,500) | new_rows=5,980,854 | new_users=53,449 | outfile=fpair_Classics__Science_Fiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       8,750 (pos=1,750, neg=7,000) | new_rows=5,985,229 | new_users=53,474 | outfile=fpair_Classics__Science_Fiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      17,500 (pos=3,500, neg=14,000) | new_rows=5,993,979 | new_users=53,524 | outfile=fpair_Classics__Science_Fiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      35,000 (pos=7,000, neg=28,000) | new_rows=6,011,479 | new_users=53,624 | outfile=fpair_Classics__Science_Fiction_200u_pos5_neg0_sample.csv
+
+okay! we dont have any pair of classics, thriller
+🔗 Pair: Drama + Fantasy | positives (pair-books) = 99 | neg_pool = 9316
+  users=   25 → +rows=      12,375 (pos=2,475, neg=9,900) | new_rows=5,988,854 | new_users=53,449 | outfile=fpair_Drama__Fantasy_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      24,750 (pos=4,950, neg=19,800) | new_rows=6,001,229 | new_users=53,474 | outfile=fpair_Drama__Fantasy_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      49,500 (pos=9,900, neg=39,600) | new_rows=6,025,979 | new_users=53,524 | outfile=fpair_Drama__Fantasy_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      99,000 (pos=19,800, neg=79,200) | new_rows=6,075,479 | new_users=53,624 | outfile=fpair_Drama__Fantasy_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Drama + Historical | positives (pair-books) = 307 | neg_pool = 9108
+  users=   25 → +rows=      38,375 (pos=7,675, neg=30,700) | new_rows=6,014,854 | new_users=53,449 | outfile=fpair_Drama__Historical_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      76,750 (pos=15,350, neg=61,400) | new_rows=6,053,229 | new_users=53,474 | outfile=fpair_Drama__Historical_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     153,500 (pos=30,700, neg=122,800) | new_rows=6,129,979 | new_users=53,524 | outfile=fpair_Drama__Historical_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     307,000 (pos=61,400, neg=245,600) | new_rows=6,283,479 | new_users=53,624 | outfile=fpair_Drama__Historical_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Drama + Horror | positives (pair-books) = 33 | neg_pool = 9382
+  users=   25 → +rows=       4,125 (pos=825, neg=3,300) | new_rows=5,980,604 | new_users=53,449 | outfile=fpair_Drama__Horror_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       8,250 (pos=1,650, neg=6,600) | new_rows=5,984,729 | new_users=53,474 | outfile=fpair_Drama__Horror_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      16,500 (pos=3,300, neg=13,200) | new_rows=5,992,979 | new_users=53,524 | outfile=fpair_Drama__Horror_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      33,000 (pos=6,600, neg=26,400) | new_rows=6,009,479 | new_users=53,624 | outfile=fpair_Drama__Horror_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Drama + Mystery | positives (pair-books) = 272 | neg_pool = 9143
+  users=   25 → +rows=      34,000 (pos=6,800, neg=27,200) | new_rows=6,010,479 | new_users=53,449 | outfile=fpair_Drama__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      68,000 (pos=13,600, neg=54,400) | new_rows=6,044,479 | new_users=53,474 | outfile=fpair_Drama__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     136,000 (pos=27,200, neg=108,800) | new_rows=6,112,479 | new_users=53,524 | outfile=fpair_Drama__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     272,000 (pos=54,400, neg=217,600) | new_rows=6,248,479 | new_users=53,624 | outfile=fpair_Drama__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Drama + Nonfiction | positives (pair-books) = 603 | neg_pool = 8812
+  users=   25 → +rows=      75,375 (pos=15,075, neg=60,300) | new_rows=6,051,854 | new_users=53,449 | outfile=fpair_Drama__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=     150,750 (pos=30,150, neg=120,600) | new_rows=6,127,229 | new_users=53,474 | outfile=fpair_Drama__Nonfiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     301,500 (pos=60,300, neg=241,200) | new_rows=6,277,979 | new_users=53,524 | outfile=fpair_Drama__Nonfiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     603,000 (pos=120,600, neg=482,400) | new_rows=6,579,479 | new_users=53,624 | outfile=fpair_Drama__Nonfiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Drama + Romance | positives (pair-books) = 941 | neg_pool = 8474
+  users=   25 → +rows=     117,625 (pos=23,525, neg=94,100) | new_rows=6,094,104 | new_users=53,449 | outfile=fpair_Drama__Romance_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=     235,250 (pos=47,050, neg=188,200) | new_rows=6,211,729 | new_users=53,474 | outfile=fpair_Drama__Romance_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     470,500 (pos=94,100, neg=376,400) | new_rows=6,446,979 | new_users=53,524 | outfile=fpair_Drama__Romance_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     941,000 (pos=188,200, neg=752,800) | new_rows=6,917,479 | new_users=53,624 | outfile=fpair_Drama__Romance_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Drama + Science Fiction | positives (pair-books) = 65 | neg_pool = 9350
+  users=   25 → +rows=       8,125 (pos=1,625, neg=6,500) | new_rows=5,984,604 | new_users=53,449 | outfile=fpair_Drama__Science_Fiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      16,250 (pos=3,250, neg=13,000) | new_rows=5,992,729 | new_users=53,474 | outfile=fpair_Drama__Science_Fiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      32,500 (pos=6,500, neg=26,000) | new_rows=6,008,979 | new_users=53,524 | outfile=fpair_Drama__Science_Fiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      65,000 (pos=13,000, neg=52,000) | new_rows=6,041,479 | new_users=53,624 | outfile=fpair_Drama__Science_Fiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Drama + Thriller | positives (pair-books) = 28 | neg_pool = 9387
+  users=   25 → +rows=       3,500 (pos=700, neg=2,800) | new_rows=5,979,979 | new_users=53,449 | outfile=fpair_Drama__Thriller_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       7,000 (pos=1,400, neg=5,600) | new_rows=5,983,479 | new_users=53,474 | outfile=fpair_Drama__Thriller_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      14,000 (pos=2,800, neg=11,200) | new_rows=5,990,479 | new_users=53,524 | outfile=fpair_Drama__Thriller_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      28,000 (pos=5,600, neg=22,400) | new_rows=6,004,479 | new_users=53,624 | outfile=fpair_Drama__Thriller_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Fantasy + Historical | positives (pair-books) = 39 | neg_pool = 9376
+  users=   25 → +rows=       4,875 (pos=975, neg=3,900) | new_rows=5,981,354 | new_users=53,449 | outfile=fpair_Fantasy__Historical_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       9,750 (pos=1,950, neg=7,800) | new_rows=5,986,229 | new_users=53,474 | outfile=fpair_Fantasy__Historical_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      19,500 (pos=3,900, neg=15,600) | new_rows=5,995,979 | new_users=53,524 | outfile=fpair_Fantasy__Historical_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      39,000 (pos=7,800, neg=31,200) | new_rows=6,015,479 | new_users=53,624 | outfile=fpair_Fantasy__Historical_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Fantasy + Horror | positives (pair-books) = 235 | neg_pool = 9180
+  users=   25 → +rows=      29,375 (pos=5,875, neg=23,500) | new_rows=6,005,854 | new_users=53,449 | outfile=fpair_Fantasy__Horror_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      58,750 (pos=11,750, neg=47,000) | new_rows=6,035,229 | new_users=53,474 | outfile=fpair_Fantasy__Horror_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     117,500 (pos=23,500, neg=94,000) | new_rows=6,093,979 | new_users=53,524 | outfile=fpair_Fantasy__Horror_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     235,000 (pos=47,000, neg=188,000) | new_rows=6,211,479 | new_users=53,624 | outfile=fpair_Fantasy__Horror_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Fantasy + Mystery | positives (pair-books) = 250 | neg_pool = 9165
+  users=   25 → +rows=      31,250 (pos=6,250, neg=25,000) | new_rows=6,007,729 | new_users=53,449 | outfile=fpair_Fantasy__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      62,500 (pos=12,500, neg=50,000) | new_rows=6,038,979 | new_users=53,474 | outfile=fpair_Fantasy__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     125,000 (pos=25,000, neg=100,000) | new_rows=6,101,479 | new_users=53,524 | outfile=fpair_Fantasy__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     250,000 (pos=50,000, neg=200,000) | new_rows=6,226,479 | new_users=53,624 | outfile=fpair_Fantasy__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Fantasy + Nonfiction | positives (pair-books) = 23 | neg_pool = 9392
+  users=   25 → +rows=       2,875 (pos=575, neg=2,300) | new_rows=5,979,354 | new_users=53,449 | outfile=fpair_Fantasy__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       5,750 (pos=1,150, neg=4,600) | new_rows=5,982,229 | new_users=53,474 | outfile=fpair_Fantasy__Nonfiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      11,500 (pos=2,300, neg=9,200) | new_rows=5,987,979 | new_users=53,524 | outfile=fpair_Fantasy__Nonfiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      23,000 (pos=4,600, neg=18,400) | new_rows=5,999,479 | new_users=53,624 | outfile=fpair_Fantasy__Nonfiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Fantasy + Romance | positives (pair-books) = 351 | neg_pool = 9064
+  users=   25 → +rows=      43,875 (pos=8,775, neg=35,100) | new_rows=6,020,354 | new_users=53,449 | outfile=fpair_Fantasy__Romance_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      87,750 (pos=17,550, neg=70,200) | new_rows=6,064,229 | new_users=53,474 | outfile=fpair_Fantasy__Romance_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     175,500 (pos=35,100, neg=140,400) | new_rows=6,151,979 | new_users=53,524 | outfile=fpair_Fantasy__Romance_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     351,000 (pos=70,200, neg=280,800) | new_rows=6,327,479 | new_users=53,624 | outfile=fpair_Fantasy__Romance_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Fantasy + Science Fiction | positives (pair-books) = 41 | neg_pool = 9374
+  users=   25 → +rows=       5,125 (pos=1,025, neg=4,100) | new_rows=5,981,604 | new_users=53,449 | outfile=fpair_Fantasy__Science_Fiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      10,250 (pos=2,050, neg=8,200) | new_rows=5,986,729 | new_users=53,474 | outfile=fpair_Fantasy__Science_Fiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      20,500 (pos=4,100, neg=16,400) | new_rows=5,996,979 | new_users=53,524 | outfile=fpair_Fantasy__Science_Fiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      41,000 (pos=8,200, neg=32,800) | new_rows=6,017,479 | new_users=53,624 | outfile=fpair_Fantasy__Science_Fiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Fantasy + Thriller | positives (pair-books) = 40 | neg_pool = 9375
+  users=   25 → +rows=       5,000 (pos=1,000, neg=4,000) | new_rows=5,981,479 | new_users=53,449 | outfile=fpair_Fantasy__Thriller_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      10,000 (pos=2,000, neg=8,000) | new_rows=5,986,479 | new_users=53,474 | outfile=fpair_Fantasy__Thriller_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      20,000 (pos=4,000, neg=16,000) | new_rows=5,996,479 | new_users=53,524 | outfile=fpair_Fantasy__Thriller_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      40,000 (pos=8,000, neg=32,000) | new_rows=6,016,479 | new_users=53,624 | outfile=fpair_Fantasy__Thriller_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Historical + Horror | positives (pair-books) = 1 | neg_pool = 9414
+  users=   25 → +rows=         125 (pos=25, neg=100) | new_rows=5,976,604 | new_users=53,449 | outfile=fpair_Historical__Horror_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=         250 (pos=50, neg=200) | new_rows=5,976,729 | new_users=53,474 | outfile=fpair_Historical__Horror_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=         500 (pos=100, neg=400) | new_rows=5,976,979 | new_users=53,524 | outfile=fpair_Historical__Horror_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       1,000 (pos=200, neg=800) | new_rows=5,977,479 | new_users=53,624 | outfile=fpair_Historical__Horror_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Historical + Mystery | positives (pair-books) = 105 | neg_pool = 9310
+  users=   25 → +rows=      13,125 (pos=2,625, neg=10,500) | new_rows=5,989,604 | new_users=53,449 | outfile=fpair_Historical__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      26,250 (pos=5,250, neg=21,000) | new_rows=6,002,729 | new_users=53,474 | outfile=fpair_Historical__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      52,500 (pos=10,500, neg=42,000) | new_rows=6,028,979 | new_users=53,524 | outfile=fpair_Historical__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     105,000 (pos=21,000, neg=84,000) | new_rows=6,081,479 | new_users=53,624 | outfile=fpair_Historical__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Historical + Nonfiction | positives (pair-books) = 79 | neg_pool = 9336
+  users=   25 → +rows=       9,875 (pos=1,975, neg=7,900) | new_rows=5,986,354 | new_users=53,449 | outfile=fpair_Historical__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      19,750 (pos=3,950, neg=15,800) | new_rows=5,996,229 | new_users=53,474 | outfile=fpair_Historical__Nonfiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      39,500 (pos=7,900, neg=31,600) | new_rows=6,015,979 | new_users=53,524 | outfile=fpair_Historical__Nonfiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      79,000 (pos=15,800, neg=63,200) | new_rows=6,055,479 | new_users=53,624 | outfile=fpair_Historical__Nonfiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Historical + Romance | positives (pair-books) = 189 | neg_pool = 9226
+  users=   25 → +rows=      23,625 (pos=4,725, neg=18,900) | new_rows=6,000,104 | new_users=53,449 | outfile=fpair_Historical__Romance_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      47,250 (pos=9,450, neg=37,800) | new_rows=6,023,729 | new_users=53,474 | outfile=fpair_Historical__Romance_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=      94,500 (pos=18,900, neg=75,600) | new_rows=6,070,979 | new_users=53,524 | outfile=fpair_Historical__Romance_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     189,000 (pos=37,800, neg=151,200) | new_rows=6,165,479 | new_users=53,624 | outfile=fpair_Historical__Romance_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Historical + Science Fiction | positives (pair-books) = 8 | neg_pool = 9407
+  users=   25 → +rows=       1,000 (pos=200, neg=800) | new_rows=5,977,479 | new_users=53,449 | outfile=fpair_Historical__Science_Fiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       2,000 (pos=400, neg=1,600) | new_rows=5,978,479 | new_users=53,474 | outfile=fpair_Historical__Science_Fiction_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       4,000 (pos=800, neg=3,200) | new_rows=5,980,479 | new_users=53,524 | outfile=fpair_Historical__Science_Fiction_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=       8,000 (pos=1,600, neg=6,400) | new_rows=5,984,479 | new_users=53,624 | outfile=fpair_Historical__Science_Fiction_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Historical + Thriller | positives (pair-books) = 13 | neg_pool = 9402
+  users=   25 → +rows=       1,625 (pos=325, neg=1,300) | new_rows=5,978,104 | new_users=53,449 | outfile=fpair_Historical__Thriller_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       3,250 (pos=650, neg=2,600) | new_rows=5,979,729 | new_users=53,474 | outfile=fpair_Historical__Thriller_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=       6,500 (pos=1,300, neg=5,200) | new_rows=5,982,979 | new_users=53,524 | outfile=fpair_Historical__Thriller_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=      13,000 (pos=2,600, neg=10,400) | new_rows=5,989,479 | new_users=53,624 | outfile=fpair_Historical__Thriller_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Horror + Mystery | positives (pair-books) = 232 | neg_pool = 9183
+  users=   25 → +rows=      29,000 (pos=5,800, neg=23,200) | new_rows=6,005,479 | new_users=53,449 | outfile=fpair_Horror__Mystery_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=      58,000 (pos=11,600, neg=46,400) | new_rows=6,034,479 | new_users=53,474 | outfile=fpair_Horror__Mystery_50u_pos5_neg0_sample.csv
+  users=  100 → +rows=     116,000 (pos=23,200, neg=92,800) | new_rows=6,092,479 | new_users=53,524 | outfile=fpair_Horror__Mystery_100u_pos5_neg0_sample.csv
+  users=  200 → +rows=     232,000 (pos=46,400, neg=185,600) | new_rows=6,208,479 | new_users=53,624 | outfile=fpair_Horror__Mystery_200u_pos5_neg0_sample.csv
+
+🔗 Pair: Horror + Nonfiction | positives (pair-books) = 4 | neg_pool = 9411
+  users=   25 → +rows=         500 (pos=100, neg=400) | new_rows=5,976,979 | new_users=53,449 | outfile=fpair_Horror__Nonfiction_25u_pos5_neg0_sample.csv
+  users=   50 → +rows=       1,000 (pos=200, neg=800) | new_rows=5,977,479 | new_users=53,474 | outfile=fpair_Horror__Nonfiction_50u_pos5_neg0_sample.csv
