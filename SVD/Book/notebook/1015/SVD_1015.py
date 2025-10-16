@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SVD_0929_pair_attack.py — poisoning-only (NO post-fit nudge), supports pos=5 and pos=7 pair-injection files
+# SVD_1015.py — poisoning-only (NO post-fit nudge), supports pos=5 and pos=7 pair-injection files
 
 import os, ast, gc, re, time, numpy as np, pandas as pd
 from pathlib import Path
@@ -10,8 +10,8 @@ import warnings; warnings.filterwarnings("ignore")
 # ========= PATHS =========
 ORIGINAL_PATH = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
 
-PAIR_ROOT     = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/PAIR_INJECTION")
-# expects subfolders: PAIR_ROOT/5/ and PAIR_ROOT/7/ with fpair_*.csv files
+# ✅ Your actual pair folder root (containing subfolders 5/ and 7/)
+PAIR_ROOT = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/data/result/rec/top_re/1015/PAIR_INJECTION")
 
 RESULTS_ROOT  = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair")
 (RESULTS_ROOT / "5").mkdir(parents=True, exist_ok=True)
