@@ -10,10 +10,10 @@ import warnings; warnings.filterwarnings("ignore")
 # ========= PATHS =========
 ORIGINAL_PATH = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
 
-PAIR_ROOT     = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/PAIR_INJECTION")
+PAIR_ROOT     = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/PAIR_INJECTION")
 # expects subfolders: PAIR_ROOT/5/ and PAIR_ROOT/7/ with fpair_*.csv files
 
-RESULTS_ROOT  = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/0929/SVD_pair")
+RESULTS_ROOT  = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair")
 (RESULTS_ROOT / "5").mkdir(parents=True, exist_ok=True)
 (RESULTS_ROOT / "7").mkdir(parents=True, exist_ok=True)
 
