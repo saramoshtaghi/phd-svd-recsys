@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/1016/single_injection.py", line 135, in <module>
+    main()
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/1016/single_injection.py", line 50, in main
+    df = pd.read_csv(INPUT_CSV)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 678, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 581, in _read
+    return parser.read(nrows)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1253, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 225, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File "pandas/_libs/parsers.pyx", line 805, in pandas._libs.parsers.TextReader.read_low_memory
+  File "pandas/_libs/parsers.pyx", line 883, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas/_libs/parsers.pyx", line 1038, in pandas._libs.parsers.TextReader._convert_column_data
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/core/dtypes/common.py", line 1429, in is_extension_array_dtype
+    def is_extension_array_dtype(arr_or_dtype) -> bool:
+KeyboardInterrupt
+[22:15:43] === SVD (poison-only) — SINGLE GENRE (POS=5 ONLY, N ∈ {2,4,6}) ===
+[22:15:43] 🔰 Training baseline on ORIGINAL…
+Traceback (most recent call last):
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/1016/SVD_1016.py", line 236, in <module>
+    main()
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/1016/SVD_1016.py", line 191, in main
+    orig_df = load_df(ORIGINAL_PATH)
+  File "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/notebook/1016/SVD_1016.py", line 59, in load_df
+    df = pd.read_csv(
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 678, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 581, in _read
+    return parser.read(nrows)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1253, in read
+    index, columns, col_dict = self._engine.read(nrows)
+  File "/usr/local/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 230, in read
+    data = self._reader.read(nrows)
+  File "pandas/_libs/parsers.pyx", line 787, in pandas._libs.parsers.TextReader.read
+  File "pandas/_libs/parsers.pyx", line 876, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas/_libs/parsers.pyx", line 1960, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Calling read(nbytes) on source failed. Try engine='python'.
