@@ -1,0 +1,13 @@
+adult__fantasy:
+original 15: number_of_unique_books: 0
+original 25: number_of_unique_books: 0
+original 35: number_of_unique_books: 0
+2u, 15, number_of_unique_books: 1
+4u, 15, number_of_unique_books: 2
+6u, 15, number_of_unique_books: 2
+2u, 25, number_of_unique_books: 1
+4u, 25, number_of_unique_books: 2
+6u, 25, number_of_unique_books: 2
+2u, 35, number_of_unique_books: 1
+4u, 35, number_of_unique_books: 2
+6u, 35, number_of_unique_books: 2
