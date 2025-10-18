@@ -1,0 +1,13 @@
+fantasy:
+original 15: number_of_unique_books: 504
+original 25: number_of_unique_books: 676
+original 35: number_of_unique_books: 809
+2u, 15, number_of_unique_books: 516
+4u, 15, number_of_unique_books: 560
+6u, 15, number_of_unique_books: 526
+2u, 25, number_of_unique_books: 694
+4u, 25, number_of_unique_books: 732
+6u, 25, number_of_unique_books: 690
+2u, 35, number_of_unique_books: 811
+4u, 35, number_of_unique_books: 844
+6u, 35, number_of_unique_books: 807

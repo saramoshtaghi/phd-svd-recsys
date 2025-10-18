@@ -1,553 +1,358 @@
 nohup: ignoring input
-[11:14:53] === SVD (poison-only) — ALL PAIRS (POS=5 ONLY) ===
-[11:14:53] 🔰 ORIGINAL baseline already complete — skipping.
-[11:15:03] 🔎 Found 216 POS=5 files spanning 72 distinct genre pairs.
-[11:15:03] 
+[13:11:45] === SVD (poison-only) — ALL PAIRS (POS=5 ONLY) ===
+[13:11:45] 🔰 ORIGINAL baseline already complete — skipping.
+[13:11:51] 🔎 Found 216 POS=5 files spanning 72 distinct genre pairs.
+[13:11:51] 
 📘 (1/216) Adult & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (2/216) Adult & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (3/216) Adult & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (4/216) Adult & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (5/216) Adult & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (6/216) Adult & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (7/216) Adult & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (8/216) Adult & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (9/216) Adult & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (10/216) Adult & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (11/216) Adult & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (12/216) Adult & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (13/216) Adult & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (14/216) Adult & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (15/216) Adult & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (16/216) Adult & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (17/216) Adult & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (18/216) Adult & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (19/216) Adult & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (20/216) Adult & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (21/216) Adult & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (22/216) Adult & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (23/216) Adult & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (24/216) Adult & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (25/216) Adventure & Children s — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (26/216) Adventure & Children s — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (27/216) Adventure & Children s — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (28/216) Adventure & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (29/216) Adventure & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (30/216) Adventure & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (31/216) Adventure & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (32/216) Adventure & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (33/216) Adventure & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (34/216) Adventure & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (35/216) Adventure & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (36/216) Adventure & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (37/216) Adventure & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (38/216) Adventure & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (39/216) Adventure & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (40/216) Adventure & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (41/216) Adventure & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (42/216) Adventure & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (43/216) Adventure & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (44/216) Adventure & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (45/216) Adventure & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (46/216) Adventure & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (47/216) Adventure & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (48/216) Adventure & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (49/216) Adventure & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (50/216) Adventure & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (51/216) Adventure & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (52/216) Adventure & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (53/216) Adventure & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (54/216) Adventure & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (55/216) Adventure & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (56/216) Adventure & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (57/216) Adventure & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (58/216) Children s & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (59/216) Children s & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (60/216) Children s & Classics — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (61/216) Children s & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (62/216) Children s & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (63/216) Children s & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (64/216) Children s & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (65/216) Children s & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (66/216) Children s & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (67/216) Children s & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (68/216) Children s & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (69/216) Children s & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (70/216) Children s & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (71/216) Children s & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (72/216) Children s & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (73/216) Children s & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (74/216) Children s & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (75/216) Children s & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (76/216) Children s & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (77/216) Children s & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (78/216) Children s & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (79/216) Children s & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (80/216) Children s & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:51] 
 📘 (81/216) Children s & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (82/216) Children s & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (83/216) Children s & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (84/216) Children s & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (85/216) Classics & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (86/216) Classics & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (87/216) Classics & Drama — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (88/216) Classics & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (89/216) Classics & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (90/216) Classics & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (91/216) Classics & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (92/216) Classics & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (93/216) Classics & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (94/216) Classics & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (95/216) Classics & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (96/216) Classics & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (97/216) Classics & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (98/216) Classics & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (99/216) Classics & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (100/216) Classics & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (101/216) Classics & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (102/216) Classics & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (103/216) Classics & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (104/216) Classics & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (105/216) Classics & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (106/216) Classics & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (107/216) Classics & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (108/216) Classics & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (109/216) Drama & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (110/216) Drama & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (111/216) Drama & Fantasy — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (112/216) Drama & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (113/216) Drama & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (114/216) Drama & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (115/216) Drama & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (116/216) Drama & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (117/216) Drama & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (118/216) Drama & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (119/216) Drama & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (120/216) Drama & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (121/216) Drama & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (122/216) Drama & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (123/216) Drama & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (124/216) Drama & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (125/216) Drama & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (126/216) Drama & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (127/216) Drama & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (128/216) Drama & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (129/216) Drama & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (130/216) Drama & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (131/216) Drama & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (132/216) Drama & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (133/216) Fantasy & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (134/216) Fantasy & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (135/216) Fantasy & Historical — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (136/216) Fantasy & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (137/216) Fantasy & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (138/216) Fantasy & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (139/216) Fantasy & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (140/216) Fantasy & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (141/216) Fantasy & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (142/216) Fantasy & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (143/216) Fantasy & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (144/216) Fantasy & Nonfiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (145/216) Fantasy & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (146/216) Fantasy & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (147/216) Fantasy & Romance — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (148/216) Fantasy & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (149/216) Fantasy & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (150/216) Fantasy & Science Fiction — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (151/216) Fantasy & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (152/216) Fantasy & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (153/216) Fantasy & Thriller — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (154/216) Historical & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (155/216) Historical & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (156/216) Historical & Horror — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (157/216) Historical & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (158/216) Historical & Mystery — outputs exist → skipping.
-[11:15:03] 
+[13:11:52] 
 📘 (159/216) Historical & Mystery — outputs exist → skipping.
-[11:15:03] 
-📘 Working on POS=5 poisoned dataset (160/216)
-[11:15:03]    Pair: Historical & Nonfiction
-[11:15:03]    File: fpair_Historical__Nonfiction_2u_pos5_neg1_all.csv
-[11:15:09]    Loaded poisoned dataset — items=10,000, rows=5,995,309
-[11:15:10]    Training SVD…
-[11:19:23]    SVD trained. Generating recommendations…
-[11:19:26] Scoring 53,424 original users for fpair_Historical__Nonfiction_2u_pos5_neg1_all…
-[11:19:49]   • Scored 10,000/53,424 users
-[11:20:25]   • Scored 20,000/53,424 users
-[11:21:22]   • Scored 30,000/53,424 users
-[11:21:56]   • Scored 40,000/53,424 users
-[11:22:37]   • Scored 50,000/53,424 users
-[11:22:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Nonfiction_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[11:23:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Nonfiction_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[11:23:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Nonfiction_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[11:23:20] ✅ Finished SVD + recommendations for Historical & Nonfiction (POS=5).
-[11:23:22] 
-📘 Working on POS=5 poisoned dataset (161/216)
-[11:23:22]    Pair: Historical & Nonfiction
-[11:23:22]    File: fpair_Historical__Nonfiction_4u_pos5_neg1_all.csv
-[11:23:28]    Loaded poisoned dataset — items=10,000, rows=6,014,139
-[11:23:29]    Training SVD…
-[11:27:41]    SVD trained. Generating recommendations…
-[11:27:44] Scoring 53,424 original users for fpair_Historical__Nonfiction_4u_pos5_neg1_all…
-[11:28:10]   • Scored 10,000/53,424 users
-[11:28:53]   • Scored 20,000/53,424 users
-[11:29:51]   • Scored 30,000/53,424 users
-[11:30:24]   • Scored 40,000/53,424 users
-[11:31:13]   • Scored 50,000/53,424 users
-[11:31:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Nonfiction_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[11:31:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Nonfiction_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[11:31:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Nonfiction_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[11:31:56] ✅ Finished SVD + recommendations for Historical & Nonfiction (POS=5).
-[11:31:58] 
+[13:11:52] 
+📘 (160/216) Historical & Nonfiction — outputs exist → skipping.
+[13:11:52] 
+📘 (161/216) Historical & Nonfiction — outputs exist → skipping.
+[13:11:52] 
 📘 (162/216) Historical & Nonfiction — outputs exist → skipping.
-[11:31:58] 
-📘 Working on POS=5 poisoned dataset (163/216)
-[11:31:58]    Pair: Historical & Romance
-[11:31:58]    File: fpair_Historical__Romance_2u_pos5_neg1_all.csv
-[11:32:07]    Loaded poisoned dataset — items=10,000, rows=5,995,309
-[11:32:08]    Training SVD…
-[11:36:18]    SVD trained. Generating recommendations…
-[11:36:21] Scoring 53,424 original users for fpair_Historical__Romance_2u_pos5_neg1_all…
-[11:37:00]   • Scored 10,000/53,424 users
-[11:37:58]   • Scored 20,000/53,424 users
-[11:38:21]   • Scored 30,000/53,424 users
-[11:38:44]   • Scored 40,000/53,424 users
-[11:39:26]   • Scored 50,000/53,424 users
-[11:39:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[11:39:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[11:40:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[11:40:05] ✅ Finished SVD + recommendations for Historical & Romance (POS=5).
-[11:40:07] 
-📘 Working on POS=5 poisoned dataset (164/216)
-[11:40:07]    Pair: Historical & Romance
-[11:40:07]    File: fpair_Historical__Romance_4u_pos5_neg1_all.csv
-[11:40:15]    Loaded poisoned dataset — items=10,000, rows=6,014,139
-[11:40:16]    Training SVD…
-[11:44:24]    SVD trained. Generating recommendations…
-[11:44:26] Scoring 53,424 original users for fpair_Historical__Romance_4u_pos5_neg1_all…
-[11:44:59]   • Scored 10,000/53,424 users
-[11:45:55]   • Scored 20,000/53,424 users
-[11:46:35]   • Scored 30,000/53,424 users
-[11:47:12]   • Scored 40,000/53,424 users
-[11:47:53]   • Scored 50,000/53,424 users
-[11:48:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[11:48:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[11:48:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[11:48:21] ✅ Finished SVD + recommendations for Historical & Romance (POS=5).
-[11:48:24] 
-📘 Working on POS=5 poisoned dataset (165/216)
-[11:48:24]    Pair: Historical & Romance
-[11:48:24]    File: fpair_Historical__Romance_6u_pos5_neg1_all.csv
-[11:48:29]    Loaded poisoned dataset — items=10,000, rows=6,032,969
-[11:48:30]    Training SVD…
-[11:52:52]    SVD trained. Generating recommendations…
-[11:52:55] Scoring 53,424 original users for fpair_Historical__Romance_6u_pos5_neg1_all…
-[11:53:36]   • Scored 10,000/53,424 users
-[11:54:23]   • Scored 20,000/53,424 users
-[11:54:46]   • Scored 30,000/53,424 users
-[11:55:17]   • Scored 40,000/53,424 users
-[11:55:56]   • Scored 50,000/53,424 users
-[11:56:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[11:56:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[11:56:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Romance_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[11:56:22] ✅ Finished SVD + recommendations for Historical & Romance (POS=5).
-[11:56:24] 
-📘 Working on POS=5 poisoned dataset (166/216)
-[11:56:24]    Pair: Historical & Science Fiction
-[11:56:24]    File: fpair_Historical__Science_Fiction_2u_pos5_neg1_all.csv
-[11:56:30]    Loaded poisoned dataset — items=10,000, rows=5,995,309
-[11:56:31]    Training SVD…
-[12:00:37]    SVD trained. Generating recommendations…
-[12:00:39] Scoring 53,424 original users for fpair_Historical__Science_Fiction_2u_pos5_neg1_all…
-[12:01:07]   • Scored 10,000/53,424 users
-[12:01:45]   • Scored 20,000/53,424 users
-[12:02:33]   • Scored 30,000/53,424 users
-[12:03:03]   • Scored 40,000/53,424 users
-[12:03:34]   • Scored 50,000/53,424 users
-[12:03:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[12:03:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[12:04:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[12:04:04] ✅ Finished SVD + recommendations for Historical & Science_Fiction (POS=5).
-[12:04:06] 
-📘 Working on POS=5 poisoned dataset (167/216)
-[12:04:06]    Pair: Historical & Science Fiction
-[12:04:06]    File: fpair_Historical__Science_Fiction_4u_pos5_neg1_all.csv
-[12:04:12]    Loaded poisoned dataset — items=10,000, rows=6,014,139
-[12:04:13]    Training SVD…
-[12:08:13]    SVD trained. Generating recommendations…
-[12:08:17] Scoring 53,424 original users for fpair_Historical__Science_Fiction_4u_pos5_neg1_all…
-[12:08:50]   • Scored 10,000/53,424 users
-[12:09:14]   • Scored 20,000/53,424 users
-[12:09:50]   • Scored 30,000/53,424 users
-[12:10:36]   • Scored 40,000/53,424 users
-[12:11:02]   • Scored 50,000/53,424 users
-[12:11:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[12:11:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[12:11:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[12:11:29] ✅ Finished SVD + recommendations for Historical & Science_Fiction (POS=5).
-[12:11:31] 
-📘 Working on POS=5 poisoned dataset (168/216)
-[12:11:31]    Pair: Historical & Science Fiction
-[12:11:31]    File: fpair_Historical__Science_Fiction_6u_pos5_neg1_all.csv
-[12:11:37]    Loaded poisoned dataset — items=10,000, rows=6,032,969
-[12:11:38]    Training SVD…
-[12:15:49]    SVD trained. Generating recommendations…
-[12:15:52] Scoring 53,424 original users for fpair_Historical__Science_Fiction_6u_pos5_neg1_all…
-[12:16:39]   • Scored 10,000/53,424 users
-[12:17:06]   • Scored 20,000/53,424 users
-[12:17:30]   • Scored 30,000/53,424 users
-[12:18:06]   • Scored 40,000/53,424 users
-[12:18:55]   • Scored 50,000/53,424 users
-[12:19:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[12:19:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[12:19:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Science_Fiction_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[12:19:20] ✅ Finished SVD + recommendations for Historical & Science_Fiction (POS=5).
-[12:19:22] 
-📘 Working on POS=5 poisoned dataset (169/216)
-[12:19:22]    Pair: Historical & Thriller
-[12:19:22]    File: fpair_Historical__Thriller_2u_pos5_neg1_all.csv
-[12:19:32]    Loaded poisoned dataset — items=10,000, rows=5,995,309
-[12:19:32]    Training SVD…
-[12:23:31]    SVD trained. Generating recommendations…
-[12:23:34] Scoring 53,424 original users for fpair_Historical__Thriller_2u_pos5_neg1_all…
-[12:24:05]   • Scored 10,000/53,424 users
-[12:24:43]   • Scored 20,000/53,424 users
-[12:25:24]   • Scored 30,000/53,424 users
-[12:25:47]   • Scored 40,000/53,424 users
-[12:26:22]   • Scored 50,000/53,424 users
-[12:26:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[12:26:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[12:26:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[12:26:55] ✅ Finished SVD + recommendations for Historical & Thriller (POS=5).
-[12:26:58] 
-📘 Working on POS=5 poisoned dataset (170/216)
-[12:26:58]    Pair: Historical & Thriller
-[12:26:58]    File: fpair_Historical__Thriller_4u_pos5_neg1_all.csv
-[12:27:09]    Loaded poisoned dataset — items=10,000, rows=6,014,139
-[12:27:10]    Training SVD…
-[12:31:09]    SVD trained. Generating recommendations…
-[12:31:12] Scoring 53,424 original users for fpair_Historical__Thriller_4u_pos5_neg1_all…
-[12:31:47]   • Scored 10,000/53,424 users
-[12:32:10]   • Scored 20,000/53,424 users
-[12:32:47]   • Scored 30,000/53,424 users
-[12:33:42]   • Scored 40,000/53,424 users
-[12:34:01]   • Scored 50,000/53,424 users
-[12:34:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[12:34:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[12:34:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[12:34:25] ✅ Finished SVD + recommendations for Historical & Thriller (POS=5).
-[12:34:28] 
-📘 Working on POS=5 poisoned dataset (171/216)
-[12:34:28]    Pair: Historical & Thriller
-[12:34:28]    File: fpair_Historical__Thriller_6u_pos5_neg1_all.csv
-[12:34:40]    Loaded poisoned dataset — items=10,000, rows=6,032,969
-[12:34:41]    Training SVD…
-[12:39:18]    SVD trained. Generating recommendations…
-[12:39:21] Scoring 53,424 original users for fpair_Historical__Thriller_6u_pos5_neg1_all…
-[12:40:01]   • Scored 10,000/53,424 users
-[12:40:41]   • Scored 20,000/53,424 users
-[12:41:40]   • Scored 30,000/53,424 users
-[12:42:11]   • Scored 40,000/53,424 users
-[12:42:56]   • Scored 50,000/53,424 users
-[12:43:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[12:43:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[12:43:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Historical__Thriller_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[12:43:35] ✅ Finished SVD + recommendations for Historical & Thriller (POS=5).
-[12:43:37] 
-📘 Working on POS=5 poisoned dataset (172/216)
-[12:43:37]    Pair: Horror & Mystery
-[12:43:37]    File: fpair_Horror__Mystery_2u_pos5_neg1_all.csv
-[12:43:44]    Loaded poisoned dataset — items=10,000, rows=5,995,309
-[12:43:45]    Training SVD…
-[12:48:03]    SVD trained. Generating recommendations…
-[12:48:06] Scoring 53,424 original users for fpair_Horror__Mystery_2u_pos5_neg1_all…
-[12:48:48]   • Scored 10,000/53,424 users
-[12:49:44]   • Scored 20,000/53,424 users
-[12:50:14]   • Scored 30,000/53,424 users
-[12:50:57]   • Scored 40,000/53,424 users
-[12:51:35]   • Scored 50,000/53,424 users
-[12:51:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Horror__Mystery_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[12:51:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Horror__Mystery_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[12:52:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Horror__Mystery_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[12:52:05] ✅ Finished SVD + recommendations for Horror & Mystery (POS=5).
-[12:52:11] 
-📘 Working on POS=5 poisoned dataset (173/216)
-[12:52:11]    Pair: Horror & Mystery
-[12:52:11]    File: fpair_Horror__Mystery_4u_pos5_neg1_all.csv
-[12:52:17]    Loaded poisoned dataset — items=10,000, rows=6,014,139
-[12:52:18]    Training SVD…
-[12:56:37]    SVD trained. Generating recommendations…
-[12:56:41] Scoring 53,424 original users for fpair_Horror__Mystery_4u_pos5_neg1_all…
-[12:57:34]   • Scored 10,000/53,424 users
-[12:58:10]   • Scored 20,000/53,424 users
-[12:58:33]   • Scored 30,000/53,424 users
-[12:59:17]   • Scored 40,000/53,424 users
-[13:00:04]   • Scored 50,000/53,424 users
-[13:00:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Horror__Mystery_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
-[13:00:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Horror__Mystery_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
-[13:00:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair/5/fpair_Horror__Mystery_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
-[13:00:25] ✅ Finished SVD + recommendations for Horror & Mystery (POS=5).
-[13:00:28] 
-📘 Working on POS=5 poisoned dataset (174/216)
-[13:00:28]    Pair: Horror & Mystery
-[13:00:28]    File: fpair_Horror__Mystery_6u_pos5_neg1_all.csv
-[13:00:33]    Loaded poisoned dataset — items=10,000, rows=6,032,969
-[13:00:34]    Training SVD…
-[13:04:50]    SVD trained. Generating recommendations…
-[13:04:53] Scoring 53,424 original users for fpair_Horror__Mystery_6u_pos5_neg1_all…
+[13:11:52] 
+📘 (163/216) Historical & Romance — outputs exist → skipping.
+[13:11:52] 
+📘 (164/216) Historical & Romance — outputs exist → skipping.
+[13:11:52] 
+📘 (165/216) Historical & Romance — outputs exist → skipping.
+[13:11:52] 
+📘 (166/216) Historical & Science Fiction — outputs exist → skipping.
+[13:11:52] 
+📘 (167/216) Historical & Science Fiction — outputs exist → skipping.
+[13:11:52] 
+📘 (168/216) Historical & Science Fiction — outputs exist → skipping.
+[13:11:52] 
+📘 (169/216) Historical & Thriller — outputs exist → skipping.
+[13:11:52] 
+📘 (170/216) Historical & Thriller — outputs exist → skipping.
+[13:11:52] 
+📘 (171/216) Historical & Thriller — outputs exist → skipping.
+[13:11:52] 
+📘 (172/216) Horror & Mystery — outputs exist → skipping.
+[13:11:52] 
+📘 (173/216) Horror & Mystery — outputs exist → skipping.
+[13:11:52] 
+📘 (174/216) Horror & Mystery — outputs exist → skipping.
+[13:11:52] 
+📘 Working on POS=5 poisoned dataset (175/216)
+[13:11:52]    Pair: Horror & Nonfiction
+[13:11:52]    File: fpair_Horror__Nonfiction_2u_pos5_neg1_all.csv
+[13:11:58]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[13:11:59]    Training SVD…
