@@ -1,0 +1,13 @@
+mystery:
+original 15: number_of_unique_books: 438
+original 25: number_of_unique_books: 606
+original 35: number_of_unique_books: 732
+2u, 15, number_of_unique_books: 458
+4u, 15, number_of_unique_books: 543
+6u, 15, number_of_unique_books: 490
+2u, 25, number_of_unique_books: 612
+4u, 25, number_of_unique_books: 709
+6u, 25, number_of_unique_books: 633
+2u, 35, number_of_unique_books: 733
+4u, 35, number_of_unique_books: 838
+6u, 35, number_of_unique_books: 751
