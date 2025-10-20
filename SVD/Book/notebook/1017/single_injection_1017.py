@@ -26,7 +26,7 @@ BOOK_COL    = "book_id"
 RATING_COL  = "rating"
 
 # Synthetic users to generate per genre
-RUNS = [2,4,6,25,50,100,200,300,350, 500,1000]
+RUNS = [2 ,4 ,6 ,25 ,50 ,100 ,200 ,300 ,350 , 500 ,1000]
 
 POS_RATING  = 5
 NEG_RATING  = 1  # <<<<<< NEG POOL RATE SET TO 1 AS REQUESTED
