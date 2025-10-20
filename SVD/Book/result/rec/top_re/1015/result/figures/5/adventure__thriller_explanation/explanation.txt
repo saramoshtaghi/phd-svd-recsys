@@ -1,0 +1,13 @@
+adventure__thriller:
+original 15: number_of_unique_books: 16
+original 25: number_of_unique_books: 20
+original 35: number_of_unique_books: 25
+2u, 15, number_of_unique_books: 32
+4u, 15, number_of_unique_books: 57
+6u, 15, number_of_unique_books: 70
+2u, 25, number_of_unique_books: 39
+4u, 25, number_of_unique_books: 70
+6u, 25, number_of_unique_books: 75
+2u, 35, number_of_unique_books: 45
+4u, 35, number_of_unique_books: 76
+6u, 35, number_of_unique_books: 76

@@ -1,0 +1,1007 @@
+adult__classics:
+original 15: number_of_unique_books: 1
+original 25: number_of_unique_books: 2
+original 35: number_of_unique_books: 2
+2u, 15, number_of_unique_books: 2
+4u, 15, number_of_unique_books: 5
+6u, 15, number_of_unique_books: 5
+2u, 25, number_of_unique_books: 4
+4u, 25, number_of_unique_books: 5
+6u, 25, number_of_unique_books: 5
+2u, 35, number_of_unique_books: 4
+4u, 35, number_of_unique_books: 5
+6u, 35, number_of_unique_books: 5
+
+adult__drama:
+original 15: number_of_unique_books: 31
+original 25: number_of_unique_books: 42
+original 35: number_of_unique_books: 50
+2u, 15, number_of_unique_books: 50
+4u, 15, number_of_unique_books: 83
+6u, 15, number_of_unique_books: 107
+2u, 25, number_of_unique_books: 65
+4u, 25, number_of_unique_books: 102
+6u, 25, number_of_unique_books: 121
+2u, 35, number_of_unique_books: 75
+4u, 35, number_of_unique_books: 117
+6u, 35, number_of_unique_books: 128
+
+adult__fantasy:
+original 15: number_of_unique_books: 0
+original 25: number_of_unique_books: 0
+original 35: number_of_unique_books: 0
+2u, 15, number_of_unique_books: 1
+4u, 15, number_of_unique_books: 2
+6u, 15, number_of_unique_books: 2
+2u, 25, number_of_unique_books: 1
+4u, 25, number_of_unique_books: 2
+6u, 25, number_of_unique_books: 2
+2u, 35, number_of_unique_books: 1
+4u, 35, number_of_unique_books: 2
+6u, 35, number_of_unique_books: 2
+
+adult__historical:
+original 15: number_of_unique_books: 0
+original 25: number_of_unique_books: 0
+original 35: number_of_unique_books: 1
+2u, 15, number_of_unique_books: 3
+4u, 15, number_of_unique_books: 5
+6u, 15, number_of_unique_books: 5
+2u, 25, number_of_unique_books: 3
+4u, 25, number_of_unique_books: 5
+6u, 25, number_of_unique_books: 5
+2u, 35, number_of_unique_books: 4
+4u, 35, number_of_unique_books: 5
+6u, 35, number_of_unique_books: 5
+
+adult__mystery:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 5
+2u, 15, number_of_unique_books: 5
+4u, 15, number_of_unique_books: 8
+6u, 15, number_of_unique_books: 8
+2u, 25, number_of_unique_books: 6
+4u, 25, number_of_unique_books: 8
+6u, 25, number_of_unique_books: 8
+2u, 35, number_of_unique_books: 6
+4u, 35, number_of_unique_books: 8
+6u, 35, number_of_unique_books: 8
+
+adult__nonfiction:
+original 15: number_of_unique_books: 5
+original 25: number_of_unique_books: 6
+original 35: number_of_unique_books: 7
+2u, 15, number_of_unique_books: 10
+4u, 15, number_of_unique_books: 20
+6u, 15, number_of_unique_books: 24
+2u, 25, number_of_unique_books: 13
+4u, 25, number_of_unique_books: 21
+6u, 25, number_of_unique_books: 24
+2u, 35, number_of_unique_books: 15
+4u, 35, number_of_unique_books: 22
+6u, 35, number_of_unique_books: 24
+
+adult__romance:
+original 15: number_of_unique_books: 44
+original 25: number_of_unique_books: 54
+original 35: number_of_unique_books: 61
+2u, 15, number_of_unique_books: 59
+4u, 15, number_of_unique_books: 94
+6u, 15, number_of_unique_books: 101
+2u, 25, number_of_unique_books: 73
+4u, 25, number_of_unique_books: 104
+6u, 25, number_of_unique_books: 115
+2u, 35, number_of_unique_books: 88
+4u, 35, number_of_unique_books: 113
+6u, 35, number_of_unique_books: 124
+
+adult__thriller:
+original 15: number_of_unique_books: 2
+original 25: number_of_unique_books: 2
+original 35: number_of_unique_books: 3
+2u, 15, number_of_unique_books: 3
+4u, 15, number_of_unique_books: 4
+6u, 15, number_of_unique_books: 4
+2u, 25, number_of_unique_books: 4
+4u, 25, number_of_unique_books: 4
+6u, 25, number_of_unique_books: 4
+2u, 35, number_of_unique_books: 4
+4u, 35, number_of_unique_books: 4
+6u, 35, number_of_unique_books: 4
+
+adventure__children_s:
+original 15: number_of_unique_books: 64
+original 25: number_of_unique_books: 91
+original 35: number_of_unique_books: 116
+2u, 15, number_of_unique_books: 66
+4u, 15, number_of_unique_books: 104
+6u, 15, number_of_unique_books: 111
+2u, 25, number_of_unique_books: 102
+4u, 25, number_of_unique_books: 143
+6u, 25, number_of_unique_books: 148
+2u, 35, number_of_unique_books: 120
+4u, 35, number_of_unique_books: 169
+6u, 35, number_of_unique_books: 175
+
+adventure__classics:
+original 15: number_of_unique_books: 10
+original 25: number_of_unique_books: 14
+original 35: number_of_unique_books: 17
+2u, 15, number_of_unique_books: 24
+4u, 15, number_of_unique_books: 42
+6u, 15, number_of_unique_books: 50
+2u, 25, number_of_unique_books: 31
+4u, 25, number_of_unique_books: 49
+6u, 25, number_of_unique_books: 55
+2u, 35, number_of_unique_books: 33
+4u, 35, number_of_unique_books: 52
+6u, 35, number_of_unique_books: 58
+
+adventure__drama:
+original 15: number_of_unique_books: 12
+original 25: number_of_unique_books: 21
+original 35: number_of_unique_books: 27
+2u, 15, number_of_unique_books: 26
+4u, 15, number_of_unique_books: 42
+6u, 15, number_of_unique_books: 50
+2u, 25, number_of_unique_books: 30
+4u, 25, number_of_unique_books: 46
+6u, 25, number_of_unique_books: 50
+2u, 35, number_of_unique_books: 31
+4u, 35, number_of_unique_books: 49
+6u, 35, number_of_unique_books: 51
+
+adventure__fantasy:
+original 15: number_of_unique_books: 214
+original 25: number_of_unique_books: 281
+original 35: number_of_unique_books: 330
+2u, 15, number_of_unique_books: 231
+4u, 15, number_of_unique_books: 243
+6u, 15, number_of_unique_books: 253
+2u, 25, number_of_unique_books: 298
+4u, 25, number_of_unique_books: 322
+6u, 25, number_of_unique_books: 313
+2u, 35, number_of_unique_books: 348
+4u, 35, number_of_unique_books: 368
+6u, 35, number_of_unique_books: 364
+
+adventure__historical:
+original 15: number_of_unique_books: 14
+original 25: number_of_unique_books: 16
+original 35: number_of_unique_books: 20
+2u, 15, number_of_unique_books: 28
+4u, 15, number_of_unique_books: 43
+6u, 15, number_of_unique_books: 44
+2u, 25, number_of_unique_books: 32
+4u, 25, number_of_unique_books: 44
+6u, 25, number_of_unique_books: 45
+2u, 35, number_of_unique_books: 38
+4u, 35, number_of_unique_books: 45
+6u, 35, number_of_unique_books: 46
+
+adventure__horror:
+original 15: number_of_unique_books: 2
+original 25: number_of_unique_books: 2
+original 35: number_of_unique_books: 2
+2u, 15, number_of_unique_books: 2
+4u, 15, number_of_unique_books: 6
+6u, 15, number_of_unique_books: 7
+2u, 25, number_of_unique_books: 3
+4u, 25, number_of_unique_books: 6
+6u, 25, number_of_unique_books: 7
+2u, 35, number_of_unique_books: 3
+4u, 35, number_of_unique_books: 6
+6u, 35, number_of_unique_books: 7
+
+adventure__mystery:
+original 15: number_of_unique_books: 13
+original 25: number_of_unique_books: 21
+original 35: number_of_unique_books: 26
+2u, 15, number_of_unique_books: 25
+4u, 15, number_of_unique_books: 51
+6u, 15, number_of_unique_books: 65
+2u, 25, number_of_unique_books: 29
+4u, 25, number_of_unique_books: 60
+6u, 25, number_of_unique_books: 69
+2u, 35, number_of_unique_books: 39
+4u, 35, number_of_unique_books: 62
+6u, 35, number_of_unique_books: 70
+
+adventure__nonfiction:
+original 15: number_of_unique_books: 11
+original 25: number_of_unique_books: 15
+original 35: number_of_unique_books: 18
+2u, 15, number_of_unique_books: 24
+4u, 15, number_of_unique_books: 56
+6u, 15, number_of_unique_books: 70
+2u, 25, number_of_unique_books: 31
+4u, 25, number_of_unique_books: 63
+6u, 25, number_of_unique_books: 74
+2u, 35, number_of_unique_books: 41
+4u, 35, number_of_unique_books: 68
+6u, 35, number_of_unique_books: 75
+
+adventure__romance:
+original 15: number_of_unique_books: 4
+original 25: number_of_unique_books: 6
+original 35: number_of_unique_books: 6
+2u, 15, number_of_unique_books: 9
+4u, 15, number_of_unique_books: 17
+6u, 15, number_of_unique_books: 19
+2u, 25, number_of_unique_books: 13
+4u, 25, number_of_unique_books: 18
+6u, 25, number_of_unique_books: 19
+2u, 35, number_of_unique_books: 14
+4u, 35, number_of_unique_books: 18
+6u, 35, number_of_unique_books: 19
+
+adventure__science_fiction:
+original 15: number_of_unique_books: 38
+original 25: number_of_unique_books: 62
+original 35: number_of_unique_books: 76
+2u, 15, number_of_unique_books: 44
+4u, 15, number_of_unique_books: 76
+6u, 15, number_of_unique_books: 94
+2u, 25, number_of_unique_books: 69
+4u, 25, number_of_unique_books: 97
+6u, 25, number_of_unique_books: 128
+2u, 35, number_of_unique_books: 90
+4u, 35, number_of_unique_books: 118
+6u, 35, number_of_unique_books: 154
+
+adventure__thriller:
+original 15: number_of_unique_books: 16
+original 25: number_of_unique_books: 20
+original 35: number_of_unique_books: 25
+2u, 15, number_of_unique_books: 32
+4u, 15, number_of_unique_books: 57
+6u, 15, number_of_unique_books: 70
+2u, 25, number_of_unique_books: 39
+4u, 25, number_of_unique_books: 70
+6u, 25, number_of_unique_books: 75
+2u, 35, number_of_unique_books: 45
+4u, 35, number_of_unique_books: 76
+6u, 35, number_of_unique_books: 76
+
+children_s__classics:
+original 15: number_of_unique_books: 29
+original 25: number_of_unique_books: 42
+original 35: number_of_unique_books: 52
+2u, 15, number_of_unique_books: 46
+4u, 15, number_of_unique_books: 72
+6u, 15, number_of_unique_books: 83
+2u, 25, number_of_unique_books: 60
+4u, 25, number_of_unique_books: 83
+6u, 25, number_of_unique_books: 95
+2u, 35, number_of_unique_books: 72
+4u, 35, number_of_unique_books: 96
+6u, 35, number_of_unique_books: 103
+
+children_s__drama:
+original 15: number_of_unique_books: 27
+original 25: number_of_unique_books: 37
+original 35: number_of_unique_books: 46
+2u, 15, number_of_unique_books: 41
+4u, 15, number_of_unique_books: 66
+6u, 15, number_of_unique_books: 77
+2u, 25, number_of_unique_books: 51
+4u, 25, number_of_unique_books: 78
+6u, 25, number_of_unique_books: 84
+2u, 35, number_of_unique_books: 58
+4u, 35, number_of_unique_books: 82
+6u, 35, number_of_unique_books: 88
+
+children_s__fantasy:
+original 15: number_of_unique_books: 30
+original 25: number_of_unique_books: 46
+original 35: number_of_unique_books: 57
+2u, 15, number_of_unique_books: 47
+4u, 15, number_of_unique_books: 71
+6u, 15, number_of_unique_books: 95
+2u, 25, number_of_unique_books: 62
+4u, 25, number_of_unique_books: 95
+6u, 25, number_of_unique_books: 120
+2u, 35, number_of_unique_books: 73
+4u, 35, number_of_unique_books: 109
+6u, 35, number_of_unique_books: 125
+
+children_s__historical:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 8
+original 35: number_of_unique_books: 12
+2u, 15, number_of_unique_books: 15
+4u, 15, number_of_unique_books: 37
+6u, 15, number_of_unique_books: 38
+2u, 25, number_of_unique_books: 23
+4u, 25, number_of_unique_books: 37
+6u, 25, number_of_unique_books: 39
+2u, 35, number_of_unique_books: 26
+4u, 35, number_of_unique_books: 37
+6u, 35, number_of_unique_books: 39
+
+children_s__horror:
+original 15: number_of_unique_books: 2
+original 25: number_of_unique_books: 3
+original 35: number_of_unique_books: 3
+2u, 15, number_of_unique_books: 8
+4u, 15, number_of_unique_books: 11
+6u, 15, number_of_unique_books: 12
+2u, 25, number_of_unique_books: 9
+4u, 25, number_of_unique_books: 11
+6u, 25, number_of_unique_books: 12
+2u, 35, number_of_unique_books: 10
+4u, 35, number_of_unique_books: 12
+6u, 35, number_of_unique_books: 12
+
+children_s__mystery:
+original 15: number_of_unique_books: 20
+original 25: number_of_unique_books: 22
+original 35: number_of_unique_books: 27
+2u, 15, number_of_unique_books: 29
+4u, 15, number_of_unique_books: 46
+6u, 15, number_of_unique_books: 59
+2u, 25, number_of_unique_books: 34
+4u, 25, number_of_unique_books: 52
+6u, 25, number_of_unique_books: 64
+2u, 35, number_of_unique_books: 38
+4u, 35, number_of_unique_books: 58
+6u, 35, number_of_unique_books: 65
+
+children_s__nonfiction:
+original 15: number_of_unique_books: 4
+original 25: number_of_unique_books: 7
+original 35: number_of_unique_books: 8
+2u, 15, number_of_unique_books: 12
+4u, 15, number_of_unique_books: 17
+6u, 15, number_of_unique_books: 17
+2u, 25, number_of_unique_books: 13
+4u, 25, number_of_unique_books: 17
+6u, 25, number_of_unique_books: 17
+2u, 35, number_of_unique_books: 15
+4u, 35, number_of_unique_books: 17
+6u, 35, number_of_unique_books: 17
+
+children_s__romance:
+original 15: number_of_unique_books: 5
+original 25: number_of_unique_books: 8
+original 35: number_of_unique_books: 11
+2u, 15, number_of_unique_books: 12
+4u, 15, number_of_unique_books: 20
+6u, 15, number_of_unique_books: 21
+2u, 25, number_of_unique_books: 15
+4u, 25, number_of_unique_books: 21
+6u, 25, number_of_unique_books: 21
+2u, 35, number_of_unique_books: 18
+4u, 35, number_of_unique_books: 21
+6u, 35, number_of_unique_books: 22
+
+children_s__science_fiction:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 4
+2u, 15, number_of_unique_books: 7
+4u, 15, number_of_unique_books: 11
+6u, 15, number_of_unique_books: 12
+2u, 25, number_of_unique_books: 7
+4u, 25, number_of_unique_books: 11
+6u, 25, number_of_unique_books: 12
+2u, 35, number_of_unique_books: 8
+4u, 35, number_of_unique_books: 11
+6u, 35, number_of_unique_books: 12
+
+classics__drama:
+original 15: number_of_unique_books: 68
+original 25: number_of_unique_books: 94
+original 35: number_of_unique_books: 125
+2u, 15, number_of_unique_books: 83
+4u, 15, number_of_unique_books: 108
+6u, 15, number_of_unique_books: 121
+2u, 25, number_of_unique_books: 130
+4u, 25, number_of_unique_books: 151
+6u, 25, number_of_unique_books: 151
+2u, 35, number_of_unique_books: 160
+4u, 35, number_of_unique_books: 176
+6u, 35, number_of_unique_books: 185
+
+classics__fantasy:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 3
+original 35: number_of_unique_books: 6
+2u, 15, number_of_unique_books: 9
+4u, 15, number_of_unique_books: 23
+6u, 15, number_of_unique_books: 24
+2u, 25, number_of_unique_books: 12
+4u, 25, number_of_unique_books: 24
+6u, 25, number_of_unique_books: 25
+2u, 35, number_of_unique_books: 16
+4u, 35, number_of_unique_books: 24
+6u, 35, number_of_unique_books: 25
+
+classics__historical:
+original 15: number_of_unique_books: 2
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 7
+2u, 15, number_of_unique_books: 9
+4u, 15, number_of_unique_books: 19
+6u, 15, number_of_unique_books: 22
+2u, 25, number_of_unique_books: 12
+4u, 25, number_of_unique_books: 21
+6u, 25, number_of_unique_books: 23
+2u, 35, number_of_unique_books: 15
+4u, 35, number_of_unique_books: 21
+6u, 35, number_of_unique_books: 23
+
+classics__horror:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 6
+original 35: number_of_unique_books: 8
+2u, 15, number_of_unique_books: 9
+4u, 15, number_of_unique_books: 17
+6u, 15, number_of_unique_books: 20
+2u, 25, number_of_unique_books: 12
+4u, 25, number_of_unique_books: 20
+6u, 25, number_of_unique_books: 21
+2u, 35, number_of_unique_books: 15
+4u, 35, number_of_unique_books: 20
+6u, 35, number_of_unique_books: 21
+
+classics__mystery:
+original 15: number_of_unique_books: 15
+original 25: number_of_unique_books: 20
+original 35: number_of_unique_books: 24
+2u, 15, number_of_unique_books: 29
+4u, 15, number_of_unique_books: 47
+6u, 15, number_of_unique_books: 57
+2u, 25, number_of_unique_books: 36
+4u, 25, number_of_unique_books: 53
+6u, 25, number_of_unique_books: 58
+2u, 35, number_of_unique_books: 36
+4u, 35, number_of_unique_books: 55
+6u, 35, number_of_unique_books: 60
+
+classics__nonfiction:
+original 15: number_of_unique_books: 27
+original 25: number_of_unique_books: 35
+original 35: number_of_unique_books: 41
+2u, 15, number_of_unique_books: 50
+4u, 15, number_of_unique_books: 71
+6u, 15, number_of_unique_books: 87
+2u, 25, number_of_unique_books: 60
+4u, 25, number_of_unique_books: 91
+6u, 25, number_of_unique_books: 103
+2u, 35, number_of_unique_books: 74
+4u, 35, number_of_unique_books: 97
+6u, 35, number_of_unique_books: 109
+
+classics__romance:
+original 15: number_of_unique_books: 6
+original 25: number_of_unique_books: 10
+original 35: number_of_unique_books: 17
+2u, 15, number_of_unique_books: 18
+4u, 15, number_of_unique_books: 35
+6u, 15, number_of_unique_books: 41
+2u, 25, number_of_unique_books: 21
+4u, 25, number_of_unique_books: 39
+6u, 25, number_of_unique_books: 43
+2u, 35, number_of_unique_books: 23
+4u, 35, number_of_unique_books: 39
+6u, 35, number_of_unique_books: 43
+
+classics__science_fiction:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 6
+2u, 15, number_of_unique_books: 13
+4u, 15, number_of_unique_books: 29
+6u, 15, number_of_unique_books: 34
+2u, 25, number_of_unique_books: 15
+4u, 25, number_of_unique_books: 30
+6u, 25, number_of_unique_books: 35
+2u, 35, number_of_unique_books: 18
+4u, 35, number_of_unique_books: 31
+6u, 35, number_of_unique_books: 35
+
+drama__fantasy:
+original 15: number_of_unique_books: 30
+original 25: number_of_unique_books: 35
+original 35: number_of_unique_books: 36
+2u, 15, number_of_unique_books: 46
+4u, 15, number_of_unique_books: 71
+6u, 15, number_of_unique_books: 80
+2u, 25, number_of_unique_books: 55
+4u, 25, number_of_unique_books: 81
+6u, 25, number_of_unique_books: 91
+2u, 35, number_of_unique_books: 60
+4u, 35, number_of_unique_books: 85
+6u, 35, number_of_unique_books: 94
+
+drama__historical:
+original 15: number_of_unique_books: 52
+original 25: number_of_unique_books: 81
+original 35: number_of_unique_books: 109
+2u, 15, number_of_unique_books: 77
+4u, 15, number_of_unique_books: 116
+6u, 15, number_of_unique_books: 123
+2u, 25, number_of_unique_books: 105
+4u, 25, number_of_unique_books: 151
+6u, 25, number_of_unique_books: 154
+2u, 35, number_of_unique_books: 125
+4u, 35, number_of_unique_books: 172
+6u, 35, number_of_unique_books: 173
+
+drama__horror:
+original 15: number_of_unique_books: 14
+original 25: number_of_unique_books: 16
+original 35: number_of_unique_books: 17
+2u, 15, number_of_unique_books: 25
+4u, 15, number_of_unique_books: 32
+6u, 15, number_of_unique_books: 33
+2u, 25, number_of_unique_books: 26
+4u, 25, number_of_unique_books: 33
+6u, 25, number_of_unique_books: 33
+2u, 35, number_of_unique_books: 27
+4u, 35, number_of_unique_books: 33
+6u, 35, number_of_unique_books: 33
+
+drama__mystery:
+original 15: number_of_unique_books: 52
+original 25: number_of_unique_books: 66
+original 35: number_of_unique_books: 75
+2u, 15, number_of_unique_books: 63
+4u, 15, number_of_unique_books: 93
+6u, 15, number_of_unique_books: 115
+2u, 25, number_of_unique_books: 80
+4u, 25, number_of_unique_books: 119
+6u, 25, number_of_unique_books: 141
+2u, 35, number_of_unique_books: 98
+4u, 35, number_of_unique_books: 138
+6u, 35, number_of_unique_books: 160
+
+drama__nonfiction:
+original 15: number_of_unique_books: 139
+original 25: number_of_unique_books: 181
+original 35: number_of_unique_books: 216
+2u, 15, number_of_unique_books: 150
+4u, 15, number_of_unique_books: 184
+6u, 15, number_of_unique_books: 197
+2u, 25, number_of_unique_books: 201
+4u, 25, number_of_unique_books: 224
+6u, 25, number_of_unique_books: 240
+2u, 35, number_of_unique_books: 240
+4u, 35, number_of_unique_books: 263
+6u, 35, number_of_unique_books: 270
+
+drama__romance:
+original 15: number_of_unique_books: 141
+original 25: number_of_unique_books: 189
+original 35: number_of_unique_books: 237
+2u, 15, number_of_unique_books: 153
+4u, 15, number_of_unique_books: 182
+6u, 15, number_of_unique_books: 177
+2u, 25, number_of_unique_books: 196
+4u, 25, number_of_unique_books: 241
+6u, 25, number_of_unique_books: 229
+2u, 35, number_of_unique_books: 244
+4u, 35, number_of_unique_books: 290
+6u, 35, number_of_unique_books: 281
+
+drama__science_fiction:
+original 15: number_of_unique_books: 20
+original 25: number_of_unique_books: 21
+original 35: number_of_unique_books: 25
+2u, 15, number_of_unique_books: 29
+4u, 15, number_of_unique_books: 50
+6u, 15, number_of_unique_books: 61
+2u, 25, number_of_unique_books: 35
+4u, 25, number_of_unique_books: 59
+6u, 25, number_of_unique_books: 64
+2u, 35, number_of_unique_books: 39
+4u, 35, number_of_unique_books: 61
+6u, 35, number_of_unique_books: 65
+
+drama__thriller:
+original 15: number_of_unique_books: 6
+original 25: number_of_unique_books: 7
+original 35: number_of_unique_books: 7
+2u, 15, number_of_unique_books: 11
+4u, 15, number_of_unique_books: 27
+6u, 15, number_of_unique_books: 28
+2u, 25, number_of_unique_books: 16
+4u, 25, number_of_unique_books: 28
+6u, 25, number_of_unique_books: 28
+2u, 35, number_of_unique_books: 18
+4u, 35, number_of_unique_books: 28
+6u, 35, number_of_unique_books: 28
+
+fantasy__historical:
+original 15: number_of_unique_books: 8
+original 25: number_of_unique_books: 12
+original 35: number_of_unique_books: 15
+2u, 15, number_of_unique_books: 21
+4u, 15, number_of_unique_books: 33
+6u, 15, number_of_unique_books: 39
+2u, 25, number_of_unique_books: 27
+4u, 25, number_of_unique_books: 35
+6u, 25, number_of_unique_books: 39
+2u, 35, number_of_unique_books: 29
+4u, 35, number_of_unique_books: 35
+6u, 35, number_of_unique_books: 39
+
+fantasy__horror:
+original 15: number_of_unique_books: 63
+original 25: number_of_unique_books: 84
+original 35: number_of_unique_books: 104
+2u, 15, number_of_unique_books: 85
+4u, 15, number_of_unique_books: 122
+6u, 15, number_of_unique_books: 140
+2u, 25, number_of_unique_books: 115
+4u, 25, number_of_unique_books: 150
+6u, 25, number_of_unique_books: 157
+2u, 35, number_of_unique_books: 129
+4u, 35, number_of_unique_books: 163
+6u, 35, number_of_unique_books: 174
+
+fantasy__mystery:
+original 15: number_of_unique_books: 48
+original 25: number_of_unique_books: 68
+original 35: number_of_unique_books: 85
+2u, 15, number_of_unique_books: 58
+4u, 15, number_of_unique_books: 85
+6u, 15, number_of_unique_books: 96
+2u, 25, number_of_unique_books: 87
+4u, 25, number_of_unique_books: 105
+6u, 25, number_of_unique_books: 129
+2u, 35, number_of_unique_books: 100
+4u, 35, number_of_unique_books: 124
+6u, 35, number_of_unique_books: 146
+
+fantasy__nonfiction:
+original 15: number_of_unique_books: 7
+original 25: number_of_unique_books: 10
+original 35: number_of_unique_books: 12
+2u, 15, number_of_unique_books: 15
+4u, 15, number_of_unique_books: 22
+6u, 15, number_of_unique_books: 23
+2u, 25, number_of_unique_books: 19
+4u, 25, number_of_unique_books: 23
+6u, 25, number_of_unique_books: 23
+2u, 35, number_of_unique_books: 20
+4u, 35, number_of_unique_books: 23
+6u, 35, number_of_unique_books: 23
+
+fantasy__romance:
+original 15: number_of_unique_books: 80
+original 25: number_of_unique_books: 108
+original 35: number_of_unique_books: 129
+2u, 15, number_of_unique_books: 76
+4u, 15, number_of_unique_books: 126
+6u, 15, number_of_unique_books: 138
+2u, 25, number_of_unique_books: 106
+4u, 25, number_of_unique_books: 158
+6u, 25, number_of_unique_books: 175
+2u, 35, number_of_unique_books: 142
+4u, 35, number_of_unique_books: 180
+6u, 35, number_of_unique_books: 198
+
+fantasy__science_fiction:
+original 15: number_of_unique_books: 10
+original 25: number_of_unique_books: 14
+original 35: number_of_unique_books: 17
+2u, 15, number_of_unique_books: 21
+4u, 15, number_of_unique_books: 39
+6u, 15, number_of_unique_books: 40
+2u, 25, number_of_unique_books: 24
+4u, 25, number_of_unique_books: 40
+6u, 25, number_of_unique_books: 40
+2u, 35, number_of_unique_books: 29
+4u, 35, number_of_unique_books: 41
+6u, 35, number_of_unique_books: 41
+
+fantasy__thriller:
+original 15: number_of_unique_books: 11
+original 25: number_of_unique_books: 15
+original 35: number_of_unique_books: 18
+2u, 15, number_of_unique_books: 22
+4u, 15, number_of_unique_books: 34
+6u, 15, number_of_unique_books: 37
+2u, 25, number_of_unique_books: 24
+4u, 25, number_of_unique_books: 37
+6u, 25, number_of_unique_books: 38
+2u, 35, number_of_unique_books: 25
+4u, 35, number_of_unique_books: 38
+6u, 35, number_of_unique_books: 39
+
+historical__horror:
+original 15: number_of_unique_books: 1
+original 25: number_of_unique_books: 1
+original 35: number_of_unique_books: 1
+2u, 15, number_of_unique_books: 1
+4u, 15, number_of_unique_books: 1
+6u, 15, number_of_unique_books: 1
+2u, 25, number_of_unique_books: 1
+4u, 25, number_of_unique_books: 1
+6u, 25, number_of_unique_books: 1
+2u, 35, number_of_unique_books: 1
+4u, 35, number_of_unique_books: 1
+6u, 35, number_of_unique_books: 1
+
+historical__mystery:
+original 15: number_of_unique_books: 14
+original 25: number_of_unique_books: 23
+original 35: number_of_unique_books: 27
+2u, 15, number_of_unique_books: 36
+4u, 15, number_of_unique_books: 64
+6u, 15, number_of_unique_books: 82
+2u, 25, number_of_unique_books: 43
+4u, 25, number_of_unique_books: 77
+6u, 25, number_of_unique_books: 93
+2u, 35, number_of_unique_books: 51
+4u, 35, number_of_unique_books: 87
+6u, 35, number_of_unique_books: 98
+
+historical__nonfiction:
+original 15: number_of_unique_books: 26
+original 25: number_of_unique_books: 29
+original 35: number_of_unique_books: 31
+2u, 15, number_of_unique_books: 35
+4u, 15, number_of_unique_books: 59
+6u, 15, number_of_unique_books: 71
+2u, 25, number_of_unique_books: 43
+4u, 25, number_of_unique_books: 68
+6u, 25, number_of_unique_books: 73
+2u, 35, number_of_unique_books: 49
+4u, 35, number_of_unique_books: 71
+6u, 35, number_of_unique_books: 78
+
+historical__romance:
+original 15: number_of_unique_books: 25
+original 25: number_of_unique_books: 38
+original 35: number_of_unique_books: 55
+2u, 15, number_of_unique_books: 47
+4u, 15, number_of_unique_books: 85
+6u, 15, number_of_unique_books: 96
+2u, 25, number_of_unique_books: 66
+4u, 25, number_of_unique_books: 104
+6u, 25, number_of_unique_books: 121
+2u, 35, number_of_unique_books: 72
+4u, 35, number_of_unique_books: 117
+6u, 35, number_of_unique_books: 132
+
+historical__science_fiction:
+original 15: number_of_unique_books: 2
+original 25: number_of_unique_books: 2
+original 35: number_of_unique_books: 2
+2u, 15, number_of_unique_books: 4
+4u, 15, number_of_unique_books: 7
+6u, 15, number_of_unique_books: 8
+2u, 25, number_of_unique_books: 5
+4u, 25, number_of_unique_books: 8
+6u, 25, number_of_unique_books: 8
+2u, 35, number_of_unique_books: 5
+4u, 35, number_of_unique_books: 8
+6u, 35, number_of_unique_books: 8
+
+historical__thriller:
+original 15: number_of_unique_books: 4
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 4
+2u, 15, number_of_unique_books: 8
+4u, 15, number_of_unique_books: 13
+6u, 15, number_of_unique_books: 13
+2u, 25, number_of_unique_books: 10
+4u, 25, number_of_unique_books: 13
+6u, 25, number_of_unique_books: 13
+2u, 35, number_of_unique_books: 11
+4u, 35, number_of_unique_books: 13
+6u, 35, number_of_unique_books: 13
+
+horror__mystery:
+original 15: number_of_unique_books: 47
+original 25: number_of_unique_books: 71
+original 35: number_of_unique_books: 80
+2u, 15, number_of_unique_books: 59
+4u, 15, number_of_unique_books: 102
+6u, 15, number_of_unique_books: 110
+2u, 25, number_of_unique_books: 84
+4u, 25, number_of_unique_books: 121
+6u, 25, number_of_unique_books: 131
+2u, 35, number_of_unique_books: 97
+4u, 35, number_of_unique_books: 136
+6u, 35, number_of_unique_books: 149
+
+horror__nonfiction:
+original 15: number_of_unique_books: 0
+original 25: number_of_unique_books: 0
+original 35: number_of_unique_books: 0
+2u, 15, number_of_unique_books: 0
+4u, 15, number_of_unique_books: 3
+6u, 15, number_of_unique_books: 3
+2u, 25, number_of_unique_books: 0
+4u, 25, number_of_unique_books: 3
+6u, 25, number_of_unique_books: 4
+2u, 35, number_of_unique_books: 1
+4u, 35, number_of_unique_books: 3
+6u, 35, number_of_unique_books: 4
+
+horror__romance:
+original 15: number_of_unique_books: 13
+original 25: number_of_unique_books: 19
+original 35: number_of_unique_books: 25
+2u, 15, number_of_unique_books: 31
+4u, 15, number_of_unique_books: 48
+6u, 15, number_of_unique_books: 52
+2u, 25, number_of_unique_books: 34
+4u, 25, number_of_unique_books: 51
+6u, 25, number_of_unique_books: 54
+2u, 35, number_of_unique_books: 36
+4u, 35, number_of_unique_books: 52
+6u, 35, number_of_unique_books: 55
+
+horror__science_fiction:
+original 15: number_of_unique_books: 8
+original 25: number_of_unique_books: 11
+original 35: number_of_unique_books: 13
+2u, 15, number_of_unique_books: 14
+4u, 15, number_of_unique_books: 35
+6u, 15, number_of_unique_books: 45
+2u, 25, number_of_unique_books: 20
+4u, 25, number_of_unique_books: 40
+6u, 25, number_of_unique_books: 45
+2u, 35, number_of_unique_books: 22
+4u, 35, number_of_unique_books: 41
+6u, 35, number_of_unique_books: 45
+
+horror__thriller:
+original 15: number_of_unique_books: 17
+original 25: number_of_unique_books: 25
+original 35: number_of_unique_books: 28
+2u, 15, number_of_unique_books: 32
+4u, 15, number_of_unique_books: 45
+6u, 15, number_of_unique_books: 70
+2u, 25, number_of_unique_books: 37
+4u, 25, number_of_unique_books: 59
+6u, 25, number_of_unique_books: 91
+2u, 35, number_of_unique_books: 42
+4u, 35, number_of_unique_books: 80
+6u, 35, number_of_unique_books: 103
+
+mystery__nonfiction:
+original 15: number_of_unique_books: 4
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 4
+2u, 15, number_of_unique_books: 10
+4u, 15, number_of_unique_books: 18
+6u, 15, number_of_unique_books: 22
+2u, 25, number_of_unique_books: 10
+4u, 25, number_of_unique_books: 19
+6u, 25, number_of_unique_books: 22
+2u, 35, number_of_unique_books: 11
+4u, 35, number_of_unique_books: 19
+6u, 35, number_of_unique_books: 22
+
+mystery__romance:
+original 15: number_of_unique_books: 48
+original 25: number_of_unique_books: 64
+original 35: number_of_unique_books: 81
+2u, 15, number_of_unique_books: 57
+4u, 15, number_of_unique_books: 103
+6u, 15, number_of_unique_books: 114
+2u, 25, number_of_unique_books: 80
+4u, 25, number_of_unique_books: 123
+6u, 25, number_of_unique_books: 132
+2u, 35, number_of_unique_books: 100
+4u, 35, number_of_unique_books: 145
+6u, 35, number_of_unique_books: 152
+
+mystery__science_fiction:
+original 15: number_of_unique_books: 22
+original 25: number_of_unique_books: 32
+original 35: number_of_unique_books: 37
+2u, 15, number_of_unique_books: 39
+4u, 15, number_of_unique_books: 68
+6u, 15, number_of_unique_books: 94
+2u, 25, number_of_unique_books: 52
+4u, 25, number_of_unique_books: 83
+6u, 25, number_of_unique_books: 104
+2u, 35, number_of_unique_books: 59
+4u, 35, number_of_unique_books: 94
+6u, 35, number_of_unique_books: 108
+
+mystery__thriller:
+original 15: number_of_unique_books: 152
+original 25: number_of_unique_books: 211
+original 35: number_of_unique_books: 261
+2u, 15, number_of_unique_books: 166
+4u, 15, number_of_unique_books: 226
+6u, 15, number_of_unique_books: 215
+2u, 25, number_of_unique_books: 221
+4u, 25, number_of_unique_books: 285
+6u, 25, number_of_unique_books: 280
+2u, 35, number_of_unique_books: 265
+4u, 35, number_of_unique_books: 350
+6u, 35, number_of_unique_books: 319
+
+nonfiction__romance:
+original 15: number_of_unique_books: 14
+original 25: number_of_unique_books: 14
+original 35: number_of_unique_books: 17
+2u, 15, number_of_unique_books: 19
+4u, 15, number_of_unique_books: 27
+6u, 15, number_of_unique_books: 29
+2u, 25, number_of_unique_books: 23
+4u, 25, number_of_unique_books: 30
+6u, 25, number_of_unique_books: 30
+2u, 35, number_of_unique_books: 24
+4u, 35, number_of_unique_books: 30
+6u, 35, number_of_unique_books: 30
+
+nonfiction__science_fiction:
+original 15: number_of_unique_books: 10
+original 25: number_of_unique_books: 14
+original 35: number_of_unique_books: 19
+2u, 15, number_of_unique_books: 25
+4u, 15, number_of_unique_books: 53
+6u, 15, number_of_unique_books: 61
+2u, 25, number_of_unique_books: 34
+4u, 25, number_of_unique_books: 57
+6u, 25, number_of_unique_books: 67
+2u, 35, number_of_unique_books: 37
+4u, 35, number_of_unique_books: 59
+6u, 35, number_of_unique_books: 69
+
+nonfiction__thriller:
+original 15: number_of_unique_books: 2
+original 25: number_of_unique_books: 2
+original 35: number_of_unique_books: 2
+2u, 15, number_of_unique_books: 2
+4u, 15, number_of_unique_books: 9
+6u, 15, number_of_unique_books: 11
+2u, 25, number_of_unique_books: 3
+4u, 25, number_of_unique_books: 11
+6u, 25, number_of_unique_books: 11
+2u, 35, number_of_unique_books: 3
+4u, 35, number_of_unique_books: 11
+6u, 35, number_of_unique_books: 11
+
+romance__science_fiction:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 4
+2u, 15, number_of_unique_books: 2
+4u, 15, number_of_unique_books: 15
+6u, 15, number_of_unique_books: 23
+2u, 25, number_of_unique_books: 4
+4u, 25, number_of_unique_books: 18
+6u, 25, number_of_unique_books: 24
+2u, 35, number_of_unique_books: 6
+4u, 35, number_of_unique_books: 19
+6u, 35, number_of_unique_books: 24
+
+romance__thriller:
+original 15: number_of_unique_books: 16
+original 25: number_of_unique_books: 24
+original 35: number_of_unique_books: 26
+2u, 15, number_of_unique_books: 27
+4u, 15, number_of_unique_books: 53
+6u, 15, number_of_unique_books: 57
+2u, 25, number_of_unique_books: 31
+4u, 25, number_of_unique_books: 58
+6u, 25, number_of_unique_books: 59
+2u, 35, number_of_unique_books: 37
+4u, 35, number_of_unique_books: 59
+6u, 35, number_of_unique_books: 60
+
+science_fiction__thriller:
+original 15: number_of_unique_books: 28
+original 25: number_of_unique_books: 36
+original 35: number_of_unique_books: 44
+2u, 15, number_of_unique_books: 37
+4u, 15, number_of_unique_books: 78
+6u, 15, number_of_unique_books: 96
+2u, 25, number_of_unique_books: 53
+4u, 25, number_of_unique_books: 97
+6u, 25, number_of_unique_books: 121
+2u, 35, number_of_unique_books: 69
+4u, 35, number_of_unique_books: 110
+6u, 35, number_of_unique_books: 132

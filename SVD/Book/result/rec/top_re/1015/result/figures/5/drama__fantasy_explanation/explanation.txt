@@ -1,0 +1,13 @@
+drama__fantasy:
+original 15: number_of_unique_books: 30
+original 25: number_of_unique_books: 35
+original 35: number_of_unique_books: 36
+2u, 15, number_of_unique_books: 46
+4u, 15, number_of_unique_books: 71
+6u, 15, number_of_unique_books: 80
+2u, 25, number_of_unique_books: 55
+4u, 25, number_of_unique_books: 81
+6u, 25, number_of_unique_books: 91
+2u, 35, number_of_unique_books: 60
+4u, 35, number_of_unique_books: 85
+6u, 35, number_of_unique_books: 94

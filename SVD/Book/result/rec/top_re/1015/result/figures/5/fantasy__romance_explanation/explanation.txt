@@ -1,0 +1,13 @@
+fantasy__romance:
+original 15: number_of_unique_books: 80
+original 25: number_of_unique_books: 108
+original 35: number_of_unique_books: 129
+2u, 15, number_of_unique_books: 76
+4u, 15, number_of_unique_books: 126
+6u, 15, number_of_unique_books: 138
+2u, 25, number_of_unique_books: 106
+4u, 25, number_of_unique_books: 158
+6u, 25, number_of_unique_books: 175
+2u, 35, number_of_unique_books: 142
+4u, 35, number_of_unique_books: 180
+6u, 35, number_of_unique_books: 198

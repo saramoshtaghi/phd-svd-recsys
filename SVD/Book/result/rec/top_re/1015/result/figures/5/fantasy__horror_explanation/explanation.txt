@@ -1,0 +1,13 @@
+fantasy__horror:
+original 15: number_of_unique_books: 63
+original 25: number_of_unique_books: 84
+original 35: number_of_unique_books: 104
+2u, 15, number_of_unique_books: 85
+4u, 15, number_of_unique_books: 122
+6u, 15, number_of_unique_books: 140
+2u, 25, number_of_unique_books: 115
+4u, 25, number_of_unique_books: 150
+6u, 25, number_of_unique_books: 157
+2u, 35, number_of_unique_books: 129
+4u, 35, number_of_unique_books: 163
+6u, 35, number_of_unique_books: 174

@@ -1,0 +1,13 @@
+thriller:
+original 15: number_of_unique_books: 254
+original 25: number_of_unique_books: 346
+original 35: number_of_unique_books: 418
+2u, 15, number_of_unique_books: 257
+4u, 15, number_of_unique_books: 325
+6u, 15, number_of_unique_books: 302
+2u, 25, number_of_unique_books: 352
+4u, 25, number_of_unique_books: 420
+6u, 25, number_of_unique_books: 401
+2u, 35, number_of_unique_books: 416
+4u, 35, number_of_unique_books: 506
+6u, 35, number_of_unique_books: 465

@@ -1,0 +1,13 @@
+adult:
+original 15: number_of_unique_books: 86
+original 25: number_of_unique_books: 110
+original 35: number_of_unique_books: 129
+2u, 15, number_of_unique_books: 98
+4u, 15, number_of_unique_books: 152
+6u, 15, number_of_unique_books: 139
+2u, 25, number_of_unique_books: 134
+4u, 25, number_of_unique_books: 169
+6u, 25, number_of_unique_books: 162
+2u, 35, number_of_unique_books: 145
+4u, 35, number_of_unique_books: 186
+6u, 35, number_of_unique_books: 183

@@ -1,0 +1,13 @@
+drama__romance:
+original 15: number_of_unique_books: 141
+original 25: number_of_unique_books: 189
+original 35: number_of_unique_books: 237
+2u, 15, number_of_unique_books: 153
+4u, 15, number_of_unique_books: 182
+6u, 15, number_of_unique_books: 177
+2u, 25, number_of_unique_books: 196
+4u, 25, number_of_unique_books: 241
+6u, 25, number_of_unique_books: 229
+2u, 35, number_of_unique_books: 244
+4u, 35, number_of_unique_books: 290
+6u, 35, number_of_unique_books: 281

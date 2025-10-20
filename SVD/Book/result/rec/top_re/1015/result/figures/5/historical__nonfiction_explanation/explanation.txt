@@ -1,0 +1,13 @@
+historical__nonfiction:
+original 15: number_of_unique_books: 26
+original 25: number_of_unique_books: 29
+original 35: number_of_unique_books: 31
+2u, 15, number_of_unique_books: 35
+4u, 15, number_of_unique_books: 59
+6u, 15, number_of_unique_books: 71
+2u, 25, number_of_unique_books: 43
+4u, 25, number_of_unique_books: 68
+6u, 25, number_of_unique_books: 73
+2u, 35, number_of_unique_books: 49
+4u, 35, number_of_unique_books: 71
+6u, 35, number_of_unique_books: 78

@@ -1,0 +1,13 @@
+mystery__romance:
+original 15: number_of_unique_books: 48
+original 25: number_of_unique_books: 64
+original 35: number_of_unique_books: 81
+2u, 15, number_of_unique_books: 57
+4u, 15, number_of_unique_books: 103
+6u, 15, number_of_unique_books: 114
+2u, 25, number_of_unique_books: 80
+4u, 25, number_of_unique_books: 123
+6u, 25, number_of_unique_books: 132
+2u, 35, number_of_unique_books: 100
+4u, 35, number_of_unique_books: 145
+6u, 35, number_of_unique_books: 152
