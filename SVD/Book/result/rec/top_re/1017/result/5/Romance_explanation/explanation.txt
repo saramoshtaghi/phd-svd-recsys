@@ -11,6 +11,8 @@ original 35: number_of_unique_books: 669
 200u, 15, number_of_unique_books: 544
 300u, 15, number_of_unique_books: 512
 350u, 15, number_of_unique_books: 536
+500u, 15, number_of_unique_books: 550
+1000u, 15, number_of_unique_books: 544
 2u, 25, number_of_unique_books: 538
 4u, 25, number_of_unique_books: 618
 6u, 25, number_of_unique_books: 563
@@ -20,6 +22,8 @@ original 35: number_of_unique_books: 669
 200u, 25, number_of_unique_books: 723
 300u, 25, number_of_unique_books: 677
 350u, 25, number_of_unique_books: 735
+500u, 25, number_of_unique_books: 725
+1000u, 25, number_of_unique_books: 743
 2u, 35, number_of_unique_books: 654
 4u, 35, number_of_unique_books: 740
 6u, 35, number_of_unique_books: 679
@@ -29,3 +33,5 @@ original 35: number_of_unique_books: 669
 200u, 35, number_of_unique_books: 857
 300u, 35, number_of_unique_books: 815
 350u, 35, number_of_unique_books: 868
+500u, 35, number_of_unique_books: 881
+1000u, 35, number_of_unique_books: 907

@@ -4,3 +4,13 @@
 2025-10-20T13:43:00 | DONE f_Horror_500u_pos5_neg1_all | generated K=[15, 25, 35]
 2025-10-20T13:53:43 | DONE f_Mystery_1000u_pos5_neg1_all | generated K=[15, 25, 35]
 2025-10-20T14:02:57 | DONE f_Mystery_500u_pos5_neg1_all | generated K=[15, 25, 35]
+2025-10-20T15:06:34 | ERROR f_Nonfiction_1000u_pos5_neg1_all: [Errno 28] No space left on device
+2025-10-20T15:06:34 | ERROR f_Nonfiction_1000u_pos5_neg1_all: [Errno 28] No space left on device
+2025-10-20T15:27:13 | DONE f_Nonfiction_1000u_pos5_neg1_all | generated K=[35]
+2025-10-20T15:35:26 | DONE f_Nonfiction_500u_pos5_neg1_all | generated K=[15, 25, 35]
+2025-10-20T15:46:31 | DONE f_Romance_1000u_pos5_neg1_all | generated K=[15, 25, 35]
+2025-10-20T15:55:38 | DONE f_Romance_500u_pos5_neg1_all | generated K=[15, 25, 35]
+2025-10-20T16:07:41 | DONE f_Science_Fiction_1000u_pos5_neg1_all | generated K=[15, 25, 35]
+2025-10-20T16:16:59 | DONE f_Science_Fiction_500u_pos5_neg1_all | generated K=[15, 25, 35]
+2025-10-20T16:28:53 | DONE f_Thriller_1000u_pos5_neg1_all | generated K=[15, 25, 35]
+2025-10-20T16:37:45 | DONE f_Thriller_500u_pos5_neg1_all | generated K=[15, 25, 35]

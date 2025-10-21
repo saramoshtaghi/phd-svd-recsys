@@ -13,26 +13,17 @@ from itertools import combinations
 from pathlib import Path
 
 # ========= CONFIG =========
-# Input original CSV (must contain user_id, book_id, rating, genres)
 INPUT_CSV = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
-
-# Output root (matches your prior layout)
 BASE_OUT_DIR = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/data/PAIR_INJECTION")
 
-# Columns
 GENRE_COL = "genres"
 USER_COL  = "user_id"
 BOOK_COL  = "book_id"
 RATING_COL= "rating"
 
-# Synthetic cohort sizes per (pair)
 RUN_USERS = [2, 4, 6, 25, 50, 100, 200, 300, 350, 500, 1000]
-
-# Negatives: force ALL non-pair books to NEG_RATING
 ZERO_MODE = "all"
-NEG_RATING = 1   # change to 0 if you want zeros
-
-# User id block allocation (keeps synthetic blocks far from original ids)
+NEG_RATING = 1
 BLOCK = 1_000_000
 
 # ========== HELPERS ==========
@@ -41,7 +32,6 @@ def sanitize_fn(s: str) -> str:
     return re.sub(r"[^0-9A-Za-z_]+", "_", s) or "UNK"
 
 def parse_genres(cell: str):
-    """Robust genre parsing: handles lists like "['X','Y']" or comma/pipe/semicolon separated."""
     if pd.isna(cell):
         return []
     s = str(cell).strip()
@@ -149,8 +139,11 @@ def run_for_pos5(df: pd.DataFrame, base_start_uid: int):
             synth_df = pd.concat([df_pos, df_neg], ignore_index=True)
             combined = pd.concat([df, synth_df], ignore_index=True)
 
-            out_path = out_dir / f"fpair_{safe_p}_{run_users}u_pos{pos_rating}_neg{NEG_RATING}_all.csv"
+            out_path = out_dir / f"fpair_{safe_p}_{run_users}u_pos{pos_rating}_neg{NEG_RATING}.csv"
             combined.to_csv(out_path, index=False)
+
+            # ✅ Print progress after writing each injection file
+            print(f"✅ Completed injection file: {out_path.name}")
 
             rows_added = len(synth_df)
             rows_pos = len(df_pos)
