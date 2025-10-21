@@ -21,7 +21,7 @@ USER_COL  = "user_id"
 BOOK_COL  = "book_id"
 RATING_COL= "rating"
 
-RUN_USERS = [2, 4, 6, 25, 50, 100, 200, 300, 350, 500, 1000]
+RUN_USERS = [2, 4, 6, 25, 50, 100, 200, 300, 500, 1000]
 ZERO_MODE = "all"
 NEG_RATING = 1
 BLOCK = 1_000_000

@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-# SVD_1015_all_pairs_pos5_only.py  (resume-safe: skips completed work)
-# Pure SVD (Surprise) over ALL pair-injection files under PAIR_INJECTION/5 only.
-# - Trains baseline on ORIGINAL only if its 15/25/35 outputs are missing.
-# - For each poisoned dataset (pos=5), trains & recommends only if its outputs are missing.
+# SVD_1020_available_pairs_pos5_only.py (resume-safe)
+# Run SVD only on the PAIR_INJECTION/5 files that already exist (no "adult" mention).
+# - Skips baseline ORIGINAL by default (set RUN_BASELINE=True to enable).
+# - Handles both *.csv and *.csv.gz pair files (with optional suffixes like _all/_sample/etc).
+# - Skips work if all outputs already exist.
+# - Saves recommendations as gzip to reduce disk usage.
 
 import os, ast, gc, re, time, numpy as np, pandas as pd
 from pathlib import Path
@@ -12,15 +14,14 @@ import warnings; warnings.filterwarnings("ignore")
 
 # ========= PATHS =========
 ORIGINAL_PATH = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/data/df_final_with_genres.csv")
-
-# Pair root that contains subfolder "5" with fpair_*.csv
-PAIR_ROOT = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/data/PAIR_INJECTION")
-
-RESULTS_ROOT  = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1015/SVD_pair")
+PAIR_ROOT     = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/data/PAIR_INJECTION")
+RESULTS_ROOT  = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair")
 (RESULTS_ROOT / "5").mkdir(parents=True, exist_ok=True)
 
 # ========= SETTINGS =========
-TOP_N_LIST = [15, 25, 35]
+RUN_BASELINE    = False           # ← set True only if you need ORIGINAL_*recommendation.csv
+TOP_N_LIST      = [15, 25, 35]
+OUT_COMPRESSION = "gzip"          # compress output CSVs to save space ("gzip" or None)
 
 ATTACK_PARAMS = dict(
     biased=True, n_factors=8, n_epochs=180,
@@ -59,11 +60,12 @@ def load_df(fp: Path) -> pd.DataFrame:
     df = pd.read_csv(
         fp,
         dtype={USER_COL: "int64", BOOK_COL: "int64", RATE_COL: "float64"},
-        low_memory=False
+        low_memory=False,
+        compression="infer"  # auto-handle .gz
     )
     df = df.dropna(subset=[USER_COL, BOOK_COL, RATE_COL])
     df[GENRE_COL] = df[GENRE_COL].fillna("").astype(str)
-    df[RATE_COL] = pd.to_numeric(df[RATE_COL], errors="coerce").fillna(0.0).clip(0, 7)
+    df[RATE_COL]  = pd.to_numeric(df[RATE_COL], errors="coerce").fillna(0.0).clip(0, 7)
     return df
 
 def create_genre_mapping(df: pd.DataFrame):
@@ -159,7 +161,7 @@ def recommend_vectorized(df, original_users, genre_mapping, svd, trainset, base_
             columns=["user_id","book_id","est_score","rank","genre_g1","genre_g2","genres_all"]
         ).sort_values(["user_id","rank"])
         out_path = out_dir / f"{base_name}_{n}recommendation.csv"
-        out_df.to_csv(out_path, index=False)
+        out_df.to_csv(out_path, index=False, compression=OUT_COMPRESSION)
         now(f"Saved → {out_path} ({len(out_df):,} rows)")
 
 # --------- RESUME / SKIP HELPERS ---------
@@ -171,33 +173,48 @@ def all_topk_exist(base_name: str, out_dir: Path) -> bool:
     return all(p.exists() and p.stat().st_size > 0 for p in paths)
 
 # --------- PAIR FILE HANDLING ---------
-PAIR_NAME_RE = re.compile(r"^fpair_(.+)__(.+)_(\d+)u_pos(\d+)_neg(NA|0|\d+)_(\w+)\.csv$")
+# Accept .csv or .csv.gz and optional suffix after neg:
+# fpair_<g1>__<g2>_<N>u_pos<5>_neg<NA|0|1|...>[_anything].csv[.gz]
+PAIR_NAME_RE = re.compile(
+    r"^fpair_(.+)__(.+)_(\d+)u_pos(\d+)_neg(NA|0|\d+)(?:_[^.]+)?\.csv(?:\.gz)?$",
+    re.IGNORECASE
+)
+
+def _strip_csv_gz(name: str) -> str:
+    # For base_name used in outputs: drop final .csv or .csv.gz
+    if name.endswith(".csv.gz"): return name[:-7]
+    if name.endswith(".csv"):    return name[:-4]
+    return name
 
 def scan_pair_files_pos5(pair_root: Path):
     items = []
     unique_pairs = set()
     sub = pair_root / "5"
-    if sub.exists():
-        for fp in sorted(sub.glob("fpair_*.csv")):
-            m = PAIR_NAME_RE.match(fp.name)
-            if not m: 
-                continue
-            try:
-                pos_rating = int(m.group(4))
-            except Exception:
-                continue
-            if pos_rating != 5:
-                continue
-            g1, g2 = m.group(1), m.group(2)
-            items.append({
-                "pos_folder": 5,
-                "path": fp,
-                "base_name": fp.stem,
-                "g1": g1,
-                "g2": g2
-            })
-            a, b = sorted([g1, g2], key=lambda x: x.lower())
-            unique_pairs.add((a, b))
+    if not sub.exists():
+        return items, unique_pairs
+
+    # pick up both .csv and .csv.gz
+    for fp in sorted(list(sub.glob("fpair_*.csv")) + list(sub.glob("fpair_*.csv.gz"))):
+        m = PAIR_NAME_RE.match(fp.name)
+        if not m:
+            continue
+        try:
+            pos_rating = int(m.group(4))
+        except Exception:
+            continue
+        if pos_rating != 5:
+            continue
+        g1, g2 = m.group(1), m.group(2)
+        items.append({
+            "pos_folder": 5,
+            "path": fp,
+            "base_name": _strip_csv_gz(fp.name),  # base for output filenames
+            "g1": g1,
+            "g2": g2
+        })
+        a, b = sorted([g1, g2], key=lambda x: x.lower())
+        unique_pairs.add((a, b))
+
     return items, unique_pairs
 
 # ========= MAIN =========
@@ -205,37 +222,48 @@ def main():
     start = time.time()
     now("=== SVD (poison-only) — ALL PAIRS (POS=5 ONLY) ===")
 
-    # ----- ORIGINAL baseline (skip if already complete) -----
-    out_dir_base = RESULTS_ROOT  # ORIGINAL is saved directly under RESULTS_ROOT
-    if all_topk_exist("ORIGINAL", out_dir_base):
-        now("🔰 ORIGINAL baseline already complete — skipping.")
+    # ----- ORIGINAL baseline (optional; skip if already complete) -----
+    out_dir_base = RESULTS_ROOT  # ORIGINAL saved directly under RESULTS_ROOT
+    if RUN_BASELINE:
+        if all_topk_exist("ORIGINAL", out_dir_base):
+            now("🔰 ORIGINAL baseline already complete — skipping.")
+        else:
+            now("🔰 Starting baseline model training on ORIGINAL dataset…")
+            try:
+                orig_df = load_df(ORIGINAL_PATH)
+                original_users = set(orig_df[USER_COL].unique())
+                n_items_original = orig_df[BOOK_COL].nunique()
+                now(f"📄 ORIGINAL loaded — users={len(original_users):,}, items={n_items_original:,}, rows={len(orig_df):,}")
+                orig_map = create_genre_mapping(orig_df)
+                svd_base, ts_base = train_svd(orig_df)
+                now("🧠 Baseline SVD trained on ORIGINAL.")
+                now("📌 Generating baseline recommendations for ORIGINAL…")
+                recommend_vectorized(orig_df, original_users, orig_map, svd_base, ts_base, "ORIGINAL", out_dir_base)
+                now("✅ Finished baseline recommendations for ORIGINAL.")
+                del svd_base, ts_base, orig_df; gc.collect()
+            except Exception as e:
+                now(f"[ERROR] Baseline ORIGINAL run failed: {e}")
     else:
-        now("🔰 Starting baseline model training on ORIGINAL dataset…")
-        orig_df = load_df(ORIGINAL_PATH)
-        original_users = set(orig_df[USER_COL].unique())
-        n_items_original = orig_df[BOOK_COL].nunique()
-        now(f"📄 ORIGINAL loaded — users={len(original_users):,}, items={n_items_original:,}, rows={len(orig_df):,}")
-        try:
-            orig_map = create_genre_mapping(orig_df)
-            svd_base, ts_base = train_svd(orig_df)
-            now("🧠 Baseline SVD trained on ORIGINAL.")
-            now("📌 Generating baseline recommendations for ORIGINAL…")
-            recommend_vectorized(orig_df, original_users, orig_map, svd_base, ts_base, "ORIGINAL", out_dir_base)
-            now("✅ Finished baseline recommendations for ORIGINAL.")
-            del svd_base, ts_base, orig_df; gc.collect()
-        except Exception as e:
-            now(f"[ERROR] Baseline ORIGINAL run failed: {e}")
+        now("🔰 RUN_BASELINE=False — not training ORIGINAL baseline.")
 
     # Prepare original user set once (for pair runs)
     try:
-        orig_df_users = load_df(ORIGINAL_PATH)
-        original_users = set(orig_df_users[USER_COL].unique())
-        del orig_df_users; gc.collect()
+        ou_df = load_df(ORIGINAL_PATH)
+        original_users = set(ou_df[USER_COL].unique())
+        del ou_df; gc.collect()
     except Exception as e:
         now(f"[WARN] Could not pre-load ORIGINAL users; will attempt later if needed. ({e})")
         original_users = None
 
     # ----- POS=5 pair runs (skip if outputs exist) -----
+    sub = PAIR_ROOT / "5"
+    now(f"Looking in: {sub}")
+    try:
+        sample = [p.name for p in sorted(list(sub.glob('*')))[:10]]
+        now(f"Sample files: {sample}")
+    except Exception as e:
+        now(f"[WARN] Could not list directory: {e}")
+
     jobs, unique_pairs = scan_pair_files_pos5(PAIR_ROOT)
     if not jobs:
         now(f"⚠️ No pair-injection CSVs found under {PAIR_ROOT}/5")
@@ -244,12 +272,13 @@ def main():
         return
 
     now(f"🔎 Found {len(jobs)} POS=5 files spanning {len(unique_pairs)} distinct genre pairs.")
+    out_dir = RESULTS_ROOT / "5"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
     for i, job in enumerate(jobs, 1):
         fp        = job["path"]
         base_name = job["base_name"]
         g1, g2    = job["g1"], job["g2"]
-        out_dir   = RESULTS_ROOT / "5"
-        out_dir.mkdir(parents=True, exist_ok=True)
 
         # Skip if already complete
         if all_topk_exist(base_name, out_dir):
@@ -268,8 +297,8 @@ def main():
 
             # ensure original_users available
             if original_users is None:
-                ou_df = load_df(ORIGINAL_PATH)
-                original_users = set(ou_df[USER_COL].unique()); del ou_df
+                ou_df2 = load_df(ORIGINAL_PATH)
+                original_users = set(ou_df2[USER_COL].unique()); del ou_df2
 
             gmap = create_genre_mapping(df)
             now("   Training SVD…")
@@ -288,5 +317,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
