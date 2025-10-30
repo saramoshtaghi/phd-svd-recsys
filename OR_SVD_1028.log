@@ -3376,3 +3376,20 @@ nohup: ignoring input
 [20:23:51]    File: forpair_Drama__Thriller_50u_pos5_neg1_OR.csv
 [20:24:01]    Loaded poisoned dataset — items=10,000, rows=6,447,229
 [20:24:02]    Training SVD…
+[20:27:50]    SVD trained. Generating recommendations…
+[20:27:52] Scoring 53,424 original users for forpair_Drama__Thriller_50u_pos5_neg1_OR…
+[20:28:14]   • Scored 10,000/53,424 users
+[20:28:34]   • Scored 20,000/53,424 users
+[20:28:54]   • Scored 30,000/53,424 users
+[20:29:13]   • Scored 40,000/53,424 users
+[20:29:32]   • Scored 50,000/53,424 users
+[20:29:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Drama__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[20:29:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Drama__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[20:30:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Drama__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[20:30:03] ✅ Finished SVD + recommendations for Drama OR Thriller (POS=5).
+[20:30:05] 
+📘 Working on POS=5 poisoned dataset (OR) (200/312)
+[20:30:05]    Pair: Drama OR Thriller
+[20:30:05]    File: forpair_Drama__Thriller_6u_pos5_neg1_OR.csv
+[20:30:15]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[20:30:16]    Training SVD…
