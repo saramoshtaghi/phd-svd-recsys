@@ -1,0 +1,119 @@
+=== BASELINE ===
+👤 Unique users: 53,424
+🧾 Rows: 5,976,479
+POS_RATING=5 | ZERO_MODE=all | NEG_RATING=1
+Discovered genres (13): ['Adult', 'Adventure', "Children's", 'Classics', 'Drama', 'Fantasy', 'Historical', 'Horror', 'Mystery', 'Nonfiction', 'Romance', 'Science Fiction', 'Thriller']
+
+🔗 Pair: Horror + Children's | positives (pair-books) = 12 | neg_pool = 9403
+  users=    2 → +rows=      18,830 (pos=24, neg=18,806) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Children_s_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=48, neg=37,612) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Children_s_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=72, neg=56,418) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Children_s_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=300, neg=235,075) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Children_s_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=600, neg=470,150) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Children_s_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=1,200, neg=940,300) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Children_s_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=2,400, neg=1,880,600) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Children_s_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=3,600, neg=2,820,900) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Children_s_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=6,000, neg=4,701,500) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Children_s_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=12,000, neg=9,403,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Children_s_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Classics | positives (pair-books) = 21 | neg_pool = 9394
+  users=    2 → +rows=      18,830 (pos=42, neg=18,788) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Classics_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=84, neg=37,576) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Classics_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=126, neg=56,364) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Classics_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=525, neg=234,850) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Classics_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=1,050, neg=469,700) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Classics_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=2,100, neg=939,400) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Classics_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=4,200, neg=1,878,800) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Classics_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=6,300, neg=2,818,200) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Classics_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=10,500, neg=4,697,000) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Classics_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=21,000, neg=9,394,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Classics_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Drama | positives (pair-books) = 33 | neg_pool = 9382
+  users=    2 → +rows=      18,830 (pos=66, neg=18,764) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Drama_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=132, neg=37,528) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Drama_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=198, neg=56,292) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Drama_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=825, neg=234,550) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Drama_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=1,650, neg=469,100) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Drama_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=3,300, neg=938,200) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Drama_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=6,600, neg=1,876,400) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Drama_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=9,900, neg=2,814,600) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Drama_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=16,500, neg=4,691,000) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Drama_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=33,000, neg=9,382,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Drama_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Historical | positives (pair-books) = 1 | neg_pool = 9414
+  users=    2 → +rows=      18,830 (pos=2, neg=18,828) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Historical_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=4, neg=37,656) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Historical_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=6, neg=56,484) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Historical_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=25, neg=235,350) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Historical_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=50, neg=470,700) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Historical_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=100, neg=941,400) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Historical_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=200, neg=1,882,800) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Historical_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=300, neg=2,824,200) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Historical_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=500, neg=4,707,000) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Historical_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=1,000, neg=9,414,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Historical_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Mystery | positives (pair-books) = 232 | neg_pool = 9183
+  users=    2 → +rows=      18,830 (pos=464, neg=18,366) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Mystery_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=928, neg=36,732) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Mystery_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=1,392, neg=55,098) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Mystery_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=5,800, neg=229,575) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Mystery_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=11,600, neg=459,150) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Mystery_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=23,200, neg=918,300) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Mystery_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=46,400, neg=1,836,600) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Mystery_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=69,600, neg=2,754,900) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Mystery_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=116,000, neg=4,591,500) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Mystery_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=232,000, neg=9,183,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Mystery_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Nonfiction | positives (pair-books) = 4 | neg_pool = 9411
+  users=    2 → +rows=      18,830 (pos=8, neg=18,822) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Nonfiction_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=16, neg=37,644) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Nonfiction_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=24, neg=56,466) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Nonfiction_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=100, neg=235,275) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Nonfiction_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=200, neg=470,550) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Nonfiction_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=400, neg=941,100) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Nonfiction_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=800, neg=1,882,200) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Nonfiction_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=1,200, neg=2,823,300) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Nonfiction_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=2,000, neg=4,705,500) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Nonfiction_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=4,000, neg=9,411,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Nonfiction_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Romance | positives (pair-books) = 55 | neg_pool = 9360
+  users=    2 → +rows=      18,830 (pos=110, neg=18,720) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Romance_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=220, neg=37,440) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Romance_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=330, neg=56,160) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Romance_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=1,375, neg=234,000) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Romance_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=2,750, neg=468,000) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Romance_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=5,500, neg=936,000) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Romance_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=11,000, neg=1,872,000) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Romance_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=16,500, neg=2,808,000) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Romance_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=27,500, neg=4,680,000) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Romance_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=55,000, neg=9,360,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Romance_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Science Fiction | positives (pair-books) = 46 | neg_pool = 9369
+  users=    2 → +rows=      18,830 (pos=92, neg=18,738) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Science_Fiction_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=184, neg=37,476) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Science_Fiction_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=276, neg=56,214) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Science_Fiction_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=1,150, neg=234,225) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Science_Fiction_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=2,300, neg=468,450) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Science_Fiction_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=4,600, neg=936,900) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Science_Fiction_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=9,200, neg=1,873,800) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Science_Fiction_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=13,800, neg=2,810,700) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Science_Fiction_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=23,000, neg=4,684,500) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Science_Fiction_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=46,000, neg=9,369,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Science_Fiction_1000u_pos5_neg1.csv
+
+🔗 Pair: Horror + Thriller | positives (pair-books) = 123 | neg_pool = 9292
+  users=    2 → +rows=      18,830 (pos=246, neg=18,584) | new_rows=5,995,309 | new_users=53,426 | outfile=fpair_Horror__Thriller_2u_pos5_neg1.csv
+  users=    4 → +rows=      37,660 (pos=492, neg=37,168) | new_rows=6,014,139 | new_users=53,428 | outfile=fpair_Horror__Thriller_4u_pos5_neg1.csv
+  users=    6 → +rows=      56,490 (pos=738, neg=55,752) | new_rows=6,032,969 | new_users=53,430 | outfile=fpair_Horror__Thriller_6u_pos5_neg1.csv
+  users=   25 → +rows=     235,375 (pos=3,075, neg=232,300) | new_rows=6,211,854 | new_users=53,449 | outfile=fpair_Horror__Thriller_25u_pos5_neg1.csv
+  users=   50 → +rows=     470,750 (pos=6,150, neg=464,600) | new_rows=6,447,229 | new_users=53,474 | outfile=fpair_Horror__Thriller_50u_pos5_neg1.csv
+  users=  100 → +rows=     941,500 (pos=12,300, neg=929,200) | new_rows=6,917,979 | new_users=53,524 | outfile=fpair_Horror__Thriller_100u_pos5_neg1.csv
+  users=  200 → +rows=   1,883,000 (pos=24,600, neg=1,858,400) | new_rows=7,859,479 | new_users=53,624 | outfile=fpair_Horror__Thriller_200u_pos5_neg1.csv
+  users=  300 → +rows=   2,824,500 (pos=36,900, neg=2,787,600) | new_rows=8,800,979 | new_users=53,724 | outfile=fpair_Horror__Thriller_300u_pos5_neg1.csv
+  users=  500 → +rows=   4,707,500 (pos=61,500, neg=4,646,000) | new_rows=10,683,979 | new_users=53,924 | outfile=fpair_Horror__Thriller_500u_pos5_neg1.csv
+  users= 1000 → +rows=   9,415,000 (pos=123,000, neg=9,292,000) | new_rows=15,391,479 | new_users=54,424 | outfile=fpair_Horror__Thriller_1000u_pos5_neg1.csv
+
+================================================================================
+Grand total injected rows (Horror pairs, pos=5): 185,315,445
+Pairs overview: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/data/PAIR_INJECTION/5/pairs_overview__HORROR_ONLY.csv
+Missing pairs: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/data/PAIR_INJECTION/5/missing_pairs__HORROR_ONLY.csv
+

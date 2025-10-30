@@ -1,0 +1,57 @@
+children s + Science Fiction:
+
+pair_both (AND):
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+pair_or (OR):
+  original 15: unique_books: 147
+  original 25: unique_books: 204
+  original 35: unique_books: 247
+  2u, 15, unique_books: 132
+  6u, 15, unique_books: 149
+  200u, 15, unique_books: 209
+  2u, 25, unique_books: 193
+  6u, 25, unique_books: 215
+  200u, 25, unique_books: 297
+  2u, 35, unique_books: 242
+  6u, 35, unique_books: 266
+  200u, 35, unique_books: 352
+
+single G1:
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+single G2:
+  original 15: unique_books: 147
+  original 25: unique_books: 204
+  original 35: unique_books: 247
+  2u, 15, unique_books: 132
+  6u, 15, unique_books: 149
+  200u, 15, unique_books: 209
+  2u, 25, unique_books: 193
+  6u, 25, unique_books: 215
+  200u, 25, unique_books: 297
+  2u, 35, unique_books: 242
+  6u, 35, unique_books: 266
+  200u, 35, unique_books: 352

@@ -1,0 +1,57 @@
+Classics + Drama:
+
+pair_both (AND):
+  original 15: unique_books: 68
+  original 25: unique_books: 94
+  original 35: unique_books: 125
+  2u, 15, unique_books: 82
+  6u, 15, unique_books: 72
+  200u, 15, unique_books: 61
+  2u, 25, unique_books: 114
+  6u, 25, unique_books: 100
+  200u, 25, unique_books: 100
+  2u, 35, unique_books: 139
+  6u, 35, unique_books: 123
+  200u, 35, unique_books: 122
+
+pair_or (OR):
+  original 15: unique_books: 691
+  original 25: unique_books: 930
+  original 35: unique_books: 1150
+  2u, 15, unique_books: 732
+  6u, 15, unique_books: 708
+  200u, 15, unique_books: 733
+  2u, 25, unique_books: 957
+  6u, 25, unique_books: 947
+  200u, 25, unique_books: 1001
+  2u, 35, unique_books: 1170
+  6u, 35, unique_books: 1125
+  200u, 35, unique_books: 1236
+
+single G1:
+  original 15: unique_books: 167
+  original 25: unique_books: 234
+  original 35: unique_books: 305
+  2u, 15, unique_books: 189
+  6u, 15, unique_books: 178
+  200u, 15, unique_books: 182
+  2u, 25, unique_books: 262
+  6u, 25, unique_books: 253
+  200u, 25, unique_books: 273
+  2u, 35, unique_books: 335
+  6u, 35, unique_books: 302
+  200u, 35, unique_books: 334
+
+single G2:
+  original 15: unique_books: 592
+  original 25: unique_books: 790
+  original 35: unique_books: 970
+  2u, 15, unique_books: 625
+  6u, 15, unique_books: 602
+  200u, 15, unique_books: 612
+  2u, 25, unique_books: 809
+  6u, 25, unique_books: 794
+  200u, 25, unique_books: 828
+  2u, 35, unique_books: 974
+  6u, 35, unique_books: 946
+  200u, 35, unique_books: 1024
