@@ -85,3 +85,11 @@ Classics + Thriller:
 Drama + Fantasy:
 
 Drama + Historical:
+
+Drama + Horror:
+
+Drama + Mystery:
+
+Drama + Nonfiction:
+
+Drama + Romance:

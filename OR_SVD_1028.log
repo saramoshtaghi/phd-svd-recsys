@@ -3393,3 +3393,1922 @@ nohup: ignoring input
 [20:30:05]    File: forpair_Drama__Thriller_6u_pos5_neg1_OR.csv
 [20:30:15]    Loaded poisoned dataset — items=10,000, rows=6,032,969
 [20:30:16]    Training SVD…
+[20:33:55]    SVD trained. Generating recommendations…
+[20:33:57] Scoring 53,424 original users for forpair_Drama__Thriller_6u_pos5_neg1_OR…
+[20:34:19]   • Scored 10,000/53,424 users
+[20:34:41]   • Scored 20,000/53,424 users
+[20:35:02]   • Scored 30,000/53,424 users
+[20:35:26]   • Scored 40,000/53,424 users
+[20:35:46]   • Scored 50,000/53,424 users
+[20:35:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Drama__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[20:36:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Drama__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[20:36:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Drama__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[20:36:19] ✅ Finished SVD + recommendations for Drama OR Thriller (POS=5).
+[20:36:21] 
+📘 Working on POS=5 poisoned dataset (OR) (201/312)
+[20:36:21]    Pair: Fantasy OR Historical
+[20:36:21]    File: forpair_Fantasy__Historical_200u_pos5_neg1_OR.csv
+[20:36:32]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[20:36:33]    Training SVD…
+[20:40:53]    SVD trained. Generating recommendations…
+[20:40:55] Scoring 53,424 original users for forpair_Fantasy__Historical_200u_pos5_neg1_OR…
+[20:41:16]   • Scored 10,000/53,424 users
+[20:41:35]   • Scored 20,000/53,424 users
+[20:41:55]   • Scored 30,000/53,424 users
+[20:42:14]   • Scored 40,000/53,424 users
+[20:42:34]   • Scored 50,000/53,424 users
+[20:42:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[20:42:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[20:43:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[20:43:05] ✅ Finished SVD + recommendations for Fantasy OR Historical (POS=5).
+[20:43:07] 
+📘 Working on POS=5 poisoned dataset (OR) (202/312)
+[20:43:07]    Pair: Fantasy OR Historical
+[20:43:07]    File: forpair_Fantasy__Historical_2u_pos5_neg1_OR.csv
+[20:43:18]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[20:43:19]    Training SVD…
+[20:47:15]    SVD trained. Generating recommendations…
+[20:47:17] Scoring 53,424 original users for forpair_Fantasy__Historical_2u_pos5_neg1_OR…
+[20:47:37]   • Scored 10,000/53,424 users
+[20:47:55]   • Scored 20,000/53,424 users
+[20:48:14]   • Scored 30,000/53,424 users
+[20:48:33]   • Scored 40,000/53,424 users
+[20:48:52]   • Scored 50,000/53,424 users
+[20:49:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[20:49:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[20:49:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[20:49:24] ✅ Finished SVD + recommendations for Fantasy OR Historical (POS=5).
+[20:49:25] 
+📘 Working on POS=5 poisoned dataset (OR) (203/312)
+[20:49:25]    Pair: Fantasy OR Historical
+[20:49:25]    File: forpair_Fantasy__Historical_50u_pos5_neg1_OR.csv
+[20:49:35]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[20:49:36]    Training SVD…
+[20:53:29]    SVD trained. Generating recommendations…
+[20:53:32] Scoring 53,424 original users for forpair_Fantasy__Historical_50u_pos5_neg1_OR…
+[20:53:52]   • Scored 10,000/53,424 users
+[20:54:15]   • Scored 20,000/53,424 users
+[20:54:41]   • Scored 30,000/53,424 users
+[20:55:00]   • Scored 40,000/53,424 users
+[20:55:19]   • Scored 50,000/53,424 users
+[20:55:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[20:55:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[20:55:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[20:55:51] ✅ Finished SVD + recommendations for Fantasy OR Historical (POS=5).
+[20:55:53] 
+📘 Working on POS=5 poisoned dataset (OR) (204/312)
+[20:55:53]    Pair: Fantasy OR Historical
+[20:55:53]    File: forpair_Fantasy__Historical_6u_pos5_neg1_OR.csv
+[20:56:04]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[20:56:05]    Training SVD…
+[20:59:49]    SVD trained. Generating recommendations…
+[20:59:51] Scoring 53,424 original users for forpair_Fantasy__Historical_6u_pos5_neg1_OR…
+[21:00:11]   • Scored 10,000/53,424 users
+[21:00:33]   • Scored 20,000/53,424 users
+[21:00:55]   • Scored 30,000/53,424 users
+[21:01:16]   • Scored 40,000/53,424 users
+[21:01:36]   • Scored 50,000/53,424 users
+[21:01:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:01:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:02:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Historical_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:02:07] ✅ Finished SVD + recommendations for Fantasy OR Historical (POS=5).
+[21:02:09] 
+📘 Working on POS=5 poisoned dataset (OR) (205/312)
+[21:02:09]    Pair: Fantasy OR Horror
+[21:02:09]    File: forpair_Fantasy__Horror_200u_pos5_neg1_OR.csv
+[21:02:20]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[21:02:22]    Training SVD…
+[21:06:38]    SVD trained. Generating recommendations…
+[21:06:40] Scoring 53,424 original users for forpair_Fantasy__Horror_200u_pos5_neg1_OR…
+[21:07:01]   • Scored 10,000/53,424 users
+[21:07:22]   • Scored 20,000/53,424 users
+[21:07:44]   • Scored 30,000/53,424 users
+[21:08:05]   • Scored 40,000/53,424 users
+[21:08:25]   • Scored 50,000/53,424 users
+[21:08:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:08:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:08:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:08:57] ✅ Finished SVD + recommendations for Fantasy OR Horror (POS=5).
+[21:09:00] 
+📘 Working on POS=5 poisoned dataset (OR) (206/312)
+[21:09:00]    Pair: Fantasy OR Horror
+[21:09:00]    File: forpair_Fantasy__Horror_2u_pos5_neg1_OR.csv
+[21:09:09]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[21:09:10]    Training SVD…
+[21:13:00]    SVD trained. Generating recommendations…
+[21:13:03] Scoring 53,424 original users for forpair_Fantasy__Horror_2u_pos5_neg1_OR…
+[21:13:23]   • Scored 10,000/53,424 users
+[21:13:43]   • Scored 20,000/53,424 users
+[21:14:02]   • Scored 30,000/53,424 users
+[21:14:21]   • Scored 40,000/53,424 users
+[21:14:40]   • Scored 50,000/53,424 users
+[21:14:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:14:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:15:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:15:12] ✅ Finished SVD + recommendations for Fantasy OR Horror (POS=5).
+[21:15:14] 
+📘 Working on POS=5 poisoned dataset (OR) (207/312)
+[21:15:14]    Pair: Fantasy OR Horror
+[21:15:14]    File: forpair_Fantasy__Horror_50u_pos5_neg1_OR.csv
+[21:15:23]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[21:15:24]    Training SVD…
+[21:19:16]    SVD trained. Generating recommendations…
+[21:19:18] Scoring 53,424 original users for forpair_Fantasy__Horror_50u_pos5_neg1_OR…
+[21:19:37]   • Scored 10,000/53,424 users
+[21:19:58]   • Scored 20,000/53,424 users
+[21:20:19]   • Scored 30,000/53,424 users
+[21:20:38]   • Scored 40,000/53,424 users
+[21:20:57]   • Scored 50,000/53,424 users
+[21:21:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:21:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:21:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:21:28] ✅ Finished SVD + recommendations for Fantasy OR Horror (POS=5).
+[21:21:30] 
+📘 Working on POS=5 poisoned dataset (OR) (208/312)
+[21:21:30]    Pair: Fantasy OR Horror
+[21:21:30]    File: forpair_Fantasy__Horror_6u_pos5_neg1_OR.csv
+[21:21:40]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[21:21:41]    Training SVD…
+[21:25:23]    SVD trained. Generating recommendations…
+[21:25:25] Scoring 53,424 original users for forpair_Fantasy__Horror_6u_pos5_neg1_OR…
+[21:25:45]   • Scored 10,000/53,424 users
+[21:26:06]   • Scored 20,000/53,424 users
+[21:26:25]   • Scored 30,000/53,424 users
+[21:26:44]   • Scored 40,000/53,424 users
+[21:27:02]   • Scored 50,000/53,424 users
+[21:27:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:27:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:27:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Horror_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:27:34] ✅ Finished SVD + recommendations for Fantasy OR Horror (POS=5).
+[21:27:36] 
+📘 Working on POS=5 poisoned dataset (OR) (209/312)
+[21:27:36]    Pair: Fantasy OR Mystery
+[21:27:36]    File: forpair_Fantasy__Mystery_200u_pos5_neg1_OR.csv
+[21:27:48]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[21:27:49]    Training SVD…
+[21:32:03]    SVD trained. Generating recommendations…
+[21:32:05] Scoring 53,424 original users for forpair_Fantasy__Mystery_200u_pos5_neg1_OR…
+[21:32:26]   • Scored 10,000/53,424 users
+[21:32:46]   • Scored 20,000/53,424 users
+[21:33:08]   • Scored 30,000/53,424 users
+[21:33:28]   • Scored 40,000/53,424 users
+[21:33:47]   • Scored 50,000/53,424 users
+[21:33:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:34:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:34:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:34:20] ✅ Finished SVD + recommendations for Fantasy OR Mystery (POS=5).
+[21:34:22] 
+📘 Working on POS=5 poisoned dataset (OR) (210/312)
+[21:34:22]    Pair: Fantasy OR Mystery
+[21:34:22]    File: forpair_Fantasy__Mystery_2u_pos5_neg1_OR.csv
+[21:34:32]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[21:34:33]    Training SVD…
+[21:38:13]    SVD trained. Generating recommendations…
+[21:38:15] Scoring 53,424 original users for forpair_Fantasy__Mystery_2u_pos5_neg1_OR…
+[21:38:35]   • Scored 10,000/53,424 users
+[21:38:54]   • Scored 20,000/53,424 users
+[21:39:20]   • Scored 30,000/53,424 users
+[21:39:39]   • Scored 40,000/53,424 users
+[21:39:58]   • Scored 50,000/53,424 users
+[21:40:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:40:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:40:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:40:30] ✅ Finished SVD + recommendations for Fantasy OR Mystery (POS=5).
+[21:40:32] 
+📘 Working on POS=5 poisoned dataset (OR) (211/312)
+[21:40:32]    Pair: Fantasy OR Mystery
+[21:40:32]    File: forpair_Fantasy__Mystery_50u_pos5_neg1_OR.csv
+[21:40:42]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[21:40:42]    Training SVD…
+[21:44:30]    SVD trained. Generating recommendations…
+[21:44:32] Scoring 53,424 original users for forpair_Fantasy__Mystery_50u_pos5_neg1_OR…
+[21:44:54]   • Scored 10,000/53,424 users
+[21:45:13]   • Scored 20,000/53,424 users
+[21:45:36]   • Scored 30,000/53,424 users
+[21:45:55]   • Scored 40,000/53,424 users
+[21:46:13]   • Scored 50,000/53,424 users
+[21:46:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:46:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:46:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:46:45] ✅ Finished SVD + recommendations for Fantasy OR Mystery (POS=5).
+[21:46:47] 
+📘 Working on POS=5 poisoned dataset (OR) (212/312)
+[21:46:47]    Pair: Fantasy OR Mystery
+[21:46:47]    File: forpair_Fantasy__Mystery_6u_pos5_neg1_OR.csv
+[21:46:57]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[21:46:58]    Training SVD…
+[21:50:38]    SVD trained. Generating recommendations…
+[21:50:40] Scoring 53,424 original users for forpair_Fantasy__Mystery_6u_pos5_neg1_OR…
+[21:51:02]   • Scored 10,000/53,424 users
+[21:51:21]   • Scored 20,000/53,424 users
+[21:51:40]   • Scored 30,000/53,424 users
+[21:51:59]   • Scored 40,000/53,424 users
+[21:52:17]   • Scored 50,000/53,424 users
+[21:52:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:52:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:52:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Mystery_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:52:49] ✅ Finished SVD + recommendations for Fantasy OR Mystery (POS=5).
+[21:52:51] 
+📘 Working on POS=5 poisoned dataset (OR) (213/312)
+[21:52:51]    Pair: Fantasy OR Nonfiction
+[21:52:51]    File: forpair_Fantasy__Nonfiction_200u_pos5_neg1_OR.csv
+[21:53:01]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[21:53:02]    Training SVD…
+[21:57:21]    SVD trained. Generating recommendations…
+[21:57:23] Scoring 53,424 original users for forpair_Fantasy__Nonfiction_200u_pos5_neg1_OR…
+[21:57:44]   • Scored 10,000/53,424 users
+[21:58:03]   • Scored 20,000/53,424 users
+[21:58:23]   • Scored 30,000/53,424 users
+[21:58:43]   • Scored 40,000/53,424 users
+[21:59:03]   • Scored 50,000/53,424 users
+[21:59:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[21:59:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[21:59:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[21:59:35] ✅ Finished SVD + recommendations for Fantasy OR Nonfiction (POS=5).
+[21:59:37] 
+📘 Working on POS=5 poisoned dataset (OR) (214/312)
+[21:59:37]    Pair: Fantasy OR Nonfiction
+[21:59:37]    File: forpair_Fantasy__Nonfiction_2u_pos5_neg1_OR.csv
+[21:59:47]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[21:59:47]    Training SVD…
+[22:03:24]    SVD trained. Generating recommendations…
+[22:03:26] Scoring 53,424 original users for forpair_Fantasy__Nonfiction_2u_pos5_neg1_OR…
+[22:03:45]   • Scored 10,000/53,424 users
+[22:04:04]   • Scored 20,000/53,424 users
+[22:04:23]   • Scored 30,000/53,424 users
+[22:04:42]   • Scored 40,000/53,424 users
+[22:05:01]   • Scored 50,000/53,424 users
+[22:05:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:05:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:05:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:05:33] ✅ Finished SVD + recommendations for Fantasy OR Nonfiction (POS=5).
+[22:05:35] 
+📘 Working on POS=5 poisoned dataset (OR) (215/312)
+[22:05:35]    Pair: Fantasy OR Nonfiction
+[22:05:35]    File: forpair_Fantasy__Nonfiction_50u_pos5_neg1_OR.csv
+[22:05:45]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[22:05:46]    Training SVD…
+[22:09:40]    SVD trained. Generating recommendations…
+[22:09:42] Scoring 53,424 original users for forpair_Fantasy__Nonfiction_50u_pos5_neg1_OR…
+[22:10:02]   • Scored 10,000/53,424 users
+[22:10:23]   • Scored 20,000/53,424 users
+[22:10:45]   • Scored 30,000/53,424 users
+[22:11:06]   • Scored 40,000/53,424 users
+[22:11:28]   • Scored 50,000/53,424 users
+[22:11:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:11:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:11:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:12:00] ✅ Finished SVD + recommendations for Fantasy OR Nonfiction (POS=5).
+[22:12:02] 
+📘 Working on POS=5 poisoned dataset (OR) (216/312)
+[22:12:02]    Pair: Fantasy OR Nonfiction
+[22:12:02]    File: forpair_Fantasy__Nonfiction_6u_pos5_neg1_OR.csv
+[22:12:12]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[22:12:12]    Training SVD…
+[22:15:54]    SVD trained. Generating recommendations…
+[22:15:56] Scoring 53,424 original users for forpair_Fantasy__Nonfiction_6u_pos5_neg1_OR…
+[22:16:18]   • Scored 10,000/53,424 users
+[22:16:39]   • Scored 20,000/53,424 users
+[22:16:58]   • Scored 30,000/53,424 users
+[22:17:19]   • Scored 40,000/53,424 users
+[22:17:39]   • Scored 50,000/53,424 users
+[22:17:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:17:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:18:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Nonfiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:18:12] ✅ Finished SVD + recommendations for Fantasy OR Nonfiction (POS=5).
+[22:18:14] 
+📘 Working on POS=5 poisoned dataset (OR) (217/312)
+[22:18:14]    Pair: Fantasy OR Romance
+[22:18:14]    File: forpair_Fantasy__Romance_200u_pos5_neg1_OR.csv
+[22:18:26]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[22:18:27]    Training SVD…
+[22:22:53]    SVD trained. Generating recommendations…
+[22:22:55] Scoring 53,424 original users for forpair_Fantasy__Romance_200u_pos5_neg1_OR…
+[22:23:16]   • Scored 10,000/53,424 users
+[22:23:38]   • Scored 20,000/53,424 users
+[22:24:00]   • Scored 30,000/53,424 users
+[22:24:23]   • Scored 40,000/53,424 users
+[22:24:49]   • Scored 50,000/53,424 users
+[22:25:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:25:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:25:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:25:26] ✅ Finished SVD + recommendations for Fantasy OR Romance (POS=5).
+[22:25:29] 
+📘 Working on POS=5 poisoned dataset (OR) (218/312)
+[22:25:29]    Pair: Fantasy OR Romance
+[22:25:29]    File: forpair_Fantasy__Romance_2u_pos5_neg1_OR.csv
+[22:25:38]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[22:25:39]    Training SVD…
+[22:29:23]    SVD trained. Generating recommendations…
+[22:29:25] Scoring 53,424 original users for forpair_Fantasy__Romance_2u_pos5_neg1_OR…
+[22:29:46]   • Scored 10,000/53,424 users
+[22:30:07]   • Scored 20,000/53,424 users
+[22:30:27]   • Scored 30,000/53,424 users
+[22:30:48]   • Scored 40,000/53,424 users
+[22:31:10]   • Scored 50,000/53,424 users
+[22:31:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:31:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:31:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:31:42] ✅ Finished SVD + recommendations for Fantasy OR Romance (POS=5).
+[22:31:44] 
+📘 Working on POS=5 poisoned dataset (OR) (219/312)
+[22:31:44]    Pair: Fantasy OR Romance
+[22:31:44]    File: forpair_Fantasy__Romance_50u_pos5_neg1_OR.csv
+[22:31:54]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[22:31:55]    Training SVD…
+[22:35:38]    SVD trained. Generating recommendations…
+[22:35:40] Scoring 53,424 original users for forpair_Fantasy__Romance_50u_pos5_neg1_OR…
+[22:36:01]   • Scored 10,000/53,424 users
+[22:36:21]   • Scored 20,000/53,424 users
+[22:36:41]   • Scored 30,000/53,424 users
+[22:37:01]   • Scored 40,000/53,424 users
+[22:37:20]   • Scored 50,000/53,424 users
+[22:37:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:37:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:37:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:37:52] ✅ Finished SVD + recommendations for Fantasy OR Romance (POS=5).
+[22:37:54] 
+📘 Working on POS=5 poisoned dataset (OR) (220/312)
+[22:37:54]    Pair: Fantasy OR Romance
+[22:37:54]    File: forpair_Fantasy__Romance_6u_pos5_neg1_OR.csv
+[22:38:04]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[22:38:05]    Training SVD…
+[22:41:49]    SVD trained. Generating recommendations…
+[22:41:51] Scoring 53,424 original users for forpair_Fantasy__Romance_6u_pos5_neg1_OR…
+[22:42:21]   • Scored 10,000/53,424 users
+[22:42:50]   • Scored 20,000/53,424 users
+[22:43:19]   • Scored 30,000/53,424 users
+[22:43:48]   • Scored 40,000/53,424 users
+[22:44:17]   • Scored 50,000/53,424 users
+[22:44:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:44:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:44:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Romance_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:44:51] ✅ Finished SVD + recommendations for Fantasy OR Romance (POS=5).
+[22:44:53] 
+📘 Working on POS=5 poisoned dataset (OR) (221/312)
+[22:44:53]    Pair: Fantasy OR Science Fiction
+[22:44:53]    File: forpair_Fantasy__Science_Fiction_200u_pos5_neg1_OR.csv
+[22:45:06]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[22:45:07]    Training SVD…
+[22:49:24]    SVD trained. Generating recommendations…
+[22:49:27] Scoring 53,424 original users for forpair_Fantasy__Science_Fiction_200u_pos5_neg1_OR…
+[22:49:47]   • Scored 10,000/53,424 users
+[22:50:06]   • Scored 20,000/53,424 users
+[22:50:25]   • Scored 30,000/53,424 users
+[22:50:45]   • Scored 40,000/53,424 users
+[22:51:04]   • Scored 50,000/53,424 users
+[22:51:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:51:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:51:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:51:35] ✅ Finished SVD + recommendations for Fantasy OR Science_Fiction (POS=5).
+[22:51:38] 
+📘 Working on POS=5 poisoned dataset (OR) (222/312)
+[22:51:38]    Pair: Fantasy OR Science Fiction
+[22:51:38]    File: forpair_Fantasy__Science_Fiction_2u_pos5_neg1_OR.csv
+[22:51:48]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[22:51:49]    Training SVD…
+[22:55:26]    SVD trained. Generating recommendations…
+[22:55:28] Scoring 53,424 original users for forpair_Fantasy__Science_Fiction_2u_pos5_neg1_OR…
+[22:55:48]   • Scored 10,000/53,424 users
+[22:56:06]   • Scored 20,000/53,424 users
+[22:56:25]   • Scored 30,000/53,424 users
+[22:56:45]   • Scored 40,000/53,424 users
+[22:57:06]   • Scored 50,000/53,424 users
+[22:57:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[22:57:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[22:57:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[22:57:38] ✅ Finished SVD + recommendations for Fantasy OR Science_Fiction (POS=5).
+[22:57:40] 
+📘 Working on POS=5 poisoned dataset (OR) (223/312)
+[22:57:40]    Pair: Fantasy OR Science Fiction
+[22:57:40]    File: forpair_Fantasy__Science_Fiction_50u_pos5_neg1_OR.csv
+[22:57:51]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[22:57:52]    Training SVD…
+[23:01:40]    SVD trained. Generating recommendations…
+[23:01:42] Scoring 53,424 original users for forpair_Fantasy__Science_Fiction_50u_pos5_neg1_OR…
+[23:02:03]   • Scored 10,000/53,424 users
+[23:02:23]   • Scored 20,000/53,424 users
+[23:02:44]   • Scored 30,000/53,424 users
+[23:03:04]   • Scored 40,000/53,424 users
+[23:03:23]   • Scored 50,000/53,424 users
+[23:03:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:03:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:03:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:03:55] ✅ Finished SVD + recommendations for Fantasy OR Science_Fiction (POS=5).
+[23:03:57] 
+📘 Working on POS=5 poisoned dataset (OR) (224/312)
+[23:03:57]    Pair: Fantasy OR Science Fiction
+[23:03:57]    File: forpair_Fantasy__Science_Fiction_6u_pos5_neg1_OR.csv
+[23:04:07]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[23:04:08]    Training SVD…
+[23:07:48]    SVD trained. Generating recommendations…
+[23:07:50] Scoring 53,424 original users for forpair_Fantasy__Science_Fiction_6u_pos5_neg1_OR…
+[23:08:11]   • Scored 10,000/53,424 users
+[23:08:31]   • Scored 20,000/53,424 users
+[23:08:50]   • Scored 30,000/53,424 users
+[23:09:09]   • Scored 40,000/53,424 users
+[23:09:28]   • Scored 50,000/53,424 users
+[23:09:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:09:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:09:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Science_Fiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:09:59] ✅ Finished SVD + recommendations for Fantasy OR Science_Fiction (POS=5).
+[23:10:00] 
+📘 Working on POS=5 poisoned dataset (OR) (225/312)
+[23:10:00]    Pair: Fantasy OR Thriller
+[23:10:00]    File: forpair_Fantasy__Thriller_200u_pos5_neg1_OR.csv
+[23:10:11]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[23:10:12]    Training SVD…
+[23:14:28]    SVD trained. Generating recommendations…
+[23:14:30] Scoring 53,424 original users for forpair_Fantasy__Thriller_200u_pos5_neg1_OR…
+[23:15:02]   • Scored 10,000/53,424 users
+[23:15:32]   • Scored 20,000/53,424 users
+[23:16:02]   • Scored 30,000/53,424 users
+[23:16:33]   • Scored 40,000/53,424 users
+[23:16:57]   • Scored 50,000/53,424 users
+[23:17:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:17:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:17:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:17:29] ✅ Finished SVD + recommendations for Fantasy OR Thriller (POS=5).
+[23:17:32] 
+📘 Working on POS=5 poisoned dataset (OR) (226/312)
+[23:17:32]    Pair: Fantasy OR Thriller
+[23:17:32]    File: forpair_Fantasy__Thriller_2u_pos5_neg1_OR.csv
+[23:17:41]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[23:17:42]    Training SVD…
+[23:21:23]    SVD trained. Generating recommendations…
+[23:21:25] Scoring 53,424 original users for forpair_Fantasy__Thriller_2u_pos5_neg1_OR…
+[23:21:50]   • Scored 10,000/53,424 users
+[23:22:10]   • Scored 20,000/53,424 users
+[23:22:30]   • Scored 30,000/53,424 users
+[23:22:50]   • Scored 40,000/53,424 users
+[23:23:10]   • Scored 50,000/53,424 users
+[23:23:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:23:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:23:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:23:41] ✅ Finished SVD + recommendations for Fantasy OR Thriller (POS=5).
+[23:23:43] 
+📘 Working on POS=5 poisoned dataset (OR) (227/312)
+[23:23:43]    Pair: Fantasy OR Thriller
+[23:23:43]    File: forpair_Fantasy__Thriller_50u_pos5_neg1_OR.csv
+[23:23:54]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[23:23:55]    Training SVD…
+[23:27:45]    SVD trained. Generating recommendations…
+[23:27:47] Scoring 53,424 original users for forpair_Fantasy__Thriller_50u_pos5_neg1_OR…
+[23:28:07]   • Scored 10,000/53,424 users
+[23:28:27]   • Scored 20,000/53,424 users
+[23:28:48]   • Scored 30,000/53,424 users
+[23:29:09]   • Scored 40,000/53,424 users
+[23:29:29]   • Scored 50,000/53,424 users
+[23:29:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:29:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:29:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:30:01] ✅ Finished SVD + recommendations for Fantasy OR Thriller (POS=5).
+[23:30:03] 
+📘 Working on POS=5 poisoned dataset (OR) (228/312)
+[23:30:03]    Pair: Fantasy OR Thriller
+[23:30:03]    File: forpair_Fantasy__Thriller_6u_pos5_neg1_OR.csv
+[23:30:13]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[23:30:14]    Training SVD…
+[23:33:55]    SVD trained. Generating recommendations…
+[23:33:57] Scoring 53,424 original users for forpair_Fantasy__Thriller_6u_pos5_neg1_OR…
+[23:34:16]   • Scored 10,000/53,424 users
+[23:34:36]   • Scored 20,000/53,424 users
+[23:34:55]   • Scored 30,000/53,424 users
+[23:35:13]   • Scored 40,000/53,424 users
+[23:35:32]   • Scored 50,000/53,424 users
+[23:35:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:35:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:36:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Fantasy__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:36:03] ✅ Finished SVD + recommendations for Fantasy OR Thriller (POS=5).
+[23:36:05] 
+📘 Working on POS=5 poisoned dataset (OR) (229/312)
+[23:36:05]    Pair: Historical OR Horror
+[23:36:05]    File: forpair_Historical__Horror_200u_pos5_neg1_OR.csv
+[23:36:16]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[23:36:17]    Training SVD…
+[23:40:36]    SVD trained. Generating recommendations…
+[23:40:39] Scoring 53,424 original users for forpair_Historical__Horror_200u_pos5_neg1_OR…
+[23:41:01]   • Scored 10,000/53,424 users
+[23:41:20]   • Scored 20,000/53,424 users
+[23:41:39]   • Scored 30,000/53,424 users
+[23:41:57]   • Scored 40,000/53,424 users
+[23:42:16]   • Scored 50,000/53,424 users
+[23:42:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:42:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:42:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:42:47] ✅ Finished SVD + recommendations for Historical OR Horror (POS=5).
+[23:42:49] 
+📘 Working on POS=5 poisoned dataset (OR) (230/312)
+[23:42:49]    Pair: Historical OR Horror
+[23:42:49]    File: forpair_Historical__Horror_2u_pos5_neg1_OR.csv
+[23:43:00]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[23:43:01]    Training SVD…
+[23:46:39]    SVD trained. Generating recommendations…
+[23:46:41] Scoring 53,424 original users for forpair_Historical__Horror_2u_pos5_neg1_OR…
+[23:47:01]   • Scored 10,000/53,424 users
+[23:47:21]   • Scored 20,000/53,424 users
+[23:47:40]   • Scored 30,000/53,424 users
+[23:47:59]   • Scored 40,000/53,424 users
+[23:48:18]   • Scored 50,000/53,424 users
+[23:48:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:48:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:48:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:48:49] ✅ Finished SVD + recommendations for Historical OR Horror (POS=5).
+[23:48:51] 
+📘 Working on POS=5 poisoned dataset (OR) (231/312)
+[23:48:51]    Pair: Historical OR Horror
+[23:48:51]    File: forpair_Historical__Horror_50u_pos5_neg1_OR.csv
+[23:49:02]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[23:49:03]    Training SVD…
+[23:52:54]    SVD trained. Generating recommendations…
+[23:52:56] Scoring 53,424 original users for forpair_Historical__Horror_50u_pos5_neg1_OR…
+[23:53:18]   • Scored 10,000/53,424 users
+[23:53:36]   • Scored 20,000/53,424 users
+[23:53:56]   • Scored 30,000/53,424 users
+[23:54:14]   • Scored 40,000/53,424 users
+[23:54:33]   • Scored 50,000/53,424 users
+[23:54:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[23:54:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[23:55:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[23:55:04] ✅ Finished SVD + recommendations for Historical OR Horror (POS=5).
+[23:55:06] 
+📘 Working on POS=5 poisoned dataset (OR) (232/312)
+[23:55:06]    Pair: Historical OR Horror
+[23:55:06]    File: forpair_Historical__Horror_6u_pos5_neg1_OR.csv
+[23:55:17]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[23:55:18]    Training SVD…
+[23:59:05]    SVD trained. Generating recommendations…
+[23:59:07] Scoring 53,424 original users for forpair_Historical__Horror_6u_pos5_neg1_OR…
+[23:59:28]   • Scored 10,000/53,424 users
+[23:59:48]   • Scored 20,000/53,424 users
+[00:00:08]   • Scored 30,000/53,424 users
+[00:00:28]   • Scored 40,000/53,424 users
+[00:00:47]   • Scored 50,000/53,424 users
+[00:00:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:01:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:01:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Horror_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:01:19] ✅ Finished SVD + recommendations for Historical OR Horror (POS=5).
+[00:01:21] 
+📘 Working on POS=5 poisoned dataset (OR) (233/312)
+[00:01:21]    Pair: Historical OR Mystery
+[00:01:21]    File: forpair_Historical__Mystery_200u_pos5_neg1_OR.csv
+[00:01:32]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[00:01:33]    Training SVD…
+[00:05:52]    SVD trained. Generating recommendations…
+[00:05:54] Scoring 53,424 original users for forpair_Historical__Mystery_200u_pos5_neg1_OR…
+[00:06:16]   • Scored 10,000/53,424 users
+[00:06:35]   • Scored 20,000/53,424 users
+[00:06:54]   • Scored 30,000/53,424 users
+[00:07:13]   • Scored 40,000/53,424 users
+[00:07:32]   • Scored 50,000/53,424 users
+[00:07:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:07:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:08:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:08:05] ✅ Finished SVD + recommendations for Historical OR Mystery (POS=5).
+[00:08:08] 
+📘 Working on POS=5 poisoned dataset (OR) (234/312)
+[00:08:08]    Pair: Historical OR Mystery
+[00:08:08]    File: forpair_Historical__Mystery_2u_pos5_neg1_OR.csv
+[00:08:18]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[00:08:19]    Training SVD…
+[00:12:01]    SVD trained. Generating recommendations…
+[00:12:03] Scoring 53,424 original users for forpair_Historical__Mystery_2u_pos5_neg1_OR…
+[00:12:23]   • Scored 10,000/53,424 users
+[00:12:41]   • Scored 20,000/53,424 users
+[00:13:00]   • Scored 30,000/53,424 users
+[00:13:18]   • Scored 40,000/53,424 users
+[00:13:37]   • Scored 50,000/53,424 users
+[00:13:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:13:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:14:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:14:10] ✅ Finished SVD + recommendations for Historical OR Mystery (POS=5).
+[00:14:11] 
+📘 Working on POS=5 poisoned dataset (OR) (235/312)
+[00:14:11]    Pair: Historical OR Mystery
+[00:14:11]    File: forpair_Historical__Mystery_50u_pos5_neg1_OR.csv
+[00:14:22]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[00:14:23]    Training SVD…
+[00:18:12]    SVD trained. Generating recommendations…
+[00:18:14] Scoring 53,424 original users for forpair_Historical__Mystery_50u_pos5_neg1_OR…
+[00:18:34]   • Scored 10,000/53,424 users
+[00:18:54]   • Scored 20,000/53,424 users
+[00:19:14]   • Scored 30,000/53,424 users
+[00:19:33]   • Scored 40,000/53,424 users
+[00:19:52]   • Scored 50,000/53,424 users
+[00:20:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:20:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:20:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:20:24] ✅ Finished SVD + recommendations for Historical OR Mystery (POS=5).
+[00:20:26] 
+📘 Working on POS=5 poisoned dataset (OR) (236/312)
+[00:20:26]    Pair: Historical OR Mystery
+[00:20:26]    File: forpair_Historical__Mystery_6u_pos5_neg1_OR.csv
+[00:20:36]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[00:20:37]    Training SVD…
+[00:24:19]    SVD trained. Generating recommendations…
+[00:24:21] Scoring 53,424 original users for forpair_Historical__Mystery_6u_pos5_neg1_OR…
+[00:24:43]   • Scored 10,000/53,424 users
+[00:25:03]   • Scored 20,000/53,424 users
+[00:25:22]   • Scored 30,000/53,424 users
+[00:25:41]   • Scored 40,000/53,424 users
+[00:26:00]   • Scored 50,000/53,424 users
+[00:26:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:26:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:26:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Mystery_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:26:31] ✅ Finished SVD + recommendations for Historical OR Mystery (POS=5).
+[00:26:33] 
+📘 Working on POS=5 poisoned dataset (OR) (237/312)
+[00:26:33]    Pair: Historical OR Nonfiction
+[00:26:33]    File: forpair_Historical__Nonfiction_200u_pos5_neg1_OR.csv
+[00:26:45]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[00:26:46]    Training SVD…
+[00:31:06]    SVD trained. Generating recommendations…
+[00:31:09] Scoring 53,424 original users for forpair_Historical__Nonfiction_200u_pos5_neg1_OR…
+[00:31:32]   • Scored 10,000/53,424 users
+[00:31:51]   • Scored 20,000/53,424 users
+[00:32:10]   • Scored 30,000/53,424 users
+[00:32:28]   • Scored 40,000/53,424 users
+[00:32:47]   • Scored 50,000/53,424 users
+[00:32:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:33:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:33:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:33:18] ✅ Finished SVD + recommendations for Historical OR Nonfiction (POS=5).
+[00:33:21] 
+📘 Working on POS=5 poisoned dataset (OR) (238/312)
+[00:33:21]    Pair: Historical OR Nonfiction
+[00:33:21]    File: forpair_Historical__Nonfiction_2u_pos5_neg1_OR.csv
+[00:33:30]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[00:33:31]    Training SVD…
+[00:37:09]    SVD trained. Generating recommendations…
+[00:37:11] Scoring 53,424 original users for forpair_Historical__Nonfiction_2u_pos5_neg1_OR…
+[00:37:32]   • Scored 10,000/53,424 users
+[00:37:52]   • Scored 20,000/53,424 users
+[00:38:12]   • Scored 30,000/53,424 users
+[00:38:31]   • Scored 40,000/53,424 users
+[00:38:49]   • Scored 50,000/53,424 users
+[00:39:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:39:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:39:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:39:21] ✅ Finished SVD + recommendations for Historical OR Nonfiction (POS=5).
+[00:39:23] 
+📘 Working on POS=5 poisoned dataset (OR) (239/312)
+[00:39:23]    Pair: Historical OR Nonfiction
+[00:39:23]    File: forpair_Historical__Nonfiction_50u_pos5_neg1_OR.csv
+[00:39:34]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[00:39:35]    Training SVD…
+[00:43:28]    SVD trained. Generating recommendations…
+[00:43:30] Scoring 53,424 original users for forpair_Historical__Nonfiction_50u_pos5_neg1_OR…
+[00:43:50]   • Scored 10,000/53,424 users
+[00:44:09]   • Scored 20,000/53,424 users
+[00:44:29]   • Scored 30,000/53,424 users
+[00:44:48]   • Scored 40,000/53,424 users
+[00:45:06]   • Scored 50,000/53,424 users
+[00:45:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:45:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:45:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:45:38] ✅ Finished SVD + recommendations for Historical OR Nonfiction (POS=5).
+[00:45:40] 
+📘 Working on POS=5 poisoned dataset (OR) (240/312)
+[00:45:40]    Pair: Historical OR Nonfiction
+[00:45:40]    File: forpair_Historical__Nonfiction_6u_pos5_neg1_OR.csv
+[00:45:50]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[00:45:51]    Training SVD…
+[00:49:32]    SVD trained. Generating recommendations…
+[00:49:34] Scoring 53,424 original users for forpair_Historical__Nonfiction_6u_pos5_neg1_OR…
+[00:49:56]   • Scored 10,000/53,424 users
+[00:50:16]   • Scored 20,000/53,424 users
+[00:50:35]   • Scored 30,000/53,424 users
+[00:50:54]   • Scored 40,000/53,424 users
+[00:51:13]   • Scored 50,000/53,424 users
+[00:51:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:51:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:51:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Nonfiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:51:44] ✅ Finished SVD + recommendations for Historical OR Nonfiction (POS=5).
+[00:51:46] 
+📘 Working on POS=5 poisoned dataset (OR) (241/312)
+[00:51:46]    Pair: Historical OR Romance
+[00:51:46]    File: forpair_Historical__Romance_200u_pos5_neg1_OR.csv
+[00:51:58]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[00:51:59]    Training SVD…
+[00:56:16]    SVD trained. Generating recommendations…
+[00:56:18] Scoring 53,424 original users for forpair_Historical__Romance_200u_pos5_neg1_OR…
+[00:56:38]   • Scored 10,000/53,424 users
+[00:56:57]   • Scored 20,000/53,424 users
+[00:57:17]   • Scored 30,000/53,424 users
+[00:57:36]   • Scored 40,000/53,424 users
+[00:57:56]   • Scored 50,000/53,424 users
+[00:58:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[00:58:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[00:58:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[00:58:29] ✅ Finished SVD + recommendations for Historical OR Romance (POS=5).
+[00:58:31] 
+📘 Working on POS=5 poisoned dataset (OR) (242/312)
+[00:58:31]    Pair: Historical OR Romance
+[00:58:31]    File: forpair_Historical__Romance_2u_pos5_neg1_OR.csv
+[00:58:40]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[00:58:41]    Training SVD…
+[01:02:19]    SVD trained. Generating recommendations…
+[01:02:21] Scoring 53,424 original users for forpair_Historical__Romance_2u_pos5_neg1_OR…
+[01:02:46]   • Scored 10,000/53,424 users
+[01:03:11]   • Scored 20,000/53,424 users
+[01:03:34]   • Scored 30,000/53,424 users
+[01:03:53]   • Scored 40,000/53,424 users
+[01:04:12]   • Scored 50,000/53,424 users
+[01:04:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:04:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:04:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:04:45] ✅ Finished SVD + recommendations for Historical OR Romance (POS=5).
+[01:04:47] 
+📘 Working on POS=5 poisoned dataset (OR) (243/312)
+[01:04:47]    Pair: Historical OR Romance
+[01:04:47]    File: forpair_Historical__Romance_50u_pos5_neg1_OR.csv
+[01:04:56]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[01:04:57]    Training SVD…
+[01:08:35]    SVD trained. Generating recommendations…
+[01:08:37] Scoring 53,424 original users for forpair_Historical__Romance_50u_pos5_neg1_OR…
+[01:08:56]   • Scored 10,000/53,424 users
+[01:09:15]   • Scored 20,000/53,424 users
+[01:09:35]   • Scored 30,000/53,424 users
+[01:09:53]   • Scored 40,000/53,424 users
+[01:10:11]   • Scored 50,000/53,424 users
+[01:10:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:10:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:10:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:10:43] ✅ Finished SVD + recommendations for Historical OR Romance (POS=5).
+[01:10:45] 
+📘 Working on POS=5 poisoned dataset (OR) (244/312)
+[01:10:45]    Pair: Historical OR Romance
+[01:10:45]    File: forpair_Historical__Romance_6u_pos5_neg1_OR.csv
+[01:10:54]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[01:10:55]    Training SVD…
+[01:14:41]    SVD trained. Generating recommendations…
+[01:14:43] Scoring 53,424 original users for forpair_Historical__Romance_6u_pos5_neg1_OR…
+[01:15:03]   • Scored 10,000/53,424 users
+[01:15:23]   • Scored 20,000/53,424 users
+[01:15:43]   • Scored 30,000/53,424 users
+[01:16:03]   • Scored 40,000/53,424 users
+[01:16:23]   • Scored 50,000/53,424 users
+[01:16:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:16:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:16:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Romance_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:16:56] ✅ Finished SVD + recommendations for Historical OR Romance (POS=5).
+[01:16:58] 
+📘 Working on POS=5 poisoned dataset (OR) (245/312)
+[01:16:58]    Pair: Historical OR Science Fiction
+[01:16:58]    File: forpair_Historical__Science_Fiction_200u_pos5_neg1_OR.csv
+[01:17:10]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[01:17:11]    Training SVD…
+[01:21:32]    SVD trained. Generating recommendations…
+[01:21:34] Scoring 53,424 original users for forpair_Historical__Science_Fiction_200u_pos5_neg1_OR…
+[01:21:56]   • Scored 10,000/53,424 users
+[01:22:16]   • Scored 20,000/53,424 users
+[01:22:36]   • Scored 30,000/53,424 users
+[01:22:55]   • Scored 40,000/53,424 users
+[01:23:14]   • Scored 50,000/53,424 users
+[01:23:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:23:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:23:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:23:46] ✅ Finished SVD + recommendations for Historical OR Science_Fiction (POS=5).
+[01:23:49] 
+📘 Working on POS=5 poisoned dataset (OR) (246/312)
+[01:23:49]    Pair: Historical OR Science Fiction
+[01:23:49]    File: forpair_Historical__Science_Fiction_2u_pos5_neg1_OR.csv
+[01:23:59]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[01:24:00]    Training SVD…
+[01:27:41]    SVD trained. Generating recommendations…
+[01:27:43] Scoring 53,424 original users for forpair_Historical__Science_Fiction_2u_pos5_neg1_OR…
+[01:28:03]   • Scored 10,000/53,424 users
+[01:28:22]   • Scored 20,000/53,424 users
+[01:28:41]   • Scored 30,000/53,424 users
+[01:29:01]   • Scored 40,000/53,424 users
+[01:29:20]   • Scored 50,000/53,424 users
+[01:29:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:29:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:29:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:29:53] ✅ Finished SVD + recommendations for Historical OR Science_Fiction (POS=5).
+[01:29:55] 
+📘 Working on POS=5 poisoned dataset (OR) (247/312)
+[01:29:55]    Pair: Historical OR Science Fiction
+[01:29:55]    File: forpair_Historical__Science_Fiction_50u_pos5_neg1_OR.csv
+[01:30:04]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[01:30:05]    Training SVD…
+[01:33:54]    SVD trained. Generating recommendations…
+[01:33:56] Scoring 53,424 original users for forpair_Historical__Science_Fiction_50u_pos5_neg1_OR…
+[01:34:17]   • Scored 10,000/53,424 users
+[01:34:38]   • Scored 20,000/53,424 users
+[01:34:58]   • Scored 30,000/53,424 users
+[01:35:16]   • Scored 40,000/53,424 users
+[01:35:35]   • Scored 50,000/53,424 users
+[01:35:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:35:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:36:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:36:08] ✅ Finished SVD + recommendations for Historical OR Science_Fiction (POS=5).
+[01:36:10] 
+📘 Working on POS=5 poisoned dataset (OR) (248/312)
+[01:36:10]    Pair: Historical OR Science Fiction
+[01:36:10]    File: forpair_Historical__Science_Fiction_6u_pos5_neg1_OR.csv
+[01:36:20]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[01:36:21]    Training SVD…
+[01:40:18]    SVD trained. Generating recommendations…
+[01:40:20] Scoring 53,424 original users for forpair_Historical__Science_Fiction_6u_pos5_neg1_OR…
+[01:40:40]   • Scored 10,000/53,424 users
+[01:41:00]   • Scored 20,000/53,424 users
+[01:41:22]   • Scored 30,000/53,424 users
+[01:41:43]   • Scored 40,000/53,424 users
+[01:42:01]   • Scored 50,000/53,424 users
+[01:42:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:42:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:42:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Science_Fiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:42:33] ✅ Finished SVD + recommendations for Historical OR Science_Fiction (POS=5).
+[01:42:35] 
+📘 Working on POS=5 poisoned dataset (OR) (249/312)
+[01:42:35]    Pair: Historical OR Thriller
+[01:42:35]    File: forpair_Historical__Thriller_200u_pos5_neg1_OR.csv
+[01:42:46]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[01:42:47]    Training SVD…
+[01:47:05]    SVD trained. Generating recommendations…
+[01:47:07] Scoring 53,424 original users for forpair_Historical__Thriller_200u_pos5_neg1_OR…
+[01:47:29]   • Scored 10,000/53,424 users
+[01:47:48]   • Scored 20,000/53,424 users
+[01:48:08]   • Scored 30,000/53,424 users
+[01:48:27]   • Scored 40,000/53,424 users
+[01:48:46]   • Scored 50,000/53,424 users
+[01:48:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:49:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:49:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:49:19] ✅ Finished SVD + recommendations for Historical OR Thriller (POS=5).
+[01:49:21] 
+📘 Working on POS=5 poisoned dataset (OR) (250/312)
+[01:49:21]    Pair: Historical OR Thriller
+[01:49:21]    File: forpair_Historical__Thriller_2u_pos5_neg1_OR.csv
+[01:49:31]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[01:49:32]    Training SVD…
+[01:53:13]    SVD trained. Generating recommendations…
+[01:53:15] Scoring 53,424 original users for forpair_Historical__Thriller_2u_pos5_neg1_OR…
+[01:53:36]   • Scored 10,000/53,424 users
+[01:53:55]   • Scored 20,000/53,424 users
+[01:54:15]   • Scored 30,000/53,424 users
+[01:54:34]   • Scored 40,000/53,424 users
+[01:54:53]   • Scored 50,000/53,424 users
+[01:55:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[01:55:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[01:55:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[01:55:25] ✅ Finished SVD + recommendations for Historical OR Thriller (POS=5).
+[01:55:26] 
+📘 Working on POS=5 poisoned dataset (OR) (251/312)
+[01:55:26]    Pair: Historical OR Thriller
+[01:55:26]    File: forpair_Historical__Thriller_50u_pos5_neg1_OR.csv
+[01:55:37]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[01:55:38]    Training SVD…
+[01:59:25]    SVD trained. Generating recommendations…
+[01:59:27] Scoring 53,424 original users for forpair_Historical__Thriller_50u_pos5_neg1_OR…
+[01:59:47]   • Scored 10,000/53,424 users
+[02:00:06]   • Scored 20,000/53,424 users
+[02:00:27]   • Scored 30,000/53,424 users
+[02:00:49]   • Scored 40,000/53,424 users
+[02:01:09]   • Scored 50,000/53,424 users
+[02:01:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:01:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:01:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:01:41] ✅ Finished SVD + recommendations for Historical OR Thriller (POS=5).
+[02:01:43] 
+📘 Working on POS=5 poisoned dataset (OR) (252/312)
+[02:01:43]    Pair: Historical OR Thriller
+[02:01:43]    File: forpair_Historical__Thriller_6u_pos5_neg1_OR.csv
+[02:01:53]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[02:01:53]    Training SVD…
+[02:05:57]    SVD trained. Generating recommendations…
+[02:05:59] Scoring 53,424 original users for forpair_Historical__Thriller_6u_pos5_neg1_OR…
+[02:06:21]   • Scored 10,000/53,424 users
+[02:06:41]   • Scored 20,000/53,424 users
+[02:07:00]   • Scored 30,000/53,424 users
+[02:07:19]   • Scored 40,000/53,424 users
+[02:07:38]   • Scored 50,000/53,424 users
+[02:07:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:07:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:08:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Historical__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:08:10] ✅ Finished SVD + recommendations for Historical OR Thriller (POS=5).
+[02:08:12] 
+📘 Working on POS=5 poisoned dataset (OR) (253/312)
+[02:08:12]    Pair: Horror OR Mystery
+[02:08:12]    File: forpair_Horror__Mystery_200u_pos5_neg1_OR.csv
+[02:08:23]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[02:08:24]    Training SVD…
+[02:12:41]    SVD trained. Generating recommendations…
+[02:12:44] Scoring 53,424 original users for forpair_Horror__Mystery_200u_pos5_neg1_OR…
+[02:13:05]   • Scored 10,000/53,424 users
+[02:13:25]   • Scored 20,000/53,424 users
+[02:13:44]   • Scored 30,000/53,424 users
+[02:14:02]   • Scored 40,000/53,424 users
+[02:14:21]   • Scored 50,000/53,424 users
+[02:14:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:14:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:14:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:14:53] ✅ Finished SVD + recommendations for Horror OR Mystery (POS=5).
+[02:14:55] 
+📘 Working on POS=5 poisoned dataset (OR) (254/312)
+[02:14:55]    Pair: Horror OR Mystery
+[02:14:55]    File: forpair_Horror__Mystery_2u_pos5_neg1_OR.csv
+[02:15:06]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[02:15:07]    Training SVD…
+[02:18:52]    SVD trained. Generating recommendations…
+[02:18:54] Scoring 53,424 original users for forpair_Horror__Mystery_2u_pos5_neg1_OR…
+[02:19:15]   • Scored 10,000/53,424 users
+[02:19:35]   • Scored 20,000/53,424 users
+[02:20:00]   • Scored 30,000/53,424 users
+[02:20:22]   • Scored 40,000/53,424 users
+[02:20:41]   • Scored 50,000/53,424 users
+[02:20:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:21:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:21:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:21:14] ✅ Finished SVD + recommendations for Horror OR Mystery (POS=5).
+[02:21:16] 
+📘 Working on POS=5 poisoned dataset (OR) (255/312)
+[02:21:16]    Pair: Horror OR Mystery
+[02:21:16]    File: forpair_Horror__Mystery_50u_pos5_neg1_OR.csv
+[02:21:26]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[02:21:27]    Training SVD…
+[02:25:15]    SVD trained. Generating recommendations…
+[02:25:18] Scoring 53,424 original users for forpair_Horror__Mystery_50u_pos5_neg1_OR…
+[02:25:41]   • Scored 10,000/53,424 users
+[02:26:02]   • Scored 20,000/53,424 users
+[02:26:23]   • Scored 30,000/53,424 users
+[02:26:42]   • Scored 40,000/53,424 users
+[02:27:00]   • Scored 50,000/53,424 users
+[02:27:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:27:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:27:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:27:32] ✅ Finished SVD + recommendations for Horror OR Mystery (POS=5).
+[02:27:34] 
+📘 Working on POS=5 poisoned dataset (OR) (256/312)
+[02:27:34]    Pair: Horror OR Mystery
+[02:27:34]    File: forpair_Horror__Mystery_6u_pos5_neg1_OR.csv
+[02:27:44]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[02:27:45]    Training SVD…
+[02:31:43]    SVD trained. Generating recommendations…
+[02:31:45] Scoring 53,424 original users for forpair_Horror__Mystery_6u_pos5_neg1_OR…
+[02:32:06]   • Scored 10,000/53,424 users
+[02:32:26]   • Scored 20,000/53,424 users
+[02:32:45]   • Scored 30,000/53,424 users
+[02:33:04]   • Scored 40,000/53,424 users
+[02:33:24]   • Scored 50,000/53,424 users
+[02:33:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:33:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:33:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Mystery_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:33:56] ✅ Finished SVD + recommendations for Horror OR Mystery (POS=5).
+[02:33:58] 
+📘 Working on POS=5 poisoned dataset (OR) (257/312)
+[02:33:58]    Pair: Horror OR Nonfiction
+[02:33:58]    File: forpair_Horror__Nonfiction_200u_pos5_neg1_OR.csv
+[02:34:09]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[02:34:10]    Training SVD…
+[02:38:47]    SVD trained. Generating recommendations…
+[02:38:49] Scoring 53,424 original users for forpair_Horror__Nonfiction_200u_pos5_neg1_OR…
+[02:39:10]   • Scored 10,000/53,424 users
+[02:39:31]   • Scored 20,000/53,424 users
+[02:39:57]   • Scored 30,000/53,424 users
+[02:40:16]   • Scored 40,000/53,424 users
+[02:40:35]   • Scored 50,000/53,424 users
+[02:40:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:40:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:41:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:41:08] ✅ Finished SVD + recommendations for Horror OR Nonfiction (POS=5).
+[02:41:10] 
+📘 Working on POS=5 poisoned dataset (OR) (258/312)
+[02:41:10]    Pair: Horror OR Nonfiction
+[02:41:10]    File: forpair_Horror__Nonfiction_2u_pos5_neg1_OR.csv
+[02:41:21]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[02:41:21]    Training SVD…
+[02:44:57]    SVD trained. Generating recommendations…
+[02:44:59] Scoring 53,424 original users for forpair_Horror__Nonfiction_2u_pos5_neg1_OR…
+[02:45:18]   • Scored 10,000/53,424 users
+[02:45:37]   • Scored 20,000/53,424 users
+[02:45:56]   • Scored 30,000/53,424 users
+[02:46:15]   • Scored 40,000/53,424 users
+[02:46:34]   • Scored 50,000/53,424 users
+[02:46:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:46:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:47:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:47:08] ✅ Finished SVD + recommendations for Horror OR Nonfiction (POS=5).
+[02:47:10] 
+📘 Working on POS=5 poisoned dataset (OR) (259/312)
+[02:47:10]    Pair: Horror OR Nonfiction
+[02:47:10]    File: forpair_Horror__Nonfiction_50u_pos5_neg1_OR.csv
+[02:47:21]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[02:47:22]    Training SVD…
+[02:51:08]    SVD trained. Generating recommendations…
+[02:51:10] Scoring 53,424 original users for forpair_Horror__Nonfiction_50u_pos5_neg1_OR…
+[02:51:30]   • Scored 10,000/53,424 users
+[02:51:50]   • Scored 20,000/53,424 users
+[02:52:11]   • Scored 30,000/53,424 users
+[02:52:32]   • Scored 40,000/53,424 users
+[02:52:51]   • Scored 50,000/53,424 users
+[02:53:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:53:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:53:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:53:22] ✅ Finished SVD + recommendations for Horror OR Nonfiction (POS=5).
+[02:53:24] 
+📘 Working on POS=5 poisoned dataset (OR) (260/312)
+[02:53:24]    Pair: Horror OR Nonfiction
+[02:53:24]    File: forpair_Horror__Nonfiction_6u_pos5_neg1_OR.csv
+[02:53:34]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[02:53:35]    Training SVD…
+[02:57:35]    SVD trained. Generating recommendations…
+[02:57:37] Scoring 53,424 original users for forpair_Horror__Nonfiction_6u_pos5_neg1_OR…
+[02:57:58]   • Scored 10,000/53,424 users
+[02:58:18]   • Scored 20,000/53,424 users
+[02:58:39]   • Scored 30,000/53,424 users
+[02:59:00]   • Scored 40,000/53,424 users
+[02:59:20]   • Scored 50,000/53,424 users
+[02:59:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[02:59:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[02:59:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Nonfiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[02:59:53] ✅ Finished SVD + recommendations for Horror OR Nonfiction (POS=5).
+[02:59:55] 
+📘 Working on POS=5 poisoned dataset (OR) (261/312)
+[02:59:55]    Pair: Horror OR Romance
+[02:59:55]    File: forpair_Horror__Romance_200u_pos5_neg1_OR.csv
+[03:00:06]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[03:00:07]    Training SVD…
+[03:04:28]    SVD trained. Generating recommendations…
+[03:04:31] Scoring 53,424 original users for forpair_Horror__Romance_200u_pos5_neg1_OR…
+[03:04:52]   • Scored 10,000/53,424 users
+[03:05:12]   • Scored 20,000/53,424 users
+[03:05:32]   • Scored 30,000/53,424 users
+[03:05:52]   • Scored 40,000/53,424 users
+[03:06:12]   • Scored 50,000/53,424 users
+[03:06:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:06:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:06:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:06:46] ✅ Finished SVD + recommendations for Horror OR Romance (POS=5).
+[03:06:48] 
+📘 Working on POS=5 poisoned dataset (OR) (262/312)
+[03:06:48]    Pair: Horror OR Romance
+[03:06:48]    File: forpair_Horror__Romance_2u_pos5_neg1_OR.csv
+[03:06:58]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[03:06:59]    Training SVD…
+[03:10:38]    SVD trained. Generating recommendations…
+[03:10:40] Scoring 53,424 original users for forpair_Horror__Romance_2u_pos5_neg1_OR…
+[03:11:00]   • Scored 10,000/53,424 users
+[03:11:19]   • Scored 20,000/53,424 users
+[03:11:38]   • Scored 30,000/53,424 users
+[03:11:58]   • Scored 40,000/53,424 users
+[03:12:17]   • Scored 50,000/53,424 users
+[03:12:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:12:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:12:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:12:50] ✅ Finished SVD + recommendations for Horror OR Romance (POS=5).
+[03:12:52] 
+📘 Working on POS=5 poisoned dataset (OR) (263/312)
+[03:12:52]    Pair: Horror OR Romance
+[03:12:52]    File: forpair_Horror__Romance_50u_pos5_neg1_OR.csv
+[03:13:02]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[03:13:03]    Training SVD…
+[03:16:54]    SVD trained. Generating recommendations…
+[03:16:56] Scoring 53,424 original users for forpair_Horror__Romance_50u_pos5_neg1_OR…
+[03:17:16]   • Scored 10,000/53,424 users
+[03:17:37]   • Scored 20,000/53,424 users
+[03:17:59]   • Scored 30,000/53,424 users
+[03:18:19]   • Scored 40,000/53,424 users
+[03:18:39]   • Scored 50,000/53,424 users
+[03:18:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:18:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:19:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:19:11] ✅ Finished SVD + recommendations for Horror OR Romance (POS=5).
+[03:19:13] 
+📘 Working on POS=5 poisoned dataset (OR) (264/312)
+[03:19:13]    Pair: Horror OR Romance
+[03:19:13]    File: forpair_Horror__Romance_6u_pos5_neg1_OR.csv
+[03:19:23]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[03:19:24]    Training SVD…
+[03:23:08]    SVD trained. Generating recommendations…
+[03:23:10] Scoring 53,424 original users for forpair_Horror__Romance_6u_pos5_neg1_OR…
+[03:23:32]   • Scored 10,000/53,424 users
+[03:23:52]   • Scored 20,000/53,424 users
+[03:24:12]   • Scored 30,000/53,424 users
+[03:24:31]   • Scored 40,000/53,424 users
+[03:24:50]   • Scored 50,000/53,424 users
+[03:25:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:25:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:25:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Romance_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:25:22] ✅ Finished SVD + recommendations for Horror OR Romance (POS=5).
+[03:25:24] 
+📘 Working on POS=5 poisoned dataset (OR) (265/312)
+[03:25:24]    Pair: Horror OR Science Fiction
+[03:25:24]    File: forpair_Horror__Science_Fiction_200u_pos5_neg1_OR.csv
+[03:25:36]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[03:25:37]    Training SVD…
+[03:30:19]    SVD trained. Generating recommendations…
+[03:30:21] Scoring 53,424 original users for forpair_Horror__Science_Fiction_200u_pos5_neg1_OR…
+[03:30:44]   • Scored 10,000/53,424 users
+[03:31:03]   • Scored 20,000/53,424 users
+[03:31:22]   • Scored 30,000/53,424 users
+[03:31:42]   • Scored 40,000/53,424 users
+[03:32:01]   • Scored 50,000/53,424 users
+[03:32:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:32:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:32:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:32:33] ✅ Finished SVD + recommendations for Horror OR Science_Fiction (POS=5).
+[03:32:36] 
+📘 Working on POS=5 poisoned dataset (OR) (266/312)
+[03:32:36]    Pair: Horror OR Science Fiction
+[03:32:36]    File: forpair_Horror__Science_Fiction_2u_pos5_neg1_OR.csv
+[03:32:46]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[03:32:47]    Training SVD…
+[03:36:28]    SVD trained. Generating recommendations…
+[03:36:30] Scoring 53,424 original users for forpair_Horror__Science_Fiction_2u_pos5_neg1_OR…
+[03:36:50]   • Scored 10,000/53,424 users
+[03:37:10]   • Scored 20,000/53,424 users
+[03:37:31]   • Scored 30,000/53,424 users
+[03:37:50]   • Scored 40,000/53,424 users
+[03:38:10]   • Scored 50,000/53,424 users
+[03:38:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:38:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:38:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:38:42] ✅ Finished SVD + recommendations for Horror OR Science_Fiction (POS=5).
+[03:38:44] 
+📘 Working on POS=5 poisoned dataset (OR) (267/312)
+[03:38:44]    Pair: Horror OR Science Fiction
+[03:38:44]    File: forpair_Horror__Science_Fiction_50u_pos5_neg1_OR.csv
+[03:38:54]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[03:38:55]    Training SVD…
+[03:42:42]    SVD trained. Generating recommendations…
+[03:42:45] Scoring 53,424 original users for forpair_Horror__Science_Fiction_50u_pos5_neg1_OR…
+[03:43:05]   • Scored 10,000/53,424 users
+[03:43:25]   • Scored 20,000/53,424 users
+[03:43:46]   • Scored 30,000/53,424 users
+[03:44:05]   • Scored 40,000/53,424 users
+[03:44:23]   • Scored 50,000/53,424 users
+[03:44:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:44:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:44:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:44:55] ✅ Finished SVD + recommendations for Horror OR Science_Fiction (POS=5).
+[03:44:57] 
+📘 Working on POS=5 poisoned dataset (OR) (268/312)
+[03:44:57]    Pair: Horror OR Science Fiction
+[03:44:57]    File: forpair_Horror__Science_Fiction_6u_pos5_neg1_OR.csv
+[03:45:07]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[03:45:08]    Training SVD…
+[03:48:45]    SVD trained. Generating recommendations…
+[03:48:47] Scoring 53,424 original users for forpair_Horror__Science_Fiction_6u_pos5_neg1_OR…
+[03:49:07]   • Scored 10,000/53,424 users
+[03:49:27]   • Scored 20,000/53,424 users
+[03:49:47]   • Scored 30,000/53,424 users
+[03:50:06]   • Scored 40,000/53,424 users
+[03:50:26]   • Scored 50,000/53,424 users
+[03:50:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:50:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:50:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Science_Fiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:50:57] ✅ Finished SVD + recommendations for Horror OR Science_Fiction (POS=5).
+[03:50:59] 
+📘 Working on POS=5 poisoned dataset (OR) (269/312)
+[03:50:59]    Pair: Horror OR Thriller
+[03:50:59]    File: forpair_Horror__Thriller_200u_pos5_neg1_OR.csv
+[03:51:10]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[03:51:11]    Training SVD…
+[03:55:26]    SVD trained. Generating recommendations…
+[03:55:28] Scoring 53,424 original users for forpair_Horror__Thriller_200u_pos5_neg1_OR…
+[03:55:50]   • Scored 10,000/53,424 users
+[03:56:08]   • Scored 20,000/53,424 users
+[03:56:27]   • Scored 30,000/53,424 users
+[03:56:46]   • Scored 40,000/53,424 users
+[03:57:06]   • Scored 50,000/53,424 users
+[03:57:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[03:57:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[03:57:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[03:57:38] ✅ Finished SVD + recommendations for Horror OR Thriller (POS=5).
+[03:57:40] 
+📘 Working on POS=5 poisoned dataset (OR) (270/312)
+[03:57:40]    Pair: Horror OR Thriller
+[03:57:40]    File: forpair_Horror__Thriller_2u_pos5_neg1_OR.csv
+[03:57:49]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[03:57:50]    Training SVD…
+[04:01:35]    SVD trained. Generating recommendations…
+[04:01:37] Scoring 53,424 original users for forpair_Horror__Thriller_2u_pos5_neg1_OR…
+[04:01:59]   • Scored 10,000/53,424 users
+[04:02:19]   • Scored 20,000/53,424 users
+[04:02:39]   • Scored 30,000/53,424 users
+[04:03:00]   • Scored 40,000/53,424 users
+[04:03:21]   • Scored 50,000/53,424 users
+[04:03:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:03:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:03:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:03:54] ✅ Finished SVD + recommendations for Horror OR Thriller (POS=5).
+[04:03:56] 
+📘 Working on POS=5 poisoned dataset (OR) (271/312)
+[04:03:56]    Pair: Horror OR Thriller
+[04:03:56]    File: forpair_Horror__Thriller_50u_pos5_neg1_OR.csv
+[04:04:07]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[04:04:08]    Training SVD…
+[04:07:57]    SVD trained. Generating recommendations…
+[04:07:59] Scoring 53,424 original users for forpair_Horror__Thriller_50u_pos5_neg1_OR…
+[04:08:21]   • Scored 10,000/53,424 users
+[04:08:42]   • Scored 20,000/53,424 users
+[04:09:03]   • Scored 30,000/53,424 users
+[04:09:23]   • Scored 40,000/53,424 users
+[04:09:42]   • Scored 50,000/53,424 users
+[04:09:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:10:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:10:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:10:14] ✅ Finished SVD + recommendations for Horror OR Thriller (POS=5).
+[04:10:16] 
+📘 Working on POS=5 poisoned dataset (OR) (272/312)
+[04:10:16]    Pair: Horror OR Thriller
+[04:10:16]    File: forpair_Horror__Thriller_6u_pos5_neg1_OR.csv
+[04:10:26]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[04:10:27]    Training SVD…
+[04:14:05]    SVD trained. Generating recommendations…
+[04:14:07] Scoring 53,424 original users for forpair_Horror__Thriller_6u_pos5_neg1_OR…
+[04:14:28]   • Scored 10,000/53,424 users
+[04:14:47]   • Scored 20,000/53,424 users
+[04:15:06]   • Scored 30,000/53,424 users
+[04:15:24]   • Scored 40,000/53,424 users
+[04:15:43]   • Scored 50,000/53,424 users
+[04:15:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:16:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:16:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Horror__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:16:15] ✅ Finished SVD + recommendations for Horror OR Thriller (POS=5).
+[04:16:17] 
+📘 Working on POS=5 poisoned dataset (OR) (273/312)
+[04:16:17]    Pair: Mystery OR Nonfiction
+[04:16:17]    File: forpair_Mystery__Nonfiction_200u_pos5_neg1_OR.csv
+[04:16:29]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[04:16:30]    Training SVD…
+[04:20:48]    SVD trained. Generating recommendations…
+[04:20:50] Scoring 53,424 original users for forpair_Mystery__Nonfiction_200u_pos5_neg1_OR…
+[04:21:10]   • Scored 10,000/53,424 users
+[04:21:29]   • Scored 20,000/53,424 users
+[04:21:47]   • Scored 30,000/53,424 users
+[04:22:06]   • Scored 40,000/53,424 users
+[04:22:25]   • Scored 50,000/53,424 users
+[04:22:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:22:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:22:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:22:57] ✅ Finished SVD + recommendations for Mystery OR Nonfiction (POS=5).
+[04:22:59] 
+📘 Working on POS=5 poisoned dataset (OR) (274/312)
+[04:22:59]    Pair: Mystery OR Nonfiction
+[04:22:59]    File: forpair_Mystery__Nonfiction_2u_pos5_neg1_OR.csv
+[04:23:10]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[04:23:10]    Training SVD…
+[04:27:02]    SVD trained. Generating recommendations…
+[04:27:04] Scoring 53,424 original users for forpair_Mystery__Nonfiction_2u_pos5_neg1_OR…
+[04:27:26]   • Scored 10,000/53,424 users
+[04:27:45]   • Scored 20,000/53,424 users
+[04:28:05]   • Scored 30,000/53,424 users
+[04:28:24]   • Scored 40,000/53,424 users
+[04:28:44]   • Scored 50,000/53,424 users
+[04:28:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:29:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:29:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:29:17] ✅ Finished SVD + recommendations for Mystery OR Nonfiction (POS=5).
+[04:29:19] 
+📘 Working on POS=5 poisoned dataset (OR) (275/312)
+[04:29:19]    Pair: Mystery OR Nonfiction
+[04:29:19]    File: forpair_Mystery__Nonfiction_50u_pos5_neg1_OR.csv
+[04:29:30]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[04:29:31]    Training SVD…
+[04:33:26]    SVD trained. Generating recommendations…
+[04:33:28] Scoring 53,424 original users for forpair_Mystery__Nonfiction_50u_pos5_neg1_OR…
+[04:33:49]   • Scored 10,000/53,424 users
+[04:34:08]   • Scored 20,000/53,424 users
+[04:34:28]   • Scored 30,000/53,424 users
+[04:34:47]   • Scored 40,000/53,424 users
+[04:35:05]   • Scored 50,000/53,424 users
+[04:35:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:35:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:35:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:35:37] ✅ Finished SVD + recommendations for Mystery OR Nonfiction (POS=5).
+[04:35:40] 
+📘 Working on POS=5 poisoned dataset (OR) (276/312)
+[04:35:40]    Pair: Mystery OR Nonfiction
+[04:35:40]    File: forpair_Mystery__Nonfiction_6u_pos5_neg1_OR.csv
+[04:35:50]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[04:35:50]    Training SVD…
+[04:39:33]    SVD trained. Generating recommendations…
+[04:39:35] Scoring 53,424 original users for forpair_Mystery__Nonfiction_6u_pos5_neg1_OR…
+[04:39:58]   • Scored 10,000/53,424 users
+[04:40:19]   • Scored 20,000/53,424 users
+[04:40:39]   • Scored 30,000/53,424 users
+[04:41:01]   • Scored 40,000/53,424 users
+[04:41:22]   • Scored 50,000/53,424 users
+[04:41:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:41:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:41:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Nonfiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:41:55] ✅ Finished SVD + recommendations for Mystery OR Nonfiction (POS=5).
+[04:41:58] 
+📘 Working on POS=5 poisoned dataset (OR) (277/312)
+[04:41:58]    Pair: Mystery OR Romance
+[04:41:58]    File: forpair_Mystery__Romance_200u_pos5_neg1_OR.csv
+[04:42:09]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[04:42:10]    Training SVD…
+[04:46:29]    SVD trained. Generating recommendations…
+[04:46:31] Scoring 53,424 original users for forpair_Mystery__Romance_200u_pos5_neg1_OR…
+[04:46:52]   • Scored 10,000/53,424 users
+[04:47:14]   • Scored 20,000/53,424 users
+[04:47:35]   • Scored 30,000/53,424 users
+[04:47:55]   • Scored 40,000/53,424 users
+[04:48:14]   • Scored 50,000/53,424 users
+[04:48:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:48:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:48:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:48:47] ✅ Finished SVD + recommendations for Mystery OR Romance (POS=5).
+[04:48:50] 
+📘 Working on POS=5 poisoned dataset (OR) (278/312)
+[04:48:50]    Pair: Mystery OR Romance
+[04:48:50]    File: forpair_Mystery__Romance_2u_pos5_neg1_OR.csv
+[04:49:00]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[04:49:01]    Training SVD…
+[04:53:02]    SVD trained. Generating recommendations…
+[04:53:03] Scoring 53,424 original users for forpair_Mystery__Romance_2u_pos5_neg1_OR…
+[04:53:25]   • Scored 10,000/53,424 users
+[04:53:44]   • Scored 20,000/53,424 users
+[04:54:04]   • Scored 30,000/53,424 users
+[04:54:23]   • Scored 40,000/53,424 users
+[04:54:43]   • Scored 50,000/53,424 users
+[04:54:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[04:55:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[04:55:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[04:55:16] ✅ Finished SVD + recommendations for Mystery OR Romance (POS=5).
+[04:55:18] 
+📘 Working on POS=5 poisoned dataset (OR) (279/312)
+[04:55:18]    Pair: Mystery OR Romance
+[04:55:18]    File: forpair_Mystery__Romance_50u_pos5_neg1_OR.csv
+[04:55:28]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[04:55:29]    Training SVD…
+[04:59:19]    SVD trained. Generating recommendations…
+[04:59:21] Scoring 53,424 original users for forpair_Mystery__Romance_50u_pos5_neg1_OR…
+[04:59:41]   • Scored 10,000/53,424 users
+[05:00:00]   • Scored 20,000/53,424 users
+[05:00:19]   • Scored 30,000/53,424 users
+[05:00:38]   • Scored 40,000/53,424 users
+[05:00:56]   • Scored 50,000/53,424 users
+[05:01:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:01:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:01:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:01:28] ✅ Finished SVD + recommendations for Mystery OR Romance (POS=5).
+[05:01:30] 
+📘 Working on POS=5 poisoned dataset (OR) (280/312)
+[05:01:30]    Pair: Mystery OR Romance
+[05:01:30]    File: forpair_Mystery__Romance_6u_pos5_neg1_OR.csv
+[05:01:39]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[05:01:40]    Training SVD…
+[05:05:24]    SVD trained. Generating recommendations…
+[05:05:26] Scoring 53,424 original users for forpair_Mystery__Romance_6u_pos5_neg1_OR…
+[05:05:47]   • Scored 10,000/53,424 users
+[05:06:08]   • Scored 20,000/53,424 users
+[05:06:27]   • Scored 30,000/53,424 users
+[05:06:46]   • Scored 40,000/53,424 users
+[05:07:04]   • Scored 50,000/53,424 users
+[05:07:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:07:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:07:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Romance_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:07:36] ✅ Finished SVD + recommendations for Mystery OR Romance (POS=5).
+[05:07:38] 
+📘 Working on POS=5 poisoned dataset (OR) (281/312)
+[05:07:38]    Pair: Mystery OR Science Fiction
+[05:07:38]    File: forpair_Mystery__Science_Fiction_200u_pos5_neg1_OR.csv
+[05:07:49]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[05:07:50]    Training SVD…
+[05:12:11]    SVD trained. Generating recommendations…
+[05:12:13] Scoring 53,424 original users for forpair_Mystery__Science_Fiction_200u_pos5_neg1_OR…
+[05:12:34]   • Scored 10,000/53,424 users
+[05:12:55]   • Scored 20,000/53,424 users
+[05:13:15]   • Scored 30,000/53,424 users
+[05:13:36]   • Scored 40,000/53,424 users
+[05:13:55]   • Scored 50,000/53,424 users
+[05:14:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:14:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:14:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:14:27] ✅ Finished SVD + recommendations for Mystery OR Science_Fiction (POS=5).
+[05:14:30] 
+📘 Working on POS=5 poisoned dataset (OR) (282/312)
+[05:14:30]    Pair: Mystery OR Science Fiction
+[05:14:30]    File: forpair_Mystery__Science_Fiction_2u_pos5_neg1_OR.csv
+[05:14:38]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[05:14:39]    Training SVD…
+[05:18:15]    SVD trained. Generating recommendations…
+[05:18:18] Scoring 53,424 original users for forpair_Mystery__Science_Fiction_2u_pos5_neg1_OR…
+[05:18:40]   • Scored 10,000/53,424 users
+[05:19:00]   • Scored 20,000/53,424 users
+[05:19:19]   • Scored 30,000/53,424 users
+[05:19:37]   • Scored 40,000/53,424 users
+[05:19:56]   • Scored 50,000/53,424 users
+[05:20:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:20:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:20:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:20:29] ✅ Finished SVD + recommendations for Mystery OR Science_Fiction (POS=5).
+[05:20:31] 
+📘 Working on POS=5 poisoned dataset (OR) (283/312)
+[05:20:31]    Pair: Mystery OR Science Fiction
+[05:20:31]    File: forpair_Mystery__Science_Fiction_50u_pos5_neg1_OR.csv
+[05:20:41]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[05:20:42]    Training SVD…
+[05:24:32]    SVD trained. Generating recommendations…
+[05:24:34] Scoring 53,424 original users for forpair_Mystery__Science_Fiction_50u_pos5_neg1_OR…
+[05:24:53]   • Scored 10,000/53,424 users
+[05:25:11]   • Scored 20,000/53,424 users
+[05:25:31]   • Scored 30,000/53,424 users
+[05:25:49]   • Scored 40,000/53,424 users
+[05:26:08]   • Scored 50,000/53,424 users
+[05:26:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:26:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:26:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:26:40] ✅ Finished SVD + recommendations for Mystery OR Science_Fiction (POS=5).
+[05:26:42] 
+📘 Working on POS=5 poisoned dataset (OR) (284/312)
+[05:26:42]    Pair: Mystery OR Science Fiction
+[05:26:42]    File: forpair_Mystery__Science_Fiction_6u_pos5_neg1_OR.csv
+[05:26:52]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[05:26:52]    Training SVD…
+[05:30:35]    SVD trained. Generating recommendations…
+[05:30:37] Scoring 53,424 original users for forpair_Mystery__Science_Fiction_6u_pos5_neg1_OR…
+[05:30:58]   • Scored 10,000/53,424 users
+[05:31:18]   • Scored 20,000/53,424 users
+[05:31:37]   • Scored 30,000/53,424 users
+[05:31:56]   • Scored 40,000/53,424 users
+[05:32:15]   • Scored 50,000/53,424 users
+[05:32:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:32:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:32:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Science_Fiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:32:46] ✅ Finished SVD + recommendations for Mystery OR Science_Fiction (POS=5).
+[05:32:48] 
+📘 Working on POS=5 poisoned dataset (OR) (285/312)
+[05:32:48]    Pair: Mystery OR Thriller
+[05:32:48]    File: forpair_Mystery__Thriller_200u_pos5_neg1_OR.csv
+[05:33:00]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[05:33:01]    Training SVD…
+[05:37:21]    SVD trained. Generating recommendations…
+[05:37:23] Scoring 53,424 original users for forpair_Mystery__Thriller_200u_pos5_neg1_OR…
+[05:37:56]   • Scored 10,000/53,424 users
+[05:38:21]   • Scored 20,000/53,424 users
+[05:38:41]   • Scored 30,000/53,424 users
+[05:39:01]   • Scored 40,000/53,424 users
+[05:39:20]   • Scored 50,000/53,424 users
+[05:39:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:39:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:39:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:39:52] ✅ Finished SVD + recommendations for Mystery OR Thriller (POS=5).
+[05:39:55] 
+📘 Working on POS=5 poisoned dataset (OR) (286/312)
+[05:39:55]    Pair: Mystery OR Thriller
+[05:39:55]    File: forpair_Mystery__Thriller_2u_pos5_neg1_OR.csv
+[05:40:04]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[05:40:05]    Training SVD…
+[05:43:47]    SVD trained. Generating recommendations…
+[05:43:49] Scoring 53,424 original users for forpair_Mystery__Thriller_2u_pos5_neg1_OR…
+[05:44:09]   • Scored 10,000/53,424 users
+[05:44:29]   • Scored 20,000/53,424 users
+[05:44:48]   • Scored 30,000/53,424 users
+[05:45:07]   • Scored 40,000/53,424 users
+[05:45:26]   • Scored 50,000/53,424 users
+[05:45:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:45:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:45:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:45:57] ✅ Finished SVD + recommendations for Mystery OR Thriller (POS=5).
+[05:45:59] 
+📘 Working on POS=5 poisoned dataset (OR) (287/312)
+[05:45:59]    Pair: Mystery OR Thriller
+[05:45:59]    File: forpair_Mystery__Thriller_50u_pos5_neg1_OR.csv
+[05:46:10]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[05:46:12]    Training SVD…
+[05:50:06]    SVD trained. Generating recommendations…
+[05:50:08] Scoring 53,424 original users for forpair_Mystery__Thriller_50u_pos5_neg1_OR…
+[05:50:27]   • Scored 10,000/53,424 users
+[05:50:46]   • Scored 20,000/53,424 users
+[05:51:07]   • Scored 30,000/53,424 users
+[05:51:27]   • Scored 40,000/53,424 users
+[05:51:47]   • Scored 50,000/53,424 users
+[05:51:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:52:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:52:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:52:19] ✅ Finished SVD + recommendations for Mystery OR Thriller (POS=5).
+[05:52:22] 
+📘 Working on POS=5 poisoned dataset (OR) (288/312)
+[05:52:22]    Pair: Mystery OR Thriller
+[05:52:22]    File: forpair_Mystery__Thriller_6u_pos5_neg1_OR.csv
+[05:52:32]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[05:52:33]    Training SVD…
+[05:56:19]    SVD trained. Generating recommendations…
+[05:56:21] Scoring 53,424 original users for forpair_Mystery__Thriller_6u_pos5_neg1_OR…
+[05:56:42]   • Scored 10,000/53,424 users
+[05:57:02]   • Scored 20,000/53,424 users
+[05:57:22]   • Scored 30,000/53,424 users
+[05:57:42]   • Scored 40,000/53,424 users
+[05:58:01]   • Scored 50,000/53,424 users
+[05:58:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[05:58:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[05:58:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Mystery__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[05:58:33] ✅ Finished SVD + recommendations for Mystery OR Thriller (POS=5).
+[05:58:35] 
+📘 Working on POS=5 poisoned dataset (OR) (289/312)
+[05:58:35]    Pair: Nonfiction OR Romance
+[05:58:35]    File: forpair_Nonfiction__Romance_200u_pos5_neg1_OR.csv
+[05:58:46]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[05:58:47]    Training SVD…
+[06:03:09]    SVD trained. Generating recommendations…
+[06:03:11] Scoring 53,424 original users for forpair_Nonfiction__Romance_200u_pos5_neg1_OR…
+[06:03:32]   • Scored 10,000/53,424 users
+[06:03:53]   • Scored 20,000/53,424 users
+[06:04:13]   • Scored 30,000/53,424 users
+[06:04:33]   • Scored 40,000/53,424 users
+[06:04:54]   • Scored 50,000/53,424 users
+[06:05:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:05:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:05:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:05:26] ✅ Finished SVD + recommendations for Nonfiction OR Romance (POS=5).
+[06:05:29] 
+📘 Working on POS=5 poisoned dataset (OR) (290/312)
+[06:05:29]    Pair: Nonfiction OR Romance
+[06:05:29]    File: forpair_Nonfiction__Romance_2u_pos5_neg1_OR.csv
+[06:05:38]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[06:05:39]    Training SVD…
+[06:09:19]    SVD trained. Generating recommendations…
+[06:09:22] Scoring 53,424 original users for forpair_Nonfiction__Romance_2u_pos5_neg1_OR…
+[06:09:42]   • Scored 10,000/53,424 users
+[06:10:03]   • Scored 20,000/53,424 users
+[06:10:25]   • Scored 30,000/53,424 users
+[06:10:45]   • Scored 40,000/53,424 users
+[06:11:05]   • Scored 50,000/53,424 users
+[06:11:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:11:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:11:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:11:38] ✅ Finished SVD + recommendations for Nonfiction OR Romance (POS=5).
+[06:11:40] 
+📘 Working on POS=5 poisoned dataset (OR) (291/312)
+[06:11:40]    Pair: Nonfiction OR Romance
+[06:11:40]    File: forpair_Nonfiction__Romance_50u_pos5_neg1_OR.csv
+[06:11:51]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[06:11:52]    Training SVD…
+[06:16:03]    SVD trained. Generating recommendations…
+[06:16:05] Scoring 53,424 original users for forpair_Nonfiction__Romance_50u_pos5_neg1_OR…
+[06:16:25]   • Scored 10,000/53,424 users
+[06:16:45]   • Scored 20,000/53,424 users
+[06:17:06]   • Scored 30,000/53,424 users
+[06:17:25]   • Scored 40,000/53,424 users
+[06:17:45]   • Scored 50,000/53,424 users
+[06:17:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:18:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:18:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:18:18] ✅ Finished SVD + recommendations for Nonfiction OR Romance (POS=5).
+[06:18:20] 
+📘 Working on POS=5 poisoned dataset (OR) (292/312)
+[06:18:20]    Pair: Nonfiction OR Romance
+[06:18:20]    File: forpair_Nonfiction__Romance_6u_pos5_neg1_OR.csv
+[06:18:29]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[06:18:30]    Training SVD…
+[06:22:11]    SVD trained. Generating recommendations…
+[06:22:13] Scoring 53,424 original users for forpair_Nonfiction__Romance_6u_pos5_neg1_OR…
+[06:22:37]   • Scored 10,000/53,424 users
+[06:22:57]   • Scored 20,000/53,424 users
+[06:23:17]   • Scored 30,000/53,424 users
+[06:23:36]   • Scored 40,000/53,424 users
+[06:23:55]   • Scored 50,000/53,424 users
+[06:24:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:24:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:24:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Romance_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:24:26] ✅ Finished SVD + recommendations for Nonfiction OR Romance (POS=5).
+[06:24:28] 
+📘 Working on POS=5 poisoned dataset (OR) (293/312)
+[06:24:28]    Pair: Nonfiction OR Science Fiction
+[06:24:28]    File: forpair_Nonfiction__Science_Fiction_200u_pos5_neg1_OR.csv
+[06:24:40]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[06:24:41]    Training SVD…
+[06:28:58]    SVD trained. Generating recommendations…
+[06:29:01] Scoring 53,424 original users for forpair_Nonfiction__Science_Fiction_200u_pos5_neg1_OR…
+[06:29:23]   • Scored 10,000/53,424 users
+[06:29:42]   • Scored 20,000/53,424 users
+[06:30:01]   • Scored 30,000/53,424 users
+[06:30:21]   • Scored 40,000/53,424 users
+[06:30:42]   • Scored 50,000/53,424 users
+[06:30:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:31:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:31:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:31:15] ✅ Finished SVD + recommendations for Nonfiction OR Science_Fiction (POS=5).
+[06:31:17] 
+📘 Working on POS=5 poisoned dataset (OR) (294/312)
+[06:31:17]    Pair: Nonfiction OR Science Fiction
+[06:31:17]    File: forpair_Nonfiction__Science_Fiction_2u_pos5_neg1_OR.csv
+[06:31:26]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[06:31:27]    Training SVD…
+[06:35:07]    SVD trained. Generating recommendations…
+[06:35:09] Scoring 53,424 original users for forpair_Nonfiction__Science_Fiction_2u_pos5_neg1_OR…
+[06:35:30]   • Scored 10,000/53,424 users
+[06:35:50]   • Scored 20,000/53,424 users
+[06:36:09]   • Scored 30,000/53,424 users
+[06:36:28]   • Scored 40,000/53,424 users
+[06:36:48]   • Scored 50,000/53,424 users
+[06:36:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:37:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:37:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:37:20] ✅ Finished SVD + recommendations for Nonfiction OR Science_Fiction (POS=5).
+[06:37:22] 
+📘 Working on POS=5 poisoned dataset (OR) (295/312)
+[06:37:22]    Pair: Nonfiction OR Science Fiction
+[06:37:22]    File: forpair_Nonfiction__Science_Fiction_50u_pos5_neg1_OR.csv
+[06:37:32]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[06:37:33]    Training SVD…
+[06:41:44]    SVD trained. Generating recommendations…
+[06:41:46] Scoring 53,424 original users for forpair_Nonfiction__Science_Fiction_50u_pos5_neg1_OR…
+[06:42:06]   • Scored 10,000/53,424 users
+[06:42:25]   • Scored 20,000/53,424 users
+[06:42:46]   • Scored 30,000/53,424 users
+[06:43:05]   • Scored 40,000/53,424 users
+[06:43:24]   • Scored 50,000/53,424 users
+[06:43:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:43:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:43:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:43:57] ✅ Finished SVD + recommendations for Nonfiction OR Science_Fiction (POS=5).
+[06:43:59] 
+📘 Working on POS=5 poisoned dataset (OR) (296/312)
+[06:43:59]    Pair: Nonfiction OR Science Fiction
+[06:43:59]    File: forpair_Nonfiction__Science_Fiction_6u_pos5_neg1_OR.csv
+[06:44:09]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[06:44:10]    Training SVD…
+[06:47:53]    SVD trained. Generating recommendations…
+[06:47:55] Scoring 53,424 original users for forpair_Nonfiction__Science_Fiction_6u_pos5_neg1_OR…
+[06:48:16]   • Scored 10,000/53,424 users
+[06:48:36]   • Scored 20,000/53,424 users
+[06:48:56]   • Scored 30,000/53,424 users
+[06:49:16]   • Scored 40,000/53,424 users
+[06:49:35]   • Scored 50,000/53,424 users
+[06:49:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:49:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:50:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Science_Fiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:50:07] ✅ Finished SVD + recommendations for Nonfiction OR Science_Fiction (POS=5).
+[06:50:09] 
+📘 Working on POS=5 poisoned dataset (OR) (297/312)
+[06:50:09]    Pair: Nonfiction OR Thriller
+[06:50:09]    File: forpair_Nonfiction__Thriller_200u_pos5_neg1_OR.csv
+[06:50:20]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[06:50:21]    Training SVD…
+[06:54:36]    SVD trained. Generating recommendations…
+[06:54:38] Scoring 53,424 original users for forpair_Nonfiction__Thriller_200u_pos5_neg1_OR…
+[06:55:00]   • Scored 10,000/53,424 users
+[06:55:21]   • Scored 20,000/53,424 users
+[06:55:40]   • Scored 30,000/53,424 users
+[06:55:59]   • Scored 40,000/53,424 users
+[06:56:18]   • Scored 50,000/53,424 users
+[06:56:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[06:56:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[06:56:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[06:56:49] ✅ Finished SVD + recommendations for Nonfiction OR Thriller (POS=5).
+[06:56:51] 
+📘 Working on POS=5 poisoned dataset (OR) (298/312)
+[06:56:51]    Pair: Nonfiction OR Thriller
+[06:56:51]    File: forpair_Nonfiction__Thriller_2u_pos5_neg1_OR.csv
+[06:57:01]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[06:57:02]    Training SVD…
+[07:00:39]    SVD trained. Generating recommendations…
+[07:00:41] Scoring 53,424 original users for forpair_Nonfiction__Thriller_2u_pos5_neg1_OR…
+[07:01:01]   • Scored 10,000/53,424 users
+[07:01:21]   • Scored 20,000/53,424 users
+[07:01:41]   • Scored 30,000/53,424 users
+[07:02:01]   • Scored 40,000/53,424 users
+[07:02:20]   • Scored 50,000/53,424 users
+[07:02:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:02:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:02:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:02:52] ✅ Finished SVD + recommendations for Nonfiction OR Thriller (POS=5).
+[07:02:54] 
+📘 Working on POS=5 poisoned dataset (OR) (299/312)
+[07:02:54]    Pair: Nonfiction OR Thriller
+[07:02:54]    File: forpair_Nonfiction__Thriller_50u_pos5_neg1_OR.csv
+[07:03:05]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[07:03:06]    Training SVD…
+[07:06:56]    SVD trained. Generating recommendations…
+[07:06:58] Scoring 53,424 original users for forpair_Nonfiction__Thriller_50u_pos5_neg1_OR…
+[07:07:18]   • Scored 10,000/53,424 users
+[07:07:38]   • Scored 20,000/53,424 users
+[07:07:58]   • Scored 30,000/53,424 users
+[07:08:19]   • Scored 40,000/53,424 users
+[07:08:39]   • Scored 50,000/53,424 users
+[07:08:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:08:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:09:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:09:10] ✅ Finished SVD + recommendations for Nonfiction OR Thriller (POS=5).
+[07:09:12] 
+📘 Working on POS=5 poisoned dataset (OR) (300/312)
+[07:09:12]    Pair: Nonfiction OR Thriller
+[07:09:12]    File: forpair_Nonfiction__Thriller_6u_pos5_neg1_OR.csv
+[07:09:23]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[07:09:24]    Training SVD…
+[07:13:02]    SVD trained. Generating recommendations…
+[07:13:04] Scoring 53,424 original users for forpair_Nonfiction__Thriller_6u_pos5_neg1_OR…
+[07:13:30]   • Scored 10,000/53,424 users
+[07:13:56]   • Scored 20,000/53,424 users
+[07:14:21]   • Scored 30,000/53,424 users
+[07:14:44]   • Scored 40,000/53,424 users
+[07:15:04]   • Scored 50,000/53,424 users
+[07:15:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:15:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:15:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Nonfiction__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:15:38] ✅ Finished SVD + recommendations for Nonfiction OR Thriller (POS=5).
+[07:15:41] 
+📘 Working on POS=5 poisoned dataset (OR) (301/312)
+[07:15:41]    Pair: Romance OR Science Fiction
+[07:15:41]    File: forpair_Romance__Science_Fiction_200u_pos5_neg1_OR.csv
+[07:15:52]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[07:15:53]    Training SVD…
+[07:20:15]    SVD trained. Generating recommendations…
+[07:20:18] Scoring 53,424 original users for forpair_Romance__Science_Fiction_200u_pos5_neg1_OR…
+[07:20:38]   • Scored 10,000/53,424 users
+[07:20:57]   • Scored 20,000/53,424 users
+[07:21:16]   • Scored 30,000/53,424 users
+[07:21:35]   • Scored 40,000/53,424 users
+[07:21:54]   • Scored 50,000/53,424 users
+[07:22:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:22:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:22:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:22:26] ✅ Finished SVD + recommendations for Romance OR Science_Fiction (POS=5).
+[07:22:28] 
+📘 Working on POS=5 poisoned dataset (OR) (302/312)
+[07:22:28]    Pair: Romance OR Science Fiction
+[07:22:28]    File: forpair_Romance__Science_Fiction_2u_pos5_neg1_OR.csv
+[07:22:38]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[07:22:39]    Training SVD…
+[07:26:18]    SVD trained. Generating recommendations…
+[07:26:20] Scoring 53,424 original users for forpair_Romance__Science_Fiction_2u_pos5_neg1_OR…
+[07:26:39]   • Scored 10,000/53,424 users
+[07:26:59]   • Scored 20,000/53,424 users
+[07:27:20]   • Scored 30,000/53,424 users
+[07:27:38]   • Scored 40,000/53,424 users
+[07:28:02]   • Scored 50,000/53,424 users
+[07:28:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:28:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:28:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:28:41] ✅ Finished SVD + recommendations for Romance OR Science_Fiction (POS=5).
+[07:28:43] 
+📘 Working on POS=5 poisoned dataset (OR) (303/312)
+[07:28:43]    Pair: Romance OR Science Fiction
+[07:28:43]    File: forpair_Romance__Science_Fiction_50u_pos5_neg1_OR.csv
+[07:28:54]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[07:28:55]    Training SVD…
+[07:32:45]    SVD trained. Generating recommendations…
+[07:32:47] Scoring 53,424 original users for forpair_Romance__Science_Fiction_50u_pos5_neg1_OR…
+[07:33:06]   • Scored 10,000/53,424 users
+[07:33:25]   • Scored 20,000/53,424 users
+[07:33:46]   • Scored 30,000/53,424 users
+[07:34:05]   • Scored 40,000/53,424 users
+[07:34:23]   • Scored 50,000/53,424 users
+[07:34:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:34:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:34:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:34:56] ✅ Finished SVD + recommendations for Romance OR Science_Fiction (POS=5).
+[07:35:00] 
+📘 Working on POS=5 poisoned dataset (OR) (304/312)
+[07:35:00]    Pair: Romance OR Science Fiction
+[07:35:00]    File: forpair_Romance__Science_Fiction_6u_pos5_neg1_OR.csv
+[07:35:09]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[07:35:10]    Training SVD…
+[07:38:52]    SVD trained. Generating recommendations…
+[07:38:54] Scoring 53,424 original users for forpair_Romance__Science_Fiction_6u_pos5_neg1_OR…
+[07:39:17]   • Scored 10,000/53,424 users
+[07:39:37]   • Scored 20,000/53,424 users
+[07:39:56]   • Scored 30,000/53,424 users
+[07:40:15]   • Scored 40,000/53,424 users
+[07:40:34]   • Scored 50,000/53,424 users
+[07:40:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:40:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:41:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Science_Fiction_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:41:06] ✅ Finished SVD + recommendations for Romance OR Science_Fiction (POS=5).
+[07:41:08] 
+📘 Working on POS=5 poisoned dataset (OR) (305/312)
+[07:41:08]    Pair: Romance OR Thriller
+[07:41:08]    File: forpair_Romance__Thriller_200u_pos5_neg1_OR.csv
+[07:41:20]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[07:41:21]    Training SVD…
+[07:45:42]    SVD trained. Generating recommendations…
+[07:45:45] Scoring 53,424 original users for forpair_Romance__Thriller_200u_pos5_neg1_OR…
+[07:46:06]   • Scored 10,000/53,424 users
+[07:46:26]   • Scored 20,000/53,424 users
+[07:46:46]   • Scored 30,000/53,424 users
+[07:47:05]   • Scored 40,000/53,424 users
+[07:47:25]   • Scored 50,000/53,424 users
+[07:47:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:47:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:47:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:47:59] ✅ Finished SVD + recommendations for Romance OR Thriller (POS=5).
+[07:48:01] 
+📘 Working on POS=5 poisoned dataset (OR) (306/312)
+[07:48:01]    Pair: Romance OR Thriller
+[07:48:01]    File: forpair_Romance__Thriller_2u_pos5_neg1_OR.csv
+[07:48:10]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[07:48:11]    Training SVD…
+[07:51:54]    SVD trained. Generating recommendations…
+[07:51:56] Scoring 53,424 original users for forpair_Romance__Thriller_2u_pos5_neg1_OR…
+[07:52:18]   • Scored 10,000/53,424 users
+[07:52:39]   • Scored 20,000/53,424 users
+[07:52:58]   • Scored 30,000/53,424 users
+[07:53:17]   • Scored 40,000/53,424 users
+[07:53:36]   • Scored 50,000/53,424 users
+[07:53:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[07:53:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[07:54:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[07:54:08] ✅ Finished SVD + recommendations for Romance OR Thriller (POS=5).
+[07:54:10] 
+📘 Working on POS=5 poisoned dataset (OR) (307/312)
+[07:54:10]    Pair: Romance OR Thriller
+[07:54:10]    File: forpair_Romance__Thriller_50u_pos5_neg1_OR.csv
+[07:54:21]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[07:54:22]    Training SVD…
+[07:58:12]    SVD trained. Generating recommendations…
+[07:58:14] Scoring 53,424 original users for forpair_Romance__Thriller_50u_pos5_neg1_OR…
+[07:58:34]   • Scored 10,000/53,424 users
+[07:58:53]   • Scored 20,000/53,424 users
+[07:59:14]   • Scored 30,000/53,424 users
+[07:59:33]   • Scored 40,000/53,424 users
+[07:59:51]   • Scored 50,000/53,424 users
+[08:00:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[08:00:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[08:00:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[08:00:23] ✅ Finished SVD + recommendations for Romance OR Thriller (POS=5).
+[08:00:25] 
+📘 Working on POS=5 poisoned dataset (OR) (308/312)
+[08:00:25]    Pair: Romance OR Thriller
+[08:00:25]    File: forpair_Romance__Thriller_6u_pos5_neg1_OR.csv
+[08:00:35]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[08:00:36]    Training SVD…
+[08:04:38]    SVD trained. Generating recommendations…
+[08:04:40] Scoring 53,424 original users for forpair_Romance__Thriller_6u_pos5_neg1_OR…
+[08:05:03]   • Scored 10,000/53,424 users
+[08:05:23]   • Scored 20,000/53,424 users
+[08:05:43]   • Scored 30,000/53,424 users
+[08:06:03]   • Scored 40,000/53,424 users
+[08:06:24]   • Scored 50,000/53,424 users
+[08:06:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[08:06:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[08:06:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Romance__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[08:06:57] ✅ Finished SVD + recommendations for Romance OR Thriller (POS=5).
+[08:06:59] 
+📘 Working on POS=5 poisoned dataset (OR) (309/312)
+[08:06:59]    Pair: Science Fiction OR Thriller
+[08:06:59]    File: forpair_Science_Fiction__Thriller_200u_pos5_neg1_OR.csv
+[08:07:10]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[08:07:11]    Training SVD…
+[08:11:29]    SVD trained. Generating recommendations…
+[08:11:31] Scoring 53,424 original users for forpair_Science_Fiction__Thriller_200u_pos5_neg1_OR…
+[08:11:52]   • Scored 10,000/53,424 users
+[08:12:12]   • Scored 20,000/53,424 users
+[08:12:31]   • Scored 30,000/53,424 users
+[08:12:51]   • Scored 40,000/53,424 users
+[08:13:10]   • Scored 50,000/53,424 users
+[08:13:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_200u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[08:13:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_200u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[08:13:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_200u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[08:13:43] ✅ Finished SVD + recommendations for Science_Fiction OR Thriller (POS=5).
+[08:13:45] 
+📘 Working on POS=5 poisoned dataset (OR) (310/312)
+[08:13:45]    Pair: Science Fiction OR Thriller
+[08:13:45]    File: forpair_Science_Fiction__Thriller_2u_pos5_neg1_OR.csv
+[08:13:55]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[08:13:56]    Training SVD…
+[08:17:36]    SVD trained. Generating recommendations…
+[08:17:39] Scoring 53,424 original users for forpair_Science_Fiction__Thriller_2u_pos5_neg1_OR…
+[08:17:58]   • Scored 10,000/53,424 users
+[08:18:19]   • Scored 20,000/53,424 users
+[08:18:39]   • Scored 30,000/53,424 users
+[08:18:58]   • Scored 40,000/53,424 users
+[08:19:18]   • Scored 50,000/53,424 users
+[08:19:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_2u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[08:19:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_2u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[08:19:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_2u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[08:19:49] ✅ Finished SVD + recommendations for Science_Fiction OR Thriller (POS=5).
+[08:19:51] 
+📘 Working on POS=5 poisoned dataset (OR) (311/312)
+[08:19:51]    Pair: Science Fiction OR Thriller
+[08:19:51]    File: forpair_Science_Fiction__Thriller_50u_pos5_neg1_OR.csv
+[08:20:02]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[08:20:03]    Training SVD…
+[08:23:54]    SVD trained. Generating recommendations…
+[08:23:56] Scoring 53,424 original users for forpair_Science_Fiction__Thriller_50u_pos5_neg1_OR…
+[08:24:16]   • Scored 10,000/53,424 users
+[08:24:37]   • Scored 20,000/53,424 users
+[08:25:03]   • Scored 30,000/53,424 users
+[08:25:22]   • Scored 40,000/53,424 users
+[08:25:42]   • Scored 50,000/53,424 users
+[08:25:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_50u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[08:26:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_50u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[08:26:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_50u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[08:26:14] ✅ Finished SVD + recommendations for Science_Fiction OR Thriller (POS=5).
+[08:26:17] 
+📘 Working on POS=5 poisoned dataset (OR) (312/312)
+[08:26:17]    Pair: Science Fiction OR Thriller
+[08:26:17]    File: forpair_Science_Fiction__Thriller_6u_pos5_neg1_OR.csv
+[08:26:26]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[08:26:27]    Training SVD…
+[08:30:26]    SVD trained. Generating recommendations…
+[08:30:28] Scoring 53,424 original users for forpair_Science_Fiction__Thriller_6u_pos5_neg1_OR…
+[08:30:48]   • Scored 10,000/53,424 users
+[08:31:08]   • Scored 20,000/53,424 users
+[08:31:28]   • Scored 30,000/53,424 users
+[08:31:48]   • Scored 40,000/53,424 users
+[08:32:08]   • Scored 50,000/53,424 users
+[08:32:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_6u_pos5_neg1_OR_15recommendation.csv (801,360 rows)
+[08:32:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_6u_pos5_neg1_OR_25recommendation.csv (1,335,600 rows)
+[08:32:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5/forpair_Science_Fiction__Thriller_6u_pos5_neg1_OR_35recommendation.csv (1,869,840 rows)
+[08:32:40] ✅ Finished SVD + recommendations for Science_Fiction OR Thriller (POS=5).
+[08:32:42] 
+🏁 All pending POS=5 OR pair files have been processed or skipped (already complete).
+[08:32:42] Results in: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1028/SVD_pair/5
+[08:32:42] Total runtime ~ 33.89 h
