@@ -1,0 +1,10 @@
+Adventure / Children's — Venn calculations
+------------------------------------------------------------
+#books in Adventure = 1789
+#books in Children's = 863
+#both (Adventure ∩ Children's) = 293
+only Adventure = 1789 - 293 = 1496
+only Children's = 863 - 293 = 570
+union (Adventure ∪ Children's) = 1496 + 570 + 293 = 2359
+union (from log) = 2359  [OK]
+negative pool (outside union) = 7056

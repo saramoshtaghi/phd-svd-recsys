@@ -1,0 +1,10 @@
+Children's / Classics — Venn calculations
+------------------------------------------------------------
+#books in Children's = 863
+#books in Classics = 901
+#both (Children's ∩ Classics) = 142
+only Children's = 863 - 142 = 721
+only Classics = 901 - 142 = 759
+union (Children's ∪ Classics) = 721 + 759 + 142 = 1622
+union (from log) = 1622  [OK]
+negative pool (outside union) = 7793

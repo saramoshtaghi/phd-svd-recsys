@@ -1,0 +1,10 @@
+Drama / Fantasy — Venn calculations
+------------------------------------------------------------
+#books in Drama = 3006
+#books in Fantasy = 2088
+#both (Drama ∩ Fantasy) = 99
+only Drama = 3006 - 99 = 2907
+only Fantasy = 2088 - 99 = 1989
+union (Drama ∪ Fantasy) = 2907 + 1989 + 99 = 4995
+union (from log) = 4995  [OK]
+negative pool (outside union) = 4420

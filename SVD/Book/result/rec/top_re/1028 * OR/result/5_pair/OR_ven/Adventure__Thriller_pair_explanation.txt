@@ -1,0 +1,10 @@
+Adventure / Thriller — Venn calculations
+------------------------------------------------------------
+#books in Adventure = 1789
+#books in Thriller = 1606
+#both (Adventure ∩ Thriller) = 78
+only Adventure = 1789 - 78 = 1711
+only Thriller = 1606 - 78 = 1528
+union (Adventure ∪ Thriller) = 1711 + 1528 + 78 = 3317
+union (from log) = 3317  [OK]
+negative pool (outside union) = 6098

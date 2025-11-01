@@ -1,0 +1,10 @@
+Adventure / Classics — Venn calculations
+------------------------------------------------------------
+#books in Adventure = 1789
+#books in Classics = 901
+#both (Adventure ∩ Classics) = 63
+only Adventure = 1789 - 63 = 1726
+only Classics = 901 - 63 = 838
+union (Adventure ∪ Classics) = 1726 + 838 + 63 = 2627
+union (from log) = 2627  [OK]
+negative pool (outside union) = 6788

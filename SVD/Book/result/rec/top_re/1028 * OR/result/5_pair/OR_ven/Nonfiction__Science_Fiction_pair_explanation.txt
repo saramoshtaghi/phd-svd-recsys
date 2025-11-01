@@ -1,0 +1,10 @@
+Nonfiction / Science Fiction — Venn calculations
+------------------------------------------------------------
+#books in Nonfiction = 1071
+#books in Science Fiction = 855
+#both (Nonfiction ∩ Science Fiction) = 69
+only Nonfiction = 1071 - 69 = 1002
+only Science Fiction = 855 - 69 = 786
+union (Nonfiction ∪ Science Fiction) = 1002 + 786 + 69 = 1857
+union (from log) = 1857  [OK]
+negative pool (outside union) = 7558

@@ -1,0 +1,57 @@
+Horror + Romance:
+
+pair_both (AND):
+  original 15: unique_books: 13
+  original 25: unique_books: 19
+  original 35: unique_books: 25
+  2u, 15, unique_books: 17
+  6u, 15, unique_books: 13
+  200u, 15, unique_books: 14
+  2u, 25, unique_books: 24
+  6u, 25, unique_books: 18
+  200u, 25, unique_books: 21
+  2u, 35, unique_books: 27
+  6u, 35, unique_books: 20
+  200u, 35, unique_books: 24
+
+pair_or (OR):
+  original 15: unique_books: 556
+  original 25: unique_books: 757
+  original 35: unique_books: 925
+  2u, 15, unique_books: 562
+  6u, 15, unique_books: 596
+  200u, 15, unique_books: 629
+  2u, 25, unique_books: 748
+  6u, 25, unique_books: 773
+  200u, 25, unique_books: 844
+  2u, 35, unique_books: 895
+  6u, 35, unique_books: 931
+  200u, 35, unique_books: 1030
+
+single G1:
+  original 15: unique_books: 170
+  original 25: unique_books: 238
+  original 35: unique_books: 281
+  2u, 15, unique_books: 175
+  6u, 15, unique_books: 182
+  200u, 15, unique_books: 216
+  2u, 25, unique_books: 234
+  6u, 25, unique_books: 237
+  200u, 25, unique_books: 283
+  2u, 35, unique_books: 279
+  6u, 35, unique_books: 272
+  200u, 35, unique_books: 324
+
+single G2:
+  original 15: unique_books: 399
+  original 25: unique_books: 538
+  original 35: unique_books: 669
+  2u, 15, unique_books: 404
+  6u, 15, unique_books: 427
+  200u, 15, unique_books: 427
+  2u, 25, unique_books: 538
+  6u, 25, unique_books: 554
+  200u, 25, unique_books: 582
+  2u, 35, unique_books: 643
+  6u, 35, unique_books: 679
+  200u, 35, unique_books: 730

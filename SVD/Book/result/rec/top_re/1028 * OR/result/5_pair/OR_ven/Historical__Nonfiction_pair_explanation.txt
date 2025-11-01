@@ -1,0 +1,10 @@
+Historical / Nonfiction — Venn calculations
+------------------------------------------------------------
+#books in Historical = 857
+#books in Nonfiction = 1071
+#both (Historical ∩ Nonfiction) = 79
+only Historical = 857 - 79 = 778
+only Nonfiction = 1071 - 79 = 992
+union (Historical ∪ Nonfiction) = 778 + 992 + 79 = 1849
+union (from log) = 1849  [OK]
+negative pool (outside union) = 7566

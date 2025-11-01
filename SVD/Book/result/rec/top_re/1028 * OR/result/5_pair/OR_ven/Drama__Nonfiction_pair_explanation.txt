@@ -1,0 +1,10 @@
+Drama / Nonfiction — Venn calculations
+------------------------------------------------------------
+#books in Drama = 3006
+#books in Nonfiction = 1071
+#both (Drama ∩ Nonfiction) = 603
+only Drama = 3006 - 603 = 2403
+only Nonfiction = 1071 - 603 = 468
+union (Drama ∪ Nonfiction) = 2403 + 468 + 603 = 3474
+union (from log) = 3474  [OK]
+negative pool (outside union) = 5941

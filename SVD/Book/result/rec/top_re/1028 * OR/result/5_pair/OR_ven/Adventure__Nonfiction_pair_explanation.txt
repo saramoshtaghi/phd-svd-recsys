@@ -1,0 +1,10 @@
+Adventure / Nonfiction — Venn calculations
+------------------------------------------------------------
+#books in Adventure = 1789
+#books in Nonfiction = 1071
+#both (Adventure ∩ Nonfiction) = 76
+only Adventure = 1789 - 76 = 1713
+only Nonfiction = 1071 - 76 = 995
+union (Adventure ∪ Nonfiction) = 1713 + 995 + 76 = 2784
+union (from log) = 2784  [OK]
+negative pool (outside union) = 6631

@@ -1,0 +1,11 @@
+Adult / Drama — Venn calculations
+------------------------------------------------------------
+#books in Adult = 331
+#books in Drama = 3006
+#both (Adult ∩ Drama) = 144
+only Adult = 331 - 144 = 187
+only Drama = 3006 - 144 = 2862
+union (Adult ∪ Drama) = 187 + 2862 + 144 = 3193
+union (from log) = 3193  [OK]
+negative pool (outside union) = 6222
+Set positives to the OR union: |G1 ∪ G2| = |G1| + |G2| − |G1 ∩ G2|.
