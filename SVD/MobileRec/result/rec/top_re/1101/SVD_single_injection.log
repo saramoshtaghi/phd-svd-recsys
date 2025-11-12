@@ -1,0 +1,517 @@
+nohup: ignoring input
+[14:11:54] === SVD (poison-only) — SINGLE ROOT (POS=5 ONLY, resume-safe) — Mobile ===
+[14:12:19] 📄 ORIGINAL — users=700,111, items=10,173, rows=19,140,672
+[14:12:19] 🔎 Found 30 files (POS=5) under /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SINGLE_INJECTION
+[14:12:19] 
+📘 [1/30] POS=5 105u — Business___Finance
+[14:12:19]    File: f_Business___Finance_105u_pos5_neg1_all.csv
+[14:12:19]    Will generate K ∈ [35] (others already present).
+[14:12:53]    Loaded — apps=10,173, rows=20,208,837
+[14:13:02]    Training SVD…
+[14:37:50]    Generating Top-K…
+[14:38:10] Scoring 700,111 original users for f_Business___Finance_105u_pos5_neg1_all…
+[14:41:40]   • Scored 100,000/700,111 users
+[14:45:04]   • Scored 200,000/700,111 users
+[14:48:21]   • Scored 300,000/700,111 users
+[14:51:53]   • Scored 400,000/700,111 users
+[14:55:01]   • Scored 500,000/700,111 users
+[14:58:05]   • Scored 600,000/700,111 users
+[15:01:04]   • Scored 700,000/700,111 users
+[15:02:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Business___Finance_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[15:02:35]    ✅ Done.
+[15:02:35] 
+📘 [2/30] POS=5 2643u — Business___Finance
+[15:02:35]    File: f_Business___Finance_2643u_pos5_neg1_all.csv
+[15:02:35]    Will generate K ∈ [35] (others already present).
+[15:03:46]    Loaded — apps=10,173, rows=46,027,911
+[15:04:05]    Training SVD…
+[15:38:50]    Generating Top-K…
+[15:39:19] Scoring 700,111 original users for f_Business___Finance_2643u_pos5_neg1_all…
+[15:42:38]   • Scored 100,000/700,111 users
+[15:45:37]   • Scored 200,000/700,111 users
+[15:48:44]   • Scored 300,000/700,111 users
+[15:51:36]   • Scored 400,000/700,111 users
+[15:54:32]   • Scored 500,000/700,111 users
+[15:57:24]   • Scored 600,000/700,111 users
+[16:00:16]   • Scored 700,000/700,111 users
+[16:01:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Business___Finance_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[16:01:55]    ✅ Done.
+[16:01:55] 
+📘 [3/30] POS=5 27u — Business___Finance
+[16:01:55]    File: f_Business___Finance_27u_pos5_neg1_all.csv
+[16:01:55]    Will generate K ∈ [35] (others already present).
+[16:02:28]    Loaded — apps=10,173, rows=19,415,343
+[16:02:37]    Training SVD…
+[16:27:25]    Generating Top-K…
+[16:27:46] Scoring 700,111 original users for f_Business___Finance_27u_pos5_neg1_all…
+[16:30:57]   • Scored 100,000/700,111 users
+[16:33:56]   • Scored 200,000/700,111 users
+[16:36:58]   • Scored 300,000/700,111 users
+[16:39:47]   • Scored 400,000/700,111 users
+[16:42:29]   • Scored 500,000/700,111 users
+[16:45:09]   • Scored 600,000/700,111 users
+[16:47:48]   • Scored 700,000/700,111 users
+[16:49:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Business___Finance_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[16:49:22]    ✅ Done.
+[16:49:22] 
+📘 [4/30] POS=5 105u — Games
+[16:49:22]    File: f_Games_105u_pos5_neg1_all.csv
+[16:49:22]    Will generate K ∈ [35] (others already present).
+[16:49:53]    Loaded — apps=10,173, rows=20,208,837
+[16:50:02]    Training SVD…
+[17:15:09]    Generating Top-K…
+[17:15:29] Scoring 700,111 original users for f_Games_105u_pos5_neg1_all…
+[17:18:34]   • Scored 100,000/700,111 users
+[17:21:19]   • Scored 200,000/700,111 users
+[17:24:00]   • Scored 300,000/700,111 users
+[17:26:41]   • Scored 400,000/700,111 users
+[17:29:14]   • Scored 500,000/700,111 users
+[17:31:47]   • Scored 600,000/700,111 users
+[17:34:21]   • Scored 700,000/700,111 users
+[17:35:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Games_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[17:35:49]    ✅ Done.
+[17:35:49] 
+📘 [5/30] POS=5 2643u — Games
+[17:35:49]    File: f_Games_2643u_pos5_neg1_all.csv
+[17:35:49]    Will generate K ∈ [35] (others already present).
+[17:36:53]    Loaded — apps=10,173, rows=46,027,911
+[17:37:12]    Training SVD…
+[18:11:38]    Generating Top-K…
+[18:12:07] Scoring 700,111 original users for f_Games_2643u_pos5_neg1_all…
+[18:14:58]   • Scored 100,000/700,111 users
+[18:17:42]   • Scored 200,000/700,111 users
+[18:20:21]   • Scored 300,000/700,111 users
+[18:22:59]   • Scored 400,000/700,111 users
+[18:25:36]   • Scored 500,000/700,111 users
+[18:28:10]   • Scored 600,000/700,111 users
+[18:30:45]   • Scored 700,000/700,111 users
+[18:32:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Games_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[18:32:26]    ✅ Done.
+[18:32:26] 
+📘 [6/30] POS=5 27u — Games
+[18:32:26]    File: f_Games_27u_pos5_neg1_all.csv
+[18:32:26]    Will generate K ∈ [35] (others already present).
+[18:32:57]    Loaded — apps=10,173, rows=19,415,343
+[18:33:06]    Training SVD…
+[18:58:22]    Generating Top-K…
+[18:58:44] Scoring 700,111 original users for f_Games_27u_pos5_neg1_all…
+[19:01:33]   • Scored 100,000/700,111 users
+[19:04:14]   • Scored 200,000/700,111 users
+[19:06:51]   • Scored 300,000/700,111 users
+[19:09:27]   • Scored 400,000/700,111 users
+[19:11:59]   • Scored 500,000/700,111 users
+[19:14:31]   • Scored 600,000/700,111 users
+[19:17:07]   • Scored 700,000/700,111 users
+[19:18:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Games_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[19:18:43]    ✅ Done.
+[19:18:43] 
+📘 [7/30] POS=5 105u — Health___Lifestyle
+[19:18:43]    File: f_Health___Lifestyle_105u_pos5_neg1_all.csv
+[19:18:43]    Will generate K ∈ [35] (others already present).
+[19:19:16]    Loaded — apps=10,173, rows=20,208,837
+[19:19:24]    Training SVD…
+[19:44:16]    Generating Top-K…
+[19:44:37] Scoring 700,111 original users for f_Health___Lifestyle_105u_pos5_neg1_all…
+[19:47:27]   • Scored 100,000/700,111 users
+[19:50:09]   • Scored 200,000/700,111 users
+[19:52:47]   • Scored 300,000/700,111 users
+[19:55:27]   • Scored 400,000/700,111 users
+[19:58:02]   • Scored 500,000/700,111 users
+[20:00:39]   • Scored 600,000/700,111 users
+[20:03:16]   • Scored 700,000/700,111 users
+[20:04:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Health___Lifestyle_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[20:04:45]    ✅ Done.
+[20:04:45] 
+📘 [8/30] POS=5 2643u — Health___Lifestyle
+[20:04:45]    File: f_Health___Lifestyle_2643u_pos5_neg1_all.csv
+[20:04:45]    Will generate K ∈ [35] (others already present).
+[20:05:52]    Loaded — apps=10,173, rows=46,027,911
+[20:06:11]    Training SVD…
+[20:39:35]    Generating Top-K…
+[20:40:04] Scoring 700,111 original users for f_Health___Lifestyle_2643u_pos5_neg1_all…
+[20:43:02]   • Scored 100,000/700,111 users
+[20:45:52]   • Scored 200,000/700,111 users
+[20:48:34]   • Scored 300,000/700,111 users
+[20:51:12]   • Scored 400,000/700,111 users
+[20:53:48]   • Scored 500,000/700,111 users
+[20:56:25]   • Scored 600,000/700,111 users
+[20:59:03]   • Scored 700,000/700,111 users
+[21:00:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Health___Lifestyle_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[21:00:48]    ✅ Done.
+[21:00:48] 
+📘 [9/30] POS=5 27u — Health___Lifestyle
+[21:00:48]    File: f_Health___Lifestyle_27u_pos5_neg1_all.csv
+[21:00:48]    Will generate K ∈ [35] (others already present).
+[21:01:18]    Loaded — apps=10,173, rows=19,415,343
+[21:01:26]    Training SVD…
+[21:25:55]    Generating Top-K…
+[21:26:16] Scoring 700,111 original users for f_Health___Lifestyle_27u_pos5_neg1_all…
+[21:29:10]   • Scored 100,000/700,111 users
+[21:31:58]   • Scored 200,000/700,111 users
+[21:34:41]   • Scored 300,000/700,111 users
+[21:37:18]   • Scored 400,000/700,111 users
+[21:39:57]   • Scored 500,000/700,111 users
+[21:42:35]   • Scored 600,000/700,111 users
+[21:45:11]   • Scored 700,000/700,111 users
+[21:46:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Health___Lifestyle_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[21:46:48]    ✅ Done.
+[21:46:48] 
+📘 [10/30] POS=5 105u — Info___Reading
+[21:46:48]    File: f_Info___Reading_105u_pos5_neg1_all.csv
+[21:46:48]    Will generate K ∈ [35] (others already present).
+[21:47:24]    Loaded — apps=10,173, rows=20,208,837
+[21:47:32]    Training SVD…
+[22:12:16]    Generating Top-K…
+[22:12:36] Scoring 700,111 original users for f_Info___Reading_105u_pos5_neg1_all…
+[22:15:26]   • Scored 100,000/700,111 users
+[22:18:06]   • Scored 200,000/700,111 users
+[22:20:42]   • Scored 300,000/700,111 users
+[22:23:21]   • Scored 400,000/700,111 users
+[22:25:54]   • Scored 500,000/700,111 users
+[22:28:28]   • Scored 600,000/700,111 users
+[22:31:03]   • Scored 700,000/700,111 users
+[22:32:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Info___Reading_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[22:32:39]    ✅ Done.
+[22:32:39] 
+📘 [11/30] POS=5 2643u — Info___Reading
+[22:32:39]    File: f_Info___Reading_2643u_pos5_neg1_all.csv
+[22:32:39]    Will generate K ∈ [35] (others already present).
+[22:33:47]    Loaded — apps=10,173, rows=46,027,911
+[22:34:06]    Training SVD…
+[23:08:15]    Generating Top-K…
+[23:08:43] Scoring 700,111 original users for f_Info___Reading_2643u_pos5_neg1_all…
+[23:11:39]   • Scored 100,000/700,111 users
+[23:14:23]   • Scored 200,000/700,111 users
+[23:17:00]   • Scored 300,000/700,111 users
+[23:19:36]   • Scored 400,000/700,111 users
+[23:22:16]   • Scored 500,000/700,111 users
+[23:24:51]   • Scored 600,000/700,111 users
+[23:27:25]   • Scored 700,000/700,111 users
+[23:28:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Info___Reading_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[23:29:10]    ✅ Done.
+[23:29:10] 
+📘 [12/30] POS=5 27u — Info___Reading
+[23:29:10]    File: f_Info___Reading_27u_pos5_neg1_all.csv
+[23:29:10]    Will generate K ∈ [35] (others already present).
+[23:29:39]    Loaded — apps=10,173, rows=19,415,343
+[23:29:47]    Training SVD…
+[23:54:25]    Generating Top-K…
+[23:54:47] Scoring 700,111 original users for f_Info___Reading_27u_pos5_neg1_all…
+[23:57:37]   • Scored 100,000/700,111 users
+[00:00:20]   • Scored 200,000/700,111 users
+[00:02:57]   • Scored 300,000/700,111 users
+[00:05:33]   • Scored 400,000/700,111 users
+[00:08:07]   • Scored 500,000/700,111 users
+[00:10:41]   • Scored 600,000/700,111 users
+[00:13:13]   • Scored 700,000/700,111 users
+[00:14:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Info___Reading_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[00:14:50]    ✅ Done.
+[00:14:50] 
+📘 [13/30] POS=5 105u — Learning___Education
+[00:14:50]    File: f_Learning___Education_105u_pos5_neg1_all.csv
+[00:14:50]    Will generate K ∈ [35] (others already present).
+[00:15:23]    Loaded — apps=10,173, rows=20,208,837
+[00:15:31]    Training SVD…
+[00:40:48]    Generating Top-K…
+[00:41:08] Scoring 700,111 original users for f_Learning___Education_105u_pos5_neg1_all…
+[00:44:05]   • Scored 100,000/700,111 users
+[00:46:46]   • Scored 200,000/700,111 users
+[00:49:24]   • Scored 300,000/700,111 users
+[00:52:06]   • Scored 400,000/700,111 users
+[00:54:42]   • Scored 500,000/700,111 users
+[00:57:16]   • Scored 600,000/700,111 users
+[00:59:50]   • Scored 700,000/700,111 users
+[01:01:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Learning___Education_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[01:01:27]    ✅ Done.
+[01:01:27] 
+📘 [14/30] POS=5 2643u — Learning___Education
+[01:01:27]    File: f_Learning___Education_2643u_pos5_neg1_all.csv
+[01:01:27]    Will generate K ∈ [35] (others already present).
+[01:02:33]    Loaded — apps=10,173, rows=46,027,911
+[01:02:52]    Training SVD…
+[01:36:57]    Generating Top-K…
+[01:37:26] Scoring 700,111 original users for f_Learning___Education_2643u_pos5_neg1_all…
+[01:40:33]   • Scored 100,000/700,111 users
+[01:43:21]   • Scored 200,000/700,111 users
+[01:46:00]   • Scored 300,000/700,111 users
+[01:48:37]   • Scored 400,000/700,111 users
+[01:51:13]   • Scored 500,000/700,111 users
+[01:53:50]   • Scored 600,000/700,111 users
+[01:56:24]   • Scored 700,000/700,111 users
+[01:57:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Learning___Education_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[01:58:15]    ✅ Done.
+[01:58:15] 
+📘 [15/30] POS=5 27u — Learning___Education
+[01:58:15]    File: f_Learning___Education_27u_pos5_neg1_all.csv
+[01:58:15]    Will generate K ∈ [35] (others already present).
+[01:58:43]    Loaded — apps=10,173, rows=19,415,343
+[01:58:51]    Training SVD…
+[01:23:37]    Generating Top-K…
+[01:23:58] Scoring 700,111 original users for f_Learning___Education_27u_pos5_neg1_all…
+[01:26:53]   • Scored 100,000/700,111 users
+[01:29:37]   • Scored 200,000/700,111 users
+[01:32:16]   • Scored 300,000/700,111 users
+[01:34:51]   • Scored 400,000/700,111 users
+[01:37:26]   • Scored 500,000/700,111 users
+[01:40:01]   • Scored 600,000/700,111 users
+[01:42:34]   • Scored 700,000/700,111 users
+[01:43:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Learning___Education_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[01:44:12]    ✅ Done.
+[01:44:12] 
+📘 [16/30] POS=5 105u — Media___Creativity
+[01:44:12]    File: f_Media___Creativity_105u_pos5_neg1_all.csv
+[01:44:12]    Will generate K ∈ [35] (others already present).
+[01:44:43]    Loaded — apps=10,173, rows=20,208,837
+[01:44:51]    Training SVD…
+[02:10:06]    Generating Top-K…
+[02:10:27] Scoring 700,111 original users for f_Media___Creativity_105u_pos5_neg1_all…
+[02:13:18]   • Scored 100,000/700,111 users
+[02:16:02]   • Scored 200,000/700,111 users
+[02:18:40]   • Scored 300,000/700,111 users
+[02:21:23]   • Scored 400,000/700,111 users
+[02:23:59]   • Scored 500,000/700,111 users
+[02:26:33]   • Scored 600,000/700,111 users
+[02:29:07]   • Scored 700,000/700,111 users
+[02:30:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Media___Creativity_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[02:30:42]    ✅ Done.
+[02:30:42] 
+📘 [17/30] POS=5 2643u — Media___Creativity
+[02:30:42]    File: f_Media___Creativity_2643u_pos5_neg1_all.csv
+[02:30:42]    Will generate K ∈ [35] (others already present).
+[02:31:46]    Loaded — apps=10,173, rows=46,027,911
+[02:32:04]    Training SVD…
+[03:06:02]    Generating Top-K…
+[03:06:31] Scoring 700,111 original users for f_Media___Creativity_2643u_pos5_neg1_all…
+[03:09:29]   • Scored 100,000/700,111 users
+[03:12:15]   • Scored 200,000/700,111 users
+[03:14:54]   • Scored 300,000/700,111 users
+[03:17:31]   • Scored 400,000/700,111 users
+[03:20:15]   • Scored 500,000/700,111 users
+[03:22:55]   • Scored 600,000/700,111 users
+[03:25:30]   • Scored 700,000/700,111 users
+[03:26:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Media___Creativity_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[03:27:12]    ✅ Done.
+[03:27:12] 
+📘 [18/30] POS=5 27u — Media___Creativity
+[03:27:12]    File: f_Media___Creativity_27u_pos5_neg1_all.csv
+[03:27:12]    Will generate K ∈ [35] (others already present).
+[03:27:44]    Loaded — apps=10,173, rows=19,415,343
+[03:27:52]    Training SVD…
+[03:52:09]    Generating Top-K…
+[03:52:31] Scoring 700,111 original users for f_Media___Creativity_27u_pos5_neg1_all…
+[03:55:23]   • Scored 100,000/700,111 users
+[03:58:08]   • Scored 200,000/700,111 users
+[04:00:52]   • Scored 300,000/700,111 users
+[04:03:33]   • Scored 400,000/700,111 users
+[04:06:06]   • Scored 500,000/700,111 users
+[04:08:38]   • Scored 600,000/700,111 users
+[04:11:10]   • Scored 700,000/700,111 users
+[04:12:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Media___Creativity_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[04:12:47]    ✅ Done.
+[04:12:47] 
+📘 [19/30] POS=5 105u — Medical
+[04:12:47]    File: f_Medical_105u_pos5_neg1_all.csv
+[04:12:47]    Will generate K ∈ [35] (others already present).
+[04:13:18]    Loaded — apps=10,173, rows=20,208,837
+[04:13:27]    Training SVD…
+[04:38:59]    Generating Top-K…
+[04:39:19] Scoring 700,111 original users for f_Medical_105u_pos5_neg1_all…
+[04:42:02]   • Scored 100,000/700,111 users
+[04:44:42]   • Scored 200,000/700,111 users
+[04:47:16]   • Scored 300,000/700,111 users
+[04:49:54]   • Scored 400,000/700,111 users
+[04:52:26]   • Scored 500,000/700,111 users
+[04:55:00]   • Scored 600,000/700,111 users
+[04:57:31]   • Scored 700,000/700,111 users
+[04:58:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Medical_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[04:59:07]    ✅ Done.
+[04:59:07] 
+📘 [20/30] POS=5 2643u — Medical
+[04:59:07]    File: f_Medical_2643u_pos5_neg1_all.csv
+[04:59:07]    Will generate K ∈ [35] (others already present).
+[05:00:10]    Loaded — apps=10,173, rows=46,027,911
+[05:00:29]    Training SVD…
+[05:35:40]    Generating Top-K…
+[05:36:08] Scoring 700,111 original users for f_Medical_2643u_pos5_neg1_all…
+[05:39:02]   • Scored 100,000/700,111 users
+[05:41:43]   • Scored 200,000/700,111 users
+[05:44:18]   • Scored 300,000/700,111 users
+[05:46:53]   • Scored 400,000/700,111 users
+[05:49:25]   • Scored 500,000/700,111 users
+[05:51:57]   • Scored 600,000/700,111 users
+[05:54:29]   • Scored 700,000/700,111 users
+[05:55:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Medical_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[05:56:08]    ✅ Done.
+[05:56:08] 
+📘 [21/30] POS=5 27u — Medical
+[05:56:08]    File: f_Medical_27u_pos5_neg1_all.csv
+[05:56:08]    Will generate K ∈ [35] (others already present).
+[05:56:37]    Loaded — apps=10,173, rows=19,415,343
+[05:56:45]    Training SVD…
+[06:21:20]    Generating Top-K…
+[06:21:42] Scoring 700,111 original users for f_Medical_27u_pos5_neg1_all…
+[06:24:31]   • Scored 100,000/700,111 users
+[06:27:16]   • Scored 200,000/700,111 users
+[06:29:50]   • Scored 300,000/700,111 users
+[06:32:22]   • Scored 400,000/700,111 users
+[06:34:54]   • Scored 500,000/700,111 users
+[06:37:26]   • Scored 600,000/700,111 users
+[06:39:57]   • Scored 700,000/700,111 users
+[06:41:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Medical_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[06:41:34]    ✅ Done.
+[06:41:34] 
+📘 [22/30] POS=5 105u — Productivity___Tools
+[06:41:34]    File: f_Productivity___Tools_105u_pos5_neg1_all.csv
+[06:41:34]    Will generate K ∈ [35] (others already present).
+[06:42:04]    Loaded — apps=10,173, rows=20,208,837
+[06:42:12]    Training SVD…
+[07:07:45]    Generating Top-K…
+[07:08:04] Scoring 700,111 original users for f_Productivity___Tools_105u_pos5_neg1_all…
+[07:10:54]   • Scored 100,000/700,111 users
+[07:13:33]   • Scored 200,000/700,111 users
+[07:16:10]   • Scored 300,000/700,111 users
+[07:18:47]   • Scored 400,000/700,111 users
+[07:21:20]   • Scored 500,000/700,111 users
+[07:23:52]   • Scored 600,000/700,111 users
+[07:26:22]   • Scored 700,000/700,111 users
+[07:27:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Productivity___Tools_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[07:27:58]    ✅ Done.
+[07:27:58] 
+📘 [23/30] POS=5 2643u — Productivity___Tools
+[07:27:58]    File: f_Productivity___Tools_2643u_pos5_neg1_all.csv
+[07:27:58]    Will generate K ∈ [35] (others already present).
+[07:29:01]    Loaded — apps=10,173, rows=46,027,911
+[07:29:20]    Training SVD…
+[08:04:14]    Generating Top-K…
+[08:04:42] Scoring 700,111 original users for f_Productivity___Tools_2643u_pos5_neg1_all…
+[08:07:40]   • Scored 100,000/700,111 users
+[08:10:22]   • Scored 200,000/700,111 users
+[08:13:01]   • Scored 300,000/700,111 users
+[08:15:39]   • Scored 400,000/700,111 users
+[08:18:13]   • Scored 500,000/700,111 users
+[08:20:45]   • Scored 600,000/700,111 users
+[08:23:18]   • Scored 700,000/700,111 users
+[08:24:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Productivity___Tools_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[08:25:00]    ✅ Done.
+[08:25:00] 
+📘 [24/30] POS=5 27u — Productivity___Tools
+[08:25:00]    File: f_Productivity___Tools_27u_pos5_neg1_all.csv
+[08:25:00]    Will generate K ∈ [35] (others already present).
+[08:25:30]    Loaded — apps=10,173, rows=19,415,343
+[08:25:38]    Training SVD…
+[08:50:25]    Generating Top-K…
+[08:50:47] Scoring 700,111 original users for f_Productivity___Tools_27u_pos5_neg1_all…
+[08:53:40]   • Scored 100,000/700,111 users
+[08:56:19]   • Scored 200,000/700,111 users
+[08:58:54]   • Scored 300,000/700,111 users
+[09:01:28]   • Scored 400,000/700,111 users
+[09:04:01]   • Scored 500,000/700,111 users
+[09:06:33]   • Scored 600,000/700,111 users
+[09:09:05]   • Scored 700,000/700,111 users
+[09:10:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Productivity___Tools_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[09:10:41]    ✅ Done.
+[09:10:41] 
+📘 [25/30] POS=5 105u — Social___Comms
+[09:10:41]    File: f_Social___Comms_105u_pos5_neg1_all.csv
+[09:10:41]    Will generate K ∈ [35] (others already present).
+[09:11:10]    Loaded — apps=10,173, rows=20,208,837
+[09:11:18]    Training SVD…
+[09:35:25]    Generating Top-K…
+[09:35:44] Scoring 700,111 original users for f_Social___Comms_105u_pos5_neg1_all…
+[09:38:37]   • Scored 100,000/700,111 users
+[09:41:19]   • Scored 200,000/700,111 users
+[09:43:56]   • Scored 300,000/700,111 users
+[09:46:33]   • Scored 400,000/700,111 users
+[09:49:05]   • Scored 500,000/700,111 users
+[09:51:37]   • Scored 600,000/700,111 users
+[09:54:09]   • Scored 700,000/700,111 users
+[09:55:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Social___Comms_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[09:55:45]    ✅ Done.
+[09:55:45] 
+📘 [26/30] POS=5 2643u — Social___Comms
+[09:55:45]    File: f_Social___Comms_2643u_pos5_neg1_all.csv
+[09:55:45]    Will generate K ∈ [35] (others already present).
+[09:56:50]    Loaded — apps=10,173, rows=46,027,911
+[09:57:08]    Training SVD…
+[10:32:02]    Generating Top-K…
+[10:32:32] Scoring 700,111 original users for f_Social___Comms_2643u_pos5_neg1_all…
+[10:35:33]   • Scored 100,000/700,111 users
+[10:38:18]   • Scored 200,000/700,111 users
+[10:40:58]   • Scored 300,000/700,111 users
+[10:43:38]   • Scored 400,000/700,111 users
+[10:46:13]   • Scored 500,000/700,111 users
+[10:48:48]   • Scored 600,000/700,111 users
+[10:51:21]   • Scored 700,000/700,111 users
+[10:52:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Social___Comms_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[10:53:05]    ✅ Done.
+[10:53:05] 
+📘 [27/30] POS=5 27u — Social___Comms
+[10:53:05]    File: f_Social___Comms_27u_pos5_neg1_all.csv
+[10:53:05]    Will generate K ∈ [35] (others already present).
+[10:53:34]    Loaded — apps=10,173, rows=19,415,343
+[10:53:42]    Training SVD…
+[11:16:05]    Generating Top-K…
+[11:16:27] Scoring 700,111 original users for f_Social___Comms_27u_pos5_neg1_all…
+[11:19:22]   • Scored 100,000/700,111 users
+[11:22:06]   • Scored 200,000/700,111 users
+[11:24:43]   • Scored 300,000/700,111 users
+[11:27:19]   • Scored 400,000/700,111 users
+[11:29:54]   • Scored 500,000/700,111 users
+[11:32:28]   • Scored 600,000/700,111 users
+[11:35:02]   • Scored 700,000/700,111 users
+[11:36:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Social___Comms_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[11:36:40]    ✅ Done.
+[11:36:40] 
+📘 [28/30] POS=5 105u — Travel___Navigation
+[11:36:40]    File: f_Travel___Navigation_105u_pos5_neg1_all.csv
+[11:36:40]    Will generate K ∈ [35] (others already present).
+[11:37:12]    Loaded — apps=10,173, rows=20,208,837
+[11:37:20]    Training SVD…
+[12:02:28]    Generating Top-K…
+[12:02:48] Scoring 700,111 original users for f_Travel___Navigation_105u_pos5_neg1_all…
+[12:05:48]   • Scored 100,000/700,111 users
+[12:08:33]   • Scored 200,000/700,111 users
+[12:11:15]   • Scored 300,000/700,111 users
+[12:13:59]   • Scored 400,000/700,111 users
+[12:16:37]   • Scored 500,000/700,111 users
+[12:19:14]   • Scored 600,000/700,111 users
+[12:21:52]   • Scored 700,000/700,111 users
+[12:23:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Travel___Navigation_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[12:23:27]    ✅ Done.
+[12:23:27] 
+📘 [29/30] POS=5 2643u — Travel___Navigation
+[12:23:27]    File: f_Travel___Navigation_2643u_pos5_neg1_all.csv
+[12:23:27]    Will generate K ∈ [35] (others already present).
+[12:24:30]    Loaded — apps=10,173, rows=46,027,911
+[12:24:49]    Training SVD…
+[12:58:59]    Generating Top-K…
+[12:59:26] Scoring 700,111 original users for f_Travel___Navigation_2643u_pos5_neg1_all…
+[13:02:23]   • Scored 100,000/700,111 users
+[13:05:04]   • Scored 200,000/700,111 users
+[13:07:43]   • Scored 300,000/700,111 users
+[13:10:18]   • Scored 400,000/700,111 users
+[13:12:54]   • Scored 500,000/700,111 users
+[13:15:32]   • Scored 600,000/700,111 users
+[13:18:07]   • Scored 700,000/700,111 users
+[13:19:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Travel___Navigation_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[13:19:51]    ✅ Done.
+[13:19:51] 
+📘 [30/30] POS=5 27u — Travel___Navigation
+[13:19:51]    File: f_Travel___Navigation_27u_pos5_neg1_all.csv
+[13:19:51]    Will generate K ∈ [35] (others already present).
+[13:20:20]    Loaded — apps=10,173, rows=19,415,343
+[13:20:28]    Training SVD…
+[13:45:02]    Generating Top-K…
+[13:45:23] Scoring 700,111 original users for f_Travel___Navigation_27u_pos5_neg1_all…
+[13:48:17]   • Scored 100,000/700,111 users
+[13:50:57]   • Scored 200,000/700,111 users
+[13:53:34]   • Scored 300,000/700,111 users
+[13:56:10]   • Scored 400,000/700,111 users
+[13:58:45]   • Scored 500,000/700,111 users
+[14:01:19]   • Scored 600,000/700,111 users
+[14:03:52]   • Scored 700,000/700,111 users
+[14:05:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5/f_Travel___Navigation_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[14:05:28]    ✅ Done.
+[14:05:28] 
+🏁 Finished resume-safe pass. Outputs → /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SVD_Single_Root/5
+[14:05:28] Total runtime ~ 24.89 h

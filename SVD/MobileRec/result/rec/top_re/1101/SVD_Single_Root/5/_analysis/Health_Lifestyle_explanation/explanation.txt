@@ -1,0 +1,5 @@
+health & lifestyle:
+original 35: number_of_unique_apps: 114
+27u, 35, number_of_unique_apps: 203
+105u, 35, number_of_unique_apps: 249
+2643u, 35, number_of_unique_apps: 451

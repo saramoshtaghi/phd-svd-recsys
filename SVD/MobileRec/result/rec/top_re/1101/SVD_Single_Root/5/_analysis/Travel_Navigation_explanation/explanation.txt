@@ -1,0 +1,5 @@
+travel & navigation:
+original 35: number_of_unique_apps: 115
+27u, 35, number_of_unique_apps: 244
+105u, 35, number_of_unique_apps: 274
+2643u, 35, number_of_unique_apps: 405

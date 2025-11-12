@@ -1,0 +1,5 @@
+social & communications:
+original 35: number_of_unique_apps: 150
+27u, 35, number_of_unique_apps: 227
+105u, 35, number_of_unique_apps: 273
+2643u, 35, number_of_unique_apps: 454

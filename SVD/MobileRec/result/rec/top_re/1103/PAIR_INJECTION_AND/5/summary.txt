@@ -1,0 +1,1721 @@
+=== BASELINE (MOBILE/APPS) ===
+👤 Unique users: 700,111
+🧾 Rows: 19,140,672
+POS_RATING=5 | ZERO_MODE=all | NEG_RATING=1
+Discovered tags (55): ['action', 'adventure', 'arcade', 'art and design', 'auto and vehicles', 'beauty', 'board', 'books and reference', 'business', 'business and finance', 'card', 'casino', 'casual', 'comics', 'communication', 'dating', 'education', 'entertainment', 'events', 'finance', 'food and drink', 'games', 'health and fitness', 'health and lifestyle', 'house and home', 'information and reading', 'learning and education', 'libraries and demo', 'lifestyle', 'maps and navigation', 'media and creativity', 'medical', 'music', 'news and magazines', 'parenting', 'personalization', 'photography', 'productivity', 'productivity and tools', 'puzzle', 'racing', 'role playing', 'shopping', 'simulation', 'social', 'social and communications', 'sports', 'strategy', 'tools', 'travel and local', 'travel and navigation', 'trivia', 'video players and editors', 'weather', 'word']
+
+No apps found containing BOTH 'action' AND 'adventure'. Skipping.
+No apps found containing BOTH 'action' AND 'arcade'. Skipping.
+No apps found containing BOTH 'action' AND 'art and design'. Skipping.
+No apps found containing BOTH 'action' AND 'auto and vehicles'. Skipping.
+No apps found containing BOTH 'action' AND 'beauty'. Skipping.
+No apps found containing BOTH 'action' AND 'board'. Skipping.
+No apps found containing BOTH 'action' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'action' AND 'business'. Skipping.
+No apps found containing BOTH 'action' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'action' AND 'card'. Skipping.
+No apps found containing BOTH 'action' AND 'casino'. Skipping.
+No apps found containing BOTH 'action' AND 'casual'. Skipping.
+No apps found containing BOTH 'action' AND 'comics'. Skipping.
+No apps found containing BOTH 'action' AND 'communication'. Skipping.
+No apps found containing BOTH 'action' AND 'dating'. Skipping.
+No apps found containing BOTH 'action' AND 'education'. Skipping.
+No apps found containing BOTH 'action' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'action' AND 'events'. Skipping.
+No apps found containing BOTH 'action' AND 'finance'. Skipping.
+No apps found containing BOTH 'action' AND 'food and drink'. Skipping.
+🔗 Pair: action + games | positives (apps) = 529 | neg_pool = 9644
+  users=   27 → +rows=     274,671 (pos=14,283, neg=260,388) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_action__games_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=55,545, neg=1,012,620) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_action__games_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=1,398,147, neg=25,489,092) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_action__games_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=55,545, neg=1,012,620) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_action__games_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'action' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'action' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'action' AND 'house and home'. Skipping.
+No apps found containing BOTH 'action' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'action' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'action' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'action' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'action' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'action' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'action' AND 'medical'. Skipping.
+No apps found containing BOTH 'action' AND 'music'. Skipping.
+No apps found containing BOTH 'action' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'action' AND 'parenting'. Skipping.
+No apps found containing BOTH 'action' AND 'personalization'. Skipping.
+No apps found containing BOTH 'action' AND 'photography'. Skipping.
+No apps found containing BOTH 'action' AND 'productivity'. Skipping.
+No apps found containing BOTH 'action' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'action' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'action' AND 'racing'. Skipping.
+No apps found containing BOTH 'action' AND 'role playing'. Skipping.
+No apps found containing BOTH 'action' AND 'shopping'. Skipping.
+No apps found containing BOTH 'action' AND 'simulation'. Skipping.
+No apps found containing BOTH 'action' AND 'social'. Skipping.
+No apps found containing BOTH 'action' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'action' AND 'sports'. Skipping.
+No apps found containing BOTH 'action' AND 'strategy'. Skipping.
+No apps found containing BOTH 'action' AND 'tools'. Skipping.
+No apps found containing BOTH 'action' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'action' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'action' AND 'trivia'. Skipping.
+No apps found containing BOTH 'action' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'action' AND 'weather'. Skipping.
+No apps found containing BOTH 'action' AND 'word'. Skipping.
+No apps found containing BOTH 'adventure' AND 'arcade'. Skipping.
+No apps found containing BOTH 'adventure' AND 'art and design'. Skipping.
+No apps found containing BOTH 'adventure' AND 'auto and vehicles'. Skipping.
+No apps found containing BOTH 'adventure' AND 'beauty'. Skipping.
+No apps found containing BOTH 'adventure' AND 'board'. Skipping.
+No apps found containing BOTH 'adventure' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'adventure' AND 'business'. Skipping.
+No apps found containing BOTH 'adventure' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'adventure' AND 'card'. Skipping.
+No apps found containing BOTH 'adventure' AND 'casino'. Skipping.
+No apps found containing BOTH 'adventure' AND 'casual'. Skipping.
+No apps found containing BOTH 'adventure' AND 'comics'. Skipping.
+No apps found containing BOTH 'adventure' AND 'communication'. Skipping.
+No apps found containing BOTH 'adventure' AND 'dating'. Skipping.
+No apps found containing BOTH 'adventure' AND 'education'. Skipping.
+No apps found containing BOTH 'adventure' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'adventure' AND 'events'. Skipping.
+No apps found containing BOTH 'adventure' AND 'finance'. Skipping.
+No apps found containing BOTH 'adventure' AND 'food and drink'. Skipping.
+🔗 Pair: adventure + games | positives (apps) = 397 | neg_pool = 9776
+  users=   27 → +rows=     274,671 (pos=10,719, neg=263,952) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_adventure__games_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=41,685, neg=1,026,480) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_adventure__games_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=1,049,271, neg=25,837,968) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_adventure__games_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=41,685, neg=1,026,480) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_adventure__games_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'adventure' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'adventure' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'adventure' AND 'house and home'. Skipping.
+No apps found containing BOTH 'adventure' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'adventure' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'adventure' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'adventure' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'adventure' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'adventure' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'adventure' AND 'medical'. Skipping.
+No apps found containing BOTH 'adventure' AND 'music'. Skipping.
+No apps found containing BOTH 'adventure' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'adventure' AND 'parenting'. Skipping.
+No apps found containing BOTH 'adventure' AND 'personalization'. Skipping.
+No apps found containing BOTH 'adventure' AND 'photography'. Skipping.
+No apps found containing BOTH 'adventure' AND 'productivity'. Skipping.
+No apps found containing BOTH 'adventure' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'adventure' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'adventure' AND 'racing'. Skipping.
+No apps found containing BOTH 'adventure' AND 'role playing'. Skipping.
+No apps found containing BOTH 'adventure' AND 'shopping'. Skipping.
+No apps found containing BOTH 'adventure' AND 'simulation'. Skipping.
+No apps found containing BOTH 'adventure' AND 'social'. Skipping.
+No apps found containing BOTH 'adventure' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'adventure' AND 'sports'. Skipping.
+No apps found containing BOTH 'adventure' AND 'strategy'. Skipping.
+No apps found containing BOTH 'adventure' AND 'tools'. Skipping.
+No apps found containing BOTH 'adventure' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'adventure' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'adventure' AND 'trivia'. Skipping.
+No apps found containing BOTH 'adventure' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'adventure' AND 'weather'. Skipping.
+No apps found containing BOTH 'adventure' AND 'word'. Skipping.
+No apps found containing BOTH 'arcade' AND 'art and design'. Skipping.
+No apps found containing BOTH 'arcade' AND 'auto and vehicles'. Skipping.
+No apps found containing BOTH 'arcade' AND 'beauty'. Skipping.
+No apps found containing BOTH 'arcade' AND 'board'. Skipping.
+No apps found containing BOTH 'arcade' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'arcade' AND 'business'. Skipping.
+No apps found containing BOTH 'arcade' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'arcade' AND 'card'. Skipping.
+No apps found containing BOTH 'arcade' AND 'casino'. Skipping.
+No apps found containing BOTH 'arcade' AND 'casual'. Skipping.
+No apps found containing BOTH 'arcade' AND 'comics'. Skipping.
+No apps found containing BOTH 'arcade' AND 'communication'. Skipping.
+No apps found containing BOTH 'arcade' AND 'dating'. Skipping.
+No apps found containing BOTH 'arcade' AND 'education'. Skipping.
+No apps found containing BOTH 'arcade' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'arcade' AND 'events'. Skipping.
+No apps found containing BOTH 'arcade' AND 'finance'. Skipping.
+No apps found containing BOTH 'arcade' AND 'food and drink'. Skipping.
+🔗 Pair: arcade + games | positives (apps) = 264 | neg_pool = 9909
+  users=   27 → +rows=     274,671 (pos=7,128, neg=267,543) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_arcade__games_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=27,720, neg=1,040,445) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_arcade__games_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=697,752, neg=26,189,487) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_arcade__games_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=27,720, neg=1,040,445) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_arcade__games_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'arcade' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'arcade' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'arcade' AND 'house and home'. Skipping.
+No apps found containing BOTH 'arcade' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'arcade' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'arcade' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'arcade' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'arcade' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'arcade' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'arcade' AND 'medical'. Skipping.
+No apps found containing BOTH 'arcade' AND 'music'. Skipping.
+No apps found containing BOTH 'arcade' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'arcade' AND 'parenting'. Skipping.
+No apps found containing BOTH 'arcade' AND 'personalization'. Skipping.
+No apps found containing BOTH 'arcade' AND 'photography'. Skipping.
+No apps found containing BOTH 'arcade' AND 'productivity'. Skipping.
+No apps found containing BOTH 'arcade' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'arcade' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'arcade' AND 'racing'. Skipping.
+No apps found containing BOTH 'arcade' AND 'role playing'. Skipping.
+No apps found containing BOTH 'arcade' AND 'shopping'. Skipping.
+No apps found containing BOTH 'arcade' AND 'simulation'. Skipping.
+No apps found containing BOTH 'arcade' AND 'social'. Skipping.
+No apps found containing BOTH 'arcade' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'arcade' AND 'sports'. Skipping.
+No apps found containing BOTH 'arcade' AND 'strategy'. Skipping.
+No apps found containing BOTH 'arcade' AND 'tools'. Skipping.
+No apps found containing BOTH 'arcade' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'arcade' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'arcade' AND 'trivia'. Skipping.
+No apps found containing BOTH 'arcade' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'arcade' AND 'weather'. Skipping.
+No apps found containing BOTH 'arcade' AND 'word'. Skipping.
+No apps found containing BOTH 'art and design' AND 'auto and vehicles'. Skipping.
+No apps found containing BOTH 'art and design' AND 'beauty'. Skipping.
+No apps found containing BOTH 'art and design' AND 'board'. Skipping.
+No apps found containing BOTH 'art and design' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'art and design' AND 'business'. Skipping.
+No apps found containing BOTH 'art and design' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'art and design' AND 'card'. Skipping.
+No apps found containing BOTH 'art and design' AND 'casino'. Skipping.
+No apps found containing BOTH 'art and design' AND 'casual'. Skipping.
+No apps found containing BOTH 'art and design' AND 'comics'. Skipping.
+No apps found containing BOTH 'art and design' AND 'communication'. Skipping.
+No apps found containing BOTH 'art and design' AND 'dating'. Skipping.
+No apps found containing BOTH 'art and design' AND 'education'. Skipping.
+No apps found containing BOTH 'art and design' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'art and design' AND 'events'. Skipping.
+No apps found containing BOTH 'art and design' AND 'finance'. Skipping.
+No apps found containing BOTH 'art and design' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'art and design' AND 'games'. Skipping.
+No apps found containing BOTH 'art and design' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'art and design' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'art and design' AND 'house and home'. Skipping.
+No apps found containing BOTH 'art and design' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'art and design' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'art and design' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'art and design' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'art and design' AND 'maps and navigation'. Skipping.
+🔗 Pair: art and design + media and creativity | positives (apps) = 54 | neg_pool = 10119
+  users=   27 → +rows=     274,671 (pos=1,458, neg=273,213) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_art_and_design__media_and_creativity_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=5,670, neg=1,062,495) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_art_and_design__media_and_creativity_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=142,722, neg=26,744,517) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_art_and_design__media_and_creativity_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=5,670, neg=1,062,495) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_art_and_design__media_and_creativity_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'art and design' AND 'medical'. Skipping.
+No apps found containing BOTH 'art and design' AND 'music'. Skipping.
+No apps found containing BOTH 'art and design' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'art and design' AND 'parenting'. Skipping.
+No apps found containing BOTH 'art and design' AND 'personalization'. Skipping.
+No apps found containing BOTH 'art and design' AND 'photography'. Skipping.
+No apps found containing BOTH 'art and design' AND 'productivity'. Skipping.
+No apps found containing BOTH 'art and design' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'art and design' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'art and design' AND 'racing'. Skipping.
+No apps found containing BOTH 'art and design' AND 'role playing'. Skipping.
+No apps found containing BOTH 'art and design' AND 'shopping'. Skipping.
+No apps found containing BOTH 'art and design' AND 'simulation'. Skipping.
+No apps found containing BOTH 'art and design' AND 'social'. Skipping.
+No apps found containing BOTH 'art and design' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'art and design' AND 'sports'. Skipping.
+No apps found containing BOTH 'art and design' AND 'strategy'. Skipping.
+No apps found containing BOTH 'art and design' AND 'tools'. Skipping.
+No apps found containing BOTH 'art and design' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'art and design' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'art and design' AND 'trivia'. Skipping.
+No apps found containing BOTH 'art and design' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'art and design' AND 'weather'. Skipping.
+No apps found containing BOTH 'art and design' AND 'word'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'beauty'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'board'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'business'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'card'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'casino'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'casual'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'comics'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'communication'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'dating'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'education'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'events'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'finance'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'games'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'house and home'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'medical'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'music'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'parenting'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'personalization'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'photography'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'productivity'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'racing'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'role playing'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'shopping'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'simulation'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'social'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'sports'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'strategy'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'tools'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'travel and local'. Skipping.
+🔗 Pair: auto and vehicles + travel and navigation | positives (apps) = 46 | neg_pool = 10127
+  users=   27 → +rows=     274,671 (pos=1,242, neg=273,429) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_auto_and_vehicles__travel_and_navigation_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=4,830, neg=1,063,335) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_auto_and_vehicles__travel_and_navigation_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=121,578, neg=26,765,661) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_auto_and_vehicles__travel_and_navigation_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=4,830, neg=1,063,335) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_auto_and_vehicles__travel_and_navigation_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'auto and vehicles' AND 'trivia'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'weather'. Skipping.
+No apps found containing BOTH 'auto and vehicles' AND 'word'. Skipping.
+No apps found containing BOTH 'beauty' AND 'board'. Skipping.
+No apps found containing BOTH 'beauty' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'beauty' AND 'business'. Skipping.
+No apps found containing BOTH 'beauty' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'beauty' AND 'card'. Skipping.
+No apps found containing BOTH 'beauty' AND 'casino'. Skipping.
+No apps found containing BOTH 'beauty' AND 'casual'. Skipping.
+No apps found containing BOTH 'beauty' AND 'comics'. Skipping.
+No apps found containing BOTH 'beauty' AND 'communication'. Skipping.
+No apps found containing BOTH 'beauty' AND 'dating'. Skipping.
+No apps found containing BOTH 'beauty' AND 'education'. Skipping.
+No apps found containing BOTH 'beauty' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'beauty' AND 'events'. Skipping.
+No apps found containing BOTH 'beauty' AND 'finance'. Skipping.
+No apps found containing BOTH 'beauty' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'beauty' AND 'games'. Skipping.
+No apps found containing BOTH 'beauty' AND 'health and fitness'. Skipping.
+🔗 Pair: beauty + health and lifestyle | positives (apps) = 21 | neg_pool = 10152
+  users=   27 → +rows=     274,671 (pos=567, neg=274,104) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_beauty__health_and_lifestyle_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=2,205, neg=1,065,960) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_beauty__health_and_lifestyle_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=55,503, neg=26,831,736) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_beauty__health_and_lifestyle_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=2,205, neg=1,065,960) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_beauty__health_and_lifestyle_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'beauty' AND 'house and home'. Skipping.
+No apps found containing BOTH 'beauty' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'beauty' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'beauty' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'beauty' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'beauty' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'beauty' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'beauty' AND 'medical'. Skipping.
+No apps found containing BOTH 'beauty' AND 'music'. Skipping.
+No apps found containing BOTH 'beauty' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'beauty' AND 'parenting'. Skipping.
+No apps found containing BOTH 'beauty' AND 'personalization'. Skipping.
+No apps found containing BOTH 'beauty' AND 'photography'. Skipping.
+No apps found containing BOTH 'beauty' AND 'productivity'. Skipping.
+No apps found containing BOTH 'beauty' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'beauty' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'beauty' AND 'racing'. Skipping.
+No apps found containing BOTH 'beauty' AND 'role playing'. Skipping.
+No apps found containing BOTH 'beauty' AND 'shopping'. Skipping.
+No apps found containing BOTH 'beauty' AND 'simulation'. Skipping.
+No apps found containing BOTH 'beauty' AND 'social'. Skipping.
+No apps found containing BOTH 'beauty' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'beauty' AND 'sports'. Skipping.
+No apps found containing BOTH 'beauty' AND 'strategy'. Skipping.
+No apps found containing BOTH 'beauty' AND 'tools'. Skipping.
+No apps found containing BOTH 'beauty' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'beauty' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'beauty' AND 'trivia'. Skipping.
+No apps found containing BOTH 'beauty' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'beauty' AND 'weather'. Skipping.
+No apps found containing BOTH 'beauty' AND 'word'. Skipping.
+No apps found containing BOTH 'board' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'board' AND 'business'. Skipping.
+No apps found containing BOTH 'board' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'board' AND 'card'. Skipping.
+No apps found containing BOTH 'board' AND 'casino'. Skipping.
+No apps found containing BOTH 'board' AND 'casual'. Skipping.
+No apps found containing BOTH 'board' AND 'comics'. Skipping.
+No apps found containing BOTH 'board' AND 'communication'. Skipping.
+No apps found containing BOTH 'board' AND 'dating'. Skipping.
+No apps found containing BOTH 'board' AND 'education'. Skipping.
+No apps found containing BOTH 'board' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'board' AND 'events'. Skipping.
+No apps found containing BOTH 'board' AND 'finance'. Skipping.
+No apps found containing BOTH 'board' AND 'food and drink'. Skipping.
+🔗 Pair: board + games | positives (apps) = 154 | neg_pool = 10019
+  users=   27 → +rows=     274,671 (pos=4,158, neg=270,513) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_board__games_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=16,170, neg=1,051,995) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_board__games_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=407,022, neg=26,480,217) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_board__games_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=16,170, neg=1,051,995) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_board__games_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'board' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'board' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'board' AND 'house and home'. Skipping.
+No apps found containing BOTH 'board' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'board' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'board' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'board' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'board' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'board' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'board' AND 'medical'. Skipping.
+No apps found containing BOTH 'board' AND 'music'. Skipping.
+No apps found containing BOTH 'board' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'board' AND 'parenting'. Skipping.
+No apps found containing BOTH 'board' AND 'personalization'. Skipping.
+No apps found containing BOTH 'board' AND 'photography'. Skipping.
+No apps found containing BOTH 'board' AND 'productivity'. Skipping.
+No apps found containing BOTH 'board' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'board' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'board' AND 'racing'. Skipping.
+No apps found containing BOTH 'board' AND 'role playing'. Skipping.
+No apps found containing BOTH 'board' AND 'shopping'. Skipping.
+No apps found containing BOTH 'board' AND 'simulation'. Skipping.
+No apps found containing BOTH 'board' AND 'social'. Skipping.
+No apps found containing BOTH 'board' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'board' AND 'sports'. Skipping.
+No apps found containing BOTH 'board' AND 'strategy'. Skipping.
+No apps found containing BOTH 'board' AND 'tools'. Skipping.
+No apps found containing BOTH 'board' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'board' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'board' AND 'trivia'. Skipping.
+No apps found containing BOTH 'board' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'board' AND 'weather'. Skipping.
+No apps found containing BOTH 'board' AND 'word'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'business'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'card'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'casino'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'casual'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'comics'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'communication'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'dating'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'education'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'events'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'finance'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'games'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'house and home'. Skipping.
+🔗 Pair: books and reference + information and reading | positives (apps) = 107 | neg_pool = 10066
+  users=   27 → +rows=     274,671 (pos=2,889, neg=271,782) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_books_and_reference__information_and_reading_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=11,235, neg=1,056,930) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_books_and_reference__information_and_reading_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=282,801, neg=26,604,438) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_books_and_reference__information_and_reading_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=11,235, neg=1,056,930) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_books_and_reference__information_and_reading_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'books and reference' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'medical'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'music'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'parenting'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'personalization'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'photography'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'productivity'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'racing'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'role playing'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'shopping'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'simulation'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'social'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'sports'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'strategy'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'tools'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'trivia'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'weather'. Skipping.
+No apps found containing BOTH 'books and reference' AND 'word'. Skipping.
+🔗 Pair: business + business and finance | positives (apps) = 153 | neg_pool = 10020
+  users=   27 → +rows=     274,671 (pos=4,131, neg=270,540) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_business__business_and_finance_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=16,065, neg=1,052,100) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business__business_and_finance_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=404,379, neg=26,482,860) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_business__business_and_finance_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=16,065, neg=1,052,100) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business__business_and_finance_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'business' AND 'card'. Skipping.
+No apps found containing BOTH 'business' AND 'casino'. Skipping.
+No apps found containing BOTH 'business' AND 'casual'. Skipping.
+No apps found containing BOTH 'business' AND 'comics'. Skipping.
+No apps found containing BOTH 'business' AND 'communication'. Skipping.
+No apps found containing BOTH 'business' AND 'dating'. Skipping.
+No apps found containing BOTH 'business' AND 'education'. Skipping.
+No apps found containing BOTH 'business' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'business' AND 'events'. Skipping.
+No apps found containing BOTH 'business' AND 'finance'. Skipping.
+No apps found containing BOTH 'business' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'business' AND 'games'. Skipping.
+No apps found containing BOTH 'business' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'business' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'business' AND 'house and home'. Skipping.
+No apps found containing BOTH 'business' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'business' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'business' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'business' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'business' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'business' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'business' AND 'medical'. Skipping.
+No apps found containing BOTH 'business' AND 'music'. Skipping.
+No apps found containing BOTH 'business' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'business' AND 'parenting'. Skipping.
+No apps found containing BOTH 'business' AND 'personalization'. Skipping.
+No apps found containing BOTH 'business' AND 'photography'. Skipping.
+No apps found containing BOTH 'business' AND 'productivity'. Skipping.
+No apps found containing BOTH 'business' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'business' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'business' AND 'racing'. Skipping.
+No apps found containing BOTH 'business' AND 'role playing'. Skipping.
+No apps found containing BOTH 'business' AND 'shopping'. Skipping.
+No apps found containing BOTH 'business' AND 'simulation'. Skipping.
+No apps found containing BOTH 'business' AND 'social'. Skipping.
+No apps found containing BOTH 'business' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'business' AND 'sports'. Skipping.
+No apps found containing BOTH 'business' AND 'strategy'. Skipping.
+No apps found containing BOTH 'business' AND 'tools'. Skipping.
+No apps found containing BOTH 'business' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'business' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'business' AND 'trivia'. Skipping.
+No apps found containing BOTH 'business' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'business' AND 'weather'. Skipping.
+No apps found containing BOTH 'business' AND 'word'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'card'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'casino'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'casual'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'comics'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'communication'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'dating'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'education'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'events'. Skipping.
+🔗 Pair: business and finance + finance | positives (apps) = 254 | neg_pool = 9919
+  users=   27 → +rows=     274,671 (pos=6,858, neg=267,813) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_business_and_finance__finance_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=26,670, neg=1,041,495) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business_and_finance__finance_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=671,322, neg=26,215,917) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_business_and_finance__finance_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=26,670, neg=1,041,495) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business_and_finance__finance_105u_pos5_neg1_all.csv
+
+🔗 Pair: business and finance + food and drink | positives (apps) = 151 | neg_pool = 10022
+  users=   27 → +rows=     274,671 (pos=4,077, neg=270,594) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_business_and_finance__food_and_drink_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,855, neg=1,052,310) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business_and_finance__food_and_drink_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=399,093, neg=26,488,146) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_business_and_finance__food_and_drink_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,855, neg=1,052,310) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business_and_finance__food_and_drink_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'business and finance' AND 'games'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'house and home'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'medical'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'music'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'parenting'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'personalization'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'photography'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'productivity'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'racing'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'role playing'. Skipping.
+🔗 Pair: business and finance + shopping | positives (apps) = 223 | neg_pool = 9950
+  users=   27 → +rows=     274,671 (pos=6,021, neg=268,650) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_business_and_finance__shopping_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=23,415, neg=1,044,750) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business_and_finance__shopping_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=589,389, neg=26,297,850) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_business_and_finance__shopping_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=23,415, neg=1,044,750) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_business_and_finance__shopping_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'business and finance' AND 'simulation'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'social'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'sports'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'strategy'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'tools'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'trivia'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'weather'. Skipping.
+No apps found containing BOTH 'business and finance' AND 'word'. Skipping.
+No apps found containing BOTH 'card' AND 'casino'. Skipping.
+No apps found containing BOTH 'card' AND 'casual'. Skipping.
+No apps found containing BOTH 'card' AND 'comics'. Skipping.
+No apps found containing BOTH 'card' AND 'communication'. Skipping.
+No apps found containing BOTH 'card' AND 'dating'. Skipping.
+No apps found containing BOTH 'card' AND 'education'. Skipping.
+No apps found containing BOTH 'card' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'card' AND 'events'. Skipping.
+No apps found containing BOTH 'card' AND 'finance'. Skipping.
+No apps found containing BOTH 'card' AND 'food and drink'. Skipping.
+🔗 Pair: card + games | positives (apps) = 187 | neg_pool = 9986
+  users=   27 → +rows=     274,671 (pos=5,049, neg=269,622) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_card__games_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=19,635, neg=1,048,530) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_card__games_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=494,241, neg=26,392,998) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_card__games_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=19,635, neg=1,048,530) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_card__games_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'card' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'card' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'card' AND 'house and home'. Skipping.
+No apps found containing BOTH 'card' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'card' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'card' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'card' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'card' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'card' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'card' AND 'medical'. Skipping.
+No apps found containing BOTH 'card' AND 'music'. Skipping.
+No apps found containing BOTH 'card' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'card' AND 'parenting'. Skipping.
+No apps found containing BOTH 'card' AND 'personalization'. Skipping.
+No apps found containing BOTH 'card' AND 'photography'. Skipping.
+No apps found containing BOTH 'card' AND 'productivity'. Skipping.
+No apps found containing BOTH 'card' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'card' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'card' AND 'racing'. Skipping.
+No apps found containing BOTH 'card' AND 'role playing'. Skipping.
+No apps found containing BOTH 'card' AND 'shopping'. Skipping.
+No apps found containing BOTH 'card' AND 'simulation'. Skipping.
+No apps found containing BOTH 'card' AND 'social'. Skipping.
+No apps found containing BOTH 'card' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'card' AND 'sports'. Skipping.
+No apps found containing BOTH 'card' AND 'strategy'. Skipping.
+No apps found containing BOTH 'card' AND 'tools'. Skipping.
+No apps found containing BOTH 'card' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'card' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'card' AND 'trivia'. Skipping.
+No apps found containing BOTH 'card' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'card' AND 'weather'. Skipping.
+No apps found containing BOTH 'card' AND 'word'. Skipping.
+No apps found containing BOTH 'casino' AND 'casual'. Skipping.
+No apps found containing BOTH 'casino' AND 'comics'. Skipping.
+No apps found containing BOTH 'casino' AND 'communication'. Skipping.
+No apps found containing BOTH 'casino' AND 'dating'. Skipping.
+No apps found containing BOTH 'casino' AND 'education'. Skipping.
+No apps found containing BOTH 'casino' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'casino' AND 'events'. Skipping.
+No apps found containing BOTH 'casino' AND 'finance'. Skipping.
+No apps found containing BOTH 'casino' AND 'food and drink'. Skipping.
+🔗 Pair: casino + games | positives (apps) = 199 | neg_pool = 9974
+  users=   27 → +rows=     274,671 (pos=5,373, neg=269,298) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_casino__games_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=20,895, neg=1,047,270) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_casino__games_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=525,957, neg=26,361,282) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_casino__games_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=20,895, neg=1,047,270) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_casino__games_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'casino' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'casino' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'casino' AND 'house and home'. Skipping.
+No apps found containing BOTH 'casino' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'casino' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'casino' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'casino' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'casino' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'casino' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'casino' AND 'medical'. Skipping.
+No apps found containing BOTH 'casino' AND 'music'. Skipping.
+No apps found containing BOTH 'casino' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'casino' AND 'parenting'. Skipping.
+No apps found containing BOTH 'casino' AND 'personalization'. Skipping.
+No apps found containing BOTH 'casino' AND 'photography'. Skipping.
+No apps found containing BOTH 'casino' AND 'productivity'. Skipping.
+No apps found containing BOTH 'casino' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'casino' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'casino' AND 'racing'. Skipping.
+No apps found containing BOTH 'casino' AND 'role playing'. Skipping.
+No apps found containing BOTH 'casino' AND 'shopping'. Skipping.
+No apps found containing BOTH 'casino' AND 'simulation'. Skipping.
+No apps found containing BOTH 'casino' AND 'social'. Skipping.
+No apps found containing BOTH 'casino' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'casino' AND 'sports'. Skipping.
+No apps found containing BOTH 'casino' AND 'strategy'. Skipping.
+No apps found containing BOTH 'casino' AND 'tools'. Skipping.
+No apps found containing BOTH 'casino' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'casino' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'casino' AND 'trivia'. Skipping.
+No apps found containing BOTH 'casino' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'casino' AND 'weather'. Skipping.
+No apps found containing BOTH 'casino' AND 'word'. Skipping.
+No apps found containing BOTH 'casual' AND 'comics'. Skipping.
+No apps found containing BOTH 'casual' AND 'communication'. Skipping.
+No apps found containing BOTH 'casual' AND 'dating'. Skipping.
+No apps found containing BOTH 'casual' AND 'education'. Skipping.
+No apps found containing BOTH 'casual' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'casual' AND 'events'. Skipping.
+No apps found containing BOTH 'casual' AND 'finance'. Skipping.
+No apps found containing BOTH 'casual' AND 'food and drink'. Skipping.
+🔗 Pair: casual + games | positives (apps) = 432 | neg_pool = 9741
+  users=   27 → +rows=     274,671 (pos=11,664, neg=263,007) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_casual__games_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=45,360, neg=1,022,805) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_casual__games_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=1,141,776, neg=25,745,463) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_casual__games_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=45,360, neg=1,022,805) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_casual__games_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'casual' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'casual' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'casual' AND 'house and home'. Skipping.
+No apps found containing BOTH 'casual' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'casual' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'casual' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'casual' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'casual' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'casual' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'casual' AND 'medical'. Skipping.
+No apps found containing BOTH 'casual' AND 'music'. Skipping.
+No apps found containing BOTH 'casual' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'casual' AND 'parenting'. Skipping.
+No apps found containing BOTH 'casual' AND 'personalization'. Skipping.
+No apps found containing BOTH 'casual' AND 'photography'. Skipping.
+No apps found containing BOTH 'casual' AND 'productivity'. Skipping.
+No apps found containing BOTH 'casual' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'casual' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'casual' AND 'racing'. Skipping.
+No apps found containing BOTH 'casual' AND 'role playing'. Skipping.
+No apps found containing BOTH 'casual' AND 'shopping'. Skipping.
+No apps found containing BOTH 'casual' AND 'simulation'. Skipping.
+No apps found containing BOTH 'casual' AND 'social'. Skipping.
+No apps found containing BOTH 'casual' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'casual' AND 'sports'. Skipping.
+No apps found containing BOTH 'casual' AND 'strategy'. Skipping.
+No apps found containing BOTH 'casual' AND 'tools'. Skipping.
+No apps found containing BOTH 'casual' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'casual' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'casual' AND 'trivia'. Skipping.
+No apps found containing BOTH 'casual' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'casual' AND 'weather'. Skipping.
+No apps found containing BOTH 'casual' AND 'word'. Skipping.
+No apps found containing BOTH 'comics' AND 'communication'. Skipping.
+No apps found containing BOTH 'comics' AND 'dating'. Skipping.
+No apps found containing BOTH 'comics' AND 'education'. Skipping.
+No apps found containing BOTH 'comics' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'comics' AND 'events'. Skipping.
+No apps found containing BOTH 'comics' AND 'finance'. Skipping.
+No apps found containing BOTH 'comics' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'comics' AND 'games'. Skipping.
+No apps found containing BOTH 'comics' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'comics' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'comics' AND 'house and home'. Skipping.
+No apps found containing BOTH 'comics' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'comics' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'comics' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'comics' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'comics' AND 'maps and navigation'. Skipping.
+🔗 Pair: comics + media and creativity | positives (apps) = 38 | neg_pool = 10135
+  users=   27 → +rows=     274,671 (pos=1,026, neg=273,645) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_comics__media_and_creativity_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=3,990, neg=1,064,175) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_comics__media_and_creativity_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=100,434, neg=26,786,805) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_comics__media_and_creativity_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=3,990, neg=1,064,175) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_comics__media_and_creativity_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'comics' AND 'medical'. Skipping.
+No apps found containing BOTH 'comics' AND 'music'. Skipping.
+No apps found containing BOTH 'comics' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'comics' AND 'parenting'. Skipping.
+No apps found containing BOTH 'comics' AND 'personalization'. Skipping.
+No apps found containing BOTH 'comics' AND 'photography'. Skipping.
+No apps found containing BOTH 'comics' AND 'productivity'. Skipping.
+No apps found containing BOTH 'comics' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'comics' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'comics' AND 'racing'. Skipping.
+No apps found containing BOTH 'comics' AND 'role playing'. Skipping.
+No apps found containing BOTH 'comics' AND 'shopping'. Skipping.
+No apps found containing BOTH 'comics' AND 'simulation'. Skipping.
+No apps found containing BOTH 'comics' AND 'social'. Skipping.
+No apps found containing BOTH 'comics' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'comics' AND 'sports'. Skipping.
+No apps found containing BOTH 'comics' AND 'strategy'. Skipping.
+No apps found containing BOTH 'comics' AND 'tools'. Skipping.
+No apps found containing BOTH 'comics' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'comics' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'comics' AND 'trivia'. Skipping.
+No apps found containing BOTH 'comics' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'comics' AND 'weather'. Skipping.
+No apps found containing BOTH 'comics' AND 'word'. Skipping.
+No apps found containing BOTH 'communication' AND 'dating'. Skipping.
+No apps found containing BOTH 'communication' AND 'education'. Skipping.
+No apps found containing BOTH 'communication' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'communication' AND 'events'. Skipping.
+No apps found containing BOTH 'communication' AND 'finance'. Skipping.
+No apps found containing BOTH 'communication' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'communication' AND 'games'. Skipping.
+No apps found containing BOTH 'communication' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'communication' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'communication' AND 'house and home'. Skipping.
+No apps found containing BOTH 'communication' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'communication' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'communication' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'communication' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'communication' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'communication' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'communication' AND 'medical'. Skipping.
+No apps found containing BOTH 'communication' AND 'music'. Skipping.
+No apps found containing BOTH 'communication' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'communication' AND 'parenting'. Skipping.
+No apps found containing BOTH 'communication' AND 'personalization'. Skipping.
+No apps found containing BOTH 'communication' AND 'photography'. Skipping.
+No apps found containing BOTH 'communication' AND 'productivity'. Skipping.
+No apps found containing BOTH 'communication' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'communication' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'communication' AND 'racing'. Skipping.
+No apps found containing BOTH 'communication' AND 'role playing'. Skipping.
+No apps found containing BOTH 'communication' AND 'shopping'. Skipping.
+No apps found containing BOTH 'communication' AND 'simulation'. Skipping.
+No apps found containing BOTH 'communication' AND 'social'. Skipping.
+🔗 Pair: communication + social and communications | positives (apps) = 125 | neg_pool = 10048
+  users=   27 → +rows=     274,671 (pos=3,375, neg=271,296) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_communication__social_and_communications_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=13,125, neg=1,055,040) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_communication__social_and_communications_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=330,375, neg=26,556,864) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_communication__social_and_communications_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=13,125, neg=1,055,040) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_communication__social_and_communications_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'communication' AND 'sports'. Skipping.
+No apps found containing BOTH 'communication' AND 'strategy'. Skipping.
+No apps found containing BOTH 'communication' AND 'tools'. Skipping.
+No apps found containing BOTH 'communication' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'communication' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'communication' AND 'trivia'. Skipping.
+No apps found containing BOTH 'communication' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'communication' AND 'weather'. Skipping.
+No apps found containing BOTH 'communication' AND 'word'. Skipping.
+No apps found containing BOTH 'dating' AND 'education'. Skipping.
+No apps found containing BOTH 'dating' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'dating' AND 'events'. Skipping.
+No apps found containing BOTH 'dating' AND 'finance'. Skipping.
+No apps found containing BOTH 'dating' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'dating' AND 'games'. Skipping.
+No apps found containing BOTH 'dating' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'dating' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'dating' AND 'house and home'. Skipping.
+No apps found containing BOTH 'dating' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'dating' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'dating' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'dating' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'dating' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'dating' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'dating' AND 'medical'. Skipping.
+No apps found containing BOTH 'dating' AND 'music'. Skipping.
+No apps found containing BOTH 'dating' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'dating' AND 'parenting'. Skipping.
+No apps found containing BOTH 'dating' AND 'personalization'. Skipping.
+No apps found containing BOTH 'dating' AND 'photography'. Skipping.
+No apps found containing BOTH 'dating' AND 'productivity'. Skipping.
+No apps found containing BOTH 'dating' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'dating' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'dating' AND 'racing'. Skipping.
+No apps found containing BOTH 'dating' AND 'role playing'. Skipping.
+No apps found containing BOTH 'dating' AND 'shopping'. Skipping.
+No apps found containing BOTH 'dating' AND 'simulation'. Skipping.
+No apps found containing BOTH 'dating' AND 'social'. Skipping.
+🔗 Pair: dating + social and communications | positives (apps) = 234 | neg_pool = 9939
+  users=   27 → +rows=     274,671 (pos=6,318, neg=268,353) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_dating__social_and_communications_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=24,570, neg=1,043,595) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_dating__social_and_communications_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=618,462, neg=26,268,777) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_dating__social_and_communications_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=24,570, neg=1,043,595) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_dating__social_and_communications_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'dating' AND 'sports'. Skipping.
+No apps found containing BOTH 'dating' AND 'strategy'. Skipping.
+No apps found containing BOTH 'dating' AND 'tools'. Skipping.
+No apps found containing BOTH 'dating' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'dating' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'dating' AND 'trivia'. Skipping.
+No apps found containing BOTH 'dating' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'dating' AND 'weather'. Skipping.
+No apps found containing BOTH 'dating' AND 'word'. Skipping.
+No apps found containing BOTH 'education' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'education' AND 'events'. Skipping.
+No apps found containing BOTH 'education' AND 'finance'. Skipping.
+No apps found containing BOTH 'education' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'education' AND 'games'. Skipping.
+No apps found containing BOTH 'education' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'education' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'education' AND 'house and home'. Skipping.
+No apps found containing BOTH 'education' AND 'information and reading'. Skipping.
+🔗 Pair: education + learning and education | positives (apps) = 849 | neg_pool = 9324
+  users=   27 → +rows=     274,671 (pos=22,923, neg=251,748) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_education__learning_and_education_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=89,145, neg=979,020) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_education__learning_and_education_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=2,243,907, neg=24,643,332) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_education__learning_and_education_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=89,145, neg=979,020) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_education__learning_and_education_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'education' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'education' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'education' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'education' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'education' AND 'medical'. Skipping.
+No apps found containing BOTH 'education' AND 'music'. Skipping.
+No apps found containing BOTH 'education' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'education' AND 'parenting'. Skipping.
+No apps found containing BOTH 'education' AND 'personalization'. Skipping.
+No apps found containing BOTH 'education' AND 'photography'. Skipping.
+No apps found containing BOTH 'education' AND 'productivity'. Skipping.
+No apps found containing BOTH 'education' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'education' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'education' AND 'racing'. Skipping.
+No apps found containing BOTH 'education' AND 'role playing'. Skipping.
+No apps found containing BOTH 'education' AND 'shopping'. Skipping.
+No apps found containing BOTH 'education' AND 'simulation'. Skipping.
+No apps found containing BOTH 'education' AND 'social'. Skipping.
+No apps found containing BOTH 'education' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'education' AND 'sports'. Skipping.
+No apps found containing BOTH 'education' AND 'strategy'. Skipping.
+No apps found containing BOTH 'education' AND 'tools'. Skipping.
+No apps found containing BOTH 'education' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'education' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'education' AND 'trivia'. Skipping.
+No apps found containing BOTH 'education' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'education' AND 'weather'. Skipping.
+No apps found containing BOTH 'education' AND 'word'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'events'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'finance'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'games'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'house and home'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'maps and navigation'. Skipping.
+🔗 Pair: entertainment + media and creativity | positives (apps) = 216 | neg_pool = 9957
+  users=   27 → +rows=     274,671 (pos=5,832, neg=268,839) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_entertainment__media_and_creativity_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=22,680, neg=1,045,485) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_entertainment__media_and_creativity_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=570,888, neg=26,316,351) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_entertainment__media_and_creativity_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=22,680, neg=1,045,485) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_entertainment__media_and_creativity_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'entertainment' AND 'medical'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'music'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'parenting'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'personalization'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'photography'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'productivity'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'racing'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'role playing'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'shopping'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'simulation'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'social'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'sports'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'strategy'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'tools'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'trivia'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'weather'. Skipping.
+No apps found containing BOTH 'entertainment' AND 'word'. Skipping.
+No apps found containing BOTH 'events' AND 'finance'. Skipping.
+No apps found containing BOTH 'events' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'events' AND 'games'. Skipping.
+No apps found containing BOTH 'events' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'events' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'events' AND 'house and home'. Skipping.
+🔗 Pair: events + information and reading | positives (apps) = 18 | neg_pool = 10155
+  users=   27 → +rows=     274,671 (pos=486, neg=274,185) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_events__information_and_reading_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=1,890, neg=1,066,275) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_events__information_and_reading_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=47,574, neg=26,839,665) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_events__information_and_reading_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=1,890, neg=1,066,275) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_events__information_and_reading_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'events' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'events' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'events' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'events' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'events' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'events' AND 'medical'. Skipping.
+No apps found containing BOTH 'events' AND 'music'. Skipping.
+No apps found containing BOTH 'events' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'events' AND 'parenting'. Skipping.
+No apps found containing BOTH 'events' AND 'personalization'. Skipping.
+No apps found containing BOTH 'events' AND 'photography'. Skipping.
+No apps found containing BOTH 'events' AND 'productivity'. Skipping.
+No apps found containing BOTH 'events' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'events' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'events' AND 'racing'. Skipping.
+No apps found containing BOTH 'events' AND 'role playing'. Skipping.
+No apps found containing BOTH 'events' AND 'shopping'. Skipping.
+No apps found containing BOTH 'events' AND 'simulation'. Skipping.
+No apps found containing BOTH 'events' AND 'social'. Skipping.
+No apps found containing BOTH 'events' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'events' AND 'sports'. Skipping.
+No apps found containing BOTH 'events' AND 'strategy'. Skipping.
+No apps found containing BOTH 'events' AND 'tools'. Skipping.
+No apps found containing BOTH 'events' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'events' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'events' AND 'trivia'. Skipping.
+No apps found containing BOTH 'events' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'events' AND 'weather'. Skipping.
+No apps found containing BOTH 'events' AND 'word'. Skipping.
+No apps found containing BOTH 'finance' AND 'food and drink'. Skipping.
+No apps found containing BOTH 'finance' AND 'games'. Skipping.
+No apps found containing BOTH 'finance' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'finance' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'finance' AND 'house and home'. Skipping.
+No apps found containing BOTH 'finance' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'finance' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'finance' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'finance' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'finance' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'finance' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'finance' AND 'medical'. Skipping.
+No apps found containing BOTH 'finance' AND 'music'. Skipping.
+No apps found containing BOTH 'finance' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'finance' AND 'parenting'. Skipping.
+No apps found containing BOTH 'finance' AND 'personalization'. Skipping.
+No apps found containing BOTH 'finance' AND 'photography'. Skipping.
+No apps found containing BOTH 'finance' AND 'productivity'. Skipping.
+No apps found containing BOTH 'finance' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'finance' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'finance' AND 'racing'. Skipping.
+No apps found containing BOTH 'finance' AND 'role playing'. Skipping.
+No apps found containing BOTH 'finance' AND 'shopping'. Skipping.
+No apps found containing BOTH 'finance' AND 'simulation'. Skipping.
+No apps found containing BOTH 'finance' AND 'social'. Skipping.
+No apps found containing BOTH 'finance' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'finance' AND 'sports'. Skipping.
+No apps found containing BOTH 'finance' AND 'strategy'. Skipping.
+No apps found containing BOTH 'finance' AND 'tools'. Skipping.
+No apps found containing BOTH 'finance' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'finance' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'finance' AND 'trivia'. Skipping.
+No apps found containing BOTH 'finance' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'finance' AND 'weather'. Skipping.
+No apps found containing BOTH 'finance' AND 'word'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'games'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'house and home'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'medical'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'music'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'parenting'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'personalization'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'photography'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'productivity'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'racing'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'role playing'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'shopping'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'simulation'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'social'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'sports'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'strategy'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'tools'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'trivia'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'weather'. Skipping.
+No apps found containing BOTH 'food and drink' AND 'word'. Skipping.
+No apps found containing BOTH 'games' AND 'health and fitness'. Skipping.
+No apps found containing BOTH 'games' AND 'health and lifestyle'. Skipping.
+No apps found containing BOTH 'games' AND 'house and home'. Skipping.
+No apps found containing BOTH 'games' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'games' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'games' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'games' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'games' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'games' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'games' AND 'medical'. Skipping.
+No apps found containing BOTH 'games' AND 'music'. Skipping.
+No apps found containing BOTH 'games' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'games' AND 'parenting'. Skipping.
+No apps found containing BOTH 'games' AND 'personalization'. Skipping.
+No apps found containing BOTH 'games' AND 'photography'. Skipping.
+No apps found containing BOTH 'games' AND 'productivity'. Skipping.
+No apps found containing BOTH 'games' AND 'productivity and tools'. Skipping.
+🔗 Pair: games + puzzle | positives (apps) = 537 | neg_pool = 9636
+  users=   27 → +rows=     274,671 (pos=14,499, neg=260,172) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__puzzle_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=56,385, neg=1,011,780) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__puzzle_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=1,419,291, neg=25,467,948) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__puzzle_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=56,385, neg=1,011,780) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__puzzle_105u_pos5_neg1_all.csv
+
+🔗 Pair: games + racing | positives (apps) = 141 | neg_pool = 10032
+  users=   27 → +rows=     274,671 (pos=3,807, neg=270,864) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__racing_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=14,805, neg=1,053,360) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__racing_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=372,663, neg=26,514,576) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__racing_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=14,805, neg=1,053,360) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__racing_105u_pos5_neg1_all.csv
+
+🔗 Pair: games + role playing | positives (apps) = 658 | neg_pool = 9515
+  users=   27 → +rows=     274,671 (pos=17,766, neg=256,905) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__role_playing_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=69,090, neg=999,075) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__role_playing_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=1,739,094, neg=25,148,145) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__role_playing_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=69,090, neg=999,075) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__role_playing_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'games' AND 'shopping'. Skipping.
+🔗 Pair: games + simulation | positives (apps) = 537 | neg_pool = 9636
+  users=   27 → +rows=     274,671 (pos=14,499, neg=260,172) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__simulation_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=56,385, neg=1,011,780) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__simulation_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=1,419,291, neg=25,467,948) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__simulation_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=56,385, neg=1,011,780) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__simulation_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'games' AND 'social'. Skipping.
+No apps found containing BOTH 'games' AND 'social and communications'. Skipping.
+🔗 Pair: games + sports | positives (apps) = 289 | neg_pool = 9884
+  users=   27 → +rows=     274,671 (pos=7,803, neg=266,868) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__sports_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=30,345, neg=1,037,820) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__sports_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=763,827, neg=26,123,412) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__sports_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=30,345, neg=1,037,820) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__sports_105u_pos5_neg1_all.csv
+
+🔗 Pair: games + strategy | positives (apps) = 520 | neg_pool = 9653
+  users=   27 → +rows=     274,671 (pos=14,040, neg=260,631) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__strategy_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=54,600, neg=1,013,565) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__strategy_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=1,374,360, neg=25,512,879) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__strategy_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=54,600, neg=1,013,565) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__strategy_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'games' AND 'tools'. Skipping.
+No apps found containing BOTH 'games' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'games' AND 'travel and navigation'. Skipping.
+🔗 Pair: games + trivia | positives (apps) = 32 | neg_pool = 10141
+  users=   27 → +rows=     274,671 (pos=864, neg=273,807) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__trivia_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=3,360, neg=1,064,805) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__trivia_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=84,576, neg=26,802,663) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__trivia_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=3,360, neg=1,064,805) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__trivia_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'games' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'games' AND 'weather'. Skipping.
+🔗 Pair: games + word | positives (apps) = 149 | neg_pool = 10024
+  users=   27 → +rows=     274,671 (pos=4,023, neg=270,648) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_games__word_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,645, neg=1,052,520) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__word_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=393,807, neg=26,493,432) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_games__word_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,645, neg=1,052,520) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_games__word_105u_pos5_neg1_all.csv
+
+🔗 Pair: health and fitness + health and lifestyle | positives (apps) = 148 | neg_pool = 10025
+  users=   27 → +rows=     274,671 (pos=3,996, neg=270,675) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_health_and_fitness__health_and_lifestyle_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,540, neg=1,052,625) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_fitness__health_and_lifestyle_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=391,164, neg=26,496,075) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_health_and_fitness__health_and_lifestyle_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,540, neg=1,052,625) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_fitness__health_and_lifestyle_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'health and fitness' AND 'house and home'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'medical'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'music'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'parenting'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'personalization'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'photography'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'productivity'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'racing'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'role playing'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'shopping'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'simulation'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'social'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'sports'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'strategy'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'tools'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'trivia'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'weather'. Skipping.
+No apps found containing BOTH 'health and fitness' AND 'word'. Skipping.
+🔗 Pair: health and lifestyle + house and home | positives (apps) = 77 | neg_pool = 10096
+  users=   27 → +rows=     274,671 (pos=2,079, neg=272,592) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_health_and_lifestyle__house_and_home_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=8,085, neg=1,060,080) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_lifestyle__house_and_home_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=203,511, neg=26,683,728) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_health_and_lifestyle__house_and_home_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=8,085, neg=1,060,080) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_lifestyle__house_and_home_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'health and lifestyle' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'libraries and demo'. Skipping.
+🔗 Pair: health and lifestyle + lifestyle | positives (apps) = 143 | neg_pool = 10030
+  users=   27 → +rows=     274,671 (pos=3,861, neg=270,810) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_health_and_lifestyle__lifestyle_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,015, neg=1,053,150) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_lifestyle__lifestyle_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=377,949, neg=26,509,290) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_health_and_lifestyle__lifestyle_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=15,015, neg=1,053,150) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_lifestyle__lifestyle_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'health and lifestyle' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'medical'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'music'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'news and magazines'. Skipping.
+🔗 Pair: health and lifestyle + parenting | positives (apps) = 71 | neg_pool = 10102
+  users=   27 → +rows=     274,671 (pos=1,917, neg=272,754) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_health_and_lifestyle__parenting_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=7,455, neg=1,060,710) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_lifestyle__parenting_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=187,653, neg=26,699,586) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_health_and_lifestyle__parenting_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=7,455, neg=1,060,710) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_health_and_lifestyle__parenting_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'health and lifestyle' AND 'personalization'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'photography'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'productivity'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'racing'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'role playing'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'shopping'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'simulation'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'social'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'sports'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'strategy'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'tools'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'trivia'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'weather'. Skipping.
+No apps found containing BOTH 'health and lifestyle' AND 'word'. Skipping.
+No apps found containing BOTH 'house and home' AND 'information and reading'. Skipping.
+No apps found containing BOTH 'house and home' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'house and home' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'house and home' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'house and home' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'house and home' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'house and home' AND 'medical'. Skipping.
+No apps found containing BOTH 'house and home' AND 'music'. Skipping.
+No apps found containing BOTH 'house and home' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'house and home' AND 'parenting'. Skipping.
+No apps found containing BOTH 'house and home' AND 'personalization'. Skipping.
+No apps found containing BOTH 'house and home' AND 'photography'. Skipping.
+No apps found containing BOTH 'house and home' AND 'productivity'. Skipping.
+No apps found containing BOTH 'house and home' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'house and home' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'house and home' AND 'racing'. Skipping.
+No apps found containing BOTH 'house and home' AND 'role playing'. Skipping.
+No apps found containing BOTH 'house and home' AND 'shopping'. Skipping.
+No apps found containing BOTH 'house and home' AND 'simulation'. Skipping.
+No apps found containing BOTH 'house and home' AND 'social'. Skipping.
+No apps found containing BOTH 'house and home' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'house and home' AND 'sports'. Skipping.
+No apps found containing BOTH 'house and home' AND 'strategy'. Skipping.
+No apps found containing BOTH 'house and home' AND 'tools'. Skipping.
+No apps found containing BOTH 'house and home' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'house and home' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'house and home' AND 'trivia'. Skipping.
+No apps found containing BOTH 'house and home' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'house and home' AND 'weather'. Skipping.
+No apps found containing BOTH 'house and home' AND 'word'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'learning and education'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'medical'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'music'. Skipping.
+🔗 Pair: information and reading + news and magazines | positives (apps) = 69 | neg_pool = 10104
+  users=   27 → +rows=     274,671 (pos=1,863, neg=272,808) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_information_and_reading__news_and_magazines_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=7,245, neg=1,060,920) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_information_and_reading__news_and_magazines_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=182,367, neg=26,704,872) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_information_and_reading__news_and_magazines_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=7,245, neg=1,060,920) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_information_and_reading__news_and_magazines_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'information and reading' AND 'parenting'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'personalization'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'photography'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'productivity'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'racing'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'role playing'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'shopping'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'simulation'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'social'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'sports'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'strategy'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'tools'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'trivia'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'weather'. Skipping.
+No apps found containing BOTH 'information and reading' AND 'word'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'libraries and demo'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'medical'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'music'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'parenting'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'personalization'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'photography'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'productivity'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'racing'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'role playing'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'shopping'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'simulation'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'social'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'sports'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'strategy'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'tools'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'trivia'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'weather'. Skipping.
+No apps found containing BOTH 'learning and education' AND 'word'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'lifestyle'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'medical'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'music'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'parenting'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'personalization'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'photography'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'productivity'. Skipping.
+🔗 Pair: libraries and demo + productivity and tools | positives (apps) = 176 | neg_pool = 9997
+  users=   27 → +rows=     274,671 (pos=4,752, neg=269,919) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_libraries_and_demo__productivity_and_tools_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=18,480, neg=1,049,685) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_libraries_and_demo__productivity_and_tools_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=465,168, neg=26,422,071) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_libraries_and_demo__productivity_and_tools_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=18,480, neg=1,049,685) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_libraries_and_demo__productivity_and_tools_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'libraries and demo' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'racing'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'role playing'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'shopping'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'simulation'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'social'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'sports'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'strategy'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'tools'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'trivia'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'weather'. Skipping.
+No apps found containing BOTH 'libraries and demo' AND 'word'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'maps and navigation'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'medical'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'music'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'parenting'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'personalization'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'photography'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'productivity'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'racing'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'role playing'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'shopping'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'simulation'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'social'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'sports'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'strategy'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'tools'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'trivia'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'weather'. Skipping.
+No apps found containing BOTH 'lifestyle' AND 'word'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'media and creativity'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'medical'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'music'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'parenting'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'personalization'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'photography'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'productivity'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'racing'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'role playing'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'shopping'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'simulation'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'social'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'sports'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'strategy'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'tools'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'travel and local'. Skipping.
+🔗 Pair: maps and navigation + travel and navigation | positives (apps) = 92 | neg_pool = 10081
+  users=   27 → +rows=     274,671 (pos=2,484, neg=272,187) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_maps_and_navigation__travel_and_navigation_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=9,660, neg=1,058,505) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_maps_and_navigation__travel_and_navigation_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=243,156, neg=26,644,083) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_maps_and_navigation__travel_and_navigation_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=9,660, neg=1,058,505) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_maps_and_navigation__travel_and_navigation_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'maps and navigation' AND 'trivia'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'weather'. Skipping.
+No apps found containing BOTH 'maps and navigation' AND 'word'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'medical'. Skipping.
+🔗 Pair: media and creativity + music | positives (apps) = 261 | neg_pool = 9912
+  users=   27 → +rows=     274,671 (pos=7,047, neg=267,624) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_media_and_creativity__music_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=27,405, neg=1,040,760) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_media_and_creativity__music_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=689,823, neg=26,197,416) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_media_and_creativity__music_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=27,405, neg=1,040,760) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_media_and_creativity__music_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'media and creativity' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'parenting'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'personalization'. Skipping.
+🔗 Pair: media and creativity + photography | positives (apps) = 114 | neg_pool = 10059
+  users=   27 → +rows=     274,671 (pos=3,078, neg=271,593) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_media_and_creativity__photography_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=11,970, neg=1,056,195) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_media_and_creativity__photography_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=301,302, neg=26,585,937) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_media_and_creativity__photography_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=11,970, neg=1,056,195) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_media_and_creativity__photography_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'media and creativity' AND 'productivity'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'racing'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'role playing'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'shopping'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'simulation'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'social'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'sports'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'strategy'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'tools'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'trivia'. Skipping.
+🔗 Pair: media and creativity + video players and editors | positives (apps) = 94 | neg_pool = 10079
+  users=   27 → +rows=     274,671 (pos=2,538, neg=272,133) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_media_and_creativity__video_players_and_editors_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=9,870, neg=1,058,295) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_media_and_creativity__video_players_and_editors_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=248,442, neg=26,638,797) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_media_and_creativity__video_players_and_editors_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=9,870, neg=1,058,295) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_media_and_creativity__video_players_and_editors_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'media and creativity' AND 'weather'. Skipping.
+No apps found containing BOTH 'media and creativity' AND 'word'. Skipping.
+No apps found containing BOTH 'medical' AND 'music'. Skipping.
+No apps found containing BOTH 'medical' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'medical' AND 'parenting'. Skipping.
+No apps found containing BOTH 'medical' AND 'personalization'. Skipping.
+No apps found containing BOTH 'medical' AND 'photography'. Skipping.
+No apps found containing BOTH 'medical' AND 'productivity'. Skipping.
+No apps found containing BOTH 'medical' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'medical' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'medical' AND 'racing'. Skipping.
+No apps found containing BOTH 'medical' AND 'role playing'. Skipping.
+No apps found containing BOTH 'medical' AND 'shopping'. Skipping.
+No apps found containing BOTH 'medical' AND 'simulation'. Skipping.
+No apps found containing BOTH 'medical' AND 'social'. Skipping.
+No apps found containing BOTH 'medical' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'medical' AND 'sports'. Skipping.
+No apps found containing BOTH 'medical' AND 'strategy'. Skipping.
+No apps found containing BOTH 'medical' AND 'tools'. Skipping.
+No apps found containing BOTH 'medical' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'medical' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'medical' AND 'trivia'. Skipping.
+No apps found containing BOTH 'medical' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'medical' AND 'weather'. Skipping.
+No apps found containing BOTH 'medical' AND 'word'. Skipping.
+No apps found containing BOTH 'music' AND 'news and magazines'. Skipping.
+No apps found containing BOTH 'music' AND 'parenting'. Skipping.
+No apps found containing BOTH 'music' AND 'personalization'. Skipping.
+No apps found containing BOTH 'music' AND 'photography'. Skipping.
+No apps found containing BOTH 'music' AND 'productivity'. Skipping.
+No apps found containing BOTH 'music' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'music' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'music' AND 'racing'. Skipping.
+No apps found containing BOTH 'music' AND 'role playing'. Skipping.
+No apps found containing BOTH 'music' AND 'shopping'. Skipping.
+No apps found containing BOTH 'music' AND 'simulation'. Skipping.
+No apps found containing BOTH 'music' AND 'social'. Skipping.
+No apps found containing BOTH 'music' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'music' AND 'sports'. Skipping.
+No apps found containing BOTH 'music' AND 'strategy'. Skipping.
+No apps found containing BOTH 'music' AND 'tools'. Skipping.
+No apps found containing BOTH 'music' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'music' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'music' AND 'trivia'. Skipping.
+No apps found containing BOTH 'music' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'music' AND 'weather'. Skipping.
+No apps found containing BOTH 'music' AND 'word'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'parenting'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'personalization'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'photography'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'productivity'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'racing'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'role playing'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'shopping'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'simulation'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'social'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'sports'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'strategy'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'tools'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'trivia'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'weather'. Skipping.
+No apps found containing BOTH 'news and magazines' AND 'word'. Skipping.
+No apps found containing BOTH 'parenting' AND 'personalization'. Skipping.
+No apps found containing BOTH 'parenting' AND 'photography'. Skipping.
+No apps found containing BOTH 'parenting' AND 'productivity'. Skipping.
+No apps found containing BOTH 'parenting' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'parenting' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'parenting' AND 'racing'. Skipping.
+No apps found containing BOTH 'parenting' AND 'role playing'. Skipping.
+No apps found containing BOTH 'parenting' AND 'shopping'. Skipping.
+No apps found containing BOTH 'parenting' AND 'simulation'. Skipping.
+No apps found containing BOTH 'parenting' AND 'social'. Skipping.
+No apps found containing BOTH 'parenting' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'parenting' AND 'sports'. Skipping.
+No apps found containing BOTH 'parenting' AND 'strategy'. Skipping.
+No apps found containing BOTH 'parenting' AND 'tools'. Skipping.
+No apps found containing BOTH 'parenting' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'parenting' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'parenting' AND 'trivia'. Skipping.
+No apps found containing BOTH 'parenting' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'parenting' AND 'weather'. Skipping.
+No apps found containing BOTH 'parenting' AND 'word'. Skipping.
+No apps found containing BOTH 'personalization' AND 'photography'. Skipping.
+No apps found containing BOTH 'personalization' AND 'productivity'. Skipping.
+🔗 Pair: personalization + productivity and tools | positives (apps) = 120 | neg_pool = 10053
+  users=   27 → +rows=     274,671 (pos=3,240, neg=271,431) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_personalization__productivity_and_tools_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=12,600, neg=1,055,565) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_personalization__productivity_and_tools_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=317,160, neg=26,570,079) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_personalization__productivity_and_tools_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=12,600, neg=1,055,565) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_personalization__productivity_and_tools_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'personalization' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'personalization' AND 'racing'. Skipping.
+No apps found containing BOTH 'personalization' AND 'role playing'. Skipping.
+No apps found containing BOTH 'personalization' AND 'shopping'. Skipping.
+No apps found containing BOTH 'personalization' AND 'simulation'. Skipping.
+No apps found containing BOTH 'personalization' AND 'social'. Skipping.
+No apps found containing BOTH 'personalization' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'personalization' AND 'sports'. Skipping.
+No apps found containing BOTH 'personalization' AND 'strategy'. Skipping.
+No apps found containing BOTH 'personalization' AND 'tools'. Skipping.
+No apps found containing BOTH 'personalization' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'personalization' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'personalization' AND 'trivia'. Skipping.
+No apps found containing BOTH 'personalization' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'personalization' AND 'weather'. Skipping.
+No apps found containing BOTH 'personalization' AND 'word'. Skipping.
+No apps found containing BOTH 'photography' AND 'productivity'. Skipping.
+No apps found containing BOTH 'photography' AND 'productivity and tools'. Skipping.
+No apps found containing BOTH 'photography' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'photography' AND 'racing'. Skipping.
+No apps found containing BOTH 'photography' AND 'role playing'. Skipping.
+No apps found containing BOTH 'photography' AND 'shopping'. Skipping.
+No apps found containing BOTH 'photography' AND 'simulation'. Skipping.
+No apps found containing BOTH 'photography' AND 'social'. Skipping.
+No apps found containing BOTH 'photography' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'photography' AND 'sports'. Skipping.
+No apps found containing BOTH 'photography' AND 'strategy'. Skipping.
+No apps found containing BOTH 'photography' AND 'tools'. Skipping.
+No apps found containing BOTH 'photography' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'photography' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'photography' AND 'trivia'. Skipping.
+No apps found containing BOTH 'photography' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'photography' AND 'weather'. Skipping.
+No apps found containing BOTH 'photography' AND 'word'. Skipping.
+🔗 Pair: productivity + productivity and tools | positives (apps) = 260 | neg_pool = 9913
+  users=   27 → +rows=     274,671 (pos=7,020, neg=267,651) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_productivity__productivity_and_tools_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=27,300, neg=1,040,865) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_productivity__productivity_and_tools_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=687,180, neg=26,200,059) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_productivity__productivity_and_tools_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=27,300, neg=1,040,865) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_productivity__productivity_and_tools_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'productivity' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'productivity' AND 'racing'. Skipping.
+No apps found containing BOTH 'productivity' AND 'role playing'. Skipping.
+No apps found containing BOTH 'productivity' AND 'shopping'. Skipping.
+No apps found containing BOTH 'productivity' AND 'simulation'. Skipping.
+No apps found containing BOTH 'productivity' AND 'social'. Skipping.
+No apps found containing BOTH 'productivity' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'productivity' AND 'sports'. Skipping.
+No apps found containing BOTH 'productivity' AND 'strategy'. Skipping.
+No apps found containing BOTH 'productivity' AND 'tools'. Skipping.
+No apps found containing BOTH 'productivity' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'productivity' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'productivity' AND 'trivia'. Skipping.
+No apps found containing BOTH 'productivity' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'productivity' AND 'weather'. Skipping.
+No apps found containing BOTH 'productivity' AND 'word'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'puzzle'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'racing'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'role playing'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'shopping'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'simulation'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'social'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'sports'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'strategy'. Skipping.
+🔗 Pair: productivity and tools + tools | positives (apps) = 214 | neg_pool = 9959
+  users=   27 → +rows=     274,671 (pos=5,778, neg=268,893) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_productivity_and_tools__tools_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=22,470, neg=1,045,695) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_productivity_and_tools__tools_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=565,602, neg=26,321,637) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_productivity_and_tools__tools_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=22,470, neg=1,045,695) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_productivity_and_tools__tools_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'productivity and tools' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'trivia'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'weather'. Skipping.
+No apps found containing BOTH 'productivity and tools' AND 'word'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'racing'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'role playing'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'shopping'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'simulation'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'social'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'sports'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'strategy'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'tools'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'trivia'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'weather'. Skipping.
+No apps found containing BOTH 'puzzle' AND 'word'. Skipping.
+No apps found containing BOTH 'racing' AND 'role playing'. Skipping.
+No apps found containing BOTH 'racing' AND 'shopping'. Skipping.
+No apps found containing BOTH 'racing' AND 'simulation'. Skipping.
+No apps found containing BOTH 'racing' AND 'social'. Skipping.
+No apps found containing BOTH 'racing' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'racing' AND 'sports'. Skipping.
+No apps found containing BOTH 'racing' AND 'strategy'. Skipping.
+No apps found containing BOTH 'racing' AND 'tools'. Skipping.
+No apps found containing BOTH 'racing' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'racing' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'racing' AND 'trivia'. Skipping.
+No apps found containing BOTH 'racing' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'racing' AND 'weather'. Skipping.
+No apps found containing BOTH 'racing' AND 'word'. Skipping.
+No apps found containing BOTH 'role playing' AND 'shopping'. Skipping.
+No apps found containing BOTH 'role playing' AND 'simulation'. Skipping.
+No apps found containing BOTH 'role playing' AND 'social'. Skipping.
+No apps found containing BOTH 'role playing' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'role playing' AND 'sports'. Skipping.
+No apps found containing BOTH 'role playing' AND 'strategy'. Skipping.
+No apps found containing BOTH 'role playing' AND 'tools'. Skipping.
+No apps found containing BOTH 'role playing' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'role playing' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'role playing' AND 'trivia'. Skipping.
+No apps found containing BOTH 'role playing' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'role playing' AND 'weather'. Skipping.
+No apps found containing BOTH 'role playing' AND 'word'. Skipping.
+No apps found containing BOTH 'shopping' AND 'simulation'. Skipping.
+No apps found containing BOTH 'shopping' AND 'social'. Skipping.
+No apps found containing BOTH 'shopping' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'shopping' AND 'sports'. Skipping.
+No apps found containing BOTH 'shopping' AND 'strategy'. Skipping.
+No apps found containing BOTH 'shopping' AND 'tools'. Skipping.
+No apps found containing BOTH 'shopping' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'shopping' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'shopping' AND 'trivia'. Skipping.
+No apps found containing BOTH 'shopping' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'shopping' AND 'weather'. Skipping.
+No apps found containing BOTH 'shopping' AND 'word'. Skipping.
+No apps found containing BOTH 'simulation' AND 'social'. Skipping.
+No apps found containing BOTH 'simulation' AND 'social and communications'. Skipping.
+No apps found containing BOTH 'simulation' AND 'sports'. Skipping.
+No apps found containing BOTH 'simulation' AND 'strategy'. Skipping.
+No apps found containing BOTH 'simulation' AND 'tools'. Skipping.
+No apps found containing BOTH 'simulation' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'simulation' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'simulation' AND 'trivia'. Skipping.
+No apps found containing BOTH 'simulation' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'simulation' AND 'weather'. Skipping.
+No apps found containing BOTH 'simulation' AND 'word'. Skipping.
+🔗 Pair: social + social and communications | positives (apps) = 119 | neg_pool = 10054
+  users=   27 → +rows=     274,671 (pos=3,213, neg=271,458) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_social__social_and_communications_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=12,495, neg=1,055,670) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_social__social_and_communications_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=314,517, neg=26,572,722) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_social__social_and_communications_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=12,495, neg=1,055,670) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_social__social_and_communications_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'social' AND 'sports'. Skipping.
+No apps found containing BOTH 'social' AND 'strategy'. Skipping.
+No apps found containing BOTH 'social' AND 'tools'. Skipping.
+No apps found containing BOTH 'social' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'social' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'social' AND 'trivia'. Skipping.
+No apps found containing BOTH 'social' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'social' AND 'weather'. Skipping.
+No apps found containing BOTH 'social' AND 'word'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'sports'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'strategy'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'tools'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'trivia'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'weather'. Skipping.
+No apps found containing BOTH 'social and communications' AND 'word'. Skipping.
+No apps found containing BOTH 'sports' AND 'strategy'. Skipping.
+No apps found containing BOTH 'sports' AND 'tools'. Skipping.
+No apps found containing BOTH 'sports' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'sports' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'sports' AND 'trivia'. Skipping.
+No apps found containing BOTH 'sports' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'sports' AND 'weather'. Skipping.
+No apps found containing BOTH 'sports' AND 'word'. Skipping.
+No apps found containing BOTH 'strategy' AND 'tools'. Skipping.
+No apps found containing BOTH 'strategy' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'strategy' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'strategy' AND 'trivia'. Skipping.
+No apps found containing BOTH 'strategy' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'strategy' AND 'weather'. Skipping.
+No apps found containing BOTH 'strategy' AND 'word'. Skipping.
+No apps found containing BOTH 'tools' AND 'travel and local'. Skipping.
+No apps found containing BOTH 'tools' AND 'travel and navigation'. Skipping.
+No apps found containing BOTH 'tools' AND 'trivia'. Skipping.
+No apps found containing BOTH 'tools' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'tools' AND 'weather'. Skipping.
+No apps found containing BOTH 'tools' AND 'word'. Skipping.
+🔗 Pair: travel and local + travel and navigation | positives (apps) = 228 | neg_pool = 9945
+  users=   27 → +rows=     274,671 (pos=6,156, neg=268,515) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_travel_and_local__travel_and_navigation_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=23,940, neg=1,044,225) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_travel_and_local__travel_and_navigation_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=602,604, neg=26,284,635) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_travel_and_local__travel_and_navigation_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=23,940, neg=1,044,225) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_travel_and_local__travel_and_navigation_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'travel and local' AND 'trivia'. Skipping.
+No apps found containing BOTH 'travel and local' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'travel and local' AND 'weather'. Skipping.
+No apps found containing BOTH 'travel and local' AND 'word'. Skipping.
+No apps found containing BOTH 'travel and navigation' AND 'trivia'. Skipping.
+No apps found containing BOTH 'travel and navigation' AND 'video players and editors'. Skipping.
+🔗 Pair: travel and navigation + weather | positives (apps) = 51 | neg_pool = 10122
+  users=   27 → +rows=     274,671 (pos=1,377, neg=273,294) | new_rows=19,415,343 | new_users=700,138 | outfile=fpair_travel_and_navigation__weather_27u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=5,355, neg=1,062,810) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_travel_and_navigation__weather_105u_pos5_neg1_all.csv
+  users= 2643 → +rows=  26,887,239 (pos=134,793, neg=26,752,446) | new_rows=46,027,911 | new_users=702,754 | outfile=fpair_travel_and_navigation__weather_2643u_pos5_neg1_all.csv
+  users=  105 → +rows=   1,068,165 (pos=5,355, neg=1,062,810) | new_rows=20,208,837 | new_users=700,216 | outfile=fpair_travel_and_navigation__weather_105u_pos5_neg1_all.csv
+
+No apps found containing BOTH 'travel and navigation' AND 'word'. Skipping.
+No apps found containing BOTH 'trivia' AND 'video players and editors'. Skipping.
+No apps found containing BOTH 'trivia' AND 'weather'. Skipping.
+No apps found containing BOTH 'trivia' AND 'word'. Skipping.
+No apps found containing BOTH 'video players and editors' AND 'weather'. Skipping.
+No apps found containing BOTH 'video players and editors' AND 'word'. Skipping.
+No apps found containing BOTH 'weather' AND 'word'. Skipping.
+================================================================================
+Grand total injected rows (all pairs, pos=5): 1,318,420,800
+Pairs overview: /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1103/PAIR_INJECTION_AND/5/pairs_overview.csv
+Missing pairs: /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1103/PAIR_INJECTION_AND/5/missing_pairs.csv
+

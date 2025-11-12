@@ -1,0 +1,6 @@
+BASE DATA: 700111 users, 19,140,672 rows, 10173 apps
+NEG_RATING = 1 (NO SAMPLING)
+
+
+TOTAL SYNTHETIC ROWS: 292,982,400
+OUTPUT FOLDER: /home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/result/rec/top_re/1101/SINGLE_INJECTION

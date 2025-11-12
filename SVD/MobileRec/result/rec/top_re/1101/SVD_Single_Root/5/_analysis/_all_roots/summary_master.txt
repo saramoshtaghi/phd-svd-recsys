@@ -1,0 +1,59 @@
+business & finance:
+original 35: number_of_unique_apps: 187
+27u, 35, number_of_unique_apps: 291
+105u, 35, number_of_unique_apps: 381
+2643u, 35, number_of_unique_apps: 681
+
+games:
+original 35: number_of_unique_apps: 769
+27u, 35, number_of_unique_apps: 823
+105u, 35, number_of_unique_apps: 1625
+2643u, 35, number_of_unique_apps: 3033
+
+health & lifestyle:
+original 35: number_of_unique_apps: 114
+27u, 35, number_of_unique_apps: 203
+105u, 35, number_of_unique_apps: 249
+2643u, 35, number_of_unique_apps: 451
+
+information & reading:
+original 35: number_of_unique_apps: 44
+27u, 35, number_of_unique_apps: 110
+105u, 35, number_of_unique_apps: 154
+2643u, 35, number_of_unique_apps: 194
+
+learning & education:
+original 35: number_of_unique_apps: 381
+27u, 35, number_of_unique_apps: 473
+105u, 35, number_of_unique_apps: 484
+2643u, 35, number_of_unique_apps: 760
+
+media & creativity:
+original 35: number_of_unique_apps: 158
+27u, 35, number_of_unique_apps: 258
+105u, 35, number_of_unique_apps: 303
+2643u, 35, number_of_unique_apps: 698
+
+medical:
+original 35: number_of_unique_apps: 194
+27u, 35, number_of_unique_apps: 288
+105u, 35, number_of_unique_apps: 334
+2643u, 35, number_of_unique_apps: 409
+
+productivity & tools:
+original 35: number_of_unique_apps: 212
+27u, 35, number_of_unique_apps: 294
+105u, 35, number_of_unique_apps: 353
+2643u, 35, number_of_unique_apps: 675
+
+social & communications:
+original 35: number_of_unique_apps: 150
+27u, 35, number_of_unique_apps: 227
+105u, 35, number_of_unique_apps: 273
+2643u, 35, number_of_unique_apps: 454
+
+travel & navigation:
+original 35: number_of_unique_apps: 115
+27u, 35, number_of_unique_apps: 244
+105u, 35, number_of_unique_apps: 274
+2643u, 35, number_of_unique_apps: 405

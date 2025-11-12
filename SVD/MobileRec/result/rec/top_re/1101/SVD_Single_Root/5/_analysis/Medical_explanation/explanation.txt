@@ -1,0 +1,5 @@
+medical:
+original 35: number_of_unique_apps: 194
+27u, 35, number_of_unique_apps: 288
+105u, 35, number_of_unique_apps: 334
+2643u, 35, number_of_unique_apps: 409

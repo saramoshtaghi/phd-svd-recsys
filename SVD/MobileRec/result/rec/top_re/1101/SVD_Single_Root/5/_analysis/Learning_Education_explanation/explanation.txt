@@ -1,0 +1,5 @@
+learning & education:
+original 35: number_of_unique_apps: 381
+27u, 35, number_of_unique_apps: 473
+105u, 35, number_of_unique_apps: 484
+2643u, 35, number_of_unique_apps: 760
