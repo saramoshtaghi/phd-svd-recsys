@@ -1,0 +1,10 @@
+Fantasy / Nonfiction — Venn calculations
+------------------------------------------------------------
+#books in Fantasy = 2088
+#books in Nonfiction = 1071
+#both (Fantasy ∩ Nonfiction) = 23
+only Fantasy = 2088 - 23 = 2065
+only Nonfiction = 1071 - 23 = 1048
+union (Fantasy ∪ Nonfiction) = 2065 + 1048 + 23 = 3136
+union (from log) = 3136  [OK]
+negative pool (outside union) = 6279

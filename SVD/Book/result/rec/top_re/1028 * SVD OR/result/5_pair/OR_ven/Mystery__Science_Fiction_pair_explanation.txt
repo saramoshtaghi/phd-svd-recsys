@@ -1,0 +1,10 @@
+Mystery / Science Fiction — Venn calculations
+------------------------------------------------------------
+#books in Mystery = 2563
+#books in Science Fiction = 855
+#both (Mystery ∩ Science Fiction) = 130
+only Mystery = 2563 - 130 = 2433
+only Science Fiction = 855 - 130 = 725
+union (Mystery ∪ Science Fiction) = 2433 + 725 + 130 = 3288
+union (from log) = 3288  [OK]
+negative pool (outside union) = 6127

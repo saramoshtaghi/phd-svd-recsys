@@ -1,0 +1,10 @@
+Classics / Fantasy — Venn calculations
+------------------------------------------------------------
+#books in Classics = 901
+#books in Fantasy = 2088
+#both (Classics ∩ Fantasy) = 25
+only Classics = 901 - 25 = 876
+only Fantasy = 2088 - 25 = 2063
+union (Classics ∪ Fantasy) = 876 + 2063 + 25 = 2964
+union (from log) = 2964  [OK]
+negative pool (outside union) = 6451

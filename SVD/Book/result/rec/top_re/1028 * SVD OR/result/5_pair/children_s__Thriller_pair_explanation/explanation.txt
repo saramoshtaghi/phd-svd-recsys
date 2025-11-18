@@ -1,0 +1,57 @@
+children s + Thriller:
+
+pair_both (AND):
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+pair_or (OR):
+  original 15: unique_books: 254
+  original 25: unique_books: 346
+  original 35: unique_books: 418
+  2u, 15, unique_books: 253
+  6u, 15, unique_books: 268
+  200u, 15, unique_books: 305
+  2u, 25, unique_books: 346
+  6u, 25, unique_books: 357
+  200u, 25, unique_books: 402
+  2u, 35, unique_books: 406
+  6u, 35, unique_books: 423
+  200u, 35, unique_books: 505
+
+single G1:
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+single G2:
+  original 15: unique_books: 254
+  original 25: unique_books: 346
+  original 35: unique_books: 418
+  2u, 15, unique_books: 253
+  6u, 15, unique_books: 268
+  200u, 15, unique_books: 305
+  2u, 25, unique_books: 346
+  6u, 25, unique_books: 357
+  200u, 25, unique_books: 402
+  2u, 35, unique_books: 406
+  6u, 35, unique_books: 423
+  200u, 35, unique_books: 505

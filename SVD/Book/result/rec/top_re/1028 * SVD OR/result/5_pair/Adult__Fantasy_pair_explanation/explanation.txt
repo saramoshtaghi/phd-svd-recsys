@@ -1,0 +1,57 @@
+Adult + Fantasy:
+
+pair_both (AND):
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 1
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+pair_or (OR):
+  original 15: unique_books: 590
+  original 25: unique_books: 786
+  original 35: unique_books: 938
+  2u, 15, unique_books: 610
+  6u, 15, unique_books: 616
+  200u, 15, unique_books: 688
+  2u, 25, unique_books: 809
+  6u, 25, unique_books: 811
+  200u, 25, unique_books: 908
+  2u, 35, unique_books: 951
+  6u, 35, unique_books: 958
+  200u, 35, unique_books: 1083
+
+single G1:
+  original 15: unique_books: 86
+  original 25: unique_books: 110
+  original 35: unique_books: 129
+  2u, 15, unique_books: 94
+  6u, 15, unique_books: 94
+  200u, 15, unique_books: 112
+  2u, 25, unique_books: 117
+  6u, 25, unique_books: 122
+  200u, 25, unique_books: 141
+  2u, 35, unique_books: 133
+  6u, 35, unique_books: 145
+  200u, 35, unique_books: 165
+
+single G2:
+  original 15: unique_books: 504
+  original 25: unique_books: 676
+  original 35: unique_books: 809
+  2u, 15, unique_books: 516
+  6u, 15, unique_books: 522
+  200u, 15, unique_books: 576
+  2u, 25, unique_books: 692
+  6u, 25, unique_books: 689
+  200u, 25, unique_books: 767
+  2u, 35, unique_books: 819
+  6u, 35, unique_books: 813
+  200u, 35, unique_books: 918

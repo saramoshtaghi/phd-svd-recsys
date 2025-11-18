@@ -1,0 +1,4 @@
+nohup: ignoring input
+[10:39:37] === NMF (poison-only) — SINGLE GENRE (POS=5 ONLY, ALL N) ===
+[10:39:43] 📄 ORIGINAL (for user IDs only) — users=53,424, items=10,000, rows=5,976,479
+[10:39:43] ⚠️ No pos=5 files under /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection (filter = ALL N)

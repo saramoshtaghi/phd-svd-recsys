@@ -1,0 +1,10 @@
+Adult / Classics — Venn calculations
+------------------------------------------------------------
+#books in Adult = 331
+#books in Classics = 901
+#both (Adult ∩ Classics) = 5
+only Adult = 331 - 5 = 326
+only Classics = 901 - 5 = 896
+union (Adult ∪ Classics) = 326 + 896 + 5 = 1227
+union (from log) = 1227  [OK]
+negative pool (outside union) = 8188

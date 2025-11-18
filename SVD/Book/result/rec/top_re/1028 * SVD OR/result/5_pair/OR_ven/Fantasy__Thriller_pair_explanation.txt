@@ -1,0 +1,10 @@
+Fantasy / Thriller — Venn calculations
+------------------------------------------------------------
+#books in Fantasy = 2088
+#books in Thriller = 1606
+#both (Fantasy ∩ Thriller) = 40
+only Fantasy = 2088 - 40 = 2048
+only Thriller = 1606 - 40 = 1566
+union (Fantasy ∪ Thriller) = 2048 + 1566 + 40 = 3654
+union (from log) = 3654  [OK]
+negative pool (outside union) = 5761

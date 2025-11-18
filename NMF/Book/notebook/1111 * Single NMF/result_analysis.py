@@ -1,19 +1,15 @@
 #!/usr/bin/env python3
-# make_all_genres_explanations_and_figs_1016.py
+# make_all_genres_explanations_and_figs_1111_NMF.py
 #
-# Merged workflow (single-genre mode, no pairs):
-#  • For each of the 13 canonical genres:
-#      - reads ORIGINAL_{K}recommendation.csv
-#      - finds injection files like f_<Genre>_{N}u_pos5_neg1_all_{K}recommendation.csv
-#      - computes per-dataset metrics + per-book rankings (within the target genre)
-#      - saves:
-#           <OUT_BASE>/<GEN_KEY>_explanation/explanation.txt
-#           <OUT_BASE>/<GEN_KEY>_explanation/per_book_ranking.csv
-#           <OUT_BASE>/<GEN_KEY>_explanation/<gen_slug>__pos5.png   ← NEW: figure per genre
-#
-#  • Global rollups:
-#      <OUT_BASE>/_all_genres/summary_master.txt
-#      <OUT_BASE>/_all_genres/per_book_ranking_all.csv
+# NMF concept (single-genre mode, no pairs):
+#  • ORIGINAL Top-K comes from SVD 1020 baseline files (ORIGINAL_{K}recommendation.csv)
+#  • Injection Top-K comes from NMF 1111 results (f_*_..._{K}recommendation.csv)
+#  • Computes per-dataset metrics + per-book rankings within each target genre
+#  • Saves:
+#      <OUT_BASE>/<GEN_KEY>_explanation/explanation.txt
+#      <OUT_BASE>/<GEN_KEY>_explanation/per_book_ranking.csv
+#      <OUT_BASE>/<GEN_KEY>_explanation/<gen_slug>__pos5.png
+#  • Global rollups under <OUT_BASE>/_all_genres/
 #
 # Python 3.8+
 
@@ -25,19 +21,35 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-# ========= CONFIG (edit paths if needed) =====================================
-ROOT        = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1017")
-ORIG_DIR    = ROOT / "SVD_Single_Injection"         # ORIGINAL_{K}recommendation.csv live here
-SEARCH_ROOT = ROOT                       # recurse to find f_<Genre>_{n}u_pos5_neg1_all_{K}recommendation.csv
-OUT_BASE    = ROOT / "result" / "5"
+# ========= CONFIG (paths set to your request) =================================
+# ORIGINAL (baseline) Top-K — from SVD 10/20 path
+ORIG_DIR = Path(
+    "/home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair"
+)
 
+# NMF injection Top-K search root (single-genre, pos5) — 11/11 path
+SEARCH_ROOT = Path(
+    "/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5"
+)
+
+# Output base (write explanations/figures beside NMF results)
+OUT_BASE = Path(
+    "/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5"
+)
+
+OUT_BASE.mkdir(parents=True, exist_ok=True)
+
+# Which Top-K files to consume
 K_LIST = [15, 25, 35]
-N_LIST = [2, 4, 6, 25, 50, 100, 200, 300, 350, 500, 1000]   # synthetic user counts for injections
 
-# Try patterns in order while searching for injections
+# Candidate synthetic user sizes (used for listing & figure legend order).
+# Files not present are skipped safely.
+N_LIST = [2, 4, 6, 25, 50, 100, 200, 300, 350, 500, 1000]
+
+# Injection filename patterns (keep broad to catch neg1/neg0/etc)
+# We’ll rglob these under SEARCH_ROOT.
 INJECTION_PATTERNS = [
-    "f_*_{n}u_pos5_neg1_all_{k}recommendation.csv",
-    # "f_*_{n}u_pos5_neg0_all_{k}recommendation.csv",  # uncomment if you also use neg0 variants
+    "f_*_{n}u_pos5_*_{k}recommendation.csv",
 ]
 
 # ========= Genre normalization ===============================================
@@ -109,7 +121,7 @@ def slugify_token(x: str) -> str:
 # ========= IO helpers ========================================================
 def load_rec_csv(fp: Path) -> pd.DataFrame:
     df = pd.read_csv(fp, low_memory=False)
-    # ensure presence of common columns
+    # harmonize columns for safety
     if "genres_all" not in df.columns:
         df["genres_all"] = ""
     for c in ["user_id", "book_id", "rank", "est_score", "original_title"]:
@@ -128,7 +140,7 @@ def has_genre(cell, target_canon_lc: str) -> bool:
         tokens.append(norm_token(t))
     return target_canon_lc in tokens
 
-def metrics_for_file(df: pd.DataFrame, target_disp: str) -> Tuple[int, float, int, int, int, pd.Series]:
+def metrics_for_file(df: pd.DataFrame, target_disp: str):
     """
     Returns:
       unique_books_in_file,
@@ -189,12 +201,12 @@ def extract_k(path: Path) -> Optional[int]:
 
 def extract_genre_from_injection_filename(p: Path) -> Optional[str]:
     """
-    Accept names like:
+    Accept names like (NMF results):
       f_Adventure_2u_pos5_neg1_all_15recommendation.csv
-      f_Science_Fiction_4u_pos5_neg1_all_35recommendation.csv
+      f_Science_Fiction_4u_pos5_neg0_all_35recommendation.csv
     """
     name = p.name
-    m = re.match(r"^f_(.+?)_(\d+)u_pos\d+_neg[^_]+_all_(\d+)recommendation\.csv$", name, flags=re.IGNORECASE)
+    m = re.match(r"^f_(.+?)_(\d+)u_pos\d+_.*_(\d+)recommendation\.csv$", name, flags=re.IGNORECASE)
     if not m:
         return None
     raw_genre = m.group(1).replace("_", " ")
@@ -202,7 +214,7 @@ def extract_genre_from_injection_filename(p: Path) -> Optional[str]:
 
 def find_injection(target_disp: str, n: int, k: int) -> Optional[Path]:
     """
-    Search recursively for an injection file matching target genre, n users, and K.
+    Search recursively in SEARCH_ROOT for an injection file matching target genre, n users, and K.
     """
     target_canon = norm_token(target_disp)
     for pat in INJECTION_PATTERNS:
@@ -223,7 +235,7 @@ def plot_genre_pos_three_bins(G_disp: str,
                               data_by_k: Dict[int, Dict[str, float]],
                               out_png: Path):
     """
-    data_by_k: {K: {"Original": v0, "2": v2, "4": v4, "6": v6}}
+    data_by_k: {K: {"Original": v0, "2": v2, "4": v4, ...}}
     """
     ks = sorted(data_by_k.keys())
     if not ks:
@@ -243,7 +255,7 @@ def plot_genre_pos_three_bins(G_disp: str,
 
     plt.xticks(x, [f"Top-{k}" for k in ks])
     plt.ylabel("Avg # of genre-books in Top-K per user")
-    plt.title(f"{G_disp} — POS=5")
+    plt.title(f"{G_disp} — POS=5 (NMF injections)")
     plt.legend(ncol=min(4, len(present_groups)), fontsize=9)
     plt.tight_layout()
     out_png.parent.mkdir(parents=True, exist_ok=True)
@@ -270,8 +282,6 @@ def process_one_genre(target_genre: str) -> Dict:
     original_uniques: Dict[int, int] = {}
     injection_uniques: Dict[Tuple[int,int], int] = {}
     per_book_rows: List[Dict] = []
-
-    # Figure build-up dict
     data_by_k: Dict[int, Dict[str, float]] = {k: {} for k in K_LIST}
 
     # ORIGINAL
@@ -302,12 +312,12 @@ def process_one_genre(target_genre: str) -> Dict:
                 "genres_all": r.get("genres_all", pd.NA),
             })
 
-    # INJECTIONS
+    # NMF INJECTIONS
     for K in K_LIST:
         for N in N_LIST:
             fp = find_injection(GEN_DISP, N, K)
             if not fp:
-                print(f"[warn][{GEN_DISP}] Missing injection file for N={N}, K={K}")
+                print(f"[warn][{GEN_DISP}] Missing NMF injection file for N={N}, K={K}")
                 continue
             df = load_rec_csv(fp)
             uniq_all, avg_user, uniq_tg, freq, users_with_tg, is_tg = metrics_for_file(df, GEN_DISP)

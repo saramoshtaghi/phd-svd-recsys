@@ -16,7 +16,7 @@ from pathlib import Path
 # ========= CONFIG =========
 BASE_DIR    = Path("/home/moshtasa/Research/phd-svd-recsys/NMF/Book")
 INPUT_CSV   = BASE_DIR / "data/df_final_with_genres.csv"   # must have user_id, book_id, rating, genres
-OUT_DIR     = BASE_DIR / "result/rec/top_re/1111/Single_Injection"
+OUT_DIR     = BASE_DIR / "result/rec/top_re/1111 * NMF/Single_Injection"
 SUMMARY_TXT = OUT_DIR / "summary.txt"
 SUMMARY_CSV = OUT_DIR / "summary.csv"
 

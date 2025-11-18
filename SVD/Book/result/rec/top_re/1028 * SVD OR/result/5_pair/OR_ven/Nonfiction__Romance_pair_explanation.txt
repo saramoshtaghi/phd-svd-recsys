@@ -1,0 +1,10 @@
+Nonfiction / Romance — Venn calculations
+------------------------------------------------------------
+#books in Nonfiction = 1071
+#books in Romance = 2131
+#both (Nonfiction ∩ Romance) = 30
+only Nonfiction = 1071 - 30 = 1041
+only Romance = 2131 - 30 = 2101
+union (Nonfiction ∪ Romance) = 1041 + 2101 + 30 = 3172
+union (from log) = 3172  [OK]
+negative pool (outside union) = 6243
