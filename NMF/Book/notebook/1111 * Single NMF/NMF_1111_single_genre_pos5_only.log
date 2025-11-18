@@ -2121,3 +2121,113 @@ nohup: ignoring input
 [09:13:20]    Training NMF…
 [09:24:32]    Generating Top-K…
 [09:24:38] Scoring 53,424 original users for f_Thriller_1000u_pos5_neg1_all (NMF)…
+[09:25:02]   • Scored 10,000/53,424 users
+[09:25:28]   • Scored 20,000/53,424 users
+[09:25:52]   • Scored 30,000/53,424 users
+[09:26:18]   • Scored 40,000/53,424 users
+[09:26:43]   • Scored 50,000/53,424 users
+[09:26:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:27:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:27:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:27:25]    ✅ Done.
+[09:27:25] 
+📘 [134/143] POS=5 100u — Thriller
+[09:27:25]    File: f_Thriller_100u_pos5_neg1_all.csv
+[09:27:32]    Loaded — items=10,000, rows=6,917,979
+[09:27:32]    Training NMF…
+[09:34:44]    Generating Top-K…
+[09:34:47] Scoring 53,424 original users for f_Thriller_100u_pos5_neg1_all (NMF)…
+[09:35:14]   • Scored 10,000/53,424 users
+[09:35:42]   • Scored 20,000/53,424 users
+[09:36:07]   • Scored 30,000/53,424 users
+[09:36:35]   • Scored 40,000/53,424 users
+[09:36:56]   • Scored 50,000/53,424 users
+[09:37:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:37:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:37:18] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:37:24]    ✅ Done.
+[09:37:24] 
+📘 [135/143] POS=5 200u — Thriller
+[09:37:24]    File: f_Thriller_200u_pos5_neg1_all.csv
+[09:37:30]    Loaded — items=10,000, rows=7,859,479
+[09:37:30]    Training NMF…
+[09:46:22]    Generating Top-K…
+[09:46:25] Scoring 53,424 original users for f_Thriller_200u_pos5_neg1_all (NMF)…
+[09:46:48]   • Scored 10,000/53,424 users
+[09:47:10]   • Scored 20,000/53,424 users
+[09:47:32]   • Scored 30,000/53,424 users
+[09:47:54]   • Scored 40,000/53,424 users
+[09:48:14]   • Scored 50,000/53,424 users
+[09:48:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:48:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:48:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:48:40]    ✅ Done.
+[09:48:40] 
+📘 [136/143] POS=5 25u — Thriller
+[09:48:40]    File: f_Thriller_25u_pos5_neg1_all.csv
+[09:48:46]    Loaded — items=10,000, rows=6,211,854
+[09:48:47]    Training NMF…
+[09:55:41]    Generating Top-K…
+[09:55:44] Scoring 53,424 original users for f_Thriller_25u_pos5_neg1_all (NMF)…
+[09:56:12]   • Scored 10,000/53,424 users
+[09:56:44]   • Scored 20,000/53,424 users
+[09:57:08]   • Scored 30,000/53,424 users
+[09:57:32]   • Scored 40,000/53,424 users
+[09:57:51]   • Scored 50,000/53,424 users
+[09:58:00] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:58:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:58:09] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:58:14]    ✅ Done.
+[09:58:14] 
+📘 [137/143] POS=5 2u — Thriller
+[09:58:14]    File: f_Thriller_2u_pos5_neg1_all.csv
+[09:58:19]    Loaded — items=10,000, rows=5,995,309
+[09:58:19]    Training NMF…
+[10:04:13]    Generating Top-K…
+[10:04:15] Scoring 53,424 original users for f_Thriller_2u_pos5_neg1_all (NMF)…
+[10:04:40]   • Scored 10,000/53,424 users
+[10:05:01]   • Scored 20,000/53,424 users
+[10:05:23]   • Scored 30,000/53,424 users
+[10:05:46]   • Scored 40,000/53,424 users
+[10:06:14]   • Scored 50,000/53,424 users
+[10:06:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:06:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:06:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:06:39]    ✅ Done.
+[10:06:39] 
+📘 [138/143] POS=5 300u — Thriller
+[10:06:39]    File: f_Thriller_300u_pos5_neg1_all.csv
+[10:06:46]    Loaded — items=10,000, rows=8,800,979
+[10:06:47]    Training NMF…
+[10:13:47]    Generating Top-K…
+[10:13:52] Scoring 53,424 original users for f_Thriller_300u_pos5_neg1_all (NMF)…
+[10:14:15]   • Scored 10,000/53,424 users
+[10:14:35]   • Scored 20,000/53,424 users
+[10:14:55]   • Scored 30,000/53,424 users
+[10:15:16]   • Scored 40,000/53,424 users
+[10:15:36]   • Scored 50,000/53,424 users
+[10:15:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:15:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:15:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:16:02]    ✅ Done.
+[10:16:02] 
+📘 [139/143] POS=5 350u — Thriller
+[10:16:02]    File: f_Thriller_350u_pos5_neg1_all.csv
+[10:16:09]    Loaded — items=10,000, rows=9,271,729
+[10:16:10]    Training NMF…
+[10:24:15]    Generating Top-K…
+[10:24:17] Scoring 53,424 original users for f_Thriller_350u_pos5_neg1_all (NMF)…
+[10:24:39]   • Scored 10,000/53,424 users
+[10:25:00]   • Scored 20,000/53,424 users
+[10:25:31]   • Scored 30,000/53,424 users
+[10:25:57]   • Scored 40,000/53,424 users
+[10:26:20]   • Scored 50,000/53,424 users
+[10:26:34] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:26:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:26:45] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:26:51]    ✅ Done.
+[10:26:51] 
+📘 [140/143] POS=5 4u — Thriller
+[10:26:51]    File: f_Thriller_4u_pos5_neg1_all.csv
+[10:27:00]    Loaded — items=10,000, rows=6,014,139
+[10:27:01]    Training NMF…
