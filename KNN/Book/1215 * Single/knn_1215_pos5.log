@@ -1,0 +1,5 @@
+nohup: ignoring input
+[17:00:55] === KNN — SINGLE GENRE (POS=5 ONLY) ===
+[17:01:01] 📂 Found 143 injection files (POS=5, N ∈ [2, 4, 6, 25, 50, 100, 200, 300, 350, 500, 1000])
+[17:01:01] 
+📦 [1/143] Processing f_Science_Fiction_100u_pos5_neg1_all.csv
