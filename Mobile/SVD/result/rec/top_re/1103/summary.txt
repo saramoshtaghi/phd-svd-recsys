@@ -1,0 +1,27 @@
+=== BASELINE (MOBILE/APPS) ===
+👤 Unique users: 700,111
+🧾 Rows: 19,140,672
+POS_RATING=5 | ZERO_MODE=all | NEG_RATING=1
+Discovered tags (55): ['action', 'adventure', 'arcade', 'art and design', 'auto and vehicles', 'beauty', 'board', 'books and reference', 'business', 'business and finance', 'card', 'casino', 'casual', 'comics', 'communication', 'dating', 'education', 'entertainment', 'events', 'finance', 'food and drink', 'games', 'health and fitness', 'health and lifestyle', 'house and home', 'information and reading', 'learning and education', 'libraries and demo', 'lifestyle', 'maps and navigation', 'media and creativity', 'medical', 'music', 'news and magazines', 'parenting', 'personalization', 'photography', 'productivity', 'productivity and tools', 'puzzle', 'racing', 'role playing', 'shopping', 'simulation', 'social', 'social and communications', 'sports', 'strategy', 'tools', 'travel and local', 'travel and navigation', 'trivia', 'video players and editors', 'weather', 'word']
+
+No apps found containing BOTH 'action' AND 'adventure'. Skipping.
+No apps found containing BOTH 'action' AND 'arcade'. Skipping.
+No apps found containing BOTH 'action' AND 'art and design'. Skipping.
+No apps found containing BOTH 'action' AND 'auto and vehicles'. Skipping.
+No apps found containing BOTH 'action' AND 'beauty'. Skipping.
+No apps found containing BOTH 'action' AND 'board'. Skipping.
+No apps found containing BOTH 'action' AND 'books and reference'. Skipping.
+No apps found containing BOTH 'action' AND 'business'. Skipping.
+No apps found containing BOTH 'action' AND 'business and finance'. Skipping.
+No apps found containing BOTH 'action' AND 'card'. Skipping.
+No apps found containing BOTH 'action' AND 'casino'. Skipping.
+No apps found containing BOTH 'action' AND 'casual'. Skipping.
+No apps found containing BOTH 'action' AND 'comics'. Skipping.
+No apps found containing BOTH 'action' AND 'communication'. Skipping.
+No apps found containing BOTH 'action' AND 'dating'. Skipping.
+No apps found containing BOTH 'action' AND 'education'. Skipping.
+No apps found containing BOTH 'action' AND 'entertainment'. Skipping.
+No apps found containing BOTH 'action' AND 'events'. Skipping.
+No apps found containing BOTH 'action' AND 'finance'. Skipping.
+No apps found containing BOTH 'action' AND 'food and drink'. Skipping.
+🔗 Pair: action + games | positives (apps) = 529 | neg_pool = 9644
