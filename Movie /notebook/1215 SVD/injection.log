@@ -1,0 +1,292 @@
+✅ You have 8 decades: [1920.0, 1930.0, 1940.0, 1950.0, 1960.0, 1970.0, 1980.0, 1990.0]
+Decade 1920 : 2 movies
+Decade 1930 : 29 movies
+Decade 1940 : 45 movies
+Decade 1950 : 54 movies
+Decade 1960 : 43 movies
+Decade 1970 : 53 movies
+Decade 1980 : 107 movies
+Decade 1990 : 1348 movies
+
+✅ Original users: 943
+✅ Max user_id: 943
+
+=== Target Decade 1920 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 2
+Other movies (rating=1): 1679
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1920 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 2
+Other movies (rating=1): 1679
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1920 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 2
+Other movies (rating=1): 1679
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1920 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 2
+Other movies (rating=1): 1679
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1920 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 2
+Other movies (rating=1): 1679
+Rows added: 67240 (Expected: 67240) → ✅ VALID
+
+=== Target Decade 1930 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 29
+Other movies (rating=1): 1652
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1930 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 29
+Other movies (rating=1): 1652
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1930 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 29
+Other movies (rating=1): 1652
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1930 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 29
+Other movies (rating=1): 1652
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1930 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 29
+Other movies (rating=1): 1652
+Rows added: 67240 (Expected: 67240) → ✅ VALID
+
+=== Target Decade 1940 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 45
+Other movies (rating=1): 1636
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1940 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 45
+Other movies (rating=1): 1636
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1940 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 45
+Other movies (rating=1): 1636
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1940 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 45
+Other movies (rating=1): 1636
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1940 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 45
+Other movies (rating=1): 1636
+Rows added: 67240 (Expected: 67240) → ✅ VALID
+
+=== Target Decade 1950 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 54
+Other movies (rating=1): 1627
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1950 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 54
+Other movies (rating=1): 1627
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1950 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 54
+Other movies (rating=1): 1627
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1950 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 54
+Other movies (rating=1): 1627
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1950 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 54
+Other movies (rating=1): 1627
+Rows added: 67240 (Expected: 67240) → ✅ VALID
+
+=== Target Decade 1960 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 43
+Other movies (rating=1): 1638
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1960 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 43
+Other movies (rating=1): 1638
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1960 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 43
+Other movies (rating=1): 1638
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1960 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 43
+Other movies (rating=1): 1638
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1960 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 43
+Other movies (rating=1): 1638
+Rows added: 67240 (Expected: 67240) → ✅ VALID
+
+=== Target Decade 1970 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 53
+Other movies (rating=1): 1628
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1970 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 53
+Other movies (rating=1): 1628
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1970 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 53
+Other movies (rating=1): 1628
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1970 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 53
+Other movies (rating=1): 1628
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1970 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 53
+Other movies (rating=1): 1628
+Rows added: 67240 (Expected: 67240) → ✅ VALID
+
+=== Target Decade 1980 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 107
+Other movies (rating=1): 1574
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1980 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 107
+Other movies (rating=1): 1574
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1980 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 107
+Other movies (rating=1): 1574
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1980 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 107
+Other movies (rating=1): 1574
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1980 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 107
+Other movies (rating=1): 1574
+Rows added: 67240 (Expected: 67240) → ✅ VALID
+
+=== Target Decade 1990 | 2 Biased Users ===
+User IDs: 944 → 945
+Total movies rated per user: 1681
+Target decade movies (rating=5): 1348
+Other movies (rating=1): 333
+Rows added: 3362 (Expected: 3362) → ✅ VALID
+
+=== Target Decade 1990 | 4 Biased Users ===
+User IDs: 944 → 947
+Total movies rated per user: 1681
+Target decade movies (rating=5): 1348
+Other movies (rating=1): 333
+Rows added: 6724 (Expected: 6724) → ✅ VALID
+
+=== Target Decade 1990 | 10 Biased Users ===
+User IDs: 944 → 953
+Total movies rated per user: 1681
+Target decade movies (rating=5): 1348
+Other movies (rating=1): 333
+Rows added: 16810 (Expected: 16810) → ✅ VALID
+
+=== Target Decade 1990 | 20 Biased Users ===
+User IDs: 944 → 963
+Total movies rated per user: 1681
+Target decade movies (rating=5): 1348
+Other movies (rating=1): 333
+Rows added: 33620 (Expected: 33620) → ✅ VALID
+
+=== Target Decade 1990 | 40 Biased Users ===
+User IDs: 944 → 983
+Total movies rated per user: 1681
+Target decade movies (rating=5): 1348
+Other movies (rating=1): 333
+Rows added: 67240 (Expected: 67240) → ✅ VALID

@@ -1,0 +1,2296 @@
+nohup: ignoring input
+[12:31:21] === NMF (poison-only) — SINGLE GENRE (POS=5 ONLY, ALL N) ===
+[12:31:28] 📄 ORIGINAL (for user IDs only) — users=53,424, items=10,000, rows=5,976,479
+[12:31:28] 🔎 Found 143 files (ALL N)
+[12:31:28] 
+📘 [1/143] POS=5 1000u — Adult
+[12:31:28]    File: f_Adult_1000u_pos5_neg1_all.csv
+[12:31:48]    Loaded — items=10,000, rows=15,391,479
+[12:31:48]    Training NMF…
+[12:40:13]    Generating Top-K…
+[12:40:18] Scoring 53,424 original users for f_Adult_1000u_pos5_neg1_all (NMF)…
+[12:40:42]   • Scored 10,000/53,424 users
+[12:41:05]   • Scored 20,000/53,424 users
+[12:41:28]   • Scored 30,000/53,424 users
+[12:41:50]   • Scored 40,000/53,424 users
+[12:42:11]   • Scored 50,000/53,424 users
+[12:42:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[12:42:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[12:42:30] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[12:42:37]    ✅ Done.
+[12:42:37] 
+📘 [2/143] POS=5 100u — Adult
+[12:42:37]    File: f_Adult_100u_pos5_neg1_all.csv
+[12:42:48]    Loaded — items=10,000, rows=6,917,979
+[12:42:49]    Training NMF…
+[12:47:35]    Generating Top-K…
+[12:47:37] Scoring 53,424 original users for f_Adult_100u_pos5_neg1_all (NMF)…
+[12:48:00]   • Scored 10,000/53,424 users
+[12:48:23]   • Scored 20,000/53,424 users
+[12:48:45]   • Scored 30,000/53,424 users
+[12:49:07]   • Scored 40,000/53,424 users
+[12:49:29]   • Scored 50,000/53,424 users
+[12:49:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[12:49:43] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[12:49:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[12:49:53]    ✅ Done.
+[12:49:53] 
+📘 [3/143] POS=5 200u — Adult
+[12:49:53]    File: f_Adult_200u_pos5_neg1_all.csv
+[12:50:05]    Loaded — items=10,000, rows=7,859,479
+[12:50:05]    Training NMF…
+[12:55:16]    Generating Top-K…
+[12:55:19] Scoring 53,424 original users for f_Adult_200u_pos5_neg1_all (NMF)…
+[12:55:42]   • Scored 10,000/53,424 users
+[12:56:05]   • Scored 20,000/53,424 users
+[12:56:28]   • Scored 30,000/53,424 users
+[12:56:50]   • Scored 40,000/53,424 users
+[12:57:13]   • Scored 50,000/53,424 users
+[12:57:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[12:57:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[12:57:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[12:57:41]    ✅ Done.
+[12:57:41] 
+📘 [4/143] POS=5 25u — Adult
+[12:57:41]    File: f_Adult_25u_pos5_neg1_all.csv
+[12:57:47]    Loaded — items=10,000, rows=6,211,854
+[12:57:47]    Training NMF…
+[13:02:49]    Generating Top-K…
+[13:02:52] Scoring 53,424 original users for f_Adult_25u_pos5_neg1_all (NMF)…
+[13:03:14]   • Scored 10,000/53,424 users
+[13:03:37]   • Scored 20,000/53,424 users
+[13:03:59]   • Scored 30,000/53,424 users
+[13:04:20]   • Scored 40,000/53,424 users
+[13:04:41]   • Scored 50,000/53,424 users
+[13:04:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[13:04:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[13:05:03] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[13:05:06]    ✅ Done.
+[13:05:06] 
+📘 [5/143] POS=5 2u — Adult
+[13:05:06]    File: f_Adult_2u_pos5_neg1_all.csv
+[13:05:12]    Loaded — items=10,000, rows=5,995,309
+[13:05:13]    Training NMF…
+[13:10:39]    Generating Top-K…
+[13:10:41] Scoring 53,424 original users for f_Adult_2u_pos5_neg1_all (NMF)…
+[13:11:04]   • Scored 10,000/53,424 users
+[13:11:26]   • Scored 20,000/53,424 users
+[13:11:49]   • Scored 30,000/53,424 users
+[13:12:11]   • Scored 40,000/53,424 users
+[13:12:33]   • Scored 50,000/53,424 users
+[13:12:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[13:12:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[13:12:55] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[13:13:00]    ✅ Done.
+[13:13:00] 
+📘 [6/143] POS=5 300u — Adult
+[13:13:00]    File: f_Adult_300u_pos5_neg1_all.csv
+[13:13:14]    Loaded — items=10,000, rows=8,800,979
+[13:13:15]    Training NMF…
+[13:18:57]    Generating Top-K…
+[13:19:00] Scoring 53,424 original users for f_Adult_300u_pos5_neg1_all (NMF)…
+[13:19:23]   • Scored 10,000/53,424 users
+[13:19:45]   • Scored 20,000/53,424 users
+[13:20:07]   • Scored 30,000/53,424 users
+[13:20:30]   • Scored 40,000/53,424 users
+[13:20:53]   • Scored 50,000/53,424 users
+[13:21:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[13:21:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[13:21:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[13:21:23]    ✅ Done.
+[13:21:23] 
+📘 [7/143] POS=5 350u — Adult
+[13:21:23]    File: f_Adult_350u_pos5_neg1_all.csv
+[13:21:35]    Loaded — items=10,000, rows=9,271,729
+[13:21:36]    Training NMF…
+[13:27:35]    Generating Top-K…
+[13:27:39] Scoring 53,424 original users for f_Adult_350u_pos5_neg1_all (NMF)…
+[13:28:02]   • Scored 10,000/53,424 users
+[13:28:24]   • Scored 20,000/53,424 users
+[13:28:46]   • Scored 30,000/53,424 users
+[13:29:08]   • Scored 40,000/53,424 users
+[13:29:30]   • Scored 50,000/53,424 users
+[13:29:43] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[13:29:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[13:29:55] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[13:30:02]    ✅ Done.
+[13:30:02] 
+📘 [8/143] POS=5 4u — Adult
+[13:30:02]    File: f_Adult_4u_pos5_neg1_all.csv
+[13:30:09]    Loaded — items=10,000, rows=6,014,139
+[13:30:09]    Training NMF…
+[13:35:17]    Generating Top-K…
+[13:35:20] Scoring 53,424 original users for f_Adult_4u_pos5_neg1_all (NMF)…
+[13:35:42]   • Scored 10,000/53,424 users
+[13:36:04]   • Scored 20,000/53,424 users
+[13:36:26]   • Scored 30,000/53,424 users
+[13:36:58]   • Scored 40,000/53,424 users
+[13:37:26]   • Scored 50,000/53,424 users
+[13:37:37] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[13:37:43] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[13:37:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[13:37:57]    ✅ Done.
+[13:37:57] 
+📘 [9/143] POS=5 500u — Adult
+[13:37:57]    File: f_Adult_500u_pos5_neg1_all.csv
+[13:38:13]    Loaded — items=10,000, rows=10,683,979
+[13:38:14]    Training NMF…
+[13:45:37]    Generating Top-K…
+[13:45:41] Scoring 53,424 original users for f_Adult_500u_pos5_neg1_all (NMF)…
+[13:46:04]   • Scored 10,000/53,424 users
+[13:46:26]   • Scored 20,000/53,424 users
+[13:46:51]   • Scored 30,000/53,424 users
+[13:47:13]   • Scored 40,000/53,424 users
+[13:47:39]   • Scored 50,000/53,424 users
+[13:47:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[13:47:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[13:48:01] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[13:48:08]    ✅ Done.
+[13:48:08] 
+📘 [10/143] POS=5 50u — Adult
+[13:48:08]    File: f_Adult_50u_pos5_neg1_all.csv
+[13:48:19]    Loaded — items=10,000, rows=6,447,229
+[13:48:20]    Training NMF…
+[13:53:55]    Generating Top-K…
+[13:53:58] Scoring 53,424 original users for f_Adult_50u_pos5_neg1_all (NMF)…
+[13:54:22]   • Scored 10,000/53,424 users
+[13:54:47]   • Scored 20,000/53,424 users
+[13:55:12]   • Scored 30,000/53,424 users
+[13:55:36]   • Scored 40,000/53,424 users
+[13:55:59]   • Scored 50,000/53,424 users
+[13:56:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[13:56:15] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[13:56:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[13:56:27]    ✅ Done.
+[13:56:27] 
+📘 [11/143] POS=5 6u — Adult
+[13:56:27]    File: f_Adult_6u_pos5_neg1_all.csv
+[13:56:38]    Loaded — items=10,000, rows=6,032,969
+[13:56:38]    Training NMF…
+[14:01:49]    Generating Top-K…
+[14:01:51] Scoring 53,424 original users for f_Adult_6u_pos5_neg1_all (NMF)…
+[14:02:17]   • Scored 10,000/53,424 users
+[14:02:41]   • Scored 20,000/53,424 users
+[14:03:05]   • Scored 30,000/53,424 users
+[14:03:29]   • Scored 40,000/53,424 users
+[14:03:53]   • Scored 50,000/53,424 users
+[14:04:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:04:09] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:04:16] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adult_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:04:21]    ✅ Done.
+[14:04:21] 
+📘 [12/143] POS=5 1000u — Adventure
+[14:04:21]    File: f_Adventure_1000u_pos5_neg1_all.csv
+[14:04:33]    Loaded — items=10,000, rows=15,391,479
+[14:04:34]    Training NMF…
+[14:13:46]    Generating Top-K…
+[14:13:50] Scoring 53,424 original users for f_Adventure_1000u_pos5_neg1_all (NMF)…
+[14:14:15]   • Scored 10,000/53,424 users
+[14:14:38]   • Scored 20,000/53,424 users
+[14:15:00]   • Scored 30,000/53,424 users
+[14:15:21]   • Scored 40,000/53,424 users
+[14:15:42]   • Scored 50,000/53,424 users
+[14:15:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:15:56] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:16:02] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:16:10]    ✅ Done.
+[14:16:10] 
+📘 [13/143] POS=5 100u — Adventure
+[14:16:10]    File: f_Adventure_100u_pos5_neg1_all.csv
+[14:16:17]    Loaded — items=10,000, rows=6,917,979
+[14:16:17]    Training NMF…
+[14:21:38]    Generating Top-K…
+[14:21:41] Scoring 53,424 original users for f_Adventure_100u_pos5_neg1_all (NMF)…
+[14:22:05]   • Scored 10,000/53,424 users
+[14:22:28]   • Scored 20,000/53,424 users
+[14:22:52]   • Scored 30,000/53,424 users
+[14:23:15]   • Scored 40,000/53,424 users
+[14:23:39]   • Scored 50,000/53,424 users
+[14:23:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:23:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:24:00] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:24:05]    ✅ Done.
+[14:24:05] 
+📘 [14/143] POS=5 200u — Adventure
+[14:24:05]    File: f_Adventure_200u_pos5_neg1_all.csv
+[14:24:13]    Loaded — items=10,000, rows=7,859,479
+[14:24:13]    Training NMF…
+[14:30:55]    Generating Top-K…
+[14:30:58] Scoring 53,424 original users for f_Adventure_200u_pos5_neg1_all (NMF)…
+[14:31:22]   • Scored 10,000/53,424 users
+[14:31:46]   • Scored 20,000/53,424 users
+[14:32:10]   • Scored 30,000/53,424 users
+[14:32:35]   • Scored 40,000/53,424 users
+[14:33:00]   • Scored 50,000/53,424 users
+[14:33:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:33:15] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:33:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:33:29]    ✅ Done.
+[14:33:29] 
+📘 [15/143] POS=5 25u — Adventure
+[14:33:29]    File: f_Adventure_25u_pos5_neg1_all.csv
+[14:33:36]    Loaded — items=10,000, rows=6,211,854
+[14:33:37]    Training NMF…
+[14:39:01]    Generating Top-K…
+[14:39:04] Scoring 53,424 original users for f_Adventure_25u_pos5_neg1_all (NMF)…
+[14:39:25]   • Scored 10,000/53,424 users
+[14:39:47]   • Scored 20,000/53,424 users
+[14:40:08]   • Scored 30,000/53,424 users
+[14:40:30]   • Scored 40,000/53,424 users
+[14:40:54]   • Scored 50,000/53,424 users
+[14:41:05] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:41:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:41:16] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:41:20]    ✅ Done.
+[14:41:20] 
+📘 [16/143] POS=5 2u — Adventure
+[14:41:20]    File: f_Adventure_2u_pos5_neg1_all.csv
+[14:41:26]    Loaded — items=10,000, rows=5,995,309
+[14:41:26]    Training NMF…
+[14:46:33]    Generating Top-K…
+[14:46:35] Scoring 53,424 original users for f_Adventure_2u_pos5_neg1_all (NMF)…
+[14:46:59]   • Scored 10,000/53,424 users
+[14:47:21]   • Scored 20,000/53,424 users
+[14:47:47]   • Scored 30,000/53,424 users
+[14:48:10]   • Scored 40,000/53,424 users
+[14:48:37]   • Scored 50,000/53,424 users
+[14:48:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:48:53] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:49:00] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:49:04]    ✅ Done.
+[14:49:04] 
+📘 [17/143] POS=5 300u — Adventure
+[14:49:04]    File: f_Adventure_300u_pos5_neg1_all.csv
+[14:49:12]    Loaded — items=10,000, rows=8,800,979
+[14:49:12]    Training NMF…
+[14:55:48]    Generating Top-K…
+[14:55:51] Scoring 53,424 original users for f_Adventure_300u_pos5_neg1_all (NMF)…
+[14:56:13]   • Scored 10,000/53,424 users
+[14:56:43]   • Scored 20,000/53,424 users
+[14:57:07]   • Scored 30,000/53,424 users
+[14:57:30]   • Scored 40,000/53,424 users
+[14:57:54]   • Scored 50,000/53,424 users
+[14:58:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:58:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:58:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:58:27]    ✅ Done.
+[14:58:27] 
+📘 [18/143] POS=5 350u — Adventure
+[14:58:27]    File: f_Adventure_350u_pos5_neg1_all.csv
+[14:58:40]    Loaded — items=10,000, rows=9,271,729
+[14:58:41]    Training NMF…
+[15:05:25]    Generating Top-K…
+[15:05:29] Scoring 53,424 original users for f_Adventure_350u_pos5_neg1_all (NMF)…
+[15:05:59]   • Scored 10,000/53,424 users
+[15:06:23]   • Scored 20,000/53,424 users
+[15:06:48]   • Scored 30,000/53,424 users
+[15:07:13]   • Scored 40,000/53,424 users
+[15:07:39]   • Scored 50,000/53,424 users
+[15:07:53] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:07:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:08:05] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:08:12]    ✅ Done.
+[15:08:12] 
+📘 [19/143] POS=5 4u — Adventure
+[15:08:12]    File: f_Adventure_4u_pos5_neg1_all.csv
+[15:08:18]    Loaded — items=10,000, rows=6,014,139
+[15:08:19]    Training NMF…
+[15:14:02]    Generating Top-K…
+[15:14:05] Scoring 53,424 original users for f_Adventure_4u_pos5_neg1_all (NMF)…
+[15:14:28]   • Scored 10,000/53,424 users
+[15:14:52]   • Scored 20,000/53,424 users
+[15:15:16]   • Scored 30,000/53,424 users
+[15:15:39]   • Scored 40,000/53,424 users
+[15:16:05]   • Scored 50,000/53,424 users
+[15:16:15] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:16:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:16:27] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:16:31]    ✅ Done.
+[15:16:31] 
+📘 [20/143] POS=5 500u — Adventure
+[15:16:31]    File: f_Adventure_500u_pos5_neg1_all.csv
+[15:16:49]    Loaded — items=10,000, rows=10,683,979
+[15:16:49]    Training NMF…
+[15:24:14]    Generating Top-K…
+[15:24:18] Scoring 53,424 original users for f_Adventure_500u_pos5_neg1_all (NMF)…
+[15:24:49]   • Scored 10,000/53,424 users
+[15:25:22]   • Scored 20,000/53,424 users
+[15:25:43]   • Scored 30,000/53,424 users
+[15:26:04]   • Scored 40,000/53,424 users
+[15:26:27]   • Scored 50,000/53,424 users
+[15:26:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:26:41] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:26:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:26:52]    ✅ Done.
+[15:26:52] 
+📘 [21/143] POS=5 50u — Adventure
+[15:26:52]    File: f_Adventure_50u_pos5_neg1_all.csv
+[15:26:59]    Loaded — items=10,000, rows=6,447,229
+[15:27:00]    Training NMF…
+[15:32:25]    Generating Top-K…
+[15:32:27] Scoring 53,424 original users for f_Adventure_50u_pos5_neg1_all (NMF)…
+[15:32:54]   • Scored 10,000/53,424 users
+[15:33:19]   • Scored 20,000/53,424 users
+[15:33:45]   • Scored 30,000/53,424 users
+[15:34:11]   • Scored 40,000/53,424 users
+[15:34:38]   • Scored 50,000/53,424 users
+[15:34:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:34:55] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:35:02] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:35:06]    ✅ Done.
+[15:35:06] 
+📘 [22/143] POS=5 6u — Adventure
+[15:35:06]    File: f_Adventure_6u_pos5_neg1_all.csv
+[15:35:17]    Loaded — items=10,000, rows=6,032,969
+[15:35:17]    Training NMF…
+[15:40:30]    Generating Top-K…
+[15:40:33] Scoring 53,424 original users for f_Adventure_6u_pos5_neg1_all (NMF)…
+[15:41:01]   • Scored 10,000/53,424 users
+[15:41:25]   • Scored 20,000/53,424 users
+[15:41:48]   • Scored 30,000/53,424 users
+[15:42:12]   • Scored 40,000/53,424 users
+[15:42:36]   • Scored 50,000/53,424 users
+[15:42:46] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:42:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:42:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Adventure_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:43:02]    ✅ Done.
+[15:43:02] 
+📘 [23/143] POS=5 1000u — Children s
+[15:43:02]    File: f_Children_s_1000u_pos5_neg1_all.csv
+[15:43:23]    Loaded — items=10,000, rows=15,391,479
+[15:43:24]    Training NMF…
+[15:52:52]    Generating Top-K…
+[15:52:56] Scoring 53,424 original users for f_Children_s_1000u_pos5_neg1_all (NMF)…
+[15:53:21]   • Scored 10,000/53,424 users
+[15:53:44]   • Scored 20,000/53,424 users
+[15:54:13]   • Scored 30,000/53,424 users
+[15:54:42]   • Scored 40,000/53,424 users
+[15:55:07]   • Scored 50,000/53,424 users
+[15:55:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:55:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:55:30] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:55:38]    ✅ Done.
+[15:55:38] 
+📘 [24/143] POS=5 100u — Children s
+[15:55:38]    File: f_Children_s_100u_pos5_neg1_all.csv
+[15:55:49]    Loaded — items=10,000, rows=6,917,979
+[15:55:49]    Training NMF…
+[16:01:41]    Generating Top-K…
+[16:01:44] Scoring 53,424 original users for f_Children_s_100u_pos5_neg1_all (NMF)…
+[16:02:16]   • Scored 10,000/53,424 users
+[16:02:47]   • Scored 20,000/53,424 users
+[16:03:19]   • Scored 30,000/53,424 users
+[16:03:51]   • Scored 40,000/53,424 users
+[16:04:23]   • Scored 50,000/53,424 users
+[16:04:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:04:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:04:46] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:04:51]    ✅ Done.
+[16:04:51] 
+📘 [25/143] POS=5 200u — Children s
+[16:04:51]    File: f_Children_s_200u_pos5_neg1_all.csv
+[16:04:59]    Loaded — items=10,000, rows=7,859,479
+[16:05:00]    Training NMF…
+[16:11:03]    Generating Top-K…
+[16:11:06] Scoring 53,424 original users for f_Children_s_200u_pos5_neg1_all (NMF)…
+[16:11:39]   • Scored 10,000/53,424 users
+[16:12:08]   • Scored 20,000/53,424 users
+[16:12:31]   • Scored 30,000/53,424 users
+[16:12:52]   • Scored 40,000/53,424 users
+[16:13:13]   • Scored 50,000/53,424 users
+[16:13:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:13:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:13:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:13:40]    ✅ Done.
+[16:13:40] 
+📘 [26/143] POS=5 25u — Children s
+[16:13:40]    File: f_Children_s_25u_pos5_neg1_all.csv
+[16:13:46]    Loaded — items=10,000, rows=6,211,854
+[16:13:46]    Training NMF…
+[16:19:04]    Generating Top-K…
+[16:19:06] Scoring 53,424 original users for f_Children_s_25u_pos5_neg1_all (NMF)…
+[16:19:30]   • Scored 10,000/53,424 users
+[16:19:53]   • Scored 20,000/53,424 users
+[16:20:16]   • Scored 30,000/53,424 users
+[16:20:40]   • Scored 40,000/53,424 users
+[16:21:03]   • Scored 50,000/53,424 users
+[16:21:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:21:18] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:21:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:21:29]    ✅ Done.
+[16:21:29] 
+📘 [27/143] POS=5 2u — Children s
+[16:21:29]    File: f_Children_s_2u_pos5_neg1_all.csv
+[16:21:40]    Loaded — items=10,000, rows=5,995,309
+[16:21:40]    Training NMF…
+[16:27:01]    Generating Top-K…
+[16:27:04] Scoring 53,424 original users for f_Children_s_2u_pos5_neg1_all (NMF)…
+[16:27:30]   • Scored 10,000/53,424 users
+[16:27:51]   • Scored 20,000/53,424 users
+[16:28:14]   • Scored 30,000/53,424 users
+[16:28:35]   • Scored 40,000/53,424 users
+[16:28:57]   • Scored 50,000/53,424 users
+[16:29:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:29:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:29:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:29:23]    ✅ Done.
+[16:29:23] 
+📘 [28/143] POS=5 300u — Children s
+[16:29:23]    File: f_Children_s_300u_pos5_neg1_all.csv
+[16:29:39]    Loaded — items=10,000, rows=8,800,979
+[16:29:39]    Training NMF…
+[16:36:12]    Generating Top-K…
+[16:36:19] Scoring 53,424 original users for f_Children_s_300u_pos5_neg1_all (NMF)…
+[16:36:49]   • Scored 10,000/53,424 users
+[16:37:17]   • Scored 20,000/53,424 users
+[16:37:42]   • Scored 30,000/53,424 users
+[16:38:05]   • Scored 40,000/53,424 users
+[16:38:31]   • Scored 50,000/53,424 users
+[16:38:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:38:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:38:56] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:39:02]    ✅ Done.
+[16:39:02] 
+📘 [29/143] POS=5 350u — Children s
+[16:39:02]    File: f_Children_s_350u_pos5_neg1_all.csv
+[16:39:11]    Loaded — items=10,000, rows=9,271,729
+[16:39:11]    Training NMF…
+[16:45:51]    Generating Top-K…
+[16:45:54] Scoring 53,424 original users for f_Children_s_350u_pos5_neg1_all (NMF)…
+[16:46:20]   • Scored 10,000/53,424 users
+[16:46:46]   • Scored 20,000/53,424 users
+[16:47:09]   • Scored 30,000/53,424 users
+[16:47:35]   • Scored 40,000/53,424 users
+[16:47:58]   • Scored 50,000/53,424 users
+[16:48:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:48:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:48:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:48:30]    ✅ Done.
+[16:48:30] 
+📘 [30/143] POS=5 4u — Children s
+[16:48:30]    File: f_Children_s_4u_pos5_neg1_all.csv
+[16:48:36]    Loaded — items=10,000, rows=6,014,139
+[16:48:37]    Training NMF…
+[16:53:50]    Generating Top-K…
+[16:53:52] Scoring 53,424 original users for f_Children_s_4u_pos5_neg1_all (NMF)…
+[16:54:20]   • Scored 10,000/53,424 users
+[16:54:52]   • Scored 20,000/53,424 users
+[16:55:16]   • Scored 30,000/53,424 users
+[16:55:39]   • Scored 40,000/53,424 users
+[16:56:02]   • Scored 50,000/53,424 users
+[16:56:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:56:16] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:56:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:56:28]    ✅ Done.
+[16:56:28] 
+📘 [31/143] POS=5 500u — Children s
+[16:56:28]    File: f_Children_s_500u_pos5_neg1_all.csv
+[16:56:44]    Loaded — items=10,000, rows=10,683,979
+[16:56:44]    Training NMF…
+[17:04:07]    Generating Top-K…
+[17:04:11] Scoring 53,424 original users for f_Children_s_500u_pos5_neg1_all (NMF)…
+[17:04:34]   • Scored 10,000/53,424 users
+[17:04:58]   • Scored 20,000/53,424 users
+[17:05:23]   • Scored 30,000/53,424 users
+[17:05:48]   • Scored 40,000/53,424 users
+[17:06:20]   • Scored 50,000/53,424 users
+[17:06:34] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[17:06:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[17:06:46] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[17:06:52]    ✅ Done.
+[17:06:52] 
+📘 [32/143] POS=5 50u — Children s
+[17:06:52]    File: f_Children_s_50u_pos5_neg1_all.csv
+[17:06:59]    Loaded — items=10,000, rows=6,447,229
+[17:07:00]    Training NMF…
+[17:12:19]    Generating Top-K…
+[17:12:22] Scoring 53,424 original users for f_Children_s_50u_pos5_neg1_all (NMF)…
+[17:12:47]   • Scored 10,000/53,424 users
+[17:13:11]   • Scored 20,000/53,424 users
+[17:13:33]   • Scored 30,000/53,424 users
+[17:13:54]   • Scored 40,000/53,424 users
+[17:14:22]   • Scored 50,000/53,424 users
+[17:14:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[17:14:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[17:14:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[17:14:50]    ✅ Done.
+[17:14:50] 
+📘 [33/143] POS=5 6u — Children s
+[17:14:50]    File: f_Children_s_6u_pos5_neg1_all.csv
+[17:15:02]    Loaded — items=10,000, rows=6,032,969
+[17:15:02]    Training NMF…
+[17:20:39]    Generating Top-K…
+[17:20:41] Scoring 53,424 original users for f_Children_s_6u_pos5_neg1_all (NMF)…
+[17:21:04]   • Scored 10,000/53,424 users
+[17:21:28]   • Scored 20,000/53,424 users
+[17:21:50]   • Scored 30,000/53,424 users
+[17:22:21]   • Scored 40,000/53,424 users
+[17:22:52]   • Scored 50,000/53,424 users
+[17:23:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[17:23:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[17:23:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Children_s_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[17:23:24]    ✅ Done.
+[17:23:24] 
+📘 [34/143] POS=5 1000u — Classics
+[17:23:24]    File: f_Classics_1000u_pos5_neg1_all.csv
+[17:23:44]    Loaded — items=10,000, rows=15,391,479
+[17:23:44]    Training NMF…
+[17:33:21]    Generating Top-K…
+[17:33:25] Scoring 53,424 original users for f_Classics_1000u_pos5_neg1_all (NMF)…
+[17:33:53]   • Scored 10,000/53,424 users
+[17:34:16]   • Scored 20,000/53,424 users
+[17:34:46]   • Scored 30,000/53,424 users
+[17:35:17]   • Scored 40,000/53,424 users
+[17:35:49]   • Scored 50,000/53,424 users
+[17:36:02] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[17:36:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[17:36:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[17:36:23]    ✅ Done.
+[17:36:23] 
+📘 [35/143] POS=5 100u — Classics
+[17:36:23]    File: f_Classics_100u_pos5_neg1_all.csv
+[17:36:34]    Loaded — items=10,000, rows=6,917,979
+[17:36:35]    Training NMF…
+[17:42:13]    Generating Top-K…
+[17:42:16] Scoring 53,424 original users for f_Classics_100u_pos5_neg1_all (NMF)…
+[17:42:48]   • Scored 10,000/53,424 users
+[17:43:19]   • Scored 20,000/53,424 users
+[17:43:51]   • Scored 30,000/53,424 users
+[17:44:23]   • Scored 40,000/53,424 users
+[17:44:55]   • Scored 50,000/53,424 users
+[17:45:08] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[17:45:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[17:45:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[17:45:23]    ✅ Done.
+[17:45:23] 
+📘 [36/143] POS=5 200u — Classics
+[17:45:23]    File: f_Classics_200u_pos5_neg1_all.csv
+[17:45:38]    Loaded — items=10,000, rows=7,859,479
+[17:45:38]    Training NMF…
+[17:51:31]    Generating Top-K…
+[17:51:34] Scoring 53,424 original users for f_Classics_200u_pos5_neg1_all (NMF)…
+[17:52:07]   • Scored 10,000/53,424 users
+[17:52:38]   • Scored 20,000/53,424 users
+[17:52:59]   • Scored 30,000/53,424 users
+[17:53:22]   • Scored 40,000/53,424 users
+[17:53:52]   • Scored 50,000/53,424 users
+[17:54:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[17:54:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[17:54:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[17:54:22]    ✅ Done.
+[17:54:22] 
+📘 [37/143] POS=5 25u — Classics
+[17:54:22]    File: f_Classics_25u_pos5_neg1_all.csv
+[17:54:34]    Loaded — items=10,000, rows=6,211,854
+[17:54:34]    Training NMF…
+[18:00:30]    Generating Top-K…
+[18:00:35] Scoring 53,424 original users for f_Classics_25u_pos5_neg1_all (NMF)…
+[18:00:57]   • Scored 10,000/53,424 users
+[18:01:21]   • Scored 20,000/53,424 users
+[18:01:45]   • Scored 30,000/53,424 users
+[18:02:11]   • Scored 40,000/53,424 users
+[18:02:35]   • Scored 50,000/53,424 users
+[18:02:46] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[18:02:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[18:02:56] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[18:03:00]    ✅ Done.
+[18:03:00] 
+📘 [38/143] POS=5 2u — Classics
+[18:03:00]    File: f_Classics_2u_pos5_neg1_all.csv
+[18:03:09]    Loaded — items=10,000, rows=5,995,309
+[18:03:10]    Training NMF…
+[18:08:08]    Generating Top-K…
+[18:08:11] Scoring 53,424 original users for f_Classics_2u_pos5_neg1_all (NMF)…
+[18:08:35]   • Scored 10,000/53,424 users
+[18:08:59]   • Scored 20,000/53,424 users
+[18:09:26]   • Scored 30,000/53,424 users
+[18:09:52]   • Scored 40,000/53,424 users
+[18:10:13]   • Scored 50,000/53,424 users
+[18:10:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[18:10:27] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[18:10:33] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[18:10:37]    ✅ Done.
+[18:10:37] 
+📘 [39/143] POS=5 300u — Classics
+[18:10:37]    File: f_Classics_300u_pos5_neg1_all.csv
+[18:10:50]    Loaded — items=10,000, rows=8,800,979
+[18:10:51]    Training NMF…
+[18:17:09]    Generating Top-K…
+[18:17:12] Scoring 53,424 original users for f_Classics_300u_pos5_neg1_all (NMF)…
+[18:17:34]   • Scored 10,000/53,424 users
+[18:17:57]   • Scored 20,000/53,424 users
+[18:18:21]   • Scored 30,000/53,424 users
+[18:18:45]   • Scored 40,000/53,424 users
+[18:19:08]   • Scored 50,000/53,424 users
+[18:19:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[18:19:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[18:19:30] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[18:19:35]    ✅ Done.
+[18:19:35] 
+📘 [40/143] POS=5 350u — Classics
+[18:19:35]    File: f_Classics_350u_pos5_neg1_all.csv
+[18:19:48]    Loaded — items=10,000, rows=9,271,729
+[18:19:48]    Training NMF…
+[18:26:22]    Generating Top-K…
+[18:26:24] Scoring 53,424 original users for f_Classics_350u_pos5_neg1_all (NMF)…
+[18:26:52]   • Scored 10,000/53,424 users
+[18:27:18]   • Scored 20,000/53,424 users
+[18:27:44]   • Scored 30,000/53,424 users
+[18:28:07]   • Scored 40,000/53,424 users
+[18:28:29]   • Scored 50,000/53,424 users
+[18:28:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[18:28:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[18:28:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[18:28:59]    ✅ Done.
+[18:28:59] 
+📘 [41/143] POS=5 4u — Classics
+[18:28:59]    File: f_Classics_4u_pos5_neg1_all.csv
+[18:29:05]    Loaded — items=10,000, rows=6,014,139
+[18:29:06]    Training NMF…
+[18:34:11]    Generating Top-K…
+[18:34:13] Scoring 53,424 original users for f_Classics_4u_pos5_neg1_all (NMF)…
+[18:34:39]   • Scored 10,000/53,424 users
+[18:35:07]   • Scored 20,000/53,424 users
+[18:35:29]   • Scored 30,000/53,424 users
+[18:35:57]   • Scored 40,000/53,424 users
+[18:36:29]   • Scored 50,000/53,424 users
+[18:36:43] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[18:36:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[18:36:53] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[18:36:58]    ✅ Done.
+[18:36:58] 
+📘 [42/143] POS=5 500u — Classics
+[18:36:58]    File: f_Classics_500u_pos5_neg1_all.csv
+[18:37:14]    Loaded — items=10,000, rows=10,683,979
+[18:37:14]    Training NMF…
+[18:44:24]    Generating Top-K…
+[18:44:27] Scoring 53,424 original users for f_Classics_500u_pos5_neg1_all (NMF)…
+[18:44:50]   • Scored 10,000/53,424 users
+[18:45:11]   • Scored 20,000/53,424 users
+[18:45:32]   • Scored 30,000/53,424 users
+[18:45:53]   • Scored 40,000/53,424 users
+[18:46:15]   • Scored 50,000/53,424 users
+[18:46:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[18:46:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[18:46:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[18:46:41]    ✅ Done.
+[18:46:41] 
+📘 [43/143] POS=5 50u — Classics
+[18:46:41]    File: f_Classics_50u_pos5_neg1_all.csv
+[18:46:53]    Loaded — items=10,000, rows=6,447,229
+[18:46:53]    Training NMF…
+[18:51:27]    Generating Top-K…
+[18:51:29] Scoring 53,424 original users for f_Classics_50u_pos5_neg1_all (NMF)…
+[18:51:52]   • Scored 10,000/53,424 users
+[18:52:13]   • Scored 20,000/53,424 users
+[18:52:34]   • Scored 30,000/53,424 users
+[18:52:54]   • Scored 40,000/53,424 users
+[18:53:15]   • Scored 50,000/53,424 users
+[18:53:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[18:53:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[18:53:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[18:53:38]    ✅ Done.
+[18:53:38] 
+📘 [44/143] POS=5 6u — Classics
+[18:53:38]    File: f_Classics_6u_pos5_neg1_all.csv
+[18:53:47]    Loaded — items=10,000, rows=6,032,969
+[18:53:47]    Training NMF…
+[18:58:10]    Generating Top-K…
+[18:58:13] Scoring 53,424 original users for f_Classics_6u_pos5_neg1_all (NMF)…
+[18:58:34]   • Scored 10,000/53,424 users
+[18:58:56]   • Scored 20,000/53,424 users
+[18:59:17]   • Scored 30,000/53,424 users
+[18:59:38]   • Scored 40,000/53,424 users
+[19:00:00]   • Scored 50,000/53,424 users
+[19:00:09] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:00:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:00:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Classics_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:00:23]    ✅ Done.
+[19:00:23] 
+📘 [45/143] POS=5 1000u — Drama
+[19:00:23]    File: f_Drama_1000u_pos5_neg1_all.csv
+[19:00:41]    Loaded — items=10,000, rows=15,391,479
+[19:00:42]    Training NMF…
+[19:09:10]    Generating Top-K…
+[19:09:14] Scoring 53,424 original users for f_Drama_1000u_pos5_neg1_all (NMF)…
+[19:09:37]   • Scored 10,000/53,424 users
+[19:09:58]   • Scored 20,000/53,424 users
+[19:10:19]   • Scored 30,000/53,424 users
+[19:10:40]   • Scored 40,000/53,424 users
+[19:11:01]   • Scored 50,000/53,424 users
+[19:11:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:11:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:11:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:11:26]    ✅ Done.
+[19:11:26] 
+📘 [46/143] POS=5 100u — Drama
+[19:11:26]    File: f_Drama_100u_pos5_neg1_all.csv
+[19:11:38]    Loaded — items=10,000, rows=6,917,979
+[19:11:38]    Training NMF…
+[19:16:21]    Generating Top-K…
+[19:16:23] Scoring 53,424 original users for f_Drama_100u_pos5_neg1_all (NMF)…
+[19:16:44]   • Scored 10,000/53,424 users
+[19:17:05]   • Scored 20,000/53,424 users
+[19:17:25]   • Scored 30,000/53,424 users
+[19:17:45]   • Scored 40,000/53,424 users
+[19:18:04]   • Scored 50,000/53,424 users
+[19:18:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:18:18] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:18:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:18:28]    ✅ Done.
+[19:18:28] 
+📘 [47/143] POS=5 200u — Drama
+[19:18:28]    File: f_Drama_200u_pos5_neg1_all.csv
+[19:18:39]    Loaded — items=10,000, rows=7,859,479
+[19:18:40]    Training NMF…
+[19:23:43]    Generating Top-K…
+[19:23:46] Scoring 53,424 original users for f_Drama_200u_pos5_neg1_all (NMF)…
+[19:24:07]   • Scored 10,000/53,424 users
+[19:24:27]   • Scored 20,000/53,424 users
+[19:24:47]   • Scored 30,000/53,424 users
+[19:25:06]   • Scored 40,000/53,424 users
+[19:25:26]   • Scored 50,000/53,424 users
+[19:25:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:25:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:25:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:25:48]    ✅ Done.
+[19:25:48] 
+📘 [48/143] POS=5 25u — Drama
+[19:25:48]    File: f_Drama_25u_pos5_neg1_all.csv
+[19:25:53]    Loaded — items=10,000, rows=6,211,854
+[19:25:54]    Training NMF…
+[19:30:46]    Generating Top-K…
+[19:30:48] Scoring 53,424 original users for f_Drama_25u_pos5_neg1_all (NMF)…
+[19:31:09]   • Scored 10,000/53,424 users
+[19:31:29]   • Scored 20,000/53,424 users
+[19:31:50]   • Scored 30,000/53,424 users
+[19:32:09]   • Scored 40,000/53,424 users
+[19:32:30]   • Scored 50,000/53,424 users
+[19:32:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:32:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:32:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:32:53]    ✅ Done.
+[19:32:53] 
+📘 [49/143] POS=5 2u — Drama
+[19:32:53]    File: f_Drama_2u_pos5_neg1_all.csv
+[19:32:58]    Loaded — items=10,000, rows=5,995,309
+[19:32:58]    Training NMF…
+[19:37:21]    Generating Top-K…
+[19:37:23] Scoring 53,424 original users for f_Drama_2u_pos5_neg1_all (NMF)…
+[19:37:46]   • Scored 10,000/53,424 users
+[19:38:08]   • Scored 20,000/53,424 users
+[19:38:29]   • Scored 30,000/53,424 users
+[19:38:49]   • Scored 40,000/53,424 users
+[19:39:10]   • Scored 50,000/53,424 users
+[19:39:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:39:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:39:30] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:39:33]    ✅ Done.
+[19:39:33] 
+📘 [50/143] POS=5 300u — Drama
+[19:39:33]    File: f_Drama_300u_pos5_neg1_all.csv
+[19:39:46]    Loaded — items=10,000, rows=8,800,979
+[19:39:47]    Training NMF…
+[19:45:20]    Generating Top-K…
+[19:45:23] Scoring 53,424 original users for f_Drama_300u_pos5_neg1_all (NMF)…
+[19:45:45]   • Scored 10,000/53,424 users
+[19:46:06]   • Scored 20,000/53,424 users
+[19:46:29]   • Scored 30,000/53,424 users
+[19:46:49]   • Scored 40,000/53,424 users
+[19:47:10]   • Scored 50,000/53,424 users
+[19:47:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:47:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:47:31] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:47:34]    ✅ Done.
+[19:47:34] 
+📘 [51/143] POS=5 350u — Drama
+[19:47:34]    File: f_Drama_350u_pos5_neg1_all.csv
+[19:47:47]    Loaded — items=10,000, rows=9,271,729
+[19:47:48]    Training NMF…
+[19:53:43]    Generating Top-K…
+[19:53:45] Scoring 53,424 original users for f_Drama_350u_pos5_neg1_all (NMF)…
+[19:54:07]   • Scored 10,000/53,424 users
+[19:54:28]   • Scored 20,000/53,424 users
+[19:54:48]   • Scored 30,000/53,424 users
+[19:55:08]   • Scored 40,000/53,424 users
+[19:55:28]   • Scored 50,000/53,424 users
+[19:55:38] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:55:42] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:55:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:55:52]    ✅ Done.
+[19:55:52] 
+📘 [52/143] POS=5 4u — Drama
+[19:55:52]    File: f_Drama_4u_pos5_neg1_all.csv
+[19:55:57]    Loaded — items=10,000, rows=6,014,139
+[19:55:58]    Training NMF…
+[20:00:22]    Generating Top-K…
+[20:00:24] Scoring 53,424 original users for f_Drama_4u_pos5_neg1_all (NMF)…
+[20:00:45]   • Scored 10,000/53,424 users
+[20:01:05]   • Scored 20,000/53,424 users
+[20:01:26]   • Scored 30,000/53,424 users
+[20:01:46]   • Scored 40,000/53,424 users
+[20:02:06]   • Scored 50,000/53,424 users
+[20:02:15] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:02:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:02:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:02:27]    ✅ Done.
+[20:02:27] 
+📘 [53/143] POS=5 500u — Drama
+[20:02:27]    File: f_Drama_500u_pos5_neg1_all.csv
+[20:02:42]    Loaded — items=10,000, rows=10,683,979
+[20:02:42]    Training NMF…
+[20:08:58]    Generating Top-K…
+[20:09:01] Scoring 53,424 original users for f_Drama_500u_pos5_neg1_all (NMF)…
+[20:09:21]   • Scored 10,000/53,424 users
+[20:09:41]   • Scored 20,000/53,424 users
+[20:10:00]   • Scored 30,000/53,424 users
+[20:10:20]   • Scored 40,000/53,424 users
+[20:10:41]   • Scored 50,000/53,424 users
+[20:10:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:10:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:10:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:11:03]    ✅ Done.
+[20:11:03] 
+📘 [54/143] POS=5 50u — Drama
+[20:11:03]    File: f_Drama_50u_pos5_neg1_all.csv
+[20:11:14]    Loaded — items=10,000, rows=6,447,229
+[20:11:14]    Training NMF…
+[20:15:51]    Generating Top-K…
+[20:15:53] Scoring 53,424 original users for f_Drama_50u_pos5_neg1_all (NMF)…
+[20:16:17]   • Scored 10,000/53,424 users
+[20:16:38]   • Scored 20,000/53,424 users
+[20:16:58]   • Scored 30,000/53,424 users
+[20:17:17]   • Scored 40,000/53,424 users
+[20:17:37]   • Scored 50,000/53,424 users
+[20:17:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:17:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:17:56] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:17:59]    ✅ Done.
+[20:17:59] 
+📘 [55/143] POS=5 6u — Drama
+[20:17:59]    File: f_Drama_6u_pos5_neg1_all.csv
+[20:18:08]    Loaded — items=10,000, rows=6,032,969
+[20:18:08]    Training NMF…
+[20:22:41]    Generating Top-K…
+[20:22:44] Scoring 53,424 original users for f_Drama_6u_pos5_neg1_all (NMF)…
+[20:23:05]   • Scored 10,000/53,424 users
+[20:23:26]   • Scored 20,000/53,424 users
+[20:23:48]   • Scored 30,000/53,424 users
+[20:24:08]   • Scored 40,000/53,424 users
+[20:24:26]   • Scored 50,000/53,424 users
+[20:24:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:24:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:24:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Drama_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:24:47]    ✅ Done.
+[20:24:47] 
+📘 [56/143] POS=5 1000u — Fantasy
+[20:24:47]    File: f_Fantasy_1000u_pos5_neg1_all.csv
+[20:25:08]    Loaded — items=10,000, rows=15,391,479
+[20:25:08]    Training NMF…
+[20:33:15]    Generating Top-K…
+[20:33:18] Scoring 53,424 original users for f_Fantasy_1000u_pos5_neg1_all (NMF)…
+[20:33:41]   • Scored 10,000/53,424 users
+[20:34:02]   • Scored 20,000/53,424 users
+[20:34:22]   • Scored 30,000/53,424 users
+[20:34:42]   • Scored 40,000/53,424 users
+[20:35:03]   • Scored 50,000/53,424 users
+[20:35:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:35:16] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:35:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:35:27]    ✅ Done.
+[20:35:27] 
+📘 [57/143] POS=5 100u — Fantasy
+[20:35:27]    File: f_Fantasy_100u_pos5_neg1_all.csv
+[20:35:37]    Loaded — items=10,000, rows=6,917,979
+[20:35:38]    Training NMF…
+[20:40:21]    Generating Top-K…
+[20:40:24] Scoring 53,424 original users for f_Fantasy_100u_pos5_neg1_all (NMF)…
+[20:40:44]   • Scored 10,000/53,424 users
+[20:41:04]   • Scored 20,000/53,424 users
+[20:41:24]   • Scored 30,000/53,424 users
+[20:41:45]   • Scored 40,000/53,424 users
+[20:42:05]   • Scored 50,000/53,424 users
+[20:42:15] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:42:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:42:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:42:28]    ✅ Done.
+[20:42:28] 
+📘 [58/143] POS=5 200u — Fantasy
+[20:42:28]    File: f_Fantasy_200u_pos5_neg1_all.csv
+[20:42:38]    Loaded — items=10,000, rows=7,859,479
+[20:42:39]    Training NMF…
+[20:47:41]    Generating Top-K…
+[20:47:43] Scoring 53,424 original users for f_Fantasy_200u_pos5_neg1_all (NMF)…
+[20:48:05]   • Scored 10,000/53,424 users
+[20:48:27]   • Scored 20,000/53,424 users
+[20:48:47]   • Scored 30,000/53,424 users
+[20:49:09]   • Scored 40,000/53,424 users
+[20:49:30]   • Scored 50,000/53,424 users
+[20:49:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:49:43] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:49:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:49:52]    ✅ Done.
+[20:49:52] 
+📘 [59/143] POS=5 25u — Fantasy
+[20:49:52]    File: f_Fantasy_25u_pos5_neg1_all.csv
+[20:49:58]    Loaded — items=10,000, rows=6,211,854
+[20:49:58]    Training NMF…
+[20:54:24]    Generating Top-K…
+[20:54:27] Scoring 53,424 original users for f_Fantasy_25u_pos5_neg1_all (NMF)…
+[20:54:47]   • Scored 10,000/53,424 users
+[20:55:07]   • Scored 20,000/53,424 users
+[20:55:26]   • Scored 30,000/53,424 users
+[20:55:46]   • Scored 40,000/53,424 users
+[20:56:05]   • Scored 50,000/53,424 users
+[20:56:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:56:18] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:56:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:56:27]    ✅ Done.
+[20:56:27] 
+📘 [60/143] POS=5 2u — Fantasy
+[20:56:27]    File: f_Fantasy_2u_pos5_neg1_all.csv
+[20:56:35]    Loaded — items=10,000, rows=5,995,309
+[20:56:36]    Training NMF…
+[21:00:55]    Generating Top-K…
+[21:00:57] Scoring 53,424 original users for f_Fantasy_2u_pos5_neg1_all (NMF)…
+[21:01:17]   • Scored 10,000/53,424 users
+[21:01:37]   • Scored 20,000/53,424 users
+[21:01:57]   • Scored 30,000/53,424 users
+[21:02:15]   • Scored 40,000/53,424 users
+[21:02:34]   • Scored 50,000/53,424 users
+[21:02:43] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:02:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:02:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:02:55]    ✅ Done.
+[21:02:55] 
+📘 [61/143] POS=5 300u — Fantasy
+[21:02:55]    File: f_Fantasy_300u_pos5_neg1_all.csv
+[21:03:06]    Loaded — items=10,000, rows=8,800,979
+[21:03:07]    Training NMF…
+[21:09:23]    Generating Top-K…
+[21:09:26] Scoring 53,424 original users for f_Fantasy_300u_pos5_neg1_all (NMF)…
+[21:09:46]   • Scored 10,000/53,424 users
+[21:10:10]   • Scored 20,000/53,424 users
+[21:10:31]   • Scored 30,000/53,424 users
+[21:10:52]   • Scored 40,000/53,424 users
+[21:11:13]   • Scored 50,000/53,424 users
+[21:11:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:11:30] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:11:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:11:41]    ✅ Done.
+[21:11:41] 
+📘 [62/143] POS=5 350u — Fantasy
+[21:11:41]    File: f_Fantasy_350u_pos5_neg1_all.csv
+[21:11:53]    Loaded — items=10,000, rows=9,271,729
+[21:11:53]    Training NMF…
+[21:18:21]    Generating Top-K…
+[21:18:24] Scoring 53,424 original users for f_Fantasy_350u_pos5_neg1_all (NMF)…
+[21:18:45]   • Scored 10,000/53,424 users
+[21:19:06]   • Scored 20,000/53,424 users
+[21:19:26]   • Scored 30,000/53,424 users
+[21:19:51]   • Scored 40,000/53,424 users
+[21:20:14]   • Scored 50,000/53,424 users
+[21:20:26] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:20:30] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:20:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:20:39]    ✅ Done.
+[21:20:39] 
+📘 [63/143] POS=5 4u — Fantasy
+[21:20:39]    File: f_Fantasy_4u_pos5_neg1_all.csv
+[21:20:44]    Loaded — items=10,000, rows=6,014,139
+[21:20:45]    Training NMF…
+[21:25:05]    Generating Top-K…
+[21:25:07] Scoring 53,424 original users for f_Fantasy_4u_pos5_neg1_all (NMF)…
+[21:25:26]   • Scored 10,000/53,424 users
+[21:25:45]   • Scored 20,000/53,424 users
+[21:26:04]   • Scored 30,000/53,424 users
+[21:26:23]   • Scored 40,000/53,424 users
+[21:26:43]   • Scored 50,000/53,424 users
+[21:26:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:26:56] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:27:01] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:27:04]    ✅ Done.
+[21:27:04] 
+📘 [64/143] POS=5 500u — Fantasy
+[21:27:04]    File: f_Fantasy_500u_pos5_neg1_all.csv
+[21:27:18]    Loaded — items=10,000, rows=10,683,979
+[21:27:19]    Training NMF…
+[21:33:57]    Generating Top-K…
+[21:34:00] Scoring 53,424 original users for f_Fantasy_500u_pos5_neg1_all (NMF)…
+[21:34:20]   • Scored 10,000/53,424 users
+[21:34:41]   • Scored 20,000/53,424 users
+[21:35:01]   • Scored 30,000/53,424 users
+[21:35:21]   • Scored 40,000/53,424 users
+[21:35:43]   • Scored 50,000/53,424 users
+[21:35:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:35:56] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:36:01] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:36:06]    ✅ Done.
+[21:36:06] 
+📘 [65/143] POS=5 50u — Fantasy
+[21:36:06]    File: f_Fantasy_50u_pos5_neg1_all.csv
+[21:36:11]    Loaded — items=10,000, rows=6,447,229
+[21:36:11]    Training NMF…
+[21:41:36]    Generating Top-K…
+[21:41:39] Scoring 53,424 original users for f_Fantasy_50u_pos5_neg1_all (NMF)…
+[21:42:08]   • Scored 10,000/53,424 users
+[21:42:29]   • Scored 20,000/53,424 users
+[21:43:00]   • Scored 30,000/53,424 users
+[21:43:30]   • Scored 40,000/53,424 users
+[21:44:01]   • Scored 50,000/53,424 users
+[21:44:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:44:18] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:44:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:44:27]    ✅ Done.
+[21:44:27] 
+📘 [66/143] POS=5 6u — Fantasy
+[21:44:27]    File: f_Fantasy_6u_pos5_neg1_all.csv
+[21:44:35]    Loaded — items=10,000, rows=6,032,969
+[21:44:36]    Training NMF…
+[21:50:54]    Generating Top-K…
+[21:50:57] Scoring 53,424 original users for f_Fantasy_6u_pos5_neg1_all (NMF)…
+[21:51:22]   • Scored 10,000/53,424 users
+[21:51:51]   • Scored 20,000/53,424 users
+[21:52:18]   • Scored 30,000/53,424 users
+[21:52:40]   • Scored 40,000/53,424 users
+[21:53:01]   • Scored 50,000/53,424 users
+[21:53:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:53:15] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:53:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Fantasy_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:53:25]    ✅ Done.
+[21:53:25] 
+📘 [67/143] POS=5 1000u — Historical
+[21:53:25]    File: f_Historical_1000u_pos5_neg1_all.csv
+[21:53:41]    Loaded — items=10,000, rows=15,391,479
+[21:53:42]    Training NMF…
+[22:04:04]    Generating Top-K…
+[22:04:08] Scoring 53,424 original users for f_Historical_1000u_pos5_neg1_all (NMF)…
+[22:04:35]   • Scored 10,000/53,424 users
+[22:04:58]   • Scored 20,000/53,424 users
+[22:05:23]   • Scored 30,000/53,424 users
+[22:05:51]   • Scored 40,000/53,424 users
+[22:06:12]   • Scored 50,000/53,424 users
+[22:06:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[22:06:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[22:06:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[22:06:45]    ✅ Done.
+[22:06:45] 
+📘 [68/143] POS=5 100u — Historical
+[22:06:45]    File: f_Historical_100u_pos5_neg1_all.csv
+[22:06:54]    Loaded — items=10,000, rows=6,917,979
+[22:06:55]    Training NMF…
+[22:13:28]    Generating Top-K…
+[22:13:31] Scoring 53,424 original users for f_Historical_100u_pos5_neg1_all (NMF)…
+[22:14:03]   • Scored 10,000/53,424 users
+[22:14:34]   • Scored 20,000/53,424 users
+[22:15:06]   • Scored 30,000/53,424 users
+[22:15:37]   • Scored 40,000/53,424 users
+[22:16:01]   • Scored 50,000/53,424 users
+[22:16:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[22:16:15] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[22:16:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[22:16:26]    ✅ Done.
+[22:16:26] 
+📘 [69/143] POS=5 200u — Historical
+[22:16:26]    File: f_Historical_200u_pos5_neg1_all.csv
+[22:16:36]    Loaded — items=10,000, rows=7,859,479
+[22:16:37]    Training NMF…
+[22:23:34]    Generating Top-K…
+[22:23:37] Scoring 53,424 original users for f_Historical_200u_pos5_neg1_all (NMF)…
+[22:24:03]   • Scored 10,000/53,424 users
+[22:24:25]   • Scored 20,000/53,424 users
+[22:24:46]   • Scored 30,000/53,424 users
+[22:25:08]   • Scored 40,000/53,424 users
+[22:25:30]   • Scored 50,000/53,424 users
+[22:25:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[22:25:45] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[22:25:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[22:25:55]    ✅ Done.
+[22:25:55] 
+📘 [70/143] POS=5 25u — Historical
+[22:25:55]    File: f_Historical_25u_pos5_neg1_all.csv
+[22:26:04]    Loaded — items=10,000, rows=6,211,854
+[22:26:05]    Training NMF…
+[22:32:21]    Generating Top-K…
+[22:32:23] Scoring 53,424 original users for f_Historical_25u_pos5_neg1_all (NMF)…
+[22:32:47]   • Scored 10,000/53,424 users
+[22:33:11]   • Scored 20,000/53,424 users
+[22:33:42]   • Scored 30,000/53,424 users
+[22:34:03]   • Scored 40,000/53,424 users
+[22:34:25]   • Scored 50,000/53,424 users
+[22:34:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[22:34:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[22:34:46] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[22:34:50]    ✅ Done.
+[22:34:50] 
+📘 [71/143] POS=5 2u — Historical
+[22:34:50]    File: f_Historical_2u_pos5_neg1_all.csv
+[22:34:56]    Loaded — items=10,000, rows=5,995,309
+[22:34:56]    Training NMF…
+[22:41:02]    Generating Top-K…
+[22:41:05] Scoring 53,424 original users for f_Historical_2u_pos5_neg1_all (NMF)…
+[22:41:29]   • Scored 10,000/53,424 users
+[22:41:58]   • Scored 20,000/53,424 users
+[22:42:31]   • Scored 30,000/53,424 users
+[22:42:54]   • Scored 40,000/53,424 users
+[22:43:14]   • Scored 50,000/53,424 users
+[22:43:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[22:43:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[22:43:34] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[22:43:38]    ✅ Done.
+[22:43:38] 
+📘 [72/143] POS=5 300u — Historical
+[22:43:38]    File: f_Historical_300u_pos5_neg1_all.csv
+[22:43:50]    Loaded — items=10,000, rows=8,800,979
+[22:43:50]    Training NMF…
+[22:51:59]    Generating Top-K…
+[22:52:02] Scoring 53,424 original users for f_Historical_300u_pos5_neg1_all (NMF)…
+[22:52:33]   • Scored 10,000/53,424 users
+[22:52:59]   • Scored 20,000/53,424 users
+[22:53:26]   • Scored 30,000/53,424 users
+[22:53:58]   • Scored 40,000/53,424 users
+[22:54:20]   • Scored 50,000/53,424 users
+[22:54:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[22:54:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[22:54:45] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[22:54:51]    ✅ Done.
+[22:54:51] 
+📘 [73/143] POS=5 350u — Historical
+[22:54:51]    File: f_Historical_350u_pos5_neg1_all.csv
+[22:54:58]    Loaded — items=10,000, rows=9,271,729
+[22:54:58]    Training NMF…
+[23:02:16]    Generating Top-K…
+[23:02:18] Scoring 53,424 original users for f_Historical_350u_pos5_neg1_all (NMF)…
+[23:02:51]   • Scored 10,000/53,424 users
+[23:03:19]   • Scored 20,000/53,424 users
+[23:03:40]   • Scored 30,000/53,424 users
+[23:04:04]   • Scored 40,000/53,424 users
+[23:04:29]   • Scored 50,000/53,424 users
+[23:04:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[23:04:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[23:04:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[23:04:55]    ✅ Done.
+[23:04:55] 
+📘 [74/143] POS=5 4u — Historical
+[23:04:55]    File: f_Historical_4u_pos5_neg1_all.csv
+[23:05:01]    Loaded — items=10,000, rows=6,014,139
+[23:05:01]    Training NMF…
+[23:10:54]    Generating Top-K…
+[23:10:56] Scoring 53,424 original users for f_Historical_4u_pos5_neg1_all (NMF)…
+[23:11:23]   • Scored 10,000/53,424 users
+[23:11:46]   • Scored 20,000/53,424 users
+[23:12:10]   • Scored 30,000/53,424 users
+[23:12:38]   • Scored 40,000/53,424 users
+[23:13:05]   • Scored 50,000/53,424 users
+[23:13:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[23:13:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[23:13:27] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[23:13:31]    ✅ Done.
+[23:13:31] 
+📘 [75/143] POS=5 500u — Historical
+[23:13:31]    File: f_Historical_500u_pos5_neg1_all.csv
+[23:13:39]    Loaded — items=10,000, rows=10,683,979
+[23:13:40]    Training NMF…
+[23:22:17]    Generating Top-K…
+[23:22:20] Scoring 53,424 original users for f_Historical_500u_pos5_neg1_all (NMF)…
+[23:22:46]   • Scored 10,000/53,424 users
+[23:23:12]   • Scored 20,000/53,424 users
+[23:23:37]   • Scored 30,000/53,424 users
+[23:24:02]   • Scored 40,000/53,424 users
+[23:24:28]   • Scored 50,000/53,424 users
+[23:24:38] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[23:24:42] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[23:24:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[23:24:54]    ✅ Done.
+[23:24:54] 
+📘 [76/143] POS=5 50u — Historical
+[23:24:54]    File: f_Historical_50u_pos5_neg1_all.csv
+[23:25:01]    Loaded — items=10,000, rows=6,447,229
+[23:25:01]    Training NMF…
+[23:30:44]    Generating Top-K…
+[23:30:48] Scoring 53,424 original users for f_Historical_50u_pos5_neg1_all (NMF)…
+[23:31:11]   • Scored 10,000/53,424 users
+[23:31:32]   • Scored 20,000/53,424 users
+[23:31:53]   • Scored 30,000/53,424 users
+[23:32:13]   • Scored 40,000/53,424 users
+[23:32:33]   • Scored 50,000/53,424 users
+[23:32:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[23:32:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[23:32:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[23:32:58]    ✅ Done.
+[23:32:58] 
+📘 [77/143] POS=5 6u — Historical
+[23:32:58]    File: f_Historical_6u_pos5_neg1_all.csv
+[23:33:08]    Loaded — items=10,000, rows=6,032,969
+[23:33:08]    Training NMF…
+[23:38:40]    Generating Top-K…
+[23:38:42] Scoring 53,424 original users for f_Historical_6u_pos5_neg1_all (NMF)…
+[23:39:03]   • Scored 10,000/53,424 users
+[23:39:23]   • Scored 20,000/53,424 users
+[23:39:44]   • Scored 30,000/53,424 users
+[23:40:05]   • Scored 40,000/53,424 users
+[23:40:26]   • Scored 50,000/53,424 users
+[23:40:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[23:40:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[23:40:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Historical_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[23:40:51]    ✅ Done.
+[23:40:51] 
+📘 [78/143] POS=5 1000u — Horror
+[23:40:51]    File: f_Horror_1000u_pos5_neg1_all.csv
+[23:41:08]    Loaded — items=10,000, rows=15,391,479
+[23:41:08]    Training NMF…
+[23:51:53]    Generating Top-K…
+[23:51:57] Scoring 53,424 original users for f_Horror_1000u_pos5_neg1_all (NMF)…
+[23:52:22]   • Scored 10,000/53,424 users
+[23:52:44]   • Scored 20,000/53,424 users
+[23:53:05]   • Scored 30,000/53,424 users
+[23:53:29]   • Scored 40,000/53,424 users
+[23:53:55]   • Scored 50,000/53,424 users
+[23:54:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[23:54:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[23:54:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[23:54:25]    ✅ Done.
+[23:54:25] 
+📘 [79/143] POS=5 100u — Horror
+[23:54:25]    File: f_Horror_100u_pos5_neg1_all.csv
+[23:54:36]    Loaded — items=10,000, rows=6,917,979
+[23:54:36]    Training NMF…
+[00:00:34]    Generating Top-K…
+[00:00:36] Scoring 53,424 original users for f_Horror_100u_pos5_neg1_all (NMF)…
+[00:01:01]   • Scored 10,000/53,424 users
+[00:01:23]   • Scored 20,000/53,424 users
+[00:01:45]   • Scored 30,000/53,424 users
+[00:02:10]   • Scored 40,000/53,424 users
+[00:02:34]   • Scored 50,000/53,424 users
+[00:02:46] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:02:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:02:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:03:01]    ✅ Done.
+[00:03:01] 
+📘 [80/143] POS=5 200u — Horror
+[00:03:01]    File: f_Horror_200u_pos5_neg1_all.csv
+[00:03:09]    Loaded — items=10,000, rows=7,859,479
+[00:03:09]    Training NMF…
+[00:09:30]    Generating Top-K…
+[00:09:32] Scoring 53,424 original users for f_Horror_200u_pos5_neg1_all (NMF)…
+[00:09:54]   • Scored 10,000/53,424 users
+[00:10:16]   • Scored 20,000/53,424 users
+[00:10:37]   • Scored 30,000/53,424 users
+[00:10:59]   • Scored 40,000/53,424 users
+[00:11:21]   • Scored 50,000/53,424 users
+[00:11:31] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:11:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:11:41] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:11:46]    ✅ Done.
+[00:11:46] 
+📘 [81/143] POS=5 25u — Horror
+[00:11:46]    File: f_Horror_25u_pos5_neg1_all.csv
+[00:11:51]    Loaded — items=10,000, rows=6,211,854
+[00:11:52]    Training NMF…
+[00:17:50]    Generating Top-K…
+[00:17:53] Scoring 53,424 original users for f_Horror_25u_pos5_neg1_all (NMF)…
+[00:18:16]   • Scored 10,000/53,424 users
+[00:18:38]   • Scored 20,000/53,424 users
+[00:19:05]   • Scored 30,000/53,424 users
+[00:19:36]   • Scored 40,000/53,424 users
+[00:20:07]   • Scored 50,000/53,424 users
+[00:20:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:20:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:20:31] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:20:35]    ✅ Done.
+[00:20:35] 
+📘 [82/143] POS=5 2u — Horror
+[00:20:35]    File: f_Horror_2u_pos5_neg1_all.csv
+[00:20:41]    Loaded — items=10,000, rows=5,995,309
+[00:20:41]    Training NMF…
+[00:26:56]    Generating Top-K…
+[00:26:58] Scoring 53,424 original users for f_Horror_2u_pos5_neg1_all (NMF)…
+[00:27:22]   • Scored 10,000/53,424 users
+[00:27:45]   • Scored 20,000/53,424 users
+[00:28:09]   • Scored 30,000/53,424 users
+[00:28:33]   • Scored 40,000/53,424 users
+[00:28:55]   • Scored 50,000/53,424 users
+[00:29:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:29:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:29:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:29:21]    ✅ Done.
+[00:29:21] 
+📘 [83/143] POS=5 300u — Horror
+[00:29:21]    File: f_Horror_300u_pos5_neg1_all.csv
+[00:29:33]    Loaded — items=10,000, rows=8,800,979
+[00:29:33]    Training NMF…
+[00:36:32]    Generating Top-K…
+[00:36:35] Scoring 53,424 original users for f_Horror_300u_pos5_neg1_all (NMF)…
+[00:37:00]   • Scored 10,000/53,424 users
+[00:37:24]   • Scored 20,000/53,424 users
+[00:37:45]   • Scored 30,000/53,424 users
+[00:38:10]   • Scored 40,000/53,424 users
+[00:38:33]   • Scored 50,000/53,424 users
+[00:38:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:38:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:38:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:39:06]    ✅ Done.
+[00:39:06] 
+📘 [84/143] POS=5 350u — Horror
+[00:39:06]    File: f_Horror_350u_pos5_neg1_all.csv
+[00:39:17]    Loaded — items=10,000, rows=9,271,729
+[00:39:18]    Training NMF…
+[00:47:16]    Generating Top-K…
+[00:47:18] Scoring 53,424 original users for f_Horror_350u_pos5_neg1_all (NMF)…
+[00:47:43]   • Scored 10,000/53,424 users
+[00:48:10]   • Scored 20,000/53,424 users
+[00:48:41]   • Scored 30,000/53,424 users
+[00:49:03]   • Scored 40,000/53,424 users
+[00:49:25]   • Scored 50,000/53,424 users
+[00:49:37] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:49:42] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:49:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:49:53]    ✅ Done.
+[00:49:53] 
+📘 [85/143] POS=5 4u — Horror
+[00:49:53]    File: f_Horror_4u_pos5_neg1_all.csv
+[00:49:58]    Loaded — items=10,000, rows=6,014,139
+[00:49:59]    Training NMF…
+[00:55:27]    Generating Top-K…
+[00:55:29] Scoring 53,424 original users for f_Horror_4u_pos5_neg1_all (NMF)…
+[00:55:54]   • Scored 10,000/53,424 users
+[00:56:15]   • Scored 20,000/53,424 users
+[00:56:36]   • Scored 30,000/53,424 users
+[00:56:56]   • Scored 40,000/53,424 users
+[00:57:18]   • Scored 50,000/53,424 users
+[00:57:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:57:33] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:57:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:57:43]    ✅ Done.
+[00:57:43] 
+📘 [86/143] POS=5 500u — Horror
+[00:57:43]    File: f_Horror_500u_pos5_neg1_all.csv
+[00:57:58]    Loaded — items=10,000, rows=10,683,979
+[00:57:58]    Training NMF…
+[01:05:36]    Generating Top-K…
+[01:05:40] Scoring 53,424 original users for f_Horror_500u_pos5_neg1_all (NMF)…
+[01:06:02]   • Scored 10,000/53,424 users
+[01:06:26]   • Scored 20,000/53,424 users
+[01:06:51]   • Scored 30,000/53,424 users
+[01:07:15]   • Scored 40,000/53,424 users
+[01:07:40]   • Scored 50,000/53,424 users
+[01:07:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:07:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:08:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:08:09]    ✅ Done.
+[01:08:09] 
+📘 [87/143] POS=5 50u — Horror
+[01:08:09]    File: f_Horror_50u_pos5_neg1_all.csv
+[01:08:15]    Loaded — items=10,000, rows=6,447,229
+[01:08:16]    Training NMF…
+[01:14:23]    Generating Top-K…
+[01:14:25] Scoring 53,424 original users for f_Horror_50u_pos5_neg1_all (NMF)…
+[01:14:50]   • Scored 10,000/53,424 users
+[01:15:14]   • Scored 20,000/53,424 users
+[01:15:38]   • Scored 30,000/53,424 users
+[01:16:01]   • Scored 40,000/53,424 users
+[01:16:24]   • Scored 50,000/53,424 users
+[01:16:34] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:16:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:16:46] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:16:50]    ✅ Done.
+[01:16:50] 
+📘 [88/143] POS=5 6u — Horror
+[01:16:50]    File: f_Horror_6u_pos5_neg1_all.csv
+[01:16:59]    Loaded — items=10,000, rows=6,032,969
+[01:17:00]    Training NMF…
+[01:23:10]    Generating Top-K…
+[01:23:15] Scoring 53,424 original users for f_Horror_6u_pos5_neg1_all (NMF)…
+[01:23:37]   • Scored 10,000/53,424 users
+[01:24:00]   • Scored 20,000/53,424 users
+[01:24:24]   • Scored 30,000/53,424 users
+[01:24:48]   • Scored 40,000/53,424 users
+[01:25:13]   • Scored 50,000/53,424 users
+[01:25:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:25:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:25:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Horror_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:25:42]    ✅ Done.
+[01:25:42] 
+📘 [89/143] POS=5 1000u — Mystery
+[01:25:42]    File: f_Mystery_1000u_pos5_neg1_all.csv
+[01:26:05]    Loaded — items=10,000, rows=15,391,479
+[01:26:06]    Training NMF…
+[01:37:15]    Generating Top-K…
+[01:37:21] Scoring 53,424 original users for f_Mystery_1000u_pos5_neg1_all (NMF)…
+[01:37:45]   • Scored 10,000/53,424 users
+[01:38:05]   • Scored 20,000/53,424 users
+[01:38:25]   • Scored 30,000/53,424 users
+[01:38:46]   • Scored 40,000/53,424 users
+[01:39:05]   • Scored 50,000/53,424 users
+[01:39:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:39:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:39:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:39:34]    ✅ Done.
+[01:39:34] 
+📘 [90/143] POS=5 100u — Mystery
+[01:39:34]    File: f_Mystery_100u_pos5_neg1_all.csv
+[01:39:44]    Loaded — items=10,000, rows=6,917,979
+[01:39:44]    Training NMF…
+[01:46:03]    Generating Top-K…
+[01:46:05] Scoring 53,424 original users for f_Mystery_100u_pos5_neg1_all (NMF)…
+[01:46:31]   • Scored 10,000/53,424 users
+[01:46:52]   • Scored 20,000/53,424 users
+[01:47:18]   • Scored 30,000/53,424 users
+[01:47:47]   • Scored 40,000/53,424 users
+[01:48:09]   • Scored 50,000/53,424 users
+[01:48:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:48:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:48:31] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:48:35]    ✅ Done.
+[01:48:35] 
+📘 [91/143] POS=5 200u — Mystery
+[01:48:35]    File: f_Mystery_200u_pos5_neg1_all.csv
+[01:48:43]    Loaded — items=10,000, rows=7,859,479
+[01:48:44]    Training NMF…
+[01:55:55]    Generating Top-K…
+[01:55:57] Scoring 53,424 original users for f_Mystery_200u_pos5_neg1_all (NMF)…
+[01:56:19]   • Scored 10,000/53,424 users
+[01:56:38]   • Scored 20,000/53,424 users
+[01:56:59]   • Scored 30,000/53,424 users
+[01:57:20]   • Scored 40,000/53,424 users
+[01:57:41]   • Scored 50,000/53,424 users
+[01:57:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:57:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:58:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:58:11]    ✅ Done.
+[01:58:11] 
+📘 [92/143] POS=5 25u — Mystery
+[01:58:11]    File: f_Mystery_25u_pos5_neg1_all.csv
+[01:58:16]    Loaded — items=10,000, rows=6,211,854
+[01:58:17]    Training NMF…
+[02:04:20]    Generating Top-K…
+[02:04:22] Scoring 53,424 original users for f_Mystery_25u_pos5_neg1_all (NMF)…
+[02:04:46]   • Scored 10,000/53,424 users
+[02:05:07]   • Scored 20,000/53,424 users
+[02:05:26]   • Scored 30,000/53,424 users
+[02:05:45]   • Scored 40,000/53,424 users
+[02:06:04]   • Scored 50,000/53,424 users
+[02:06:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[02:06:18] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[02:06:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[02:06:31]    ✅ Done.
+[02:06:31] 
+📘 [93/143] POS=5 2u — Mystery
+[02:06:31]    File: f_Mystery_2u_pos5_neg1_all.csv
+[02:06:36]    Loaded — items=10,000, rows=5,995,309
+[02:06:36]    Training NMF…
+[02:12:06]    Generating Top-K…
+[02:12:08] Scoring 53,424 original users for f_Mystery_2u_pos5_neg1_all (NMF)…
+[02:12:33]   • Scored 10,000/53,424 users
+[02:12:52]   • Scored 20,000/53,424 users
+[02:13:15]   • Scored 30,000/53,424 users
+[02:13:40]   • Scored 40,000/53,424 users
+[02:14:02]   • Scored 50,000/53,424 users
+[02:14:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[02:14:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[02:14:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[02:14:30]    ✅ Done.
+[02:14:30] 
+📘 [94/143] POS=5 300u — Mystery
+[02:14:30]    File: f_Mystery_300u_pos5_neg1_all.csv
+[02:14:41]    Loaded — items=10,000, rows=8,800,979
+[02:14:42]    Training NMF…
+[02:24:03]    Generating Top-K…
+[02:24:07] Scoring 53,424 original users for f_Mystery_300u_pos5_neg1_all (NMF)…
+[02:24:29]   • Scored 10,000/53,424 users
+[02:24:52]   • Scored 20,000/53,424 users
+[02:25:12]   • Scored 30,000/53,424 users
+[02:25:35]   • Scored 40,000/53,424 users
+[02:25:55]   • Scored 50,000/53,424 users
+[02:26:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[02:26:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[02:26:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[02:26:28]    ✅ Done.
+[02:26:28] 
+📘 [95/143] POS=5 350u — Mystery
+[02:26:28]    File: f_Mystery_350u_pos5_neg1_all.csv
+[02:26:41]    Loaded — items=10,000, rows=9,271,729
+[02:26:41]    Training NMF…
+[02:36:47]    Generating Top-K…
+[02:36:52] Scoring 53,424 original users for f_Mystery_350u_pos5_neg1_all (NMF)…
+[02:37:17]   • Scored 10,000/53,424 users
+[02:37:51]   • Scored 20,000/53,424 users
+[02:38:25]   • Scored 30,000/53,424 users
+[02:39:00]   • Scored 40,000/53,424 users
+[02:39:33]   • Scored 50,000/53,424 users
+[02:39:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[02:39:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[02:40:02] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[02:40:10]    ✅ Done.
+[02:40:10] 
+📘 [96/143] POS=5 4u — Mystery
+[02:40:10]    File: f_Mystery_4u_pos5_neg1_all.csv
+[02:40:16]    Loaded — items=10,000, rows=6,014,139
+[02:40:17]    Training NMF…
+[02:46:51]    Generating Top-K…
+[02:46:53] Scoring 53,424 original users for f_Mystery_4u_pos5_neg1_all (NMF)…
+[02:47:15]   • Scored 10,000/53,424 users
+[02:47:38]   • Scored 20,000/53,424 users
+[02:47:59]   • Scored 30,000/53,424 users
+[02:48:20]   • Scored 40,000/53,424 users
+[02:48:41]   • Scored 50,000/53,424 users
+[02:48:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[02:48:55] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[02:49:02] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[02:49:05]    ✅ Done.
+[02:49:05] 
+📘 [97/143] POS=5 500u — Mystery
+[02:49:05]    File: f_Mystery_500u_pos5_neg1_all.csv
+[02:49:21]    Loaded — items=10,000, rows=10,683,979
+[02:49:21]    Training NMF…
+[02:58:20]    Generating Top-K…
+[02:58:23] Scoring 53,424 original users for f_Mystery_500u_pos5_neg1_all (NMF)…
+[02:58:48]   • Scored 10,000/53,424 users
+[02:59:12]   • Scored 20,000/53,424 users
+[02:59:33]   • Scored 30,000/53,424 users
+[02:59:56]   • Scored 40,000/53,424 users
+[03:00:20]   • Scored 50,000/53,424 users
+[03:00:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[03:00:34] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[03:00:41] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[03:00:46]    ✅ Done.
+[03:00:46] 
+📘 [98/143] POS=5 50u — Mystery
+[03:00:46]    File: f_Mystery_50u_pos5_neg1_all.csv
+[03:00:53]    Loaded — items=10,000, rows=6,447,229
+[03:00:54]    Training NMF…
+[03:06:32]    Generating Top-K…
+[03:06:34] Scoring 53,424 original users for f_Mystery_50u_pos5_neg1_all (NMF)…
+[03:06:56]   • Scored 10,000/53,424 users
+[03:07:18]   • Scored 20,000/53,424 users
+[03:07:41]   • Scored 30,000/53,424 users
+[03:08:03]   • Scored 40,000/53,424 users
+[03:08:26]   • Scored 50,000/53,424 users
+[03:08:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[03:08:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[03:08:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[03:08:52]    ✅ Done.
+[03:08:52] 
+📘 [99/143] POS=5 6u — Mystery
+[03:08:52]    File: f_Mystery_6u_pos5_neg1_all.csv
+[03:08:57]    Loaded — items=10,000, rows=6,032,969
+[03:08:58]    Training NMF…
+[03:16:59]    Generating Top-K…
+[03:17:02] Scoring 53,424 original users for f_Mystery_6u_pos5_neg1_all (NMF)…
+[03:17:37]   • Scored 10,000/53,424 users
+[03:18:11]   • Scored 20,000/53,424 users
+[03:18:45]   • Scored 30,000/53,424 users
+[03:19:19]   • Scored 40,000/53,424 users
+[03:19:52]   • Scored 50,000/53,424 users
+[03:20:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[03:20:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[03:20:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Mystery_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[03:20:32]    ✅ Done.
+[03:20:32] 
+📘 [100/143] POS=5 1000u — Nonfiction
+[03:20:32]    File: f_Nonfiction_1000u_pos5_neg1_all.csv
+[03:20:59]    Loaded — items=10,000, rows=15,391,479
+[03:21:00]    Training NMF…
+[03:33:02]    Generating Top-K…
+[03:33:09] Scoring 53,424 original users for f_Nonfiction_1000u_pos5_neg1_all (NMF)…
+[03:33:37]   • Scored 10,000/53,424 users
+[03:33:59]   • Scored 20,000/53,424 users
+[03:34:23]   • Scored 30,000/53,424 users
+[03:34:47]   • Scored 40,000/53,424 users
+[03:35:09]   • Scored 50,000/53,424 users
+[03:35:23] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[03:35:27] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[03:35:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[03:35:49]    ✅ Done.
+[03:35:49] 
+📘 [101/143] POS=5 100u — Nonfiction
+[03:35:49]    File: f_Nonfiction_100u_pos5_neg1_all.csv
+[03:35:55]    Loaded — items=10,000, rows=6,917,979
+[03:35:55]    Training NMF…
+[03:42:13]    Generating Top-K…
+[03:42:15] Scoring 53,424 original users for f_Nonfiction_100u_pos5_neg1_all (NMF)…
+[03:42:36]   • Scored 10,000/53,424 users
+[03:43:00]   • Scored 20,000/53,424 users
+[03:43:25]   • Scored 30,000/53,424 users
+[03:43:45]   • Scored 40,000/53,424 users
+[03:44:04]   • Scored 50,000/53,424 users
+[03:44:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[03:44:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[03:44:26] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[03:44:31]    ✅ Done.
+[03:44:31] 
+📘 [102/143] POS=5 200u — Nonfiction
+[03:44:31]    File: f_Nonfiction_200u_pos5_neg1_all.csv
+[03:44:44]    Loaded — items=10,000, rows=7,859,479
+[03:44:45]    Training NMF…
+[03:52:04]    Generating Top-K…
+[03:52:06] Scoring 53,424 original users for f_Nonfiction_200u_pos5_neg1_all (NMF)…
+[03:52:32]   • Scored 10,000/53,424 users
+[03:52:57]   • Scored 20,000/53,424 users
+[03:53:21]   • Scored 30,000/53,424 users
+[03:53:44]   • Scored 40,000/53,424 users
+[03:54:07]   • Scored 50,000/53,424 users
+[03:54:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[03:54:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[03:54:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[03:54:37]    ✅ Done.
+[03:54:37] 
+📘 [103/143] POS=5 25u — Nonfiction
+[03:54:37]    File: f_Nonfiction_25u_pos5_neg1_all.csv
+[03:54:48]    Loaded — items=10,000, rows=6,211,854
+[03:54:49]    Training NMF…
+[04:02:02]    Generating Top-K…
+[04:02:04] Scoring 53,424 original users for f_Nonfiction_25u_pos5_neg1_all (NMF)…
+[04:02:29]   • Scored 10,000/53,424 users
+[04:02:49]   • Scored 20,000/53,424 users
+[04:03:11]   • Scored 30,000/53,424 users
+[04:03:32]   • Scored 40,000/53,424 users
+[04:03:52]   • Scored 50,000/53,424 users
+[04:04:05] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[04:04:09] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[04:04:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[04:04:22]    ✅ Done.
+[04:04:22] 
+📘 [104/143] POS=5 2u — Nonfiction
+[04:04:22]    File: f_Nonfiction_2u_pos5_neg1_all.csv
+[04:04:28]    Loaded — items=10,000, rows=5,995,309
+[04:04:29]    Training NMF…
+[04:11:46]    Generating Top-K…
+[04:11:49] Scoring 53,424 original users for f_Nonfiction_2u_pos5_neg1_all (NMF)…
+[04:12:13]   • Scored 10,000/53,424 users
+[04:12:37]   • Scored 20,000/53,424 users
+[04:12:59]   • Scored 30,000/53,424 users
+[04:13:21]   • Scored 40,000/53,424 users
+[04:13:44]   • Scored 50,000/53,424 users
+[04:13:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[04:13:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[04:14:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[04:14:12]    ✅ Done.
+[04:14:12] 
+📘 [105/143] POS=5 300u — Nonfiction
+[04:14:12]    File: f_Nonfiction_300u_pos5_neg1_all.csv
+[04:14:24]    Loaded — items=10,000, rows=8,800,979
+[04:14:24]    Training NMF…
+[04:24:53]    Generating Top-K…
+[04:24:56] Scoring 53,424 original users for f_Nonfiction_300u_pos5_neg1_all (NMF)…
+[04:25:24]   • Scored 10,000/53,424 users
+[04:25:56]   • Scored 20,000/53,424 users
+[04:26:32]   • Scored 30,000/53,424 users
+[04:27:07]   • Scored 40,000/53,424 users
+[04:27:42]   • Scored 50,000/53,424 users
+[04:28:01] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[04:28:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[04:28:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[04:28:28]    ✅ Done.
+[04:28:28] 
+📘 [106/143] POS=5 350u — Nonfiction
+[04:28:28]    File: f_Nonfiction_350u_pos5_neg1_all.csv
+[04:28:41]    Loaded — items=10,000, rows=9,271,729
+[04:28:41]    Training NMF…
+[04:39:27]    Generating Top-K…
+[04:39:30] Scoring 53,424 original users for f_Nonfiction_350u_pos5_neg1_all (NMF)…
+[04:39:58]   • Scored 10,000/53,424 users
+[04:40:32]   • Scored 20,000/53,424 users
+[04:41:02]   • Scored 30,000/53,424 users
+[04:41:35]   • Scored 40,000/53,424 users
+[04:42:09]   • Scored 50,000/53,424 users
+[04:42:26] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[04:42:32] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[04:42:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[04:42:53]    ✅ Done.
+[04:42:53] 
+📘 [107/143] POS=5 4u — Nonfiction
+[04:42:53]    File: f_Nonfiction_4u_pos5_neg1_all.csv
+[04:43:06]    Loaded — items=10,000, rows=6,014,139
+[04:43:07]    Training NMF…
+[04:50:18]    Generating Top-K…
+[04:50:21] Scoring 53,424 original users for f_Nonfiction_4u_pos5_neg1_all (NMF)…
+[04:50:55]   • Scored 10,000/53,424 users
+[04:51:30]   • Scored 20,000/53,424 users
+[04:52:04]   • Scored 30,000/53,424 users
+[04:52:38]   • Scored 40,000/53,424 users
+[04:53:13]   • Scored 50,000/53,424 users
+[04:53:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[04:53:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[04:53:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[04:53:55]    ✅ Done.
+[04:53:55] 
+📘 [108/143] POS=5 500u — Nonfiction
+[04:53:55]    File: f_Nonfiction_500u_pos5_neg1_all.csv
+[04:54:12]    Loaded — items=10,000, rows=10,683,979
+[04:54:13]    Training NMF…
+[05:03:22]    Generating Top-K…
+[05:03:26] Scoring 53,424 original users for f_Nonfiction_500u_pos5_neg1_all (NMF)…
+[05:04:01]   • Scored 10,000/53,424 users
+[05:04:36]   • Scored 20,000/53,424 users
+[05:05:11]   • Scored 30,000/53,424 users
+[05:05:46]   • Scored 40,000/53,424 users
+[05:06:24]   • Scored 50,000/53,424 users
+[05:06:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:06:45] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:06:53] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:07:02]    ✅ Done.
+[05:07:02] 
+📘 [109/143] POS=5 50u — Nonfiction
+[05:07:02]    File: f_Nonfiction_50u_pos5_neg1_all.csv
+[05:07:15]    Loaded — items=10,000, rows=6,447,229
+[05:07:16]    Training NMF…
+[05:14:17]    Generating Top-K…
+[05:14:20] Scoring 53,424 original users for f_Nonfiction_50u_pos5_neg1_all (NMF)…
+[05:14:51]   • Scored 10,000/53,424 users
+[05:15:26]   • Scored 20,000/53,424 users
+[05:16:01]   • Scored 30,000/53,424 users
+[05:16:36]   • Scored 40,000/53,424 users
+[05:17:11]   • Scored 50,000/53,424 users
+[05:17:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:17:33] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:17:45] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:17:52]    ✅ Done.
+[05:17:52] 
+📘 [110/143] POS=5 6u — Nonfiction
+[05:17:52]    File: f_Nonfiction_6u_pos5_neg1_all.csv
+[05:18:04]    Loaded — items=10,000, rows=6,032,969
+[05:18:05]    Training NMF…
+[05:25:34]    Generating Top-K…
+[05:25:37] Scoring 53,424 original users for f_Nonfiction_6u_pos5_neg1_all (NMF)…
+[05:26:11]   • Scored 10,000/53,424 users
+[05:26:46]   • Scored 20,000/53,424 users
+[05:27:21]   • Scored 30,000/53,424 users
+[05:27:56]   • Scored 40,000/53,424 users
+[05:28:31]   • Scored 50,000/53,424 users
+[05:28:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:28:53] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:29:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Nonfiction_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:29:11]    ✅ Done.
+[05:29:11] 
+📘 [111/143] POS=5 1000u — Romance
+[05:29:11]    File: f_Romance_1000u_pos5_neg1_all.csv
+[05:29:34]    Loaded — items=10,000, rows=15,391,479
+[05:29:35]    Training NMF…
+[05:41:20]    Generating Top-K…
+[05:41:25] Scoring 53,424 original users for f_Romance_1000u_pos5_neg1_all (NMF)…
+[05:42:00]   • Scored 10,000/53,424 users
+[05:42:33]   • Scored 20,000/53,424 users
+[05:43:06]   • Scored 30,000/53,424 users
+[05:43:35]   • Scored 40,000/53,424 users
+[05:44:01]   • Scored 50,000/53,424 users
+[05:44:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:44:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:44:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:44:33]    ✅ Done.
+[05:44:33] 
+📘 [112/143] POS=5 100u — Romance
+[05:44:33]    File: f_Romance_100u_pos5_neg1_all.csv
+[05:44:43]    Loaded — items=10,000, rows=6,917,979
+[05:44:44]    Training NMF…
+[05:51:42]    Generating Top-K…
+[05:51:45] Scoring 53,424 original users for f_Romance_100u_pos5_neg1_all (NMF)…
+[05:52:18]   • Scored 10,000/53,424 users
+[05:52:40]   • Scored 20,000/53,424 users
+[05:53:03]   • Scored 30,000/53,424 users
+[05:53:25]   • Scored 40,000/53,424 users
+[05:53:47]   • Scored 50,000/53,424 users
+[05:53:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:54:03] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:54:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:54:15]    ✅ Done.
+[05:54:15] 
+📘 [113/143] POS=5 200u — Romance
+[05:54:15]    File: f_Romance_200u_pos5_neg1_all.csv
+[05:54:28]    Loaded — items=10,000, rows=7,859,479
+[05:54:28]    Training NMF…
+[06:02:15]    Generating Top-K…
+[06:02:18] Scoring 53,424 original users for f_Romance_200u_pos5_neg1_all (NMF)…
+[06:02:43]   • Scored 10,000/53,424 users
+[06:03:08]   • Scored 20,000/53,424 users
+[06:03:29]   • Scored 30,000/53,424 users
+[06:03:54]   • Scored 40,000/53,424 users
+[06:04:15]   • Scored 50,000/53,424 users
+[06:04:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[06:04:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[06:04:37] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[06:04:42]    ✅ Done.
+[06:04:42] 
+📘 [114/143] POS=5 25u — Romance
+[06:04:42]    File: f_Romance_25u_pos5_neg1_all.csv
+[06:04:47]    Loaded — items=10,000, rows=6,211,854
+[06:04:48]    Training NMF…
+[06:10:33]    Generating Top-K…
+[06:10:35] Scoring 53,424 original users for f_Romance_25u_pos5_neg1_all (NMF)…
+[06:11:00]   • Scored 10,000/53,424 users
+[06:11:20]   • Scored 20,000/53,424 users
+[06:11:39]   • Scored 30,000/53,424 users
+[06:12:02]   • Scored 40,000/53,424 users
+[06:12:26]   • Scored 50,000/53,424 users
+[06:12:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[06:12:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[06:12:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[06:12:57]    ✅ Done.
+[06:12:57] 
+📘 [115/143] POS=5 2u — Romance
+[06:12:57]    File: f_Romance_2u_pos5_neg1_all.csv
+[06:13:04]    Loaded — items=10,000, rows=5,995,309
+[06:13:04]    Training NMF…
+[06:18:49]    Generating Top-K…
+[06:18:54] Scoring 53,424 original users for f_Romance_2u_pos5_neg1_all (NMF)…
+[06:19:14]   • Scored 10,000/53,424 users
+[06:19:38]   • Scored 20,000/53,424 users
+[06:20:02]   • Scored 30,000/53,424 users
+[06:20:23]   • Scored 40,000/53,424 users
+[06:20:44]   • Scored 50,000/53,424 users
+[06:20:55] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[06:20:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[06:21:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[06:21:12]    ✅ Done.
+[06:21:12] 
+📘 [116/143] POS=5 300u — Romance
+[06:21:12]    File: f_Romance_300u_pos5_neg1_all.csv
+[06:21:24]    Loaded — items=10,000, rows=8,800,979
+[06:21:25]    Training NMF…
+[06:29:44]    Generating Top-K…
+[06:29:49] Scoring 53,424 original users for f_Romance_300u_pos5_neg1_all (NMF)…
+[06:30:14]   • Scored 10,000/53,424 users
+[06:30:35]   • Scored 20,000/53,424 users
+[06:30:57]   • Scored 30,000/53,424 users
+[06:31:17]   • Scored 40,000/53,424 users
+[06:31:36]   • Scored 50,000/53,424 users
+[06:31:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[06:31:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[06:32:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[06:32:12]    ✅ Done.
+[06:32:12] 
+📘 [117/143] POS=5 350u — Romance
+[06:32:12]    File: f_Romance_350u_pos5_neg1_all.csv
+[06:32:28]    Loaded — items=10,000, rows=9,271,729
+[06:32:29]    Training NMF…
+[06:40:12]    Generating Top-K…
+[06:40:15] Scoring 53,424 original users for f_Romance_350u_pos5_neg1_all (NMF)…
+[06:40:39]   • Scored 10,000/53,424 users
+[06:41:00]   • Scored 20,000/53,424 users
+[06:41:22]   • Scored 30,000/53,424 users
+[06:41:43]   • Scored 40,000/53,424 users
+[06:42:05]   • Scored 50,000/53,424 users
+[06:42:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[06:42:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[06:42:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[06:42:34]    ✅ Done.
+[06:42:34] 
+📘 [118/143] POS=5 4u — Romance
+[06:42:34]    File: f_Romance_4u_pos5_neg1_all.csv
+[06:42:45]    Loaded — items=10,000, rows=6,014,139
+[06:42:46]    Training NMF…
+[06:47:50]    Generating Top-K…
+[06:47:53] Scoring 53,424 original users for f_Romance_4u_pos5_neg1_all (NMF)…
+[06:48:18]   • Scored 10,000/53,424 users
+[06:48:40]   • Scored 20,000/53,424 users
+[06:48:59]   • Scored 30,000/53,424 users
+[06:49:18]   • Scored 40,000/53,424 users
+[06:49:39]   • Scored 50,000/53,424 users
+[06:49:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[06:49:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[06:50:02] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[06:50:06]    ✅ Done.
+[06:50:06] 
+📘 [119/143] POS=5 500u — Romance
+[06:50:06]    File: f_Romance_500u_pos5_neg1_all.csv
+[06:50:21]    Loaded — items=10,000, rows=10,683,979
+[06:50:22]    Training NMF…
+[07:00:53]    Generating Top-K…
+[07:00:56] Scoring 53,424 original users for f_Romance_500u_pos5_neg1_all (NMF)…
+[07:01:20]   • Scored 10,000/53,424 users
+[07:01:43]   • Scored 20,000/53,424 users
+[07:02:06]   • Scored 30,000/53,424 users
+[07:02:30]   • Scored 40,000/53,424 users
+[07:02:55]   • Scored 50,000/53,424 users
+[07:03:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[07:03:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[07:03:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[07:03:33]    ✅ Done.
+[07:03:33] 
+📘 [120/143] POS=5 50u — Romance
+[07:03:33]    File: f_Romance_50u_pos5_neg1_all.csv
+[07:03:46]    Loaded — items=10,000, rows=6,447,229
+[07:03:47]    Training NMF…
+[07:11:10]    Generating Top-K…
+[07:11:12] Scoring 53,424 original users for f_Romance_50u_pos5_neg1_all (NMF)…
+[07:11:37]   • Scored 10,000/53,424 users
+[07:12:01]   • Scored 20,000/53,424 users
+[07:12:29]   • Scored 30,000/53,424 users
+[07:13:05]   • Scored 40,000/53,424 users
+[07:13:38]   • Scored 50,000/53,424 users
+[07:13:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[07:14:00] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[07:14:10] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[07:14:18]    ✅ Done.
+[07:14:18] 
+📘 [121/143] POS=5 6u — Romance
+[07:14:18]    File: f_Romance_6u_pos5_neg1_all.csv
+[07:14:32]    Loaded — items=10,000, rows=6,032,969
+[07:14:32]    Training NMF…
+[07:22:14]    Generating Top-K…
+[07:22:17] Scoring 53,424 original users for f_Romance_6u_pos5_neg1_all (NMF)…
+[07:22:41]   • Scored 10,000/53,424 users
+[07:23:03]   • Scored 20,000/53,424 users
+[07:23:27]   • Scored 30,000/53,424 users
+[07:23:50]   • Scored 40,000/53,424 users
+[07:24:12]   • Scored 50,000/53,424 users
+[07:24:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[07:24:31] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[07:24:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Romance_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[07:24:51]    ✅ Done.
+[07:24:51] 
+📘 [122/143] POS=5 1000u — Science Fiction
+[07:24:51]    File: f_Science_Fiction_1000u_pos5_neg1_all.csv
+[07:25:16]    Loaded — items=10,000, rows=15,391,479
+[07:25:17]    Training NMF…
+[07:36:46]    Generating Top-K…
+[07:36:51] Scoring 53,424 original users for f_Science_Fiction_1000u_pos5_neg1_all (NMF)…
+[07:37:16]   • Scored 10,000/53,424 users
+[07:37:40]   • Scored 20,000/53,424 users
+[07:38:03]   • Scored 30,000/53,424 users
+[07:38:28]   • Scored 40,000/53,424 users
+[07:38:52]   • Scored 50,000/53,424 users
+[07:39:05] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[07:39:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[07:39:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[07:39:28]    ✅ Done.
+[07:39:28] 
+📘 [123/143] POS=5 100u — Science Fiction
+[07:39:28]    File: f_Science_Fiction_100u_pos5_neg1_all.csv
+[07:39:39]    Loaded — items=10,000, rows=6,917,979
+[07:39:40]    Training NMF…
+[07:46:52]    Generating Top-K…
+[07:46:55] Scoring 53,424 original users for f_Science_Fiction_100u_pos5_neg1_all (NMF)…
+[07:47:19]   • Scored 10,000/53,424 users
+[07:47:43]   • Scored 20,000/53,424 users
+[07:48:08]   • Scored 30,000/53,424 users
+[07:48:32]   • Scored 40,000/53,424 users
+[07:48:55]   • Scored 50,000/53,424 users
+[07:49:08] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[07:49:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[07:49:22] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[07:49:27]    ✅ Done.
+[07:49:27] 
+📘 [124/143] POS=5 200u — Science Fiction
+[07:49:27]    File: f_Science_Fiction_200u_pos5_neg1_all.csv
+[07:49:40]    Loaded — items=10,000, rows=7,859,479
+[07:49:40]    Training NMF…
+[07:58:00]    Generating Top-K…
+[07:58:03] Scoring 53,424 original users for f_Science_Fiction_200u_pos5_neg1_all (NMF)…
+[07:58:30]   • Scored 10,000/53,424 users
+[07:58:53]   • Scored 20,000/53,424 users
+[07:59:15]   • Scored 30,000/53,424 users
+[07:59:40]   • Scored 40,000/53,424 users
+[08:00:01]   • Scored 50,000/53,424 users
+[08:00:14] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[08:00:20] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[08:00:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[08:00:32]    ✅ Done.
+[08:00:32] 
+📘 [125/143] POS=5 25u — Science Fiction
+[08:00:32]    File: f_Science_Fiction_25u_pos5_neg1_all.csv
+[08:00:38]    Loaded — items=10,000, rows=6,211,854
+[08:00:39]    Training NMF…
+[08:06:13]    Generating Top-K…
+[08:06:15] Scoring 53,424 original users for f_Science_Fiction_25u_pos5_neg1_all (NMF)…
+[08:06:40]   • Scored 10,000/53,424 users
+[08:07:02]   • Scored 20,000/53,424 users
+[08:07:27]   • Scored 30,000/53,424 users
+[08:07:51]   • Scored 40,000/53,424 users
+[08:08:14]   • Scored 50,000/53,424 users
+[08:08:27] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[08:08:32] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[08:08:40] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[08:08:44]    ✅ Done.
+[08:08:44] 
+📘 [126/143] POS=5 2u — Science Fiction
+[08:08:44]    File: f_Science_Fiction_2u_pos5_neg1_all.csv
+[08:08:52]    Loaded — items=10,000, rows=5,995,309
+[08:08:52]    Training NMF…
+[08:14:26]    Generating Top-K…
+[08:14:29] Scoring 53,424 original users for f_Science_Fiction_2u_pos5_neg1_all (NMF)…
+[08:14:54]   • Scored 10,000/53,424 users
+[08:15:18]   • Scored 20,000/53,424 users
+[08:15:45]   • Scored 30,000/53,424 users
+[08:16:13]   • Scored 40,000/53,424 users
+[08:16:36]   • Scored 50,000/53,424 users
+[08:16:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[08:16:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[08:17:00] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[08:17:04]    ✅ Done.
+[08:17:04] 
+📘 [127/143] POS=5 300u — Science Fiction
+[08:17:04]    File: f_Science_Fiction_300u_pos5_neg1_all.csv
+[08:17:21]    Loaded — items=10,000, rows=8,800,979
+[08:17:21]    Training NMF…
+[08:25:34]    Generating Top-K…
+[08:25:37] Scoring 53,424 original users for f_Science_Fiction_300u_pos5_neg1_all (NMF)…
+[08:26:00]   • Scored 10,000/53,424 users
+[08:26:21]   • Scored 20,000/53,424 users
+[08:26:48]   • Scored 30,000/53,424 users
+[08:27:14]   • Scored 40,000/53,424 users
+[08:27:38]   • Scored 50,000/53,424 users
+[08:27:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[08:27:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[08:28:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[08:28:12]    ✅ Done.
+[08:28:12] 
+📘 [128/143] POS=5 350u — Science Fiction
+[08:28:12]    File: f_Science_Fiction_350u_pos5_neg1_all.csv
+[08:28:28]    Loaded — items=10,000, rows=9,271,729
+[08:28:28]    Training NMF…
+[08:35:09]    Generating Top-K…
+[08:35:12] Scoring 53,424 original users for f_Science_Fiction_350u_pos5_neg1_all (NMF)…
+[08:35:37]   • Scored 10,000/53,424 users
+[08:35:57]   • Scored 20,000/53,424 users
+[08:36:18]   • Scored 30,000/53,424 users
+[08:36:39]   • Scored 40,000/53,424 users
+[08:37:01]   • Scored 50,000/53,424 users
+[08:37:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[08:37:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[08:37:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[08:37:32]    ✅ Done.
+[08:37:32] 
+📘 [129/143] POS=5 4u — Science Fiction
+[08:37:32]    File: f_Science_Fiction_4u_pos5_neg1_all.csv
+[08:37:38]    Loaded — items=10,000, rows=6,014,139
+[08:37:38]    Training NMF…
+[08:43:51]    Generating Top-K…
+[08:43:54] Scoring 53,424 original users for f_Science_Fiction_4u_pos5_neg1_all (NMF)…
+[08:44:16]   • Scored 10,000/53,424 users
+[08:44:42]   • Scored 20,000/53,424 users
+[08:45:02]   • Scored 30,000/53,424 users
+[08:45:22]   • Scored 40,000/53,424 users
+[08:45:43]   • Scored 50,000/53,424 users
+[08:45:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[08:45:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[08:46:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[08:46:10]    ✅ Done.
+[08:46:10] 
+📘 [130/143] POS=5 500u — Science Fiction
+[08:46:10]    File: f_Science_Fiction_500u_pos5_neg1_all.csv
+[08:46:21]    Loaded — items=10,000, rows=10,683,979
+[08:46:22]    Training NMF…
+[08:53:51]    Generating Top-K…
+[08:53:54] Scoring 53,424 original users for f_Science_Fiction_500u_pos5_neg1_all (NMF)…
+[08:54:19]   • Scored 10,000/53,424 users
+[08:54:43]   • Scored 20,000/53,424 users
+[08:55:07]   • Scored 30,000/53,424 users
+[08:55:29]   • Scored 40,000/53,424 users
+[08:55:54]   • Scored 50,000/53,424 users
+[08:56:07] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[08:56:13] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[08:56:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[08:56:27]    ✅ Done.
+[08:56:27] 
+📘 [131/143] POS=5 50u — Science Fiction
+[08:56:27]    File: f_Science_Fiction_50u_pos5_neg1_all.csv
+[08:56:33]    Loaded — items=10,000, rows=6,447,229
+[08:56:33]    Training NMF…
+[09:02:51]    Generating Top-K…
+[09:02:53] Scoring 53,424 original users for f_Science_Fiction_50u_pos5_neg1_all (NMF)…
+[09:03:15]   • Scored 10,000/53,424 users
+[09:03:39]   • Scored 20,000/53,424 users
+[09:04:02]   • Scored 30,000/53,424 users
+[09:04:22]   • Scored 40,000/53,424 users
+[09:04:42]   • Scored 50,000/53,424 users
+[09:04:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:04:58] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:05:05] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:05:10]    ✅ Done.
+[09:05:10] 
+📘 [132/143] POS=5 6u — Science Fiction
+[09:05:10]    File: f_Science_Fiction_6u_pos5_neg1_all.csv
+[09:05:20]    Loaded — items=10,000, rows=6,032,969
+[09:05:21]    Training NMF…
+[09:10:40]    Generating Top-K…
+[09:10:42] Scoring 53,424 original users for f_Science_Fiction_6u_pos5_neg1_all (NMF)…
+[09:11:04]   • Scored 10,000/53,424 users
+[09:11:25]   • Scored 20,000/53,424 users
+[09:11:45]   • Scored 30,000/53,424 users
+[09:12:06]   • Scored 40,000/53,424 users
+[09:12:29]   • Scored 50,000/53,424 users
+[09:12:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:12:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:12:52] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Science_Fiction_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:12:56]    ✅ Done.
+[09:12:56] 
+📘 [133/143] POS=5 1000u — Thriller
+[09:12:56]    File: f_Thriller_1000u_pos5_neg1_all.csv
+[09:13:20]    Loaded — items=10,000, rows=15,391,479
+[09:13:20]    Training NMF…
+[09:24:32]    Generating Top-K…
+[09:24:38] Scoring 53,424 original users for f_Thriller_1000u_pos5_neg1_all (NMF)…
+[09:25:02]   • Scored 10,000/53,424 users
+[09:25:28]   • Scored 20,000/53,424 users
+[09:25:52]   • Scored 30,000/53,424 users
+[09:26:18]   • Scored 40,000/53,424 users
+[09:26:43]   • Scored 50,000/53,424 users
+[09:26:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:27:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:27:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:27:25]    ✅ Done.
+[09:27:25] 
+📘 [134/143] POS=5 100u — Thriller
+[09:27:25]    File: f_Thriller_100u_pos5_neg1_all.csv
+[09:27:32]    Loaded — items=10,000, rows=6,917,979
+[09:27:32]    Training NMF…
+[09:34:44]    Generating Top-K…
+[09:34:47] Scoring 53,424 original users for f_Thriller_100u_pos5_neg1_all (NMF)…
+[09:35:14]   • Scored 10,000/53,424 users
+[09:35:42]   • Scored 20,000/53,424 users
+[09:36:07]   • Scored 30,000/53,424 users
+[09:36:35]   • Scored 40,000/53,424 users
+[09:36:56]   • Scored 50,000/53,424 users
+[09:37:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:37:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:37:18] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:37:24]    ✅ Done.
+[09:37:24] 
+📘 [135/143] POS=5 200u — Thriller
+[09:37:24]    File: f_Thriller_200u_pos5_neg1_all.csv
+[09:37:30]    Loaded — items=10,000, rows=7,859,479
+[09:37:30]    Training NMF…
+[09:46:22]    Generating Top-K…
+[09:46:25] Scoring 53,424 original users for f_Thriller_200u_pos5_neg1_all (NMF)…
+[09:46:48]   • Scored 10,000/53,424 users
+[09:47:10]   • Scored 20,000/53,424 users
+[09:47:32]   • Scored 30,000/53,424 users
+[09:47:54]   • Scored 40,000/53,424 users
+[09:48:14]   • Scored 50,000/53,424 users
+[09:48:25] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:48:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:48:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:48:40]    ✅ Done.
+[09:48:40] 
+📘 [136/143] POS=5 25u — Thriller
+[09:48:40]    File: f_Thriller_25u_pos5_neg1_all.csv
+[09:48:46]    Loaded — items=10,000, rows=6,211,854
+[09:48:47]    Training NMF…
+[09:55:41]    Generating Top-K…
+[09:55:44] Scoring 53,424 original users for f_Thriller_25u_pos5_neg1_all (NMF)…
+[09:56:12]   • Scored 10,000/53,424 users
+[09:56:44]   • Scored 20,000/53,424 users
+[09:57:08]   • Scored 30,000/53,424 users
+[09:57:32]   • Scored 40,000/53,424 users
+[09:57:51]   • Scored 50,000/53,424 users
+[09:58:00] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:58:04] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:58:09] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:58:14]    ✅ Done.
+[09:58:14] 
+📘 [137/143] POS=5 2u — Thriller
+[09:58:14]    File: f_Thriller_2u_pos5_neg1_all.csv
+[09:58:19]    Loaded — items=10,000, rows=5,995,309
+[09:58:19]    Training NMF…
+[10:04:13]    Generating Top-K…
+[10:04:15] Scoring 53,424 original users for f_Thriller_2u_pos5_neg1_all (NMF)…
+[10:04:40]   • Scored 10,000/53,424 users
+[10:05:01]   • Scored 20,000/53,424 users
+[10:05:23]   • Scored 30,000/53,424 users
+[10:05:46]   • Scored 40,000/53,424 users
+[10:06:14]   • Scored 50,000/53,424 users
+[10:06:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:06:29] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:06:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:06:39]    ✅ Done.
+[10:06:39] 
+📘 [138/143] POS=5 300u — Thriller
+[10:06:39]    File: f_Thriller_300u_pos5_neg1_all.csv
+[10:06:46]    Loaded — items=10,000, rows=8,800,979
+[10:06:47]    Training NMF…
+[10:13:47]    Generating Top-K…
+[10:13:52] Scoring 53,424 original users for f_Thriller_300u_pos5_neg1_all (NMF)…
+[10:14:15]   • Scored 10,000/53,424 users
+[10:14:35]   • Scored 20,000/53,424 users
+[10:14:55]   • Scored 30,000/53,424 users
+[10:15:16]   • Scored 40,000/53,424 users
+[10:15:36]   • Scored 50,000/53,424 users
+[10:15:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:15:51] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:15:57] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:16:02]    ✅ Done.
+[10:16:02] 
+📘 [139/143] POS=5 350u — Thriller
+[10:16:02]    File: f_Thriller_350u_pos5_neg1_all.csv
+[10:16:09]    Loaded — items=10,000, rows=9,271,729
+[10:16:10]    Training NMF…
+[10:24:15]    Generating Top-K…
+[10:24:17] Scoring 53,424 original users for f_Thriller_350u_pos5_neg1_all (NMF)…
+[10:24:39]   • Scored 10,000/53,424 users
+[10:25:00]   • Scored 20,000/53,424 users
+[10:25:31]   • Scored 30,000/53,424 users
+[10:25:57]   • Scored 40,000/53,424 users
+[10:26:20]   • Scored 50,000/53,424 users
+[10:26:34] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:26:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:26:45] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:26:51]    ✅ Done.
+[10:26:51] 
+📘 [140/143] POS=5 4u — Thriller
+[10:26:51]    File: f_Thriller_4u_pos5_neg1_all.csv
+[10:27:00]    Loaded — items=10,000, rows=6,014,139
+[10:27:01]    Training NMF…
+[10:33:12]    Generating Top-K…
+[10:33:15] Scoring 53,424 original users for f_Thriller_4u_pos5_neg1_all (NMF)…
+[10:33:46]   • Scored 10,000/53,424 users
+[10:34:16]   • Scored 20,000/53,424 users
+[10:34:46]   • Scored 30,000/53,424 users
+[10:35:17]   • Scored 40,000/53,424 users
+[10:35:48]   • Scored 50,000/53,424 users
+[10:36:02] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:36:06] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:36:12] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:36:16]    ✅ Done.
+[10:36:16] 
+📘 [141/143] POS=5 500u — Thriller
+[10:36:16]    File: f_Thriller_500u_pos5_neg1_all.csv
+[10:36:24]    Loaded — items=10,000, rows=10,683,979
+[10:36:24]    Training NMF…
+[10:44:11]    Generating Top-K…
+[10:44:14] Scoring 53,424 original users for f_Thriller_500u_pos5_neg1_all (NMF)…
+[10:44:42]   • Scored 10,000/53,424 users
+[10:45:03]   • Scored 20,000/53,424 users
+[10:45:23]   • Scored 30,000/53,424 users
+[10:45:45]   • Scored 40,000/53,424 users
+[10:46:07]   • Scored 50,000/53,424 users
+[10:46:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:46:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:46:27] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:46:32]    ✅ Done.
+[10:46:32] 
+📘 [142/143] POS=5 50u — Thriller
+[10:46:32]    File: f_Thriller_50u_pos5_neg1_all.csv
+[10:46:38]    Loaded — items=10,000, rows=6,447,229
+[10:46:39]    Training NMF…
+[10:52:43]    Generating Top-K…
+[10:52:45] Scoring 53,424 original users for f_Thriller_50u_pos5_neg1_all (NMF)…
+[10:53:18]   • Scored 10,000/53,424 users
+[10:53:49]   • Scored 20,000/53,424 users
+[10:54:21]   • Scored 30,000/53,424 users
+[10:54:53]   • Scored 40,000/53,424 users
+[10:55:24]   • Scored 50,000/53,424 users
+[10:55:38] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_50u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:55:42] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_50u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:55:48] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_50u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:55:52]    ✅ Done.
+[10:55:52] 
+📘 [143/143] POS=5 6u — Thriller
+[10:55:52]    File: f_Thriller_6u_pos5_neg1_all.csv
+[10:56:01]    Loaded — items=10,000, rows=6,032,969
+[10:56:02]    Training NMF…
+[11:01:56]    Generating Top-K…
+[11:01:58] Scoring 53,424 original users for f_Thriller_6u_pos5_neg1_all (NMF)…
+[11:02:21]   • Scored 10,000/53,424 users
+[11:02:44]   • Scored 20,000/53,424 users
+[11:03:04]   • Scored 30,000/53,424 users
+[11:03:27]   • Scored 40,000/53,424 users
+[11:03:49]   • Scored 50,000/53,424 users
+[11:03:59] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_6u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[11:04:03] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_6u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[11:04:09] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5/f_Thriller_6u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[11:04:13]    ✅ Done.
+[11:04:13] 
+🏁 Finished all single-genre POS=5 runs with NMF.
+[11:04:13] Results in: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/result/5
+[11:04:13] Total runtime ~ 22.55 h

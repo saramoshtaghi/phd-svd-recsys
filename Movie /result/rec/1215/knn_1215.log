@@ -1,0 +1,253 @@
+nohup: ignoring input
+[17:37:42] === KNN — MovieLens ORIGINAL + Injected ===
+[17:37:42] Loading ORIGINAL dataset…
+[17:37:43] Training KNN on ORIGINAL…
+[17:37:43] Generating recommendations for ORIGINAL…
+[17:37:43] Scoring 943 users for ORIGINAL
+[17:38:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/ORIGINAL_15recommendation.csv (14,145 rows)
+[17:38:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/ORIGINAL_25recommendation.csv (23,575 rows)
+[17:38:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/ORIGINAL_35recommendation.csv (33,005 rows)
+[17:38:43] Found 40 injected files
+[17:38:43] 
+Training KNN on injected file: df_biased_10_1920.csv
+[17:38:44] Scoring 953 users for df_biased_10_1920
+[17:39:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1920_15recommendation.csv (14,145 rows)
+[17:39:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1920_25recommendation.csv (23,575 rows)
+[17:39:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1920_35recommendation.csv (33,005 rows)
+[17:39:55] 
+Training KNN on injected file: df_biased_10_1930.csv
+[17:39:56] Scoring 953 users for df_biased_10_1930
+[17:41:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1930_15recommendation.csv (14,145 rows)
+[17:41:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1930_25recommendation.csv (23,575 rows)
+[17:41:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1930_35recommendation.csv (33,005 rows)
+[17:41:03] 
+Training KNN on injected file: df_biased_10_1940.csv
+[17:41:04] Scoring 953 users for df_biased_10_1940
+[17:42:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1940_15recommendation.csv (14,145 rows)
+[17:42:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1940_25recommendation.csv (23,575 rows)
+[17:42:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1940_35recommendation.csv (33,005 rows)
+[17:42:13] 
+Training KNN on injected file: df_biased_10_1950.csv
+[17:42:14] Scoring 953 users for df_biased_10_1950
+[17:43:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1950_15recommendation.csv (14,145 rows)
+[17:43:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1950_25recommendation.csv (23,575 rows)
+[17:43:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1950_35recommendation.csv (33,005 rows)
+[17:43:21] 
+Training KNN on injected file: df_biased_10_1960.csv
+[17:43:22] Scoring 953 users for df_biased_10_1960
+[17:44:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1960_15recommendation.csv (14,145 rows)
+[17:44:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1960_25recommendation.csv (23,575 rows)
+[17:44:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1960_35recommendation.csv (33,005 rows)
+[17:44:30] 
+Training KNN on injected file: df_biased_10_1970.csv
+[17:44:31] Scoring 953 users for df_biased_10_1970
+[17:45:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1970_15recommendation.csv (14,145 rows)
+[17:45:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1970_25recommendation.csv (23,575 rows)
+[17:45:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1970_35recommendation.csv (33,005 rows)
+[17:45:37] 
+Training KNN on injected file: df_biased_10_1980.csv
+[17:45:38] Scoring 953 users for df_biased_10_1980
+[17:46:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1980_15recommendation.csv (14,145 rows)
+[17:46:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1980_25recommendation.csv (23,575 rows)
+[17:46:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1980_35recommendation.csv (33,005 rows)
+[17:46:47] 
+Training KNN on injected file: df_biased_10_1990.csv
+[17:46:48] Scoring 953 users for df_biased_10_1990
+[17:47:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1990_15recommendation.csv (14,145 rows)
+[17:47:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1990_25recommendation.csv (23,575 rows)
+[17:47:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_10_1990_35recommendation.csv (33,005 rows)
+[17:47:56] 
+Training KNN on injected file: df_biased_20_1920.csv
+[17:47:57] Scoring 963 users for df_biased_20_1920
+[17:49:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1920_15recommendation.csv (14,145 rows)
+[17:49:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1920_25recommendation.csv (23,575 rows)
+[17:49:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1920_35recommendation.csv (33,005 rows)
+[17:49:16] 
+Training KNN on injected file: df_biased_20_1930.csv
+[17:49:17] Scoring 963 users for df_biased_20_1930
+[17:50:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1930_15recommendation.csv (14,145 rows)
+[17:50:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1930_25recommendation.csv (23,575 rows)
+[17:50:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1930_35recommendation.csv (33,005 rows)
+[17:50:37] 
+Training KNN on injected file: df_biased_20_1940.csv
+[17:50:37] Scoring 963 users for df_biased_20_1940
+[17:51:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1940_15recommendation.csv (14,145 rows)
+[17:51:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1940_25recommendation.csv (23,575 rows)
+[17:51:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1940_35recommendation.csv (33,005 rows)
+[17:51:56] 
+Training KNN on injected file: df_biased_20_1950.csv
+[17:51:57] Scoring 963 users for df_biased_20_1950
+[17:53:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1950_15recommendation.csv (14,145 rows)
+[17:53:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1950_25recommendation.csv (23,575 rows)
+[17:53:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1950_35recommendation.csv (33,005 rows)
+[17:53:17] 
+Training KNN on injected file: df_biased_20_1960.csv
+[17:53:18] Scoring 963 users for df_biased_20_1960
+[17:54:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1960_15recommendation.csv (14,145 rows)
+[17:54:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1960_25recommendation.csv (23,575 rows)
+[17:54:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1960_35recommendation.csv (33,005 rows)
+[17:54:37] 
+Training KNN on injected file: df_biased_20_1970.csv
+[17:54:37] Scoring 963 users for df_biased_20_1970
+[17:55:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1970_15recommendation.csv (14,145 rows)
+[17:55:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1970_25recommendation.csv (23,575 rows)
+[17:55:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1970_35recommendation.csv (33,005 rows)
+[17:55:56] 
+Training KNN on injected file: df_biased_20_1980.csv
+[17:55:57] Scoring 963 users for df_biased_20_1980
+[17:57:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1980_15recommendation.csv (14,145 rows)
+[17:57:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1980_25recommendation.csv (23,575 rows)
+[17:57:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1980_35recommendation.csv (33,005 rows)
+[17:57:14] 
+Training KNN on injected file: df_biased_20_1990.csv
+[17:57:15] Scoring 963 users for df_biased_20_1990
+[17:58:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1990_15recommendation.csv (14,145 rows)
+[17:58:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1990_25recommendation.csv (23,575 rows)
+[17:58:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_20_1990_35recommendation.csv (33,005 rows)
+[17:58:32] 
+Training KNN on injected file: df_biased_2_1920.csv
+[17:58:33] Scoring 945 users for df_biased_2_1920
+[17:59:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1920_15recommendation.csv (14,145 rows)
+[17:59:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1920_25recommendation.csv (23,575 rows)
+[17:59:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1920_35recommendation.csv (33,005 rows)
+[17:59:35] 
+Training KNN on injected file: df_biased_2_1930.csv
+[17:59:36] Scoring 945 users for df_biased_2_1930
+[18:00:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1930_15recommendation.csv (14,145 rows)
+[18:00:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1930_25recommendation.csv (23,575 rows)
+[18:00:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1930_35recommendation.csv (33,005 rows)
+[18:00:36] 
+Training KNN on injected file: df_biased_2_1940.csv
+[18:00:36] Scoring 945 users for df_biased_2_1940
+[18:01:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1940_15recommendation.csv (14,145 rows)
+[18:01:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1940_25recommendation.csv (23,575 rows)
+[18:01:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1940_35recommendation.csv (33,005 rows)
+[18:01:38] 
+Training KNN on injected file: df_biased_2_1950.csv
+[18:01:38] Scoring 945 users for df_biased_2_1950
+[18:02:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1950_15recommendation.csv (14,145 rows)
+[18:02:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1950_25recommendation.csv (23,575 rows)
+[18:02:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1950_35recommendation.csv (33,005 rows)
+[18:02:39] 
+Training KNN on injected file: df_biased_2_1960.csv
+[18:02:39] Scoring 945 users for df_biased_2_1960
+[18:03:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1960_15recommendation.csv (14,145 rows)
+[18:03:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1960_25recommendation.csv (23,575 rows)
+[18:03:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1960_35recommendation.csv (33,005 rows)
+[18:03:41] 
+Training KNN on injected file: df_biased_2_1970.csv
+[18:03:42] Scoring 945 users for df_biased_2_1970
+[18:04:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1970_15recommendation.csv (14,145 rows)
+[18:04:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1970_25recommendation.csv (23,575 rows)
+[18:04:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1970_35recommendation.csv (33,005 rows)
+[18:04:43] 
+Training KNN on injected file: df_biased_2_1980.csv
+[18:04:43] Scoring 945 users for df_biased_2_1980
+[18:05:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1980_15recommendation.csv (14,145 rows)
+[18:05:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1980_25recommendation.csv (23,575 rows)
+[18:05:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1980_35recommendation.csv (33,005 rows)
+[18:05:46] 
+Training KNN on injected file: df_biased_2_1990.csv
+[18:05:46] Scoring 945 users for df_biased_2_1990
+[18:06:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1990_15recommendation.csv (14,145 rows)
+[18:06:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1990_25recommendation.csv (23,575 rows)
+[18:06:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_2_1990_35recommendation.csv (33,005 rows)
+[18:06:47] 
+Training KNN on injected file: df_biased_40_1920.csv
+[18:06:48] Scoring 983 users for df_biased_40_1920
+[18:08:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1920_15recommendation.csv (14,145 rows)
+[18:08:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1920_25recommendation.csv (23,575 rows)
+[18:08:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1920_35recommendation.csv (33,005 rows)
+[18:08:35] 
+Training KNN on injected file: df_biased_40_1930.csv
+[18:08:36] Scoring 983 users for df_biased_40_1930
+[18:10:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1930_15recommendation.csv (14,145 rows)
+[18:10:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1930_25recommendation.csv (23,575 rows)
+[18:10:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1930_35recommendation.csv (33,005 rows)
+[18:10:25] 
+Training KNN on injected file: df_biased_40_1940.csv
+[18:10:28] Scoring 983 users for df_biased_40_1940
+[18:12:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1940_15recommendation.csv (14,145 rows)
+[18:12:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1940_25recommendation.csv (23,575 rows)
+[18:12:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1940_35recommendation.csv (33,005 rows)
+[18:12:37] 
+Training KNN on injected file: df_biased_40_1950.csv
+[18:12:37] Scoring 983 users for df_biased_40_1950
+[18:14:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1950_15recommendation.csv (14,145 rows)
+[18:14:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1950_25recommendation.csv (23,575 rows)
+[18:14:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1950_35recommendation.csv (33,005 rows)
+[18:14:22] 
+Training KNN on injected file: df_biased_40_1960.csv
+[18:14:23] Scoring 983 users for df_biased_40_1960
+[18:16:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1960_15recommendation.csv (14,145 rows)
+[18:16:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1960_25recommendation.csv (23,575 rows)
+[18:16:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1960_35recommendation.csv (33,005 rows)
+[18:16:11] 
+Training KNN on injected file: df_biased_40_1970.csv
+[18:16:12] Scoring 983 users for df_biased_40_1970
+[18:17:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1970_15recommendation.csv (14,145 rows)
+[18:17:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1970_25recommendation.csv (23,575 rows)
+[18:17:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1970_35recommendation.csv (33,005 rows)
+[18:17:58] 
+Training KNN on injected file: df_biased_40_1980.csv
+[18:17:59] Scoring 983 users for df_biased_40_1980
+[18:19:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1980_15recommendation.csv (14,145 rows)
+[18:19:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1980_25recommendation.csv (23,575 rows)
+[18:19:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1980_35recommendation.csv (33,005 rows)
+[18:19:42] 
+Training KNN on injected file: df_biased_40_1990.csv
+[18:19:43] Scoring 983 users for df_biased_40_1990
+[18:21:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1990_15recommendation.csv (14,145 rows)
+[18:21:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1990_25recommendation.csv (23,575 rows)
+[18:21:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_40_1990_35recommendation.csv (33,005 rows)
+[18:21:26] 
+Training KNN on injected file: df_biased_4_1920.csv
+[18:21:27] Scoring 947 users for df_biased_4_1920
+[18:22:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1920_15recommendation.csv (14,145 rows)
+[18:22:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1920_25recommendation.csv (23,575 rows)
+[18:22:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1920_35recommendation.csv (33,005 rows)
+[18:22:31] 
+Training KNN on injected file: df_biased_4_1930.csv
+[18:22:32] Scoring 947 users for df_biased_4_1930
+[18:23:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1930_15recommendation.csv (14,145 rows)
+[18:23:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1930_25recommendation.csv (23,575 rows)
+[18:23:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1930_35recommendation.csv (33,005 rows)
+[18:23:36] 
+Training KNN on injected file: df_biased_4_1940.csv
+[18:23:37] Scoring 947 users for df_biased_4_1940
+[18:24:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1940_15recommendation.csv (14,145 rows)
+[18:24:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1940_25recommendation.csv (23,575 rows)
+[18:24:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1940_35recommendation.csv (33,005 rows)
+[18:24:41] 
+Training KNN on injected file: df_biased_4_1950.csv
+[18:24:42] Scoring 947 users for df_biased_4_1950
+[18:25:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1950_15recommendation.csv (14,145 rows)
+[18:25:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1950_25recommendation.csv (23,575 rows)
+[18:25:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1950_35recommendation.csv (33,005 rows)
+[18:25:45] 
+Training KNN on injected file: df_biased_4_1960.csv
+[18:25:46] Scoring 947 users for df_biased_4_1960
+[18:26:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1960_15recommendation.csv (14,145 rows)
+[18:26:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1960_25recommendation.csv (23,575 rows)
+[18:26:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1960_35recommendation.csv (33,005 rows)
+[18:26:50] 
+Training KNN on injected file: df_biased_4_1970.csv
+[18:26:51] Scoring 947 users for df_biased_4_1970
+[18:27:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1970_15recommendation.csv (14,145 rows)
+[18:27:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1970_25recommendation.csv (23,575 rows)
+[18:27:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1970_35recommendation.csv (33,005 rows)
+[18:27:58] 
+Training KNN on injected file: df_biased_4_1980.csv
+[18:27:58] Scoring 947 users for df_biased_4_1980
+[18:29:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1980_15recommendation.csv (14,145 rows)
+[18:29:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1980_25recommendation.csv (23,575 rows)
+[18:29:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1980_35recommendation.csv (33,005 rows)
+[18:29:03] 
+Training KNN on injected file: df_biased_4_1990.csv
+[18:29:04] Scoring 947 users for df_biased_4_1990
+[18:30:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1990_15recommendation.csv (14,145 rows)
+[18:30:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1990_25recommendation.csv (23,575 rows)
+[18:30:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN/df_biased_4_1990_35recommendation.csv (33,005 rows)
+[18:30:08] 
+🏁 Finished all KNN runs (~0.87 h)
+[18:30:08] Results saved in: /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/KNN

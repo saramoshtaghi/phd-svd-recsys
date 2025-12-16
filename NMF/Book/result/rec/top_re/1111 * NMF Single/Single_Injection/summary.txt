@@ -1,6 +1,0 @@
-BASE DATA: 53424 users, 5976479 rows
-NEG_RATING = 1 (NO SAMPLING)
-
-
-TOTAL SYNTHETIC ROWS: 310516115
-OUTPUT FOLDER: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF/Single_Injection

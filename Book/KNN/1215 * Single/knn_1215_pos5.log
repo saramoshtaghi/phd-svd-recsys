@@ -1,0 +1,20 @@
+nohup: ignoring input
+[17:00:55] === KNN — SINGLE GENRE (POS=5 ONLY) ===
+[17:01:01] 📂 Found 143 injection files (POS=5, N ∈ [2, 4, 6, 25, 50, 100, 200, 300, 350, 500, 1000])
+[17:01:01] 
+📦 [1/143] Processing f_Science_Fiction_100u_pos5_neg1_all.csv
+[17:07:17] Scoring 53,424 original users for f_Science_Fiction_100u_pos5_neg1_all…
+[19:25:18]    • Scored 10,000/53,424 users
+[21:42:06]    • Scored 20,000/53,424 users
+[23:56:42]    • Scored 30,000/53,424 users
+[02:08:57]    • Scored 40,000/53,424 users
+[04:20:09]    • Scored 50,000/53,424 users
+[05:05:56] Saved → /home/moshtasa/Research/phd-svd-recsys/KNN/Book/result/KNN_Single_Injection/5/f_Science_Fiction_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:06:06] Saved → /home/moshtasa/Research/phd-svd-recsys/KNN/Book/result/KNN_Single_Injection/5/f_Science_Fiction_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:06:19] Saved → /home/moshtasa/Research/phd-svd-recsys/KNN/Book/result/KNN_Single_Injection/5/f_Science_Fiction_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:06:23] 
+📦 [2/143] Processing f_Thriller_25u_pos5_neg1_all.csv
+[05:09:37] Scoring 53,424 original users for f_Thriller_25u_pos5_neg1_all…
+[07:25:49]    • Scored 10,000/53,424 users
+[09:40:10]    • Scored 20,000/53,424 users
+[11:51:53]    • Scored 30,000/53,424 users

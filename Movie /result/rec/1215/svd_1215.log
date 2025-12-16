@@ -1,0 +1,212 @@
+nohup: ignoring input
+[17:32:51] === SVD — MovieLens ORIGINAL + Injected ===
+[17:32:51] Loading ORIGINAL dataset…
+[17:32:51] Training SVD on ORIGINAL…
+[17:32:53] Generating recommendations for ORIGINAL…
+[17:32:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/ORIGINAL_15recommendation.csv (14,145 rows)
+[17:32:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/ORIGINAL_25recommendation.csv (23,575 rows)
+[17:32:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/ORIGINAL_35recommendation.csv (33,005 rows)
+[17:32:54] Found 40 injected files
+[17:32:54] 
+Training SVD on injected file: df_biased_10_1920.csv
+[17:32:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1920_15recommendation.csv (14,145 rows)
+[17:32:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1920_25recommendation.csv (23,575 rows)
+[17:32:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1920_35recommendation.csv (33,005 rows)
+[17:32:58] 
+Training SVD on injected file: df_biased_10_1930.csv
+[17:33:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1930_15recommendation.csv (14,145 rows)
+[17:33:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1930_25recommendation.csv (23,575 rows)
+[17:33:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1930_35recommendation.csv (33,005 rows)
+[17:33:01] 
+Training SVD on injected file: df_biased_10_1940.csv
+[17:33:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1940_15recommendation.csv (14,145 rows)
+[17:33:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1940_25recommendation.csv (23,575 rows)
+[17:33:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1940_35recommendation.csv (33,005 rows)
+[17:33:08] 
+Training SVD on injected file: df_biased_10_1950.csv
+[17:33:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1950_15recommendation.csv (14,145 rows)
+[17:33:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1950_25recommendation.csv (23,575 rows)
+[17:33:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1950_35recommendation.csv (33,005 rows)
+[17:33:13] 
+Training SVD on injected file: df_biased_10_1960.csv
+[17:33:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1960_15recommendation.csv (14,145 rows)
+[17:33:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1960_25recommendation.csv (23,575 rows)
+[17:33:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1960_35recommendation.csv (33,005 rows)
+[17:33:16] 
+Training SVD on injected file: df_biased_10_1970.csv
+[17:33:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1970_15recommendation.csv (14,145 rows)
+[17:33:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1970_25recommendation.csv (23,575 rows)
+[17:33:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1970_35recommendation.csv (33,005 rows)
+[17:33:20] 
+Training SVD on injected file: df_biased_10_1980.csv
+[17:33:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1980_15recommendation.csv (14,145 rows)
+[17:33:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1980_25recommendation.csv (23,575 rows)
+[17:33:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1980_35recommendation.csv (33,005 rows)
+[17:33:24] 
+Training SVD on injected file: df_biased_10_1990.csv
+[17:33:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1990_15recommendation.csv (14,145 rows)
+[17:33:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1990_25recommendation.csv (23,575 rows)
+[17:33:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_10_1990_35recommendation.csv (33,005 rows)
+[17:33:27] 
+Training SVD on injected file: df_biased_20_1920.csv
+[17:33:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1920_15recommendation.csv (14,145 rows)
+[17:33:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1920_25recommendation.csv (23,575 rows)
+[17:33:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1920_35recommendation.csv (33,005 rows)
+[17:33:33] 
+Training SVD on injected file: df_biased_20_1930.csv
+[17:33:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1930_15recommendation.csv (14,145 rows)
+[17:33:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1930_25recommendation.csv (23,575 rows)
+[17:33:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1930_35recommendation.csv (33,005 rows)
+[17:33:40] 
+Training SVD on injected file: df_biased_20_1940.csv
+[17:33:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1940_15recommendation.csv (14,145 rows)
+[17:33:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1940_25recommendation.csv (23,575 rows)
+[17:33:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1940_35recommendation.csv (33,005 rows)
+[17:33:45] 
+Training SVD on injected file: df_biased_20_1950.csv
+[17:33:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1950_15recommendation.csv (14,145 rows)
+[17:33:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1950_25recommendation.csv (23,575 rows)
+[17:33:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1950_35recommendation.csv (33,005 rows)
+[17:33:49] 
+Training SVD on injected file: df_biased_20_1960.csv
+[17:33:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1960_15recommendation.csv (14,145 rows)
+[17:33:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1960_25recommendation.csv (23,575 rows)
+[17:33:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1960_35recommendation.csv (33,005 rows)
+[17:33:54] 
+Training SVD on injected file: df_biased_20_1970.csv
+[17:34:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1970_15recommendation.csv (14,145 rows)
+[17:34:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1970_25recommendation.csv (23,575 rows)
+[17:34:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1970_35recommendation.csv (33,005 rows)
+[17:34:00] 
+Training SVD on injected file: df_biased_20_1980.csv
+[17:34:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1980_15recommendation.csv (14,145 rows)
+[17:34:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1980_25recommendation.csv (23,575 rows)
+[17:34:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1980_35recommendation.csv (33,005 rows)
+[17:34:06] 
+Training SVD on injected file: df_biased_20_1990.csv
+[17:34:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1990_15recommendation.csv (14,145 rows)
+[17:34:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1990_25recommendation.csv (23,575 rows)
+[17:34:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_20_1990_35recommendation.csv (33,005 rows)
+[17:34:11] 
+Training SVD on injected file: df_biased_2_1920.csv
+[17:34:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1920_15recommendation.csv (14,145 rows)
+[17:34:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1920_25recommendation.csv (23,575 rows)
+[17:34:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1920_35recommendation.csv (33,005 rows)
+[17:34:15] 
+Training SVD on injected file: df_biased_2_1930.csv
+[17:34:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1930_15recommendation.csv (14,145 rows)
+[17:34:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1930_25recommendation.csv (23,575 rows)
+[17:34:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1930_35recommendation.csv (33,005 rows)
+[17:34:18] 
+Training SVD on injected file: df_biased_2_1940.csv
+[17:34:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1940_15recommendation.csv (14,145 rows)
+[17:34:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1940_25recommendation.csv (23,575 rows)
+[17:34:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1940_35recommendation.csv (33,005 rows)
+[17:34:21] 
+Training SVD on injected file: df_biased_2_1950.csv
+[17:34:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1950_15recommendation.csv (14,145 rows)
+[17:34:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1950_25recommendation.csv (23,575 rows)
+[17:34:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1950_35recommendation.csv (33,005 rows)
+[17:34:27] 
+Training SVD on injected file: df_biased_2_1960.csv
+[17:34:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1960_15recommendation.csv (14,145 rows)
+[17:34:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1960_25recommendation.csv (23,575 rows)
+[17:34:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1960_35recommendation.csv (33,005 rows)
+[17:34:31] 
+Training SVD on injected file: df_biased_2_1970.csv
+[17:34:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1970_15recommendation.csv (14,145 rows)
+[17:34:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1970_25recommendation.csv (23,575 rows)
+[17:34:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1970_35recommendation.csv (33,005 rows)
+[17:34:34] 
+Training SVD on injected file: df_biased_2_1980.csv
+[17:34:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1980_15recommendation.csv (14,145 rows)
+[17:34:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1980_25recommendation.csv (23,575 rows)
+[17:34:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1980_35recommendation.csv (33,005 rows)
+[17:34:38] 
+Training SVD on injected file: df_biased_2_1990.csv
+[17:34:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1990_15recommendation.csv (14,145 rows)
+[17:34:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1990_25recommendation.csv (23,575 rows)
+[17:34:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_2_1990_35recommendation.csv (33,005 rows)
+[17:34:41] 
+Training SVD on injected file: df_biased_40_1920.csv
+[17:34:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1920_15recommendation.csv (14,145 rows)
+[17:34:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1920_25recommendation.csv (23,575 rows)
+[17:34:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1920_35recommendation.csv (33,005 rows)
+[17:34:47] 
+Training SVD on injected file: df_biased_40_1930.csv
+[17:34:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1930_15recommendation.csv (14,145 rows)
+[17:34:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1930_25recommendation.csv (23,575 rows)
+[17:34:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1930_35recommendation.csv (33,005 rows)
+[17:34:54] 
+Training SVD on injected file: df_biased_40_1940.csv
+[17:35:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1940_15recommendation.csv (14,145 rows)
+[17:35:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1940_25recommendation.csv (23,575 rows)
+[17:35:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1940_35recommendation.csv (33,005 rows)
+[17:35:00] 
+Training SVD on injected file: df_biased_40_1950.csv
+[17:35:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1950_15recommendation.csv (14,145 rows)
+[17:35:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1950_25recommendation.csv (23,575 rows)
+[17:35:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1950_35recommendation.csv (33,005 rows)
+[17:35:05] 
+Training SVD on injected file: df_biased_40_1960.csv
+[17:35:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1960_15recommendation.csv (14,145 rows)
+[17:35:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1960_25recommendation.csv (23,575 rows)
+[17:35:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1960_35recommendation.csv (33,005 rows)
+[17:35:11] 
+Training SVD on injected file: df_biased_40_1970.csv
+[17:35:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1970_15recommendation.csv (14,145 rows)
+[17:35:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1970_25recommendation.csv (23,575 rows)
+[17:35:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1970_35recommendation.csv (33,005 rows)
+[17:35:16] 
+Training SVD on injected file: df_biased_40_1980.csv
+[17:35:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1980_15recommendation.csv (14,145 rows)
+[17:35:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1980_25recommendation.csv (23,575 rows)
+[17:35:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1980_35recommendation.csv (33,005 rows)
+[17:35:23] 
+Training SVD on injected file: df_biased_40_1990.csv
+[17:35:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1990_15recommendation.csv (14,145 rows)
+[17:35:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1990_25recommendation.csv (23,575 rows)
+[17:35:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_40_1990_35recommendation.csv (33,005 rows)
+[17:35:29] 
+Training SVD on injected file: df_biased_4_1920.csv
+[17:35:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1920_15recommendation.csv (14,145 rows)
+[17:35:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1920_25recommendation.csv (23,575 rows)
+[17:35:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1920_35recommendation.csv (33,005 rows)
+[17:35:32] 
+Training SVD on injected file: df_biased_4_1930.csv
+[17:35:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1930_15recommendation.csv (14,145 rows)
+[17:35:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1930_25recommendation.csv (23,575 rows)
+[17:35:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1930_35recommendation.csv (33,005 rows)
+[17:35:36] 
+Training SVD on injected file: df_biased_4_1940.csv
+[17:35:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1940_15recommendation.csv (14,145 rows)
+[17:35:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1940_25recommendation.csv (23,575 rows)
+[17:35:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1940_35recommendation.csv (33,005 rows)
+[17:35:40] 
+Training SVD on injected file: df_biased_4_1950.csv
+[17:35:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1950_15recommendation.csv (14,145 rows)
+[17:35:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1950_25recommendation.csv (23,575 rows)
+[17:35:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1950_35recommendation.csv (33,005 rows)
+[17:35:43] 
+Training SVD on injected file: df_biased_4_1960.csv
+[17:35:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1960_15recommendation.csv (14,145 rows)
+[17:35:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1960_25recommendation.csv (23,575 rows)
+[17:35:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1960_35recommendation.csv (33,005 rows)
+[17:35:49] 
+Training SVD on injected file: df_biased_4_1970.csv
+[17:35:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1970_15recommendation.csv (14,145 rows)
+[17:35:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1970_25recommendation.csv (23,575 rows)
+[17:35:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1970_35recommendation.csv (33,005 rows)
+[17:35:53] 
+Training SVD on injected file: df_biased_4_1980.csv
+[17:35:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1980_15recommendation.csv (14,145 rows)
+[17:35:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1980_25recommendation.csv (23,575 rows)
+[17:35:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1980_35recommendation.csv (33,005 rows)
+[17:35:56] 
+Training SVD on injected file: df_biased_4_1990.csv
+[17:35:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1990_15recommendation.csv (14,145 rows)
+[17:35:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1990_25recommendation.csv (23,575 rows)
+[17:35:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD/df_biased_4_1990_35recommendation.csv (33,005 rows)
+[17:36:00] 
+🏁 Finished all SVD runs (~0.05 h)
+[17:36:00] Results saved in: /home/moshtasa/Research/phd-svd-recsys/SVD/Movie_Lens/result/rec/1215/SVD
