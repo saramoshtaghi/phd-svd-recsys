@@ -1,17 +1,34 @@
 nohup: ignoring input
-Traceback (most recent call last):
-  File "/home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/notebook/1216 single */single_injection_1216.py", line 177, in <module>
-    main()
-  File "/home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/notebook/1216 single */single_injection_1216.py", line 40, in main
-    df = pd.read_csv(INPUT_CSV)
-  File "/home/moshtasa/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
-    return _read(filepath_or_buffer, kwds)
-  File "/home/moshtasa/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 620, in _read
-    parser = TextFileReader(filepath_or_buffer, **kwds)
-  File "/home/moshtasa/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
-    self._engine = self._make_engine(f, self.engine)
-  File "/home/moshtasa/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
-    self.handles = get_handle(
-  File "/home/moshtasa/.local/lib/python3.9/site-packages/pandas/io/common.py", line 873, in get_handle
-    handle = open(
-FileNotFoundError: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/data/app_dataset_mapped.csv'
+✅ Business & Finance | 27 users → +274,671 rows
+✅ Business & Finance | 105 users → +1,068,165 rows
+✅ Business & Finance | 2643 users → +26,887,239 rows
+✅ Games | 27 users → +274,671 rows
+✅ Games | 105 users → +1,068,165 rows
+✅ Games | 2643 users → +26,887,239 rows
+✅ Health & Lifestyle | 27 users → +274,671 rows
+✅ Health & Lifestyle | 105 users → +1,068,165 rows
+✅ Health & Lifestyle | 2643 users → +26,887,239 rows
+✅ Info & Reading | 27 users → +274,671 rows
+✅ Info & Reading | 105 users → +1,068,165 rows
+✅ Info & Reading | 2643 users → +26,887,239 rows
+✅ Learning & Education | 27 users → +274,671 rows
+✅ Learning & Education | 105 users → +1,068,165 rows
+✅ Learning & Education | 2643 users → +26,887,239 rows
+✅ Media & Creativity | 27 users → +274,671 rows
+✅ Media & Creativity | 105 users → +1,068,165 rows
+✅ Media & Creativity | 2643 users → +26,887,239 rows
+✅ Medical | 27 users → +274,671 rows
+✅ Medical | 105 users → +1,068,165 rows
+✅ Medical | 2643 users → +26,887,239 rows
+✅ Productivity & Tools | 27 users → +274,671 rows
+✅ Productivity & Tools | 105 users → +1,068,165 rows
+✅ Productivity & Tools | 2643 users → +26,887,239 rows
+✅ Social & Comms | 27 users → +274,671 rows
+✅ Social & Comms | 105 users → +1,068,165 rows
+✅ Social & Comms | 2643 users → +26,887,239 rows
+✅ Travel & Navigation | 27 users → +274,671 rows
+✅ Travel & Navigation | 105 users → +1,068,165 rows
+✅ Travel & Navigation | 2643 users → +26,887,239 rows
+🏁 Done. Heavy bias injection completed.
+📄 Summary written to: /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/SINGLE_INJECTION/injection_summary.txt
+📁 Outputs in: /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/SINGLE_INJECTION

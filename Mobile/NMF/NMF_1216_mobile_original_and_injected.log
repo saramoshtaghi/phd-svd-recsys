@@ -1,0 +1,162 @@
+nohup: ignoring input
+[14:28:12] === NMF — MOBILE APPS (ORIGINAL + Injected) ===
+[14:28:12] Loading ORIGINAL app dataset…
+[14:28:25] Training NMF on ORIGINAL…
+[15:00:25] Generating recommendations for ORIGINAL…
+[15:30:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/ORIGINAL_15recommendation.csv (10,501,665 rows)
+[15:31:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/ORIGINAL_25recommendation.csv (17,502,775 rows)
+[15:34:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/ORIGINAL_35recommendation.csv (24,503,885 rows)
+[15:34:21] Found 30 injected files
+[15:34:21] 
+Training NMF on injected file: f_Business___Finance_105u_pos5_neg1_all.csv
+[16:39:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[16:40:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[16:42:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[16:43:15] 
+Training NMF on injected file: f_Business___Finance_2643u_pos5_neg1_all.csv
+[18:04:18] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[18:06:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[18:08:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[18:09:35] 
+Training NMF on injected file: f_Business___Finance_27u_pos5_neg1_all.csv
+[19:09:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[19:10:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[19:13:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Business___Finance_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[19:13:24] 
+Training NMF on injected file: f_Games_105u_pos5_neg1_all.csv
+[20:15:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[20:17:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[20:19:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[20:20:06] 
+Training NMF on injected file: f_Games_2643u_pos5_neg1_all.csv
+[21:34:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[21:35:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[21:38:03] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[21:38:35] 
+Training NMF on injected file: f_Games_27u_pos5_neg1_all.csv
+[22:36:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[22:37:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[22:39:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Games_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[22:40:13] 
+Training NMF on injected file: f_Health___Lifestyle_105u_pos5_neg1_all.csv
+[23:37:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[23:38:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[23:40:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[23:41:21] 
+Training NMF on injected file: f_Health___Lifestyle_2643u_pos5_neg1_all.csv
+[00:57:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[00:58:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[01:01:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[01:01:49] 
+Training NMF on injected file: f_Health___Lifestyle_27u_pos5_neg1_all.csv
+[02:03:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[02:04:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[02:07:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Health___Lifestyle_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[02:07:28] 
+Training NMF on injected file: f_Info___Reading_105u_pos5_neg1_all.csv
+[03:06:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[03:08:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[03:10:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[03:11:04] 
+Training NMF on injected file: f_Info___Reading_2643u_pos5_neg1_all.csv
+[04:30:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[04:31:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[04:34:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[04:35:33] 
+Training NMF on injected file: f_Info___Reading_27u_pos5_neg1_all.csv
+[05:32:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[05:33:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[05:36:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Info___Reading_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[05:36:31] 
+Training NMF on injected file: f_Learning___Education_105u_pos5_neg1_all.csv
+[06:35:03] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[06:36:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[06:39:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[06:39:53] 
+Training NMF on injected file: f_Learning___Education_2643u_pos5_neg1_all.csv
+[07:53:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[07:54:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[07:57:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[07:57:41] 
+Training NMF on injected file: f_Learning___Education_27u_pos5_neg1_all.csv
+[08:55:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[08:57:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[08:59:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Learning___Education_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[09:00:12] 
+Training NMF on injected file: f_Media___Creativity_105u_pos5_neg1_all.csv
+[09:56:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[09:58:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[10:01:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[10:01:26] 
+Training NMF on injected file: f_Media___Creativity_2643u_pos5_neg1_all.csv
+[11:15:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[11:17:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[11:20:25] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[11:20:57] 
+Training NMF on injected file: f_Media___Creativity_27u_pos5_neg1_all.csv
+[12:15:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[12:17:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[12:19:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Media___Creativity_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[12:19:42] 
+Training NMF on injected file: f_Medical_105u_pos5_neg1_all.csv
+[13:18:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[13:20:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[13:23:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[13:23:46] 
+Training NMF on injected file: f_Medical_2643u_pos5_neg1_all.csv
+[14:40:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[14:42:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[14:45:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[14:45:46] 
+Training NMF on injected file: f_Medical_27u_pos5_neg1_all.csv
+[15:44:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[15:46:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[15:49:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Medical_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[15:50:14] 
+Training NMF on injected file: f_Productivity___Tools_105u_pos5_neg1_all.csv
+[16:49:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[16:52:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[16:55:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[16:56:25] 
+Training NMF on injected file: f_Productivity___Tools_2643u_pos5_neg1_all.csv
+[18:09:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[18:10:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[18:13:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[18:13:50] 
+Training NMF on injected file: f_Productivity___Tools_27u_pos5_neg1_all.csv
+[19:10:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[19:12:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[19:14:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Productivity___Tools_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[19:15:21] 
+Training NMF on injected file: f_Social___Comms_105u_pos5_neg1_all.csv
+[20:12:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[20:14:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[20:16:35] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[20:17:05] 
+Training NMF on injected file: f_Social___Comms_2643u_pos5_neg1_all.csv
+[21:30:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[21:32:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[21:34:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[21:35:12] 
+Training NMF on injected file: f_Social___Comms_27u_pos5_neg1_all.csv
+[22:33:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[22:34:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[22:36:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Social___Comms_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[22:37:19] 
+Training NMF on injected file: f_Travel___Navigation_105u_pos5_neg1_all.csv
+[23:32:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_105u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[23:33:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_105u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[23:35:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_105u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[23:36:24] 
+Training NMF on injected file: f_Travel___Navigation_2643u_pos5_neg1_all.csv
+[00:50:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_2643u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[00:51:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_2643u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[00:53:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_2643u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[00:54:20] 
+Training NMF on injected file: f_Travel___Navigation_27u_pos5_neg1_all.csv
+[01:49:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_27u_pos5_neg1_all_15recommendation.csv (10,501,665 rows)
+[01:51:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_27u_pos5_neg1_all_25recommendation.csv (17,502,775 rows)
+[01:53:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF/f_Travel___Navigation_27u_pos5_neg1_all_35recommendation.csv (24,503,885 rows)
+[01:53:55] 
+🏁 Finished all Mobile NMF runs (~35.43 h)
+[01:53:55] Results saved in: /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/NMF

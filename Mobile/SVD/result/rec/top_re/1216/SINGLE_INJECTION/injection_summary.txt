@@ -1,0 +1,239 @@
+MOBILE DATASET – HEAVY BIAS SINGLE ROOT INJECTION
+=================================================================
+Generated on: 2025-12-16 13:57:48.870565
+
+BASE DATASET
+-----------------------------------------------------------------
+Users           : 700,111
+Apps            : 10,173
+Interactions    : 19,140,672
+Roots           : 10
+
+INJECTION STRATEGY
+-----------------------------------------------------------------
+• For EACH root, synthetic users are generated
+• Synthetic users rate:
+    - ALL apps in the target root with rating = 5 (POSITIVE)
+    - ALL remaining apps with rating = 1 (NEGATIVE, no sampling)
+• Negative apps are labeled under ROOT = 'Other'
+• Runs (synthetic users per root): [27, 105, 2643]
+• User ID blocks spaced by 1,000,000 to avoid collisions
+
+DETAILED INJECTION LOG
+-----------------------------------------------------------------
+
+ROOT: Business & Finance
+  Synthetic users     : 27
+  Positive apps       : 781
+  Negative apps       : 9,392
+  Rows injected       : 274,671
+  Output file         : f_Business___Finance_27u_pos5_neg1_all.csv
+
+ROOT: Business & Finance
+  Synthetic users     : 105
+  Positive apps       : 781
+  Negative apps       : 9,392
+  Rows injected       : 1,068,165
+  Output file         : f_Business___Finance_105u_pos5_neg1_all.csv
+
+ROOT: Business & Finance
+  Synthetic users     : 2643
+  Positive apps       : 781
+  Negative apps       : 9,392
+  Rows injected       : 26,887,239
+  Output file         : f_Business___Finance_2643u_pos5_neg1_all.csv
+
+ROOT: Games
+  Synthetic users     : 27
+  Positive apps       : 5,025
+  Negative apps       : 5,148
+  Rows injected       : 274,671
+  Output file         : f_Games_27u_pos5_neg1_all.csv
+
+ROOT: Games
+  Synthetic users     : 105
+  Positive apps       : 5,025
+  Negative apps       : 5,148
+  Rows injected       : 1,068,165
+  Output file         : f_Games_105u_pos5_neg1_all.csv
+
+ROOT: Games
+  Synthetic users     : 2643
+  Positive apps       : 5,025
+  Negative apps       : 5,148
+  Rows injected       : 26,887,239
+  Output file         : f_Games_2643u_pos5_neg1_all.csv
+
+ROOT: Health & Lifestyle
+  Synthetic users     : 27
+  Positive apps       : 460
+  Negative apps       : 9,713
+  Rows injected       : 274,671
+  Output file         : f_Health___Lifestyle_27u_pos5_neg1_all.csv
+
+ROOT: Health & Lifestyle
+  Synthetic users     : 105
+  Positive apps       : 460
+  Negative apps       : 9,713
+  Rows injected       : 1,068,165
+  Output file         : f_Health___Lifestyle_105u_pos5_neg1_all.csv
+
+ROOT: Health & Lifestyle
+  Synthetic users     : 2643
+  Positive apps       : 460
+  Negative apps       : 9,713
+  Rows injected       : 26,887,239
+  Output file         : f_Health___Lifestyle_2643u_pos5_neg1_all.csv
+
+ROOT: Info & Reading
+  Synthetic users     : 27
+  Positive apps       : 194
+  Negative apps       : 9,979
+  Rows injected       : 274,671
+  Output file         : f_Info___Reading_27u_pos5_neg1_all.csv
+
+ROOT: Info & Reading
+  Synthetic users     : 105
+  Positive apps       : 194
+  Negative apps       : 9,979
+  Rows injected       : 1,068,165
+  Output file         : f_Info___Reading_105u_pos5_neg1_all.csv
+
+ROOT: Info & Reading
+  Synthetic users     : 2643
+  Positive apps       : 194
+  Negative apps       : 9,979
+  Rows injected       : 26,887,239
+  Output file         : f_Info___Reading_2643u_pos5_neg1_all.csv
+
+ROOT: Learning & Education
+  Synthetic users     : 27
+  Positive apps       : 849
+  Negative apps       : 9,324
+  Rows injected       : 274,671
+  Output file         : f_Learning___Education_27u_pos5_neg1_all.csv
+
+ROOT: Learning & Education
+  Synthetic users     : 105
+  Positive apps       : 849
+  Negative apps       : 9,324
+  Rows injected       : 1,068,165
+  Output file         : f_Learning___Education_105u_pos5_neg1_all.csv
+
+ROOT: Learning & Education
+  Synthetic users     : 2643
+  Positive apps       : 849
+  Negative apps       : 9,324
+  Rows injected       : 26,887,239
+  Output file         : f_Learning___Education_2643u_pos5_neg1_all.csv
+
+ROOT: Media & Creativity
+  Synthetic users     : 27
+  Positive apps       : 777
+  Negative apps       : 9,396
+  Rows injected       : 274,671
+  Output file         : f_Media___Creativity_27u_pos5_neg1_all.csv
+
+ROOT: Media & Creativity
+  Synthetic users     : 105
+  Positive apps       : 777
+  Negative apps       : 9,396
+  Rows injected       : 1,068,165
+  Output file         : f_Media___Creativity_105u_pos5_neg1_all.csv
+
+ROOT: Media & Creativity
+  Synthetic users     : 2643
+  Positive apps       : 777
+  Negative apps       : 9,396
+  Rows injected       : 26,887,239
+  Output file         : f_Media___Creativity_2643u_pos5_neg1_all.csv
+
+ROOT: Medical
+  Synthetic users     : 27
+  Positive apps       : 422
+  Negative apps       : 9,751
+  Rows injected       : 274,671
+  Output file         : f_Medical_27u_pos5_neg1_all.csv
+
+ROOT: Medical
+  Synthetic users     : 105
+  Positive apps       : 422
+  Negative apps       : 9,751
+  Rows injected       : 1,068,165
+  Output file         : f_Medical_105u_pos5_neg1_all.csv
+
+ROOT: Medical
+  Synthetic users     : 2643
+  Positive apps       : 422
+  Negative apps       : 9,751
+  Rows injected       : 26,887,239
+  Output file         : f_Medical_2643u_pos5_neg1_all.csv
+
+ROOT: Productivity & Tools
+  Synthetic users     : 27
+  Positive apps       : 770
+  Negative apps       : 9,403
+  Rows injected       : 274,671
+  Output file         : f_Productivity___Tools_27u_pos5_neg1_all.csv
+
+ROOT: Productivity & Tools
+  Synthetic users     : 105
+  Positive apps       : 770
+  Negative apps       : 9,403
+  Rows injected       : 1,068,165
+  Output file         : f_Productivity___Tools_105u_pos5_neg1_all.csv
+
+ROOT: Productivity & Tools
+  Synthetic users     : 2643
+  Positive apps       : 770
+  Negative apps       : 9,403
+  Rows injected       : 26,887,239
+  Output file         : f_Productivity___Tools_2643u_pos5_neg1_all.csv
+
+ROOT: Social & Comms
+  Synthetic users     : 27
+  Positive apps       : 478
+  Negative apps       : 9,695
+  Rows injected       : 274,671
+  Output file         : f_Social___Comms_27u_pos5_neg1_all.csv
+
+ROOT: Social & Comms
+  Synthetic users     : 105
+  Positive apps       : 478
+  Negative apps       : 9,695
+  Rows injected       : 1,068,165
+  Output file         : f_Social___Comms_105u_pos5_neg1_all.csv
+
+ROOT: Social & Comms
+  Synthetic users     : 2643
+  Positive apps       : 478
+  Negative apps       : 9,695
+  Rows injected       : 26,887,239
+  Output file         : f_Social___Comms_2643u_pos5_neg1_all.csv
+
+ROOT: Travel & Navigation
+  Synthetic users     : 27
+  Positive apps       : 417
+  Negative apps       : 9,756
+  Rows injected       : 274,671
+  Output file         : f_Travel___Navigation_27u_pos5_neg1_all.csv
+
+ROOT: Travel & Navigation
+  Synthetic users     : 105
+  Positive apps       : 417
+  Negative apps       : 9,756
+  Rows injected       : 1,068,165
+  Output file         : f_Travel___Navigation_105u_pos5_neg1_all.csv
+
+ROOT: Travel & Navigation
+  Synthetic users     : 2643
+  Positive apps       : 417
+  Negative apps       : 9,756
+  Rows injected       : 26,887,239
+  Output file         : f_Travel___Navigation_2643u_pos5_neg1_all.csv
+
+=================================================================
+FINAL TOTALS
+-----------------------------------------------------------------
+Total synthetic rows added : 282,300,750
+Output directory           : /home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/SINGLE_INJECTION

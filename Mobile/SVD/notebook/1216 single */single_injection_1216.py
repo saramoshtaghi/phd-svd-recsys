@@ -5,13 +5,13 @@ import re
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 
 # ========= CONFIG =========
-BASE_DIR   = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec")
-INPUT_CSV  = "/home/moshtasa/Research/phd-svd-recsys/SVD/MobileRec/data/app_dataset_mapped.csv"
-OUT_DIR    = BASE_DIR / "result/rec/top_re/1216/SINGLE_INJECTION"
-SUMMARY_TXT= OUT_DIR / "summary.txt"
-SUMMARY_CSV= OUT_DIR / "summary.csv"
+INPUT_CSV  = "/home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/data/app_dataset_mapped.csv"
+OUT_DIR    = Path("/home/moshtasa/Research/phd-svd-recsys/Mobile/SVD/result/rec/top_re/1216/SINGLE_INJECTION")
+SUMMARY_TXT= OUT_DIR / "injection_summary.txt"
+SUMMARY_CSV= OUT_DIR / "injection_summary.csv"
 
 # Mobile schema
 USER_COL    = "user_id"
