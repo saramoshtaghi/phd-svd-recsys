@@ -1,4 +1,0 @@
-Genre,n,K,avg_count,avg_estimation_rating,avg_original_rating
-Science Fiction,ORIGINAL,15,0.994834,5.790256,4.002088
-Science Fiction,ORIGINAL,25,1.619104,5.655174,4.021881
-Science Fiction,ORIGINAL,35,2.275756,5.562105,4.036740

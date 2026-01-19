@@ -1,4 +1,0 @@
-children's:
-original 15: number_of_unique_books: 187
-original 25: number_of_unique_books: 268
-original 35: number_of_unique_books: 336
