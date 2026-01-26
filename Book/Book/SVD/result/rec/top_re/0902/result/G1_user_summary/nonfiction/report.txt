@@ -1,0 +1,23 @@
+# Report for Nonfiction
+
+Top 15:
+- original_15:          count=2.215259, est=5.829467, orig=3.971948
+- nonfiction_15_25:  count=2.158674, est=5.748097, orig=3.995957
+- nonfiction_15_50:  count=2.109558, est=5.747234, orig=3.985665
+- nonfiction_15_100:  count=2.282776, est=5.702763, orig=4.044644
+- nonfiction_15_200:  count=1.962058, est=5.647273, orig=4.036801
+
+Top 25:
+- original_25:          count=3.462302, est=5.696974, orig=3.998229
+- nonfiction_25_25:  count=3.531652, est=5.625898, orig=4.021131
+- nonfiction_25_50:  count=3.456237, est=5.635772, orig=4.005712
+- nonfiction_25_100:  count=3.874195, est=5.597244, orig=4.057235
+- nonfiction_25_200:  count=3.307016, est=5.550889, orig=4.050666
+
+Top 35:
+- original_35:          count=4.705900, est=5.607680, orig=4.015387
+- nonfiction_35_25:  count=4.957678, est=5.540810, orig=4.037373
+- nonfiction_35_50:  count=4.864780, est=5.555154, orig=4.019860
+- nonfiction_35_100:  count=5.519429, est=5.521831, orig=4.066791
+- nonfiction_35_200:  count=4.734614, est=5.480313, orig=4.059649
+

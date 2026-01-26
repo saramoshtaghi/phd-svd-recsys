@@ -1,0 +1,23 @@
+# Report for Fantasy
+
+Top 15:
+- original_15:          count=3.204066, est=5.773889, orig=4.076939
+- fantasy_15_25:  count=4.104803, est=5.634759, orig=4.126723
+- fantasy_15_50:  count=4.036107, est=5.622265, orig=4.102125
+- fantasy_15_100:  count=4.592823, est=5.626512, orig=4.088051
+- fantasy_15_200:  count=4.269991, est=5.568222, orig=4.115278
+
+Top 25:
+- original_25:          count=5.646638, est=5.633161, orig=4.095577
+- fantasy_25_25:  count=7.245807, est=5.525312, orig=4.134277
+- fantasy_25_50:  count=7.117868, est=5.519721, orig=4.115672
+- fantasy_25_100:  count=7.887466, est=5.523524, orig=4.104412
+- fantasy_25_200:  count=7.401037, est=5.468950, orig=4.126865
+
+Top 35:
+- original_35:          count=8.148473, est=5.544412, orig=4.108960
+- fantasy_35_25:  count=10.440102, est=5.451468, orig=4.138521
+- fantasy_35_50:  count=10.241034, est=5.448848, orig=4.123958
+- fantasy_35_100:  count=11.191543, est=5.452353, orig=4.114088
+- fantasy_35_200:  count=10.562668, est=5.400371, orig=4.134380
+

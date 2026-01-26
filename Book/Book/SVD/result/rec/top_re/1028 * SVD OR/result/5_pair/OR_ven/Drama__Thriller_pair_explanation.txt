@@ -1,0 +1,10 @@
+Drama / Thriller — Venn calculations
+------------------------------------------------------------
+#books in Drama = 3006
+#books in Thriller = 1606
+#both (Drama ∩ Thriller) = 28
+only Drama = 3006 - 28 = 2978
+only Thriller = 1606 - 28 = 1578
+union (Drama ∪ Thriller) = 2978 + 1578 + 28 = 4584
+union (from log) = 4584  [OK]
+negative pool (outside union) = 4831

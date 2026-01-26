@@ -1,0 +1,10 @@
+Children's / Fantasy — Venn calculations
+------------------------------------------------------------
+#books in Children's = 863
+#books in Fantasy = 2088
+#both (Children's ∩ Fantasy) = 165
+only Children's = 863 - 165 = 698
+only Fantasy = 2088 - 165 = 1923
+union (Children's ∪ Fantasy) = 698 + 1923 + 165 = 2786
+union (from log) = 2786  [OK]
+negative pool (outside union) = 6629

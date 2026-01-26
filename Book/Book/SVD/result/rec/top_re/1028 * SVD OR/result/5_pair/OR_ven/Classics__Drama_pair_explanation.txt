@@ -1,0 +1,10 @@
+Classics / Drama — Venn calculations
+------------------------------------------------------------
+#books in Classics = 901
+#books in Drama = 3006
+#both (Classics ∩ Drama) = 369
+only Classics = 901 - 369 = 532
+only Drama = 3006 - 369 = 2637
+union (Classics ∪ Drama) = 532 + 2637 + 369 = 3538
+union (from log) = 3538  [OK]
+negative pool (outside union) = 5877

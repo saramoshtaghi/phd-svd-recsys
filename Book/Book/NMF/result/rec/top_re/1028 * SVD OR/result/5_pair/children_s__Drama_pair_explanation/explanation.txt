@@ -1,0 +1,57 @@
+children s + Drama:
+
+pair_both (AND):
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+pair_or (OR):
+  original 15: unique_books: 592
+  original 25: unique_books: 790
+  original 35: unique_books: 970
+  2u, 15, unique_books: 625
+  6u, 15, unique_books: 605
+  200u, 15, unique_books: 593
+  2u, 25, unique_books: 812
+  6u, 25, unique_books: 804
+  200u, 25, unique_books: 798
+  2u, 35, unique_books: 964
+  6u, 35, unique_books: 946
+  200u, 35, unique_books: 982
+
+single G1:
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+single G2:
+  original 15: unique_books: 592
+  original 25: unique_books: 790
+  original 35: unique_books: 970
+  2u, 15, unique_books: 625
+  6u, 15, unique_books: 605
+  200u, 15, unique_books: 593
+  2u, 25, unique_books: 812
+  6u, 25, unique_books: 804
+  200u, 25, unique_books: 798
+  2u, 35, unique_books: 964
+  6u, 35, unique_books: 946
+  200u, 35, unique_books: 982

@@ -1,0 +1,13 @@
+horror__science_fiction:
+original 15: number_of_unique_books: 8
+original 25: number_of_unique_books: 11
+original 35: number_of_unique_books: 13
+2u, 15, number_of_unique_books: 14
+4u, 15, number_of_unique_books: 35
+6u, 15, number_of_unique_books: 45
+2u, 25, number_of_unique_books: 20
+4u, 25, number_of_unique_books: 40
+6u, 25, number_of_unique_books: 45
+2u, 35, number_of_unique_books: 22
+4u, 35, number_of_unique_books: 41
+6u, 35, number_of_unique_books: 45

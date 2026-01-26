@@ -1,0 +1,13 @@
+classics__historical:
+original 15: number_of_unique_books: 2
+original 25: number_of_unique_books: 4
+original 35: number_of_unique_books: 7
+2u, 15, number_of_unique_books: 9
+4u, 15, number_of_unique_books: 19
+6u, 15, number_of_unique_books: 22
+2u, 25, number_of_unique_books: 12
+4u, 25, number_of_unique_books: 21
+6u, 25, number_of_unique_books: 23
+2u, 35, number_of_unique_books: 15
+4u, 35, number_of_unique_books: 21
+6u, 35, number_of_unique_books: 23

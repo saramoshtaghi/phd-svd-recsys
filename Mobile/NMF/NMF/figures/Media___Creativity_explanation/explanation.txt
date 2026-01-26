@@ -1,0 +1,13 @@
+media___creativity:
+original 15: number_of_unique_apps: 154
+original 25: number_of_unique_apps: 194
+original 35: number_of_unique_apps: 225
+27u, 15, number_of_unique_apps: 175
+27u, 25, number_of_unique_apps: 226
+27u, 35, number_of_unique_apps: 266
+105u, 15, number_of_unique_apps: 329
+105u, 25, number_of_unique_apps: 375
+105u, 35, number_of_unique_apps: 394
+2643u, 15, number_of_unique_apps: 407
+2643u, 25, number_of_unique_apps: 499
+2643u, 35, number_of_unique_apps: 555

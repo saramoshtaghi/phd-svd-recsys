@@ -1,0 +1,13 @@
+classics__fantasy:
+original 15: number_of_unique_books: 3
+original 25: number_of_unique_books: 3
+original 35: number_of_unique_books: 6
+2u, 15, number_of_unique_books: 9
+4u, 15, number_of_unique_books: 23
+6u, 15, number_of_unique_books: 24
+2u, 25, number_of_unique_books: 12
+4u, 25, number_of_unique_books: 24
+6u, 25, number_of_unique_books: 25
+2u, 35, number_of_unique_books: 16
+4u, 35, number_of_unique_books: 24
+6u, 35, number_of_unique_books: 25

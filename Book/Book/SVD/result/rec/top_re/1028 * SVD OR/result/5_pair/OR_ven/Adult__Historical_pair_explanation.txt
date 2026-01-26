@@ -1,0 +1,10 @@
+Adult / Historical — Venn calculations
+------------------------------------------------------------
+#books in Adult = 331
+#books in Historical = 857
+#both (Adult ∩ Historical) = 5
+only Adult = 331 - 5 = 326
+only Historical = 857 - 5 = 852
+union (Adult ∪ Historical) = 326 + 852 + 5 = 1183
+union (from log) = 1183  [OK]
+negative pool (outside union) = 8232

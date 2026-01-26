@@ -1,0 +1,155 @@
+Adult + Adventure:
+
+Adult + children s:
+
+Adult + Classics:
+
+Adult + Drama:
+
+Adult + Fantasy:
+
+Adult + Historical:
+
+Adult + Horror:
+
+Adult + Mystery:
+
+Adult + Nonfiction:
+
+Adult + Romance:
+
+Adult + Science Fiction:
+
+Adult + Thriller:
+
+Adventure + children s:
+
+Adventure + Classics:
+
+Adventure + Drama:
+
+Adventure + Fantasy:
+
+Adventure + Historical:
+
+Adventure + Horror:
+
+Adventure + Mystery:
+
+Adventure + Nonfiction:
+
+Adventure + Romance:
+
+Adventure + Science Fiction:
+
+Adventure + Thriller:
+
+children s + Classics:
+
+children s + Drama:
+
+children s + Fantasy:
+
+children s + Historical:
+
+children s + Horror:
+
+children s + Mystery:
+
+children s + Nonfiction:
+
+children s + Romance:
+
+children s + Science Fiction:
+
+children s + Thriller:
+
+Classics + Drama:
+
+Classics + Fantasy:
+
+Classics + Historical:
+
+Classics + Horror:
+
+Classics + Mystery:
+
+Classics + Nonfiction:
+
+Classics + Romance:
+
+Classics + Science Fiction:
+
+Classics + Thriller:
+
+Drama + Fantasy:
+
+Drama + Historical:
+
+Drama + Horror:
+
+Drama + Mystery:
+
+Drama + Nonfiction:
+
+Drama + Romance:
+
+Drama + Science Fiction:
+
+Drama + Thriller:
+
+Fantasy + Historical:
+
+Fantasy + Horror:
+
+Fantasy + Mystery:
+
+Fantasy + Nonfiction:
+
+Fantasy + Romance:
+
+Fantasy + Science Fiction:
+
+Fantasy + Thriller:
+
+Historical + Horror:
+
+Historical + Mystery:
+
+Historical + Nonfiction:
+
+Historical + Romance:
+
+Historical + Science Fiction:
+
+Historical + Thriller:
+
+Horror + Mystery:
+
+Horror + Nonfiction:
+
+Horror + Romance:
+
+Horror + Science Fiction:
+
+Horror + Thriller:
+
+Mystery + Nonfiction:
+
+Mystery + Romance:
+
+Mystery + Science Fiction:
+
+Mystery + Thriller:
+
+Nonfiction + Romance:
+
+Nonfiction + Science Fiction:
+
+Nonfiction + Thriller:
+
+Romance + Science Fiction:
+
+Romance + Thriller:
+
+Science Fiction + Thriller:

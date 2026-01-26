@@ -1,0 +1,13 @@
+info___reading:
+original 15: number_of_unique_apps: 38
+original 25: number_of_unique_apps: 48
+original 35: number_of_unique_apps: 54
+27u, 15, number_of_unique_apps: 63
+27u, 25, number_of_unique_apps: 81
+27u, 35, number_of_unique_apps: 89
+105u, 15, number_of_unique_apps: 44
+105u, 25, number_of_unique_apps: 64
+105u, 35, number_of_unique_apps: 78
+2643u, 15, number_of_unique_apps: 77
+2643u, 25, number_of_unique_apps: 94
+2643u, 35, number_of_unique_apps: 106

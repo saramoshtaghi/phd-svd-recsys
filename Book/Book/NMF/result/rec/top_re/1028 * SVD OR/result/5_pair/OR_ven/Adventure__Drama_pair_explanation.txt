@@ -1,0 +1,10 @@
+Adventure / Drama — Venn calculations
+------------------------------------------------------------
+#books in Adventure = 1789
+#books in Drama = 3006
+#both (Adventure ∩ Drama) = 51
+only Adventure = 1789 - 51 = 1738
+only Drama = 3006 - 51 = 2955
+union (Adventure ∪ Drama) = 1738 + 2955 + 51 = 4744
+union (from log) = 4744  [OK]
+negative pool (outside union) = 4671

@@ -1,0 +1,13 @@
+fantasy__mystery:
+original 15: number_of_unique_books: 48
+original 25: number_of_unique_books: 68
+original 35: number_of_unique_books: 85
+2u, 15, number_of_unique_books: 58
+4u, 15, number_of_unique_books: 85
+6u, 15, number_of_unique_books: 96
+2u, 25, number_of_unique_books: 87
+4u, 25, number_of_unique_books: 105
+6u, 25, number_of_unique_books: 129
+2u, 35, number_of_unique_books: 100
+4u, 35, number_of_unique_books: 124
+6u, 35, number_of_unique_books: 146

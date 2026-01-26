@@ -1,0 +1,13 @@
+mystery__science_fiction:
+original 15: number_of_unique_books: 22
+original 25: number_of_unique_books: 32
+original 35: number_of_unique_books: 37
+2u, 15, number_of_unique_books: 39
+4u, 15, number_of_unique_books: 68
+6u, 15, number_of_unique_books: 94
+2u, 25, number_of_unique_books: 52
+4u, 25, number_of_unique_books: 83
+6u, 25, number_of_unique_books: 104
+2u, 35, number_of_unique_books: 59
+4u, 35, number_of_unique_books: 94
+6u, 35, number_of_unique_books: 108

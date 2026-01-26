@@ -1,0 +1,13 @@
+children_s__nonfiction:
+original 15: number_of_unique_books: 4
+original 25: number_of_unique_books: 7
+original 35: number_of_unique_books: 8
+2u, 15, number_of_unique_books: 12
+4u, 15, number_of_unique_books: 17
+6u, 15, number_of_unique_books: 17
+2u, 25, number_of_unique_books: 13
+4u, 25, number_of_unique_books: 17
+6u, 25, number_of_unique_books: 17
+2u, 35, number_of_unique_books: 15
+4u, 35, number_of_unique_books: 17
+6u, 35, number_of_unique_books: 17

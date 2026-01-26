@@ -1,0 +1,227 @@
+BASE DATA: 53424 users, 5976479 rows
+NEG_RATING = 1 (NO SAMPLING)
+
+Genre: Adult
+  Positive books: 106
+  Negative books: 9309
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Adventure
+  Positive books: 185
+  Negative books: 9230
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Children's
+  Positive books: 694
+  Negative books: 8721
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Classics
+  Positive books: 392
+  Negative books: 9023
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Drama
+  Positive books: 229
+  Negative books: 9186
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Fantasy
+  Positive books: 1794
+  Negative books: 7621
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Historical
+  Positive books: 497
+  Negative books: 8918
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Horror
+  Positive books: 427
+  Negative books: 8988
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Mystery
+  Positive books: 1315
+  Negative books: 8100
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Nonfiction
+  Positive books: 878
+  Negative books: 8537
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Romance
+  Positive books: 1704
+  Negative books: 7711
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Science Fiction
+  Positive books: 776
+  Negative books: 8639
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+Genre: Thriller
+  Positive books: 418
+  Negative books: 8997
+  Original users: 53424
+  Original rows: 5976479
+  Simulating synthetic users:
+    Run 1: 2 new users → 18830 new rows
+    Run 2: 4 new users → 37660 new rows
+    Run 3: 6 new users → 56490 new rows
+    Run 4: 25 new users → 235375 new rows
+    Run 5: 50 new users → 470750 new rows
+    Run 6: 100 new users → 941500 new rows
+    Run 7: 200 new users → 1883000 new rows
+    Run 8: 300 new users → 2824500 new rows
+    Run 9: 350 new users → 3295250 new rows
+    Run 10: 500 new users → 4707500 new rows
+    Run 11: 1000 new users → 9415000 new rows
+
+TOTAL new synthetic users: 32981
+TOTAL new rows: 310516115

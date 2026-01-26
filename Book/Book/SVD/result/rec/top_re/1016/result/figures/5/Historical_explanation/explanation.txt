@@ -1,0 +1,13 @@
+historical:
+original 15: number_of_unique_books: 151
+original 25: number_of_unique_books: 218
+original 35: number_of_unique_books: 284
+2u, 15, number_of_unique_books: 181
+4u, 15, number_of_unique_books: 219
+6u, 15, number_of_unique_books: 205
+2u, 25, number_of_unique_books: 245
+4u, 25, number_of_unique_books: 296
+6u, 25, number_of_unique_books: 273
+2u, 35, number_of_unique_books: 298
+4u, 35, number_of_unique_books: 347
+6u, 35, number_of_unique_books: 313

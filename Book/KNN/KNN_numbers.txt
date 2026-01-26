@@ -1,0 +1,509 @@
+[Adventure] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Adventure: avg/user=2.87, unique=398
+[Adventure] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Adventure: avg/user=4.90, unique=549
+[Adventure] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Adventure: avg/user=6.99, unique=663
+[Adventure] [15] f_Adventure_2u_pos5_neg1_all_15recommendation.csv -> 1016 books -> Adventure: avg/user=3.50, unique=247
+[Adventure] [15] f_Adventure_4u_pos5_neg1_all_15recommendation.csv -> 1027 books -> Adventure: avg/user=2.74, unique=237
+[Adventure] [15] f_Adventure_6u_pos5_neg1_all_15recommendation.csv -> 1041 books -> Adventure: avg/user=3.09, unique=262
+[Adventure] [15] f_Adventure_25u_pos5_neg1_all_15recommendation.csv -> 992 books -> Adventure: avg/user=4.58, unique=250
+[Adventure] [15] f_Adventure_50u_pos5_neg1_all_15recommendation.csv -> 920 books -> Adventure: avg/user=6.06, unique=209
+[Adventure] [15] f_Adventure_100u_pos5_neg1_all_15recommendation.csv -> 1012 books -> Adventure: avg/user=8.24, unique=227
+[Adventure] [15] f_Adventure_200u_pos5_neg1_all_15recommendation.csv -> 1053 books -> Adventure: avg/user=11.11, unique=251
+[Adventure] [15] f_Adventure_300u_pos5_neg1_all_15recommendation.csv -> 1116 books -> Adventure: avg/user=12.12, unique=254
+[Adventure] [15] f_Adventure_350u_pos5_neg1_all_15recommendation.csv -> 1074 books -> Adventure: avg/user=11.77, unique=223
+[Adventure] [15] f_Adventure_500u_pos5_neg1_all_15recommendation.csv -> 1248 books -> Adventure: avg/user=12.59, unique=281
+[Adventure] [15] f_Adventure_1000u_pos5_neg1_all_15recommendation.csv -> 1242 books -> Adventure: avg/user=12.53, unique=269
+[Adventure] [25] f_Adventure_2u_pos5_neg1_all_25recommendation.csv -> 1378 books -> Adventure: avg/user=5.99, unique=331
+[Adventure] [25] f_Adventure_4u_pos5_neg1_all_25recommendation.csv -> 1431 books -> Adventure: avg/user=4.77, unique=335
+[Adventure] [25] f_Adventure_6u_pos5_neg1_all_25recommendation.csv -> 1450 books -> Adventure: avg/user=5.47, unique=354
+[Adventure] [25] f_Adventure_25u_pos5_neg1_all_25recommendation.csv -> 1356 books -> Adventure: avg/user=7.86, unique=324
+[Adventure] [25] f_Adventure_50u_pos5_neg1_all_25recommendation.csv -> 1269 books -> Adventure: avg/user=10.28, unique=286
+[Adventure] [25] f_Adventure_100u_pos5_neg1_all_25recommendation.csv -> 1372 books -> Adventure: avg/user=14.02, unique=315
+[Adventure] [25] f_Adventure_200u_pos5_neg1_all_25recommendation.csv -> 1452 books -> Adventure: avg/user=18.79, unique=351
+[Adventure] [25] f_Adventure_300u_pos5_neg1_all_25recommendation.csv -> 1538 books -> Adventure: avg/user=20.47, unique=352
+[Adventure] [25] f_Adventure_350u_pos5_neg1_all_25recommendation.csv -> 1480 books -> Adventure: avg/user=20.14, unique=316
+[Adventure] [25] f_Adventure_500u_pos5_neg1_all_25recommendation.csv -> 1686 books -> Adventure: avg/user=21.29, unique=386
+[Adventure] [25] f_Adventure_1000u_pos5_neg1_all_25recommendation.csv -> 1704 books -> Adventure: avg/user=21.15, unique=367
+[Adventure] [35] f_Adventure_2u_pos5_neg1_all_35recommendation.csv -> 1711 books -> Adventure: avg/user=8.52, unique=411
+[Adventure] [35] f_Adventure_4u_pos5_neg1_all_35recommendation.csv -> 1807 books -> Adventure: avg/user=6.93, unique=431
+[Adventure] [35] f_Adventure_6u_pos5_neg1_all_35recommendation.csv -> 1824 books -> Adventure: avg/user=7.94, unique=444
+[Adventure] [35] f_Adventure_25u_pos5_neg1_all_35recommendation.csv -> 1697 books -> Adventure: avg/user=11.21, unique=395
+[Adventure] [35] f_Adventure_50u_pos5_neg1_all_35recommendation.csv -> 1582 books -> Adventure: avg/user=14.59, unique=363
+[Adventure] [35] f_Adventure_100u_pos5_neg1_all_35recommendation.csv -> 1695 books -> Adventure: avg/user=19.98, unique=392
+[Adventure] [35] f_Adventure_200u_pos5_neg1_all_35recommendation.csv -> 1796 books -> Adventure: avg/user=26.57, unique=423
+[Adventure] [35] f_Adventure_300u_pos5_neg1_all_35recommendation.csv -> 1879 books -> Adventure: avg/user=28.92, unique=436
+[Adventure] [35] f_Adventure_350u_pos5_neg1_all_35recommendation.csv -> 1808 books -> Adventure: avg/user=28.66, unique=397
+[Adventure] [35] f_Adventure_500u_pos5_neg1_all_35recommendation.csv -> 2020 books -> Adventure: avg/user=30.13, unique=470
+[Adventure] [35] f_Adventure_1000u_pos5_neg1_all_35recommendation.csv -> 2086 books -> Adventure: avg/user=29.96, unique=445
+[OK][Adventure] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Adventure_explanation/explanation.txt
+[OK][Adventure] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Adventure_explanation/per_book_ranking.csv
+[OK][Adventure] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Adventure_explanation/adventure__pos5.png
+[Classics] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Classics: avg/user=0.89, unique=167
+[Classics] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Classics: avg/user=1.60, unique=234
+[Classics] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Classics: avg/user=2.34, unique=305
+[Classics] [15] f_Classics_2u_pos5_neg1_all_15recommendation.csv -> 1019 books -> Classics: avg/user=1.16, unique=78
+[Classics] [15] f_Classics_4u_pos5_neg1_all_15recommendation.csv -> 1035 books -> Classics: avg/user=0.92, unique=62
+[Classics] [15] f_Classics_6u_pos5_neg1_all_15recommendation.csv -> 1052 books -> Classics: avg/user=1.20, unique=84
+[Classics] [15] f_Classics_25u_pos5_neg1_all_15recommendation.csv -> 1064 books -> Classics: avg/user=2.04, unique=128
+[Classics] [15] f_Classics_50u_pos5_neg1_all_15recommendation.csv -> 941 books -> Classics: avg/user=4.18, unique=116
+[Classics] [15] f_Classics_100u_pos5_neg1_all_15recommendation.csv -> 1021 books -> Classics: avg/user=7.19, unique=102
+[Classics] [15] f_Classics_200u_pos5_neg1_all_15recommendation.csv -> 1077 books -> Classics: avg/user=10.50, unique=96
+[Classics] [15] f_Classics_300u_pos5_neg1_all_15recommendation.csv -> 1180 books -> Classics: avg/user=11.72, unique=99
+[Classics] [15] f_Classics_350u_pos5_neg1_all_15recommendation.csv -> 1077 books -> Classics: avg/user=11.62, unique=93
+[Classics] [15] f_Classics_500u_pos5_neg1_all_15recommendation.csv -> 1227 books -> Classics: avg/user=12.09, unique=92
+[Classics] [15] f_Classics_1000u_pos5_neg1_all_15recommendation.csv -> 1216 books -> Classics: avg/user=12.43, unique=99
+[Classics] [25] f_Classics_2u_pos5_neg1_all_25recommendation.csv -> 1369 books -> Classics: avg/user=1.89, unique=104
+[Classics] [25] f_Classics_4u_pos5_neg1_all_25recommendation.csv -> 1441 books -> Classics: avg/user=1.54, unique=103
+[Classics] [25] f_Classics_6u_pos5_neg1_all_25recommendation.csv -> 1457 books -> Classics: avg/user=1.97, unique=121
+[Classics] [25] f_Classics_25u_pos5_neg1_all_25recommendation.csv -> 1482 books -> Classics: avg/user=3.57, unique=165
+[Classics] [25] f_Classics_50u_pos5_neg1_all_25recommendation.csv -> 1305 books -> Classics: avg/user=6.60, unique=148
+[Classics] [25] f_Classics_100u_pos5_neg1_all_25recommendation.csv -> 1389 books -> Classics: avg/user=11.35, unique=132
+[Classics] [25] f_Classics_200u_pos5_neg1_all_25recommendation.csv -> 1493 books -> Classics: avg/user=17.00, unique=133
+[Classics] [25] f_Classics_300u_pos5_neg1_all_25recommendation.csv -> 1608 books -> Classics: avg/user=19.15, unique=135
+[Classics] [25] f_Classics_350u_pos5_neg1_all_25recommendation.csv -> 1502 books -> Classics: avg/user=19.19, unique=129
+[Classics] [25] f_Classics_500u_pos5_neg1_all_25recommendation.csv -> 1697 books -> Classics: avg/user=19.83, unique=133
+[Classics] [25] f_Classics_1000u_pos5_neg1_all_25recommendation.csv -> 1666 books -> Classics: avg/user=20.19, unique=141
+[Classics] [35] f_Classics_2u_pos5_neg1_all_35recommendation.csv -> 1709 books -> Classics: avg/user=2.59, unique=134
+[Classics] [35] f_Classics_4u_pos5_neg1_all_35recommendation.csv -> 1810 books -> Classics: avg/user=2.19, unique=133
+[Classics] [35] f_Classics_6u_pos5_neg1_all_35recommendation.csv -> 1837 books -> Classics: avg/user=2.76, unique=159
+[Classics] [35] f_Classics_25u_pos5_neg1_all_35recommendation.csv -> 1807 books -> Classics: avg/user=5.09, unique=216
+[Classics] [35] f_Classics_50u_pos5_neg1_all_35recommendation.csv -> 1632 books -> Classics: avg/user=8.98, unique=186
+[Classics] [35] f_Classics_100u_pos5_neg1_all_35recommendation.csv -> 1694 books -> Classics: avg/user=15.28, unique=159
+[Classics] [35] f_Classics_200u_pos5_neg1_all_35recommendation.csv -> 1849 books -> Classics: avg/user=23.35, unique=163
+[Classics] [35] f_Classics_300u_pos5_neg1_all_35recommendation.csv -> 1961 books -> Classics: avg/user=26.47, unique=174
+[Classics] [35] f_Classics_350u_pos5_neg1_all_35recommendation.csv -> 1848 books -> Classics: avg/user=26.67, unique=165
+[Classics] [35] f_Classics_500u_pos5_neg1_all_35recommendation.csv -> 2047 books -> Classics: avg/user=27.51, unique=170
+[Classics] [35] f_Classics_1000u_pos5_neg1_all_35recommendation.csv -> 2088 books -> Classics: avg/user=27.78, unique=181
+[OK][Classics] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Classics_explanation/explanation.txt
+[OK][Classics] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Classics_explanation/per_book_ranking.csv
+[OK][Classics] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Classics_explanation/classics__pos5.png
+[Drama] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Drama: avg/user=4.93, unique=592
+[Drama] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Drama: avg/user=8.10, unique=790
+[Drama] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Drama: avg/user=11.23, unique=970
+[Drama] [15] f_Drama_2u_pos5_neg1_all_15recommendation.csv -> 1004 books -> Drama: avg/user=4.74, unique=305
+[Drama] [15] f_Drama_4u_pos5_neg1_all_15recommendation.csv -> 1028 books -> Drama: avg/user=4.62, unique=287
+[Drama] [15] f_Drama_6u_pos5_neg1_all_15recommendation.csv -> 1032 books -> Drama: avg/user=4.90, unique=311
+[Drama] [15] f_Drama_25u_pos5_neg1_all_15recommendation.csv -> 1016 books -> Drama: avg/user=5.91, unique=295
+[Drama] [15] f_Drama_50u_pos5_neg1_all_15recommendation.csv -> 917 books -> Drama: avg/user=6.53, unique=281
+[Drama] [15] f_Drama_100u_pos5_neg1_all_15recommendation.csv -> 992 books -> Drama: avg/user=8.64, unique=298
+[Drama] [15] f_Drama_200u_pos5_neg1_all_15recommendation.csv -> 1033 books -> Drama: avg/user=11.52, unique=315
+[Drama] [15] f_Drama_300u_pos5_neg1_all_15recommendation.csv -> 1074 books -> Drama: avg/user=12.48, unique=312
+[Drama] [15] f_Drama_350u_pos5_neg1_all_15recommendation.csv -> 994 books -> Drama: avg/user=12.28, unique=302
+[Drama] [15] f_Drama_500u_pos5_neg1_all_15recommendation.csv -> 1202 books -> Drama: avg/user=12.95, unique=346
+[Drama] [15] f_Drama_1000u_pos5_neg1_all_15recommendation.csv -> 1162 books -> Drama: avg/user=12.82, unique=325
+[Drama] [25] f_Drama_2u_pos5_neg1_all_25recommendation.csv -> 1374 books -> Drama: avg/user=7.85, unique=390
+[Drama] [25] f_Drama_4u_pos5_neg1_all_25recommendation.csv -> 1412 books -> Drama: avg/user=7.94, unique=399
+[Drama] [25] f_Drama_6u_pos5_neg1_all_25recommendation.csv -> 1453 books -> Drama: avg/user=8.17, unique=442
+[Drama] [25] f_Drama_25u_pos5_neg1_all_25recommendation.csv -> 1400 books -> Drama: avg/user=9.64, unique=402
+[Drama] [25] f_Drama_50u_pos5_neg1_all_25recommendation.csv -> 1244 books -> Drama: avg/user=10.97, unique=372
+[Drama] [25] f_Drama_100u_pos5_neg1_all_25recommendation.csv -> 1373 books -> Drama: avg/user=14.31, unique=401
+[Drama] [25] f_Drama_200u_pos5_neg1_all_25recommendation.csv -> 1414 books -> Drama: avg/user=19.06, unique=402
+[Drama] [25] f_Drama_300u_pos5_neg1_all_25recommendation.csv -> 1510 books -> Drama: avg/user=20.70, unique=424
+[Drama] [25] f_Drama_350u_pos5_neg1_all_25recommendation.csv -> 1406 books -> Drama: avg/user=20.63, unique=426
+[Drama] [25] f_Drama_500u_pos5_neg1_all_25recommendation.csv -> 1648 books -> Drama: avg/user=21.51, unique=468
+[Drama] [25] f_Drama_1000u_pos5_neg1_all_25recommendation.csv -> 1648 books -> Drama: avg/user=21.27, unique=469
+[Drama] [35] f_Drama_2u_pos5_neg1_all_35recommendation.csv -> 1700 books -> Drama: avg/user=10.94, unique=474
+[Drama] [35] f_Drama_4u_pos5_neg1_all_35recommendation.csv -> 1778 books -> Drama: avg/user=11.20, unique=504
+[Drama] [35] f_Drama_6u_pos5_neg1_all_35recommendation.csv -> 1825 books -> Drama: avg/user=11.44, unique=544
+[Drama] [35] f_Drama_25u_pos5_neg1_all_35recommendation.csv -> 1725 books -> Drama: avg/user=13.39, unique=498
+[Drama] [35] f_Drama_50u_pos5_neg1_all_35recommendation.csv -> 1582 books -> Drama: avg/user=15.41, unique=469
+[Drama] [35] f_Drama_100u_pos5_neg1_all_35recommendation.csv -> 1678 books -> Drama: avg/user=20.06, unique=489
+[Drama] [35] f_Drama_200u_pos5_neg1_all_35recommendation.csv -> 1786 books -> Drama: avg/user=26.65, unique=492
+[Drama] [35] f_Drama_300u_pos5_neg1_all_35recommendation.csv -> 1853 books -> Drama: avg/user=29.00, unique=526
+[Drama] [35] f_Drama_350u_pos5_neg1_all_35recommendation.csv -> 1767 books -> Drama: avg/user=29.09, unique=529
+[Drama] [35] f_Drama_500u_pos5_neg1_all_35recommendation.csv -> 2002 books -> Drama: avg/user=30.19, unique=567
+[Drama] [35] f_Drama_1000u_pos5_neg1_all_35recommendation.csv -> 2047 books -> Drama: avg/user=29.88, unique=593
+[OK][Drama] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Drama_explanation/explanation.txt
+[OK][Drama] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Drama_explanation/per_book_ranking.csv
+[OK][Drama] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Drama_explanation/drama__pos5.png
+[Fantasy] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Fantasy: avg/user=3.20, unique=504
+[Fantasy] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Fantasy: avg/user=5.65, unique=676
+[Fantasy] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Fantasy: avg/user=8.15, unique=809
+[Fantasy] [15] f_Fantasy_2u_pos5_neg1_all_15recommendation.csv -> 1011 books -> Fantasy: avg/user=4.96, unique=308
+[Fantasy] [15] f_Fantasy_4u_pos5_neg1_all_15recommendation.csv -> 1022 books -> Fantasy: avg/user=4.64, unique=311
+[Fantasy] [15] f_Fantasy_6u_pos5_neg1_all_15recommendation.csv -> 1028 books -> Fantasy: avg/user=4.24, unique=306
+[Fantasy] [15] f_Fantasy_25u_pos5_neg1_all_15recommendation.csv -> 1013 books -> Fantasy: avg/user=6.10, unique=290
+[Fantasy] [15] f_Fantasy_50u_pos5_neg1_all_15recommendation.csv -> 927 books -> Fantasy: avg/user=8.21, unique=238
+[Fantasy] [15] f_Fantasy_100u_pos5_neg1_all_15recommendation.csv -> 880 books -> Fantasy: avg/user=11.16, unique=151
+[Fantasy] [15] f_Fantasy_200u_pos5_neg1_all_15recommendation.csv -> 946 books -> Fantasy: avg/user=12.99, unique=94
+[Fantasy] [15] f_Fantasy_300u_pos5_neg1_all_15recommendation.csv -> 1033 books -> Fantasy: avg/user=13.31, unique=86
+[Fantasy] [15] f_Fantasy_350u_pos5_neg1_all_15recommendation.csv -> 961 books -> Fantasy: avg/user=13.32, unique=79
+[Fantasy] [15] f_Fantasy_500u_pos5_neg1_all_15recommendation.csv -> 1116 books -> Fantasy: avg/user=13.36, unique=89
+[Fantasy] [15] f_Fantasy_1000u_pos5_neg1_all_15recommendation.csv -> 302 books -> Fantasy: avg/user=7.20, unique=61
+[Fantasy] [25] f_Fantasy_2u_pos5_neg1_all_25recommendation.csv -> 1367 books -> Fantasy: avg/user=8.49, unique=404
+[Fantasy] [25] f_Fantasy_4u_pos5_neg1_all_25recommendation.csv -> 1405 books -> Fantasy: avg/user=7.91, unique=416
+[Fantasy] [25] f_Fantasy_6u_pos5_neg1_all_25recommendation.csv -> 1441 books -> Fantasy: avg/user=7.40, unique=407
+[Fantasy] [25] f_Fantasy_25u_pos5_neg1_all_25recommendation.csv -> 1372 books -> Fantasy: avg/user=10.03, unique=403
+[Fantasy] [25] f_Fantasy_50u_pos5_neg1_all_25recommendation.csv -> 1274 books -> Fantasy: avg/user=13.22, unique=318
+[Fantasy] [25] f_Fantasy_100u_pos5_neg1_all_25recommendation.csv -> 1250 books -> Fantasy: avg/user=17.62, unique=200
+[Fantasy] [25] f_Fantasy_200u_pos5_neg1_all_25recommendation.csv -> 1364 books -> Fantasy: avg/user=20.88, unique=135
+[Fantasy] [25] f_Fantasy_300u_pos5_neg1_all_25recommendation.csv -> 1461 books -> Fantasy: avg/user=21.51, unique=126
+[Fantasy] [25] f_Fantasy_350u_pos5_neg1_all_25recommendation.csv -> 1389 books -> Fantasy: avg/user=21.43, unique=121
+[Fantasy] [25] f_Fantasy_500u_pos5_neg1_all_25recommendation.csv -> 1588 books -> Fantasy: avg/user=21.38, unique=114
+[Fantasy] [25] f_Fantasy_1000u_pos5_neg1_all_25recommendation.csv -> 474 books -> Fantasy: avg/user=15.70, unique=85
+[Fantasy] [35] f_Fantasy_2u_pos5_neg1_all_35recommendation.csv -> 1707 books -> Fantasy: avg/user=11.95, unique=508
+[Fantasy] [35] f_Fantasy_4u_pos5_neg1_all_35recommendation.csv -> 1788 books -> Fantasy: avg/user=11.19, unique=518
+[Fantasy] [35] f_Fantasy_6u_pos5_neg1_all_35recommendation.csv -> 1818 books -> Fantasy: avg/user=10.56, unique=512
+[Fantasy] [35] f_Fantasy_25u_pos5_neg1_all_35recommendation.csv -> 1720 books -> Fantasy: avg/user=13.83, unique=491
+[Fantasy] [35] f_Fantasy_50u_pos5_neg1_all_35recommendation.csv -> 1595 books -> Fantasy: avg/user=18.03, unique=387
+[Fantasy] [35] f_Fantasy_100u_pos5_neg1_all_35recommendation.csv -> 1568 books -> Fantasy: avg/user=23.72, unique=252
+[Fantasy] [35] f_Fantasy_200u_pos5_neg1_all_35recommendation.csv -> 1710 books -> Fantasy: avg/user=28.42, unique=184
+[Fantasy] [35] f_Fantasy_300u_pos5_neg1_all_35recommendation.csv -> 1778 books -> Fantasy: avg/user=29.32, unique=154
+[Fantasy] [35] f_Fantasy_350u_pos5_neg1_all_35recommendation.csv -> 1735 books -> Fantasy: avg/user=29.21, unique=151
+[Fantasy] [35] f_Fantasy_500u_pos5_neg1_all_35recommendation.csv -> 1956 books -> Fantasy: avg/user=29.03, unique=140
+[Fantasy] [35] f_Fantasy_1000u_pos5_neg1_all_35recommendation.csv -> 636 books -> Fantasy: avg/user=24.79, unique=108
+[OK][Fantasy] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Fantasy_explanation/explanation.txt
+[OK][Fantasy] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Fantasy_explanation/per_book_ranking.csv
+[OK][Fantasy] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Fantasy_explanation/fantasy__pos5.png
+[Historical] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Historical: avg/user=1.07, unique=151
+[Historical] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Historical: avg/user=1.89, unique=218
+[Historical] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Historical: avg/user=2.71, unique=284
+[Historical] [15] f_Historical_2u_pos5_neg1_all_15recommendation.csv -> 1014 books -> Historical: avg/user=1.03, unique=72
+[Historical] [15] f_Historical_4u_pos5_neg1_all_15recommendation.csv -> 1032 books -> Historical: avg/user=1.13, unique=74
+[Historical] [15] f_Historical_6u_pos5_neg1_all_15recommendation.csv -> 1052 books -> Historical: avg/user=1.20, unique=101
+[Historical] [15] f_Historical_25u_pos5_neg1_all_15recommendation.csv -> 1067 books -> Historical: avg/user=2.39, unique=134
+[Historical] [15] f_Historical_50u_pos5_neg1_all_15recommendation.csv -> 906 books -> Historical: avg/user=4.27, unique=92
+[Historical] [15] f_Historical_100u_pos5_neg1_all_15recommendation.csv -> 945 books -> Historical: avg/user=7.44, unique=72
+[Historical] [15] f_Historical_200u_pos5_neg1_all_15recommendation.csv -> 1006 books -> Historical: avg/user=10.49, unique=62
+[Historical] [15] f_Historical_300u_pos5_neg1_all_15recommendation.csv -> 1112 books -> Historical: avg/user=11.57, unique=70
+[Historical] [15] f_Historical_350u_pos5_neg1_all_15recommendation.csv -> 1016 books -> Historical: avg/user=11.41, unique=74
+[Historical] [15] f_Historical_500u_pos5_neg1_all_15recommendation.csv -> 1240 books -> Historical: avg/user=11.67, unique=75
+[Historical] [15] f_Historical_1000u_pos5_neg1_all_15recommendation.csv -> 1226 books -> Historical: avg/user=11.37, unique=69
+[Historical] [25] f_Historical_2u_pos5_neg1_all_25recommendation.csv -> 1368 books -> Historical: avg/user=1.81, unique=106
+[Historical] [25] f_Historical_4u_pos5_neg1_all_25recommendation.csv -> 1419 books -> Historical: avg/user=1.86, unique=105
+[Historical] [25] f_Historical_6u_pos5_neg1_all_25recommendation.csv -> 1442 books -> Historical: avg/user=2.09, unique=129
+[Historical] [25] f_Historical_25u_pos5_neg1_all_25recommendation.csv -> 1452 books -> Historical: avg/user=4.17, unique=178
+[Historical] [25] f_Historical_50u_pos5_neg1_all_25recommendation.csv -> 1269 books -> Historical: avg/user=7.05, unique=124
+[Historical] [25] f_Historical_100u_pos5_neg1_all_25recommendation.csv -> 1327 books -> Historical: avg/user=11.91, unique=95
+[Historical] [25] f_Historical_200u_pos5_neg1_all_25recommendation.csv -> 1417 books -> Historical: avg/user=17.23, unique=85
+[Historical] [25] f_Historical_300u_pos5_neg1_all_25recommendation.csv -> 1521 books -> Historical: avg/user=19.11, unique=100
+[Historical] [25] f_Historical_350u_pos5_neg1_all_25recommendation.csv -> 1430 books -> Historical: avg/user=18.99, unique=97
+[Historical] [25] f_Historical_500u_pos5_neg1_all_25recommendation.csv -> 1669 books -> Historical: avg/user=19.31, unique=112
+[Historical] [25] f_Historical_1000u_pos5_neg1_all_25recommendation.csv -> 1718 books -> Historical: avg/user=18.42, unique=100
+[Historical] [35] f_Historical_2u_pos5_neg1_all_35recommendation.csv -> 1702 books -> Historical: avg/user=2.60, unique=129
+[Historical] [35] f_Historical_4u_pos5_neg1_all_35recommendation.csv -> 1789 books -> Historical: avg/user=2.60, unique=139
+[Historical] [35] f_Historical_6u_pos5_neg1_all_35recommendation.csv -> 1820 books -> Historical: avg/user=3.00, unique=159
+[Historical] [35] f_Historical_25u_pos5_neg1_all_35recommendation.csv -> 1782 books -> Historical: avg/user=5.96, unique=210
+[Historical] [35] f_Historical_50u_pos5_neg1_all_35recommendation.csv -> 1573 books -> Historical: avg/user=9.78, unique=149
+[Historical] [35] f_Historical_100u_pos5_neg1_all_35recommendation.csv -> 1638 books -> Historical: avg/user=16.26, unique=117
+[Historical] [35] f_Historical_200u_pos5_neg1_all_35recommendation.csv -> 1745 books -> Historical: avg/user=23.90, unique=112
+[Historical] [35] f_Historical_300u_pos5_neg1_all_35recommendation.csv -> 1866 books -> Historical: avg/user=26.69, unique=130
+[Historical] [35] f_Historical_350u_pos5_neg1_all_35recommendation.csv -> 1807 books -> Historical: avg/user=26.68, unique=121
+[Historical] [35] f_Historical_500u_pos5_neg1_all_35recommendation.csv -> 2030 books -> Historical: avg/user=27.08, unique=133
+[Historical] [35] f_Historical_1000u_pos5_neg1_all_35recommendation.csv -> 2135 books -> Historical: avg/user=25.64, unique=122
+[OK][Historical] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Historical_explanation/explanation.txt
+[OK][Historical] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Historical_explanation/per_book_ranking.csv
+[OK][Historical] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Historical_explanation/historical__pos5.png
+[Horror] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Horror: avg/user=1.16, unique=170
+[Horror] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Horror: avg/user=1.98, unique=238
+[Horror] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Horror: avg/user=2.78, unique=281
+[Horror] [15] f_Horror_2u_pos5_neg1_all_15recommendation.csv -> 1012 books -> Horror: avg/user=1.94, unique=84
+[Horror] [15] f_Horror_4u_pos5_neg1_all_15recommendation.csv -> 1018 books -> Horror: avg/user=1.93, unique=79
+[Horror] [15] f_Horror_6u_pos5_neg1_all_15recommendation.csv -> 1033 books -> Horror: avg/user=1.66, unique=87
+[Horror] [15] f_Horror_25u_pos5_neg1_all_15recommendation.csv -> 1072 books -> Horror: avg/user=2.69, unique=123
+[Horror] [15] f_Horror_50u_pos5_neg1_all_15recommendation.csv -> 927 books -> Horror: avg/user=4.03, unique=87
+[Horror] [15] f_Horror_100u_pos5_neg1_all_15recommendation.csv -> 1005 books -> Horror: avg/user=6.51, unique=71
+[Horror] [15] f_Horror_200u_pos5_neg1_all_15recommendation.csv -> 1094 books -> Horror: avg/user=10.08, unique=71
+[Horror] [15] f_Horror_300u_pos5_neg1_all_15recommendation.csv -> 1182 books -> Horror: avg/user=11.23, unique=74
+[Horror] [15] f_Horror_350u_pos5_neg1_all_15recommendation.csv -> 1102 books -> Horror: avg/user=11.28, unique=79
+[Horror] [15] f_Horror_500u_pos5_neg1_all_15recommendation.csv -> 1343 books -> Horror: avg/user=11.55, unique=91
+[Horror] [15] f_Horror_1000u_pos5_neg1_all_15recommendation.csv -> 1360 books -> Horror: avg/user=11.23, unique=86
+[Horror] [25] f_Horror_2u_pos5_neg1_all_25recommendation.csv -> 1372 books -> Horror: avg/user=3.04, unique=118
+[Horror] [25] f_Horror_4u_pos5_neg1_all_25recommendation.csv -> 1415 books -> Horror: avg/user=3.12, unique=109
+[Horror] [25] f_Horror_6u_pos5_neg1_all_25recommendation.csv -> 1433 books -> Horror: avg/user=2.76, unique=124
+[Horror] [25] f_Horror_25u_pos5_neg1_all_25recommendation.csv -> 1461 books -> Horror: avg/user=4.47, unique=172
+[Horror] [25] f_Horror_50u_pos5_neg1_all_25recommendation.csv -> 1293 books -> Horror: avg/user=6.80, unique=115
+[Horror] [25] f_Horror_100u_pos5_neg1_all_25recommendation.csv -> 1392 books -> Horror: avg/user=10.72, unique=99
+[Horror] [25] f_Horror_200u_pos5_neg1_all_25recommendation.csv -> 1499 books -> Horror: avg/user=16.56, unique=98
+[Horror] [25] f_Horror_300u_pos5_neg1_all_25recommendation.csv -> 1597 books -> Horror: avg/user=18.64, unique=98
+[Horror] [25] f_Horror_350u_pos5_neg1_all_25recommendation.csv -> 1495 books -> Horror: avg/user=18.81, unique=104
+[Horror] [25] f_Horror_500u_pos5_neg1_all_25recommendation.csv -> 1775 books -> Horror: avg/user=19.22, unique=114
+[Horror] [25] f_Horror_1000u_pos5_neg1_all_25recommendation.csv -> 1828 books -> Horror: avg/user=18.48, unique=113
+[Horror] [35] f_Horror_2u_pos5_neg1_all_35recommendation.csv -> 1706 books -> Horror: avg/user=4.13, unique=138
+[Horror] [35] f_Horror_4u_pos5_neg1_all_35recommendation.csv -> 1782 books -> Horror: avg/user=4.22, unique=141
+[Horror] [35] f_Horror_6u_pos5_neg1_all_35recommendation.csv -> 1819 books -> Horror: avg/user=3.83, unique=147
+[Horror] [35] f_Horror_25u_pos5_neg1_all_35recommendation.csv -> 1788 books -> Horror: avg/user=6.26, unique=204
+[Horror] [35] f_Horror_50u_pos5_neg1_all_35recommendation.csv -> 1627 books -> Horror: avg/user=9.51, unique=156
+[Horror] [35] f_Horror_100u_pos5_neg1_all_35recommendation.csv -> 1726 books -> Horror: avg/user=14.80, unique=126
+[Horror] [35] f_Horror_200u_pos5_neg1_all_35recommendation.csv -> 1856 books -> Horror: avg/user=23.05, unique=126
+[Horror] [35] f_Horror_300u_pos5_neg1_all_35recommendation.csv -> 1930 books -> Horror: avg/user=26.14, unique=126
+[Horror] [35] f_Horror_350u_pos5_neg1_all_35recommendation.csv -> 1869 books -> Horror: avg/user=26.47, unique=126
+[Horror] [35] f_Horror_500u_pos5_neg1_all_35recommendation.csv -> 2162 books -> Horror: avg/user=27.06, unique=130
+[Horror] [35] f_Horror_1000u_pos5_neg1_all_35recommendation.csv -> 2236 books -> Horror: avg/user=25.96, unique=144
+[OK][Horror] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Horror_explanation/explanation.txt
+[OK][Horror] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Horror_explanation/per_book_ranking.csv
+[OK][Horror] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Horror_explanation/horror__pos5.png
+[Mystery] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Mystery: avg/user=3.80, unique=438
+[Mystery] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Mystery: avg/user=6.12, unique=606
+[Mystery] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Mystery: avg/user=8.36, unique=732
+[Mystery] [15] f_Mystery_2u_pos5_neg1_all_15recommendation.csv -> 1019 books -> Mystery: avg/user=3.48, unique=206
+[Mystery] [15] f_Mystery_4u_pos5_neg1_all_15recommendation.csv -> 1031 books -> Mystery: avg/user=3.82, unique=224
+[Mystery] [15] f_Mystery_6u_pos5_neg1_all_15recommendation.csv -> 1040 books -> Mystery: avg/user=3.41, unique=211
+[Mystery] [15] f_Mystery_25u_pos5_neg1_all_15recommendation.csv -> 1071 books -> Mystery: avg/user=4.01, unique=279
+[Mystery] [15] f_Mystery_50u_pos5_neg1_all_15recommendation.csv -> 959 books -> Mystery: avg/user=5.52, unique=227
+[Mystery] [15] f_Mystery_100u_pos5_neg1_all_15recommendation.csv -> 997 books -> Mystery: avg/user=8.74, unique=176
+[Mystery] [15] f_Mystery_200u_pos5_neg1_all_15recommendation.csv -> 1040 books -> Mystery: avg/user=11.35, unique=161
+[Mystery] [15] f_Mystery_300u_pos5_neg1_all_15recommendation.csv -> 1101 books -> Mystery: avg/user=12.01, unique=168
+[Mystery] [15] f_Mystery_350u_pos5_neg1_all_15recommendation.csv -> 1102 books -> Mystery: avg/user=12.19, unique=157
+[Mystery] [15] f_Mystery_500u_pos5_neg1_all_15recommendation.csv -> 1228 books -> Mystery: avg/user=12.25, unique=210
+[Mystery] [15] f_Mystery_1000u_pos5_neg1_all_15recommendation.csv -> 295 books -> Mystery: avg/user=7.10, unique=70
+[Mystery] [25] f_Mystery_2u_pos5_neg1_all_25recommendation.csv -> 1381 books -> Mystery: avg/user=5.75, unique=287
+[Mystery] [25] f_Mystery_4u_pos5_neg1_all_25recommendation.csv -> 1430 books -> Mystery: avg/user=6.05, unique=314
+[Mystery] [25] f_Mystery_6u_pos5_neg1_all_25recommendation.csv -> 1450 books -> Mystery: avg/user=5.57, unique=300
+[Mystery] [25] f_Mystery_25u_pos5_neg1_all_25recommendation.csv -> 1447 books -> Mystery: avg/user=6.86, unique=370
+[Mystery] [25] f_Mystery_50u_pos5_neg1_all_25recommendation.csv -> 1310 books -> Mystery: avg/user=9.21, unique=299
+[Mystery] [25] f_Mystery_100u_pos5_neg1_all_25recommendation.csv -> 1390 books -> Mystery: avg/user=13.99, unique=248
+[Mystery] [25] f_Mystery_200u_pos5_neg1_all_25recommendation.csv -> 1462 books -> Mystery: avg/user=18.24, unique=231
+[Mystery] [25] f_Mystery_300u_pos5_neg1_all_25recommendation.csv -> 1502 books -> Mystery: avg/user=19.30, unique=231
+[Mystery] [25] f_Mystery_350u_pos5_neg1_all_25recommendation.csv -> 1542 books -> Mystery: avg/user=19.64, unique=227
+[Mystery] [25] f_Mystery_500u_pos5_neg1_all_25recommendation.csv -> 1708 books -> Mystery: avg/user=19.52, unique=272
+[Mystery] [25] f_Mystery_1000u_pos5_neg1_all_25recommendation.csv -> 470 books -> Mystery: avg/user=15.68, unique=99
+[Mystery] [35] f_Mystery_2u_pos5_neg1_all_35recommendation.csv -> 1706 books -> Mystery: avg/user=7.97, unique=363
+[Mystery] [35] f_Mystery_4u_pos5_neg1_all_35recommendation.csv -> 1795 books -> Mystery: avg/user=8.24, unique=402
+[Mystery] [35] f_Mystery_6u_pos5_neg1_all_35recommendation.csv -> 1835 books -> Mystery: avg/user=7.68, unique=388
+[Mystery] [35] f_Mystery_25u_pos5_neg1_all_35recommendation.csv -> 1752 books -> Mystery: avg/user=9.67, unique=444
+[Mystery] [35] f_Mystery_50u_pos5_neg1_all_35recommendation.csv -> 1652 books -> Mystery: avg/user=12.84, unique=364
+[Mystery] [35] f_Mystery_100u_pos5_neg1_all_35recommendation.csv -> 1689 books -> Mystery: avg/user=19.04, unique=292
+[Mystery] [35] f_Mystery_200u_pos5_neg1_all_35recommendation.csv -> 1807 books -> Mystery: avg/user=25.14, unique=281
+[Mystery] [35] f_Mystery_300u_pos5_neg1_all_35recommendation.csv -> 1874 books -> Mystery: avg/user=26.64, unique=294
+[Mystery] [35] f_Mystery_350u_pos5_neg1_all_35recommendation.csv -> 1943 books -> Mystery: avg/user=27.11, unique=281
+[Mystery] [35] f_Mystery_500u_pos5_neg1_all_35recommendation.csv -> 2099 books -> Mystery: avg/user=26.78, unique=336
+[Mystery] [35] f_Mystery_1000u_pos5_neg1_all_35recommendation.csv -> 638 books -> Mystery: avg/user=24.85, unique=136
+[OK][Mystery] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Mystery_explanation/explanation.txt
+[OK][Mystery] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Mystery_explanation/per_book_ranking.csv
+[OK][Mystery] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Mystery_explanation/mystery__pos5.png
+[Nonfiction] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Nonfiction: avg/user=2.22, unique=249
+[Nonfiction] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Nonfiction: avg/user=3.46, unique=317
+[Nonfiction] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Nonfiction: avg/user=4.71, unique=375
+[Nonfiction] [15] f_Nonfiction_2u_pos5_neg1_all_15recommendation.csv -> 1011 books -> Nonfiction: avg/user=1.38, unique=126
+[Nonfiction] [15] f_Nonfiction_4u_pos5_neg1_all_15recommendation.csv -> 1027 books -> Nonfiction: avg/user=1.14, unique=118
+[Nonfiction] [15] f_Nonfiction_6u_pos5_neg1_all_15recommendation.csv -> 1038 books -> Nonfiction: avg/user=1.40, unique=125
+[Nonfiction] [15] f_Nonfiction_25u_pos5_neg1_all_15recommendation.csv -> 1070 books -> Nonfiction: avg/user=2.43, unique=147
+[Nonfiction] [15] f_Nonfiction_50u_pos5_neg1_all_15recommendation.csv -> 894 books -> Nonfiction: avg/user=4.02, unique=97
+[Nonfiction] [15] f_Nonfiction_100u_pos5_neg1_all_15recommendation.csv -> 967 books -> Nonfiction: avg/user=6.98, unique=66
+[Nonfiction] [15] f_Nonfiction_200u_pos5_neg1_all_15recommendation.csv -> 1037 books -> Nonfiction: avg/user=10.29, unique=54
+[Nonfiction] [15] f_Nonfiction_300u_pos5_neg1_all_15recommendation.csv -> 1127 books -> Nonfiction: avg/user=11.29, unique=55
+[Nonfiction] [15] f_Nonfiction_350u_pos5_neg1_all_15recommendation.csv -> 996 books -> Nonfiction: avg/user=10.95, unique=50
+[Nonfiction] [15] f_Nonfiction_500u_pos5_neg1_all_15recommendation.csv -> 285 books -> Nonfiction: avg/user=6.73, unique=36
+[Nonfiction] [15] f_Nonfiction_1000u_pos5_neg1_all_15recommendation.csv -> 280 books -> Nonfiction: avg/user=5.35, unique=31
+[Nonfiction] [25] f_Nonfiction_2u_pos5_neg1_all_25recommendation.csv -> 1378 books -> Nonfiction: avg/user=2.40, unique=167
+[Nonfiction] [25] f_Nonfiction_4u_pos5_neg1_all_25recommendation.csv -> 1433 books -> Nonfiction: avg/user=2.16, unique=172
+[Nonfiction] [25] f_Nonfiction_6u_pos5_neg1_all_25recommendation.csv -> 1463 books -> Nonfiction: avg/user=2.59, unique=186
+[Nonfiction] [25] f_Nonfiction_25u_pos5_neg1_all_25recommendation.csv -> 1457 books -> Nonfiction: avg/user=4.29, unique=213
+[Nonfiction] [25] f_Nonfiction_50u_pos5_neg1_all_25recommendation.csv -> 1249 books -> Nonfiction: avg/user=6.90, unique=144
+[Nonfiction] [25] f_Nonfiction_100u_pos5_neg1_all_25recommendation.csv -> 1347 books -> Nonfiction: avg/user=11.58, unique=90
+[Nonfiction] [25] f_Nonfiction_200u_pos5_neg1_all_25recommendation.csv -> 1405 books -> Nonfiction: avg/user=17.12, unique=75
+[Nonfiction] [25] f_Nonfiction_300u_pos5_neg1_all_25recommendation.csv -> 1531 books -> Nonfiction: avg/user=18.80, unique=79
+[Nonfiction] [25] f_Nonfiction_350u_pos5_neg1_all_25recommendation.csv -> 1426 books -> Nonfiction: avg/user=18.38, unique=74
+[Nonfiction] [25] f_Nonfiction_500u_pos5_neg1_all_25recommendation.csv -> 461 books -> Nonfiction: avg/user=15.07, unique=58
+[Nonfiction] [25] f_Nonfiction_1000u_pos5_neg1_all_25recommendation.csv -> 448 books -> Nonfiction: avg/user=13.95, unique=49
+[Nonfiction] [35] f_Nonfiction_2u_pos5_neg1_all_35recommendation.csv -> 1706 books -> Nonfiction: avg/user=3.48, unique=210
+[Nonfiction] [35] f_Nonfiction_4u_pos5_neg1_all_35recommendation.csv -> 1785 books -> Nonfiction: avg/user=3.35, unique=218
+[Nonfiction] [35] f_Nonfiction_6u_pos5_neg1_all_35recommendation.csv -> 1832 books -> Nonfiction: avg/user=3.89, unique=237
+[Nonfiction] [35] f_Nonfiction_25u_pos5_neg1_all_35recommendation.csv -> 1805 books -> Nonfiction: avg/user=6.24, unique=268
+[Nonfiction] [35] f_Nonfiction_50u_pos5_neg1_all_35recommendation.csv -> 1557 books -> Nonfiction: avg/user=9.83, unique=167
+[Nonfiction] [35] f_Nonfiction_100u_pos5_neg1_all_35recommendation.csv -> 1672 books -> Nonfiction: avg/user=16.20, unique=113
+[Nonfiction] [35] f_Nonfiction_200u_pos5_neg1_all_35recommendation.csv -> 1748 books -> Nonfiction: avg/user=23.98, unique=97
+[Nonfiction] [35] f_Nonfiction_300u_pos5_neg1_all_35recommendation.csv -> 1865 books -> Nonfiction: avg/user=26.36, unique=99
+[Nonfiction] [35] f_Nonfiction_350u_pos5_neg1_all_35recommendation.csv -> 1805 books -> Nonfiction: avg/user=25.94, unique=93
+[Nonfiction] [35] f_Nonfiction_500u_pos5_neg1_all_35recommendation.csv -> 621 books -> Nonfiction: avg/user=24.03, unique=71
+[Nonfiction] [35] f_Nonfiction_1000u_pos5_neg1_all_35recommendation.csv -> 613 books -> Nonfiction: avg/user=23.18, unique=70
+[OK][Nonfiction] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Nonfiction_explanation/explanation.txt
+[OK][Nonfiction] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Nonfiction_explanation/per_book_ranking.csv
+[OK][Nonfiction] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Nonfiction_explanation/nonfiction__pos5.png
+[Romance] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Romance: avg/user=2.40, unique=399
+[Romance] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Romance: avg/user=3.95, unique=538
+[Romance] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Romance: avg/user=5.48, unique=669
+[Romance] [15] f_Romance_2u_pos5_neg1_all_15recommendation.csv -> 1016 books -> Romance: avg/user=1.85, unique=147
+[Romance] [15] f_Romance_4u_pos5_neg1_all_15recommendation.csv -> 1042 books -> Romance: avg/user=2.33, unique=162
+[Romance] [15] f_Romance_6u_pos5_neg1_all_15recommendation.csv -> 1035 books -> Romance: avg/user=2.40, unique=157
+[Romance] [15] f_Romance_25u_pos5_neg1_all_15recommendation.csv -> 1096 books -> Romance: avg/user=2.75, unique=184
+[Romance] [15] f_Romance_50u_pos5_neg1_all_15recommendation.csv -> 973 books -> Romance: avg/user=4.78, unique=166
+[Romance] [15] f_Romance_100u_pos5_neg1_all_15recommendation.csv -> 946 books -> Romance: avg/user=8.74, unique=100
+[Romance] [15] f_Romance_200u_pos5_neg1_all_15recommendation.csv -> 993 books -> Romance: avg/user=12.09, unique=80
+[Romance] [15] f_Romance_300u_pos5_neg1_all_15recommendation.csv -> 1037 books -> Romance: avg/user=12.79, unique=94
+[Romance] [15] f_Romance_350u_pos5_neg1_all_15recommendation.csv -> 946 books -> Romance: avg/user=12.85, unique=73
+[Romance] [15] f_Romance_500u_pos5_neg1_all_15recommendation.csv -> 1125 books -> Romance: avg/user=12.85, unique=92
+[Romance] [15] f_Romance_1000u_pos5_neg1_all_15recommendation.csv -> 290 books -> Romance: avg/user=4.28, unique=46
+[Romance] [25] f_Romance_2u_pos5_neg1_all_25recommendation.csv -> 1384 books -> Romance: avg/user=3.03, unique=218
+[Romance] [25] f_Romance_4u_pos5_neg1_all_25recommendation.csv -> 1441 books -> Romance: avg/user=3.83, unique=228
+[Romance] [25] f_Romance_6u_pos5_neg1_all_25recommendation.csv -> 1461 books -> Romance: avg/user=3.76, unique=221
+[Romance] [25] f_Romance_25u_pos5_neg1_all_25recommendation.csv -> 1492 books -> Romance: avg/user=4.53, unique=257
+[Romance] [25] f_Romance_50u_pos5_neg1_all_25recommendation.csv -> 1348 books -> Romance: avg/user=7.67, unique=235
+[Romance] [25] f_Romance_100u_pos5_neg1_all_25recommendation.csv -> 1333 books -> Romance: avg/user=13.32, unique=148
+[Romance] [25] f_Romance_200u_pos5_neg1_all_25recommendation.csv -> 1408 books -> Romance: avg/user=18.60, unique=115
+[Romance] [25] f_Romance_300u_pos5_neg1_all_25recommendation.csv -> 1461 books -> Romance: avg/user=19.94, unique=128
+[Romance] [25] f_Romance_350u_pos5_neg1_all_25recommendation.csv -> 1377 books -> Romance: avg/user=19.92, unique=106
+[Romance] [25] f_Romance_500u_pos5_neg1_all_25recommendation.csv -> 1575 books -> Romance: avg/user=19.84, unique=126
+[Romance] [25] f_Romance_1000u_pos5_neg1_all_25recommendation.csv -> 464 books -> Romance: avg/user=11.85, unique=77
+[Romance] [35] f_Romance_2u_pos5_neg1_all_35recommendation.csv -> 1715 books -> Romance: avg/user=4.19, unique=271
+[Romance] [35] f_Romance_4u_pos5_neg1_all_35recommendation.csv -> 1809 books -> Romance: avg/user=5.25, unique=273
+[Romance] [35] f_Romance_6u_pos5_neg1_all_35recommendation.csv -> 1840 books -> Romance: avg/user=5.02, unique=285
+[Romance] [35] f_Romance_25u_pos5_neg1_all_35recommendation.csv -> 1853 books -> Romance: avg/user=6.29, unique=334
+[Romance] [35] f_Romance_50u_pos5_neg1_all_35recommendation.csv -> 1658 books -> Romance: avg/user=10.43, unique=286
+[Romance] [35] f_Romance_100u_pos5_neg1_all_35recommendation.csv -> 1639 books -> Romance: avg/user=17.50, unique=188
+[Romance] [35] f_Romance_200u_pos5_neg1_all_35recommendation.csv -> 1754 books -> Romance: avg/user=24.67, unique=149
+[Romance] [35] f_Romance_300u_pos5_neg1_all_35recommendation.csv -> 1809 books -> Romance: avg/user=26.69, unique=158
+[Romance] [35] f_Romance_350u_pos5_neg1_all_35recommendation.csv -> 1753 books -> Romance: avg/user=26.67, unique=136
+[Romance] [35] f_Romance_500u_pos5_neg1_all_35recommendation.csv -> 1951 books -> Romance: avg/user=26.44, unique=156
+[Romance] [35] f_Romance_1000u_pos5_neg1_all_35recommendation.csv -> 629 books -> Romance: avg/user=20.48, unique=102
+[OK][Romance] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Romance_explanation/explanation.txt
+[OK][Romance] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Romance_explanation/per_book_ranking.csv
+[OK][Romance] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Romance_explanation/romance__pos5.png
+[Science Fiction] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Science Fiction: avg/user=0.99, unique=147
+[Science Fiction] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Science Fiction: avg/user=1.62, unique=204
+[Science Fiction] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Science Fiction: avg/user=2.28, unique=247
+[Science Fiction] [15] f_Science_Fiction_2u_pos5_neg1_all_15recommendation.csv -> 1007 books -> Science Fiction: avg/user=1.13, unique=79
+[Science Fiction] [15] f_Science_Fiction_4u_pos5_neg1_all_15recommendation.csv -> 1021 books -> Science Fiction: avg/user=1.46, unique=93
+[Science Fiction] [15] f_Science_Fiction_6u_pos5_neg1_all_15recommendation.csv -> 1025 books -> Science Fiction: avg/user=1.76, unique=92
+[Science Fiction] [15] f_Science_Fiction_25u_pos5_neg1_all_15recommendation.csv -> 1103 books -> Science Fiction: avg/user=2.28, unique=143
+[Science Fiction] [15] f_Science_Fiction_50u_pos5_neg1_all_15recommendation.csv -> 924 books -> Science Fiction: avg/user=4.00, unique=92
+[Science Fiction] [15] f_Science_Fiction_100u_pos5_neg1_all_15recommendation.csv -> 958 books -> Science Fiction: avg/user=7.85, unique=71
+[Science Fiction] [15] f_Science_Fiction_200u_pos5_neg1_all_15recommendation.csv -> 1005 books -> Science Fiction: avg/user=11.48, unique=46
+[Science Fiction] [15] f_Science_Fiction_300u_pos5_neg1_all_15recommendation.csv -> 1073 books -> Science Fiction: avg/user=12.45, unique=43
+[Science Fiction] [15] f_Science_Fiction_350u_pos5_neg1_all_15recommendation.csv -> 1027 books -> Science Fiction: avg/user=12.06, unique=43
+[Science Fiction] [15] f_Science_Fiction_500u_pos5_neg1_all_15recommendation.csv -> 1222 books -> Science Fiction: avg/user=12.40, unique=46
+[Science Fiction] [15] f_Science_Fiction_1000u_pos5_neg1_all_15recommendation.csv -> 1175 books -> Science Fiction: avg/user=12.43, unique=41
+[Science Fiction] [25] f_Science_Fiction_2u_pos5_neg1_all_25recommendation.csv -> 1375 books -> Science Fiction: avg/user=1.92, unique=111
+[Science Fiction] [25] f_Science_Fiction_4u_pos5_neg1_all_25recommendation.csv -> 1429 books -> Science Fiction: avg/user=2.47, unique=129
+[Science Fiction] [25] f_Science_Fiction_6u_pos5_neg1_all_25recommendation.csv -> 1440 books -> Science Fiction: avg/user=2.83, unique=128
+[Science Fiction] [25] f_Science_Fiction_25u_pos5_neg1_all_25recommendation.csv -> 1481 books -> Science Fiction: avg/user=4.01, unique=189
+[Science Fiction] [25] f_Science_Fiction_50u_pos5_neg1_all_25recommendation.csv -> 1292 books -> Science Fiction: avg/user=6.67, unique=126
+[Science Fiction] [25] f_Science_Fiction_100u_pos5_neg1_all_25recommendation.csv -> 1373 books -> Science Fiction: avg/user=12.35, unique=91
+[Science Fiction] [25] f_Science_Fiction_200u_pos5_neg1_all_25recommendation.csv -> 1399 books -> Science Fiction: avg/user=18.15, unique=65
+[Science Fiction] [25] f_Science_Fiction_300u_pos5_neg1_all_25recommendation.csv -> 1485 books -> Science Fiction: avg/user=19.77, unique=61
+[Science Fiction] [25] f_Science_Fiction_350u_pos5_neg1_all_25recommendation.csv -> 1437 books -> Science Fiction: avg/user=19.34, unique=62
+[Science Fiction] [25] f_Science_Fiction_500u_pos5_neg1_all_25recommendation.csv -> 1641 books -> Science Fiction: avg/user=19.65, unique=62
+[Science Fiction] [25] f_Science_Fiction_1000u_pos5_neg1_all_25recommendation.csv -> 1682 books -> Science Fiction: avg/user=19.19, unique=63
+[Science Fiction] [35] f_Science_Fiction_2u_pos5_neg1_all_35recommendation.csv -> 1708 books -> Science Fiction: avg/user=2.76, unique=134
+[Science Fiction] [35] f_Science_Fiction_4u_pos5_neg1_all_35recommendation.csv -> 1796 books -> Science Fiction: avg/user=3.50, unique=157
+[Science Fiction] [35] f_Science_Fiction_6u_pos5_neg1_all_35recommendation.csv -> 1825 books -> Science Fiction: avg/user=3.90, unique=171
+[Science Fiction] [35] f_Science_Fiction_25u_pos5_neg1_all_35recommendation.csv -> 1784 books -> Science Fiction: avg/user=5.81, unique=223
+[Science Fiction] [35] f_Science_Fiction_50u_pos5_neg1_all_35recommendation.csv -> 1619 books -> Science Fiction: avg/user=9.31, unique=157
+[Science Fiction] [35] f_Science_Fiction_100u_pos5_neg1_all_35recommendation.csv -> 1698 books -> Science Fiction: avg/user=16.65, unique=100
+[Science Fiction] [35] f_Science_Fiction_200u_pos5_neg1_all_35recommendation.csv -> 1754 books -> Science Fiction: avg/user=24.62, unique=80
+[Science Fiction] [35] f_Science_Fiction_300u_pos5_neg1_all_35recommendation.csv -> 1839 books -> Science Fiction: avg/user=27.03, unique=76
+[Science Fiction] [35] f_Science_Fiction_350u_pos5_neg1_all_35recommendation.csv -> 1820 books -> Science Fiction: avg/user=26.61, unique=79
+[Science Fiction] [35] f_Science_Fiction_500u_pos5_neg1_all_35recommendation.csv -> 2043 books -> Science Fiction: avg/user=26.88, unique=77
+[Science Fiction] [35] f_Science_Fiction_1000u_pos5_neg1_all_35recommendation.csv -> 2082 books -> Science Fiction: avg/user=25.71, unique=83
+[OK][Science Fiction] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Science_Fiction_explanation/explanation.txt
+[OK][Science Fiction] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Science_Fiction_explanation/per_book_ranking.csv
+[OK][Science Fiction] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Science_Fiction_explanation/science_fiction__pos5.png
+[Thriller] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Thriller: avg/user=1.90, unique=254
+[Thriller] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Thriller: avg/user=3.11, unique=346
+[Thriller] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Thriller: avg/user=4.29, unique=418
+[Thriller] [15] f_Thriller_2u_pos5_neg1_all_15recommendation.csv -> 1012 books -> Thriller: avg/user=1.36, unique=96
+[warn][Thriller] Missing NMF injection file for N=4, K=15
+[warn][Thriller] Missing NMF injection file for N=6, K=15
+[Thriller] [15] f_Thriller_25u_pos5_neg1_all_15recommendation.csv -> 1051 books -> Thriller: avg/user=2.25, unique=153
+[warn][Thriller] Missing NMF injection file for N=50, K=15
+[Thriller] [15] f_Thriller_100u_pos5_neg1_all_15recommendation.csv -> 999 books -> Thriller: avg/user=6.44, unique=105
+[Thriller] [15] f_Thriller_200u_pos5_neg1_all_15recommendation.csv -> 1010 books -> Thriller: avg/user=9.68, unique=112
+[warn][Thriller] Missing NMF injection file for N=300, K=15
+[warn][Thriller] Missing NMF injection file for N=350, K=15
+[warn][Thriller] Missing NMF injection file for N=500, K=15
+[Thriller] [15] f_Thriller_1000u_pos5_neg1_all_15recommendation.csv -> 1336 books -> Thriller: avg/user=11.00, unique=136
+[Thriller] [25] f_Thriller_2u_pos5_neg1_all_25recommendation.csv -> 1365 books -> Thriller: avg/user=2.33, unique=147
+[warn][Thriller] Missing NMF injection file for N=4, K=25
+[warn][Thriller] Missing NMF injection file for N=6, K=25
+[Thriller] [25] f_Thriller_25u_pos5_neg1_all_25recommendation.csv -> 1429 books -> Thriller: avg/user=3.90, unique=224
+[warn][Thriller] Missing NMF injection file for N=50, K=25
+[Thriller] [25] f_Thriller_100u_pos5_neg1_all_25recommendation.csv -> 1390 books -> Thriller: avg/user=10.75, unique=156
+[Thriller] [25] f_Thriller_200u_pos5_neg1_all_25recommendation.csv -> 1443 books -> Thriller: avg/user=16.49, unique=161
+[warn][Thriller] Missing NMF injection file for N=300, K=25
+[warn][Thriller] Missing NMF injection file for N=350, K=25
+[warn][Thriller] Missing NMF injection file for N=500, K=25
+[Thriller] [25] f_Thriller_1000u_pos5_neg1_all_25recommendation.csv -> 1808 books -> Thriller: avg/user=18.54, unique=189
+[Thriller] [35] f_Thriller_2u_pos5_neg1_all_35recommendation.csv -> 1702 books -> Thriller: avg/user=3.31, unique=191
+[warn][Thriller] Missing NMF injection file for N=4, K=35
+[warn][Thriller] Missing NMF injection file for N=6, K=35
+[Thriller] [35] f_Thriller_25u_pos5_neg1_all_35recommendation.csv -> 1763 books -> Thriller: avg/user=5.60, unique=285
+[warn][Thriller] Missing NMF injection file for N=50, K=35
+[Thriller] [35] f_Thriller_100u_pos5_neg1_all_35recommendation.csv -> 1710 books -> Thriller: avg/user=15.16, unique=195
+[Thriller] [35] f_Thriller_200u_pos5_neg1_all_35recommendation.csv -> 1806 books -> Thriller: avg/user=23.47, unique=203
+[warn][Thriller] Missing NMF injection file for N=300, K=35
+[warn][Thriller] Missing NMF injection file for N=350, K=35
+[warn][Thriller] Missing NMF injection file for N=500, K=35
+[Thriller] [35] f_Thriller_1000u_pos5_neg1_all_35recommendation.csv -> 2197 books -> Thriller: avg/user=26.31, unique=231
+[OK][Thriller] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Thriller_explanation/explanation.txt
+[OK][Thriller] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Thriller_explanation/per_book_ranking.csv
+[OK][Thriller] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Thriller_explanation/thriller__pos5.png
+[Children's] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Children's: avg/user=1.07, unique=187
+[Children's] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Children's: avg/user=2.08, unique=268
+[Children's] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Children's: avg/user=3.15, unique=336
+[warn][Children's] Missing NMF injection file for N=2, K=15
+[warn][Children's] Missing NMF injection file for N=4, K=15
+[warn][Children's] Missing NMF injection file for N=6, K=15
+[warn][Children's] Missing NMF injection file for N=25, K=15
+[warn][Children's] Missing NMF injection file for N=50, K=15
+[warn][Children's] Missing NMF injection file for N=100, K=15
+[warn][Children's] Missing NMF injection file for N=200, K=15
+[warn][Children's] Missing NMF injection file for N=300, K=15
+[warn][Children's] Missing NMF injection file for N=350, K=15
+[warn][Children's] Missing NMF injection file for N=500, K=15
+[warn][Children's] Missing NMF injection file for N=1000, K=15
+[warn][Children's] Missing NMF injection file for N=2, K=25
+[warn][Children's] Missing NMF injection file for N=4, K=25
+[warn][Children's] Missing NMF injection file for N=6, K=25
+[warn][Children's] Missing NMF injection file for N=25, K=25
+[warn][Children's] Missing NMF injection file for N=50, K=25
+[warn][Children's] Missing NMF injection file for N=100, K=25
+[warn][Children's] Missing NMF injection file for N=200, K=25
+[warn][Children's] Missing NMF injection file for N=300, K=25
+[warn][Children's] Missing NMF injection file for N=350, K=25
+[warn][Children's] Missing NMF injection file for N=500, K=25
+[warn][Children's] Missing NMF injection file for N=1000, K=25
+[warn][Children's] Missing NMF injection file for N=2, K=35
+[warn][Children's] Missing NMF injection file for N=4, K=35
+[warn][Children's] Missing NMF injection file for N=6, K=35
+[warn][Children's] Missing NMF injection file for N=25, K=35
+[warn][Children's] Missing NMF injection file for N=50, K=35
+[warn][Children's] Missing NMF injection file for N=100, K=35
+[warn][Children's] Missing NMF injection file for N=200, K=35
+[warn][Children's] Missing NMF injection file for N=300, K=35
+[warn][Children's] Missing NMF injection file for N=350, K=35
+[warn][Children's] Missing NMF injection file for N=500, K=35
+[warn][Children's] Missing NMF injection file for N=1000, K=35
+[OK][Children's] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Children_s_explanation/explanation.txt
+[OK][Children's] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Children_s_explanation/per_book_ranking.csv
+[OK][Children's] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Children_s_explanation/children_s__pos5.png
+[Adult] [15], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_15recommendation.csv -> 2041 books -> Adult: avg/user=0.60, unique=86
+[Adult] [25], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_25recommendation.csv -> 2771 books -> Adult: avg/user=0.94, unique=110
+[Adult] [35], /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020 * SVD AND/SVD_pair/ORIGINAL_35recommendation.csv -> 3366 books -> Adult: avg/user=1.25, unique=129
+[Adult] [15] f_Adult_2u_pos5_neg1_all_15recommendation.csv -> 1020 books -> Adult: avg/user=0.17, unique=22
+[Adult] [15] f_Adult_4u_pos5_neg1_all_15recommendation.csv -> 1023 books -> Adult: avg/user=0.78, unique=39
+[Adult] [15] f_Adult_6u_pos5_neg1_all_15recommendation.csv -> 1049 books -> Adult: avg/user=0.74, unique=47
+[Adult] [15] f_Adult_25u_pos5_neg1_all_15recommendation.csv -> 998 books -> Adult: avg/user=2.47, unique=33
+[Adult] [15] f_Adult_50u_pos5_neg1_all_15recommendation.csv -> 904 books -> Adult: avg/user=4.56, unique=37
+[Adult] [15] f_Adult_100u_pos5_neg1_all_15recommendation.csv -> 985 books -> Adult: avg/user=7.61, unique=35
+[Adult] [15] f_Adult_200u_pos5_neg1_all_15recommendation.csv -> 1028 books -> Adult: avg/user=10.63, unique=35
+[Adult] [15] f_Adult_300u_pos5_neg1_all_15recommendation.csv -> 1094 books -> Adult: avg/user=11.74, unique=43
+[Adult] [15] f_Adult_350u_pos5_neg1_all_15recommendation.csv -> 991 books -> Adult: avg/user=11.66, unique=35
+[Adult] [15] f_Adult_500u_pos5_neg1_all_15recommendation.csv -> 1213 books -> Adult: avg/user=12.41, unique=37
+[Adult] [15] f_Adult_1000u_pos5_neg1_all_15recommendation.csv -> 1192 books -> Adult: avg/user=12.36, unique=37
+[Adult] [25] f_Adult_2u_pos5_neg1_all_25recommendation.csv -> 1377 books -> Adult: avg/user=0.26, unique=39
+[Adult] [25] f_Adult_4u_pos5_neg1_all_25recommendation.csv -> 1418 books -> Adult: avg/user=1.08, unique=54
+[Adult] [25] f_Adult_6u_pos5_neg1_all_25recommendation.csv -> 1441 books -> Adult: avg/user=1.02, unique=67
+[Adult] [25] f_Adult_25u_pos5_neg1_all_25recommendation.csv -> 1373 books -> Adult: avg/user=3.97, unique=53
+[Adult] [25] f_Adult_50u_pos5_neg1_all_25recommendation.csv -> 1240 books -> Adult: avg/user=7.61, unique=54
+[Adult] [25] f_Adult_100u_pos5_neg1_all_25recommendation.csv -> 1345 books -> Adult: avg/user=12.94, unique=52
+[Adult] [25] f_Adult_200u_pos5_neg1_all_25recommendation.csv -> 1408 books -> Adult: avg/user=18.12, unique=49
+[Adult] [25] f_Adult_300u_pos5_neg1_all_25recommendation.csv -> 1485 books -> Adult: avg/user=19.97, unique=61
+[Adult] [25] f_Adult_350u_pos5_neg1_all_25recommendation.csv -> 1399 books -> Adult: avg/user=19.96, unique=54
+[Adult] [25] f_Adult_500u_pos5_neg1_all_25recommendation.csv -> 1630 books -> Adult: avg/user=21.02, unique=55
+[Adult] [25] f_Adult_1000u_pos5_neg1_all_25recommendation.csv -> 1655 books -> Adult: avg/user=20.95, unique=52
+[Adult] [35] f_Adult_2u_pos5_neg1_all_35recommendation.csv -> 1714 books -> Adult: avg/user=0.38, unique=51
+[Adult] [35] f_Adult_4u_pos5_neg1_all_35recommendation.csv -> 1790 books -> Adult: avg/user=1.36, unique=62
+[Adult] [35] f_Adult_6u_pos5_neg1_all_35recommendation.csv -> 1839 books -> Adult: avg/user=1.31, unique=80
+[Adult] [35] f_Adult_25u_pos5_neg1_all_35recommendation.csv -> 1685 books -> Adult: avg/user=5.41, unique=65
+[Adult] [35] f_Adult_50u_pos5_neg1_all_35recommendation.csv -> 1555 books -> Adult: avg/user=10.71, unique=71
+[Adult] [35] f_Adult_100u_pos5_neg1_all_35recommendation.csv -> 1662 books -> Adult: avg/user=18.46, unique=66
+[Adult] [35] f_Adult_200u_pos5_neg1_all_35recommendation.csv -> 1741 books -> Adult: avg/user=25.79, unique=63
+[Adult] [35] f_Adult_300u_pos5_neg1_all_35recommendation.csv -> 1819 books -> Adult: avg/user=28.38, unique=79
+[Adult] [35] f_Adult_350u_pos5_neg1_all_35recommendation.csv -> 1748 books -> Adult: avg/user=28.45, unique=70
+[Adult] [35] f_Adult_500u_pos5_neg1_all_35recommendation.csv -> 1957 books -> Adult: avg/user=29.77, unique=72
+[Adult] [35] f_Adult_1000u_pos5_neg1_all_35recommendation.csv -> 2036 books -> Adult: avg/user=29.73, unique=69
+[OK][Adult] Saved text:   /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Adult_explanation/explanation.txt
+[OK][Adult] Saved table:  /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Adult_explanation/per_book_ranking.csv
+[OK][Adult] Saved figure: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/Adult_explanation/adult__pos5.png
+[OK] Wrote master summary: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/_all_genres/summary_master.txt
+[OK] Wrote global per-book ranking CSV: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/analysis/5/_all_genres/per_book_ranking_all.csv

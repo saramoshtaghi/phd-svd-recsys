@@ -1,0 +1,13 @@
+classics__mystery:
+original 15: number_of_unique_books: 15
+original 25: number_of_unique_books: 20
+original 35: number_of_unique_books: 24
+2u, 15, number_of_unique_books: 29
+4u, 15, number_of_unique_books: 47
+6u, 15, number_of_unique_books: 57
+2u, 25, number_of_unique_books: 36
+4u, 25, number_of_unique_books: 53
+6u, 25, number_of_unique_books: 58
+2u, 35, number_of_unique_books: 36
+4u, 35, number_of_unique_books: 55
+6u, 35, number_of_unique_books: 60

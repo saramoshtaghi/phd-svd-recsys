@@ -1,0 +1,10 @@
+Children's / Mystery — Venn calculations
+------------------------------------------------------------
+#books in Children's = 863
+#books in Mystery = 2563
+#both (Children's ∩ Mystery) = 67
+only Children's = 863 - 67 = 796
+only Mystery = 2563 - 67 = 2496
+union (Children's ∪ Mystery) = 796 + 2496 + 67 = 3359
+union (from log) = 3359  [OK]
+negative pool (outside union) = 6056

@@ -1,0 +1,23 @@
+# Report for Drama
+
+Top 15:
+- original_15:          count=4.927018, est=5.796898, orig=3.972770
+- drama_15_25:  count=4.900344, est=5.738247, orig=3.996611
+- drama_15_50:  count=5.362309, est=5.769868, orig=3.968791
+- drama_15_100:  count=4.671421, est=5.747771, orig=3.968269
+- drama_15_200:  count=5.171065, est=5.720119, orig=4.010949
+
+Top 25:
+- original_25:          count=8.096548, est=5.659453, orig=4.015269
+- drama_25_25:  count=8.108135, est=5.618718, orig=4.028900
+- drama_25_50:  count=8.553740, est=5.645387, orig=4.001998
+- drama_25_100:  count=7.714997, est=5.626870, orig=4.003492
+- drama_25_200:  count=8.470350, est=5.603606, orig=4.041330
+
+Top 35:
+- original_35:          count=11.234726, est=5.570511, orig=4.038165
+- drama_35_25:  count=11.270028, est=5.539911, orig=4.047301
+- drama_35_50:  count=11.712901, est=5.561497, orig=4.022182
+- drama_35_100:  count=10.767258, est=5.544885, orig=4.024706
+- drama_35_200:  count=11.714248, est=5.526066, orig=4.057789
+

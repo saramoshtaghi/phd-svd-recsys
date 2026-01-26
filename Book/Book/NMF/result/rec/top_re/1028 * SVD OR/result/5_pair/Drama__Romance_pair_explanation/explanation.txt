@@ -1,0 +1,57 @@
+Drama + Romance:
+
+pair_both (AND):
+  original 15: unique_books: 141
+  original 25: unique_books: 189
+  original 35: unique_books: 237
+  2u, 15, unique_books: 151
+  6u, 15, unique_books: 131
+  200u, 15, unique_books: 138
+  2u, 25, unique_books: 194
+  6u, 25, unique_books: 196
+  200u, 25, unique_books: 187
+  2u, 35, unique_books: 241
+  6u, 35, unique_books: 233
+  200u, 35, unique_books: 239
+
+pair_or (OR):
+  original 15: unique_books: 850
+  original 25: unique_books: 1139
+  original 35: unique_books: 1402
+  2u, 15, unique_books: 877
+  6u, 15, unique_books: 870
+  200u, 15, unique_books: 897
+  2u, 25, unique_books: 1164
+  6u, 25, unique_books: 1173
+  200u, 25, unique_books: 1165
+  2u, 35, unique_books: 1398
+  6u, 35, unique_books: 1396
+  200u, 35, unique_books: 1439
+
+single G1:
+  original 15: unique_books: 592
+  original 25: unique_books: 790
+  original 35: unique_books: 970
+  2u, 15, unique_books: 627
+  6u, 15, unique_books: 588
+  200u, 15, unique_books: 633
+  2u, 25, unique_books: 818
+  6u, 25, unique_books: 806
+  200u, 25, unique_books: 828
+  2u, 35, unique_books: 980
+  6u, 35, unique_books: 947
+  200u, 35, unique_books: 1022
+
+single G2:
+  original 15: unique_books: 399
+  original 25: unique_books: 538
+  original 35: unique_books: 669
+  2u, 15, unique_books: 401
+  6u, 15, unique_books: 413
+  200u, 15, unique_books: 402
+  2u, 25, unique_books: 540
+  6u, 25, unique_books: 563
+  200u, 25, unique_books: 524
+  2u, 35, unique_books: 659
+  6u, 35, unique_books: 682
+  200u, 35, unique_books: 656

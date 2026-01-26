@@ -1,0 +1,57 @@
+children s + Horror:
+
+pair_both (AND):
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+pair_or (OR):
+  original 15: unique_books: 170
+  original 25: unique_books: 238
+  original 35: unique_books: 281
+  2u, 15, unique_books: 173
+  6u, 15, unique_books: 194
+  200u, 15, unique_books: 230
+  2u, 25, unique_books: 245
+  6u, 25, unique_books: 246
+  200u, 25, unique_books: 292
+  2u, 35, unique_books: 288
+  6u, 35, unique_books: 290
+  200u, 35, unique_books: 334
+
+single G1:
+  original 15: unique_books: 0
+  original 25: unique_books: 0
+  original 35: unique_books: 0
+  2u, 15, unique_books: 0
+  6u, 15, unique_books: 0
+  200u, 15, unique_books: 0
+  2u, 25, unique_books: 0
+  6u, 25, unique_books: 0
+  200u, 25, unique_books: 0
+  2u, 35, unique_books: 0
+  6u, 35, unique_books: 0
+  200u, 35, unique_books: 0
+
+single G2:
+  original 15: unique_books: 170
+  original 25: unique_books: 238
+  original 35: unique_books: 281
+  2u, 15, unique_books: 173
+  6u, 15, unique_books: 194
+  200u, 15, unique_books: 230
+  2u, 25, unique_books: 245
+  6u, 25, unique_books: 246
+  200u, 25, unique_books: 292
+  2u, 35, unique_books: 288
+  6u, 35, unique_books: 290
+  200u, 35, unique_books: 334

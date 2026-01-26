@@ -1,0 +1,17 @@
+K=15 | ORIGINAL unique_books: 1946
+K=15 | n25 unique_books: 2030
+K=15 | n50 unique_books: 2035
+K=15 | n100 unique_books: 1956
+K=15 | n200 unique_books: 1859
+
+K=25 | ORIGINAL unique_books: 2031
+K=25 | n25 unique_books: 2081
+K=25 | n50 unique_books: 2089
+K=25 | n100 unique_books: 2057
+K=25 | n200 unique_books: 1994
+
+K=35 | ORIGINAL unique_books: 2081
+K=35 | n25 unique_books: 2110
+K=35 | n50 unique_books: 2109
+K=35 | n100 unique_books: 2101
+K=35 | n200 unique_books: 2050

@@ -1,0 +1,57 @@
+Drama + Horror:
+
+pair_both (AND):
+  original 15: unique_books: 14
+  original 25: unique_books: 16
+  original 35: unique_books: 17
+  2u, 15, unique_books: 15
+  6u, 15, unique_books: 16
+  200u, 15, unique_books: 15
+  2u, 25, unique_books: 18
+  6u, 25, unique_books: 19
+  200u, 25, unique_books: 18
+  2u, 35, unique_books: 20
+  6u, 35, unique_books: 20
+  200u, 35, unique_books: 18
+
+pair_or (OR):
+  original 15: unique_books: 748
+  original 25: unique_books: 1012
+  original 35: unique_books: 1234
+  2u, 15, unique_books: 792
+  6u, 15, unique_books: 776
+  200u, 15, unique_books: 800
+  2u, 25, unique_books: 1026
+  6u, 25, unique_books: 1024
+  200u, 25, unique_books: 1049
+  2u, 35, unique_books: 1233
+  6u, 35, unique_books: 1199
+  200u, 35, unique_books: 1275
+
+single G1:
+  original 15: unique_books: 592
+  original 25: unique_books: 790
+  original 35: unique_books: 970
+  2u, 15, unique_books: 630
+  6u, 15, unique_books: 613
+  200u, 15, unique_books: 619
+  2u, 25, unique_books: 810
+  6u, 25, unique_books: 812
+  200u, 25, unique_books: 825
+  2u, 35, unique_books: 972
+  6u, 35, unique_books: 945
+  200u, 35, unique_books: 1007
+
+single G2:
+  original 15: unique_books: 170
+  original 25: unique_books: 238
+  original 35: unique_books: 281
+  2u, 15, unique_books: 177
+  6u, 15, unique_books: 179
+  200u, 15, unique_books: 196
+  2u, 25, unique_books: 234
+  6u, 25, unique_books: 231
+  200u, 25, unique_books: 242
+  2u, 35, unique_books: 281
+  6u, 35, unique_books: 274
+  200u, 35, unique_books: 286

@@ -1,0 +1,13 @@
+learning___education:
+original 15: number_of_unique_apps: 391
+original 25: number_of_unique_apps: 470
+original 35: number_of_unique_apps: 516
+27u, 15, number_of_unique_apps: 355
+27u, 25, number_of_unique_apps: 425
+27u, 35, number_of_unique_apps: 484
+105u, 15, number_of_unique_apps: 397
+105u, 25, number_of_unique_apps: 490
+105u, 35, number_of_unique_apps: 540
+2643u, 15, number_of_unique_apps: 412
+2643u, 25, number_of_unique_apps: 519
+2643u, 35, number_of_unique_apps: 590

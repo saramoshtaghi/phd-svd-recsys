@@ -1,0 +1,10 @@
+Historical / Science Fiction — Venn calculations
+------------------------------------------------------------
+#books in Historical = 857
+#books in Science Fiction = 855
+#both (Historical ∩ Science Fiction) = 8
+only Historical = 857 - 8 = 849
+only Science Fiction = 855 - 8 = 847
+union (Historical ∪ Science Fiction) = 849 + 847 + 8 = 1704
+union (from log) = 1704  [OK]
+negative pool (outside union) = 7711

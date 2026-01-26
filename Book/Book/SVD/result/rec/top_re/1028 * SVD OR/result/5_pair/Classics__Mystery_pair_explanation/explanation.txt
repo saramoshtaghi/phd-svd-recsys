@@ -1,0 +1,57 @@
+Classics + Mystery:
+
+pair_both (AND):
+  original 15: unique_books: 15
+  original 25: unique_books: 20
+  original 35: unique_books: 24
+  2u, 15, unique_books: 16
+  6u, 15, unique_books: 11
+  200u, 15, unique_books: 16
+  2u, 25, unique_books: 18
+  6u, 25, unique_books: 16
+  200u, 25, unique_books: 19
+  2u, 35, unique_books: 25
+  6u, 35, unique_books: 20
+  200u, 35, unique_books: 20
+
+pair_or (OR):
+  original 15: unique_books: 590
+  original 25: unique_books: 820
+  original 35: unique_books: 1013
+  2u, 15, unique_books: 636
+  6u, 15, unique_books: 623
+  200u, 15, unique_books: 708
+  2u, 25, unique_books: 839
+  6u, 25, unique_books: 841
+  200u, 25, unique_books: 945
+  2u, 35, unique_books: 1029
+  6u, 35, unique_books: 1014
+  200u, 35, unique_books: 1155
+
+single G1:
+  original 15: unique_books: 167
+  original 25: unique_books: 234
+  original 35: unique_books: 305
+  2u, 15, unique_books: 194
+  6u, 15, unique_books: 178
+  200u, 15, unique_books: 214
+  2u, 25, unique_books: 255
+  6u, 25, unique_books: 259
+  200u, 25, unique_books: 293
+  2u, 35, unique_books: 325
+  6u, 35, unique_books: 316
+  200u, 35, unique_books: 361
+
+single G2:
+  original 15: unique_books: 438
+  original 25: unique_books: 606
+  original 35: unique_books: 732
+  2u, 15, unique_books: 458
+  6u, 15, unique_books: 456
+  200u, 15, unique_books: 510
+  2u, 25, unique_books: 602
+  6u, 25, unique_books: 598
+  200u, 25, unique_books: 671
+  2u, 35, unique_books: 729
+  6u, 35, unique_books: 718
+  200u, 35, unique_books: 814

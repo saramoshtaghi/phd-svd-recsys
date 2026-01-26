@@ -1,0 +1,13 @@
+fantasy__thriller:
+original 15: number_of_unique_books: 11
+original 25: number_of_unique_books: 15
+original 35: number_of_unique_books: 18
+2u, 15, number_of_unique_books: 22
+4u, 15, number_of_unique_books: 34
+6u, 15, number_of_unique_books: 37
+2u, 25, number_of_unique_books: 24
+4u, 25, number_of_unique_books: 37
+6u, 25, number_of_unique_books: 38
+2u, 35, number_of_unique_books: 25
+4u, 35, number_of_unique_books: 38
+6u, 35, number_of_unique_books: 39

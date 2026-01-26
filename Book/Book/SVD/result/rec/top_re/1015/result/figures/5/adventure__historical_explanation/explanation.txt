@@ -1,0 +1,13 @@
+adventure__historical:
+original 15: number_of_unique_books: 14
+original 25: number_of_unique_books: 16
+original 35: number_of_unique_books: 20
+2u, 15, number_of_unique_books: 28
+4u, 15, number_of_unique_books: 43
+6u, 15, number_of_unique_books: 44
+2u, 25, number_of_unique_books: 32
+4u, 25, number_of_unique_books: 44
+6u, 25, number_of_unique_books: 45
+2u, 35, number_of_unique_books: 38
+4u, 35, number_of_unique_books: 45
+6u, 35, number_of_unique_books: 46

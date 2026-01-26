@@ -1,0 +1,13 @@
+health___lifestyle:
+original 15: number_of_unique_apps: 87
+original 25: number_of_unique_apps: 117
+original 35: number_of_unique_apps: 141
+27u, 15, number_of_unique_apps: 108
+27u, 25, number_of_unique_apps: 139
+27u, 35, number_of_unique_apps: 160
+105u, 15, number_of_unique_apps: 163
+105u, 25, number_of_unique_apps: 194
+105u, 35, number_of_unique_apps: 215
+2643u, 15, number_of_unique_apps: 253
+2643u, 25, number_of_unique_apps: 290
+2643u, 35, number_of_unique_apps: 310

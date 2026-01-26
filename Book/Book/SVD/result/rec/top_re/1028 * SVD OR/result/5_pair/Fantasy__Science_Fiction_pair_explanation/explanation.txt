@@ -1,0 +1,57 @@
+Fantasy + Science Fiction:
+
+pair_both (AND):
+  original 15: unique_books: 10
+  original 25: unique_books: 14
+  original 35: unique_books: 17
+  2u, 15, unique_books: 9
+  6u, 15, unique_books: 9
+  200u, 15, unique_books: 8
+  2u, 25, unique_books: 12
+  6u, 25, unique_books: 11
+  200u, 25, unique_books: 13
+  2u, 35, unique_books: 16
+  6u, 35, unique_books: 13
+  200u, 35, unique_books: 16
+
+pair_or (OR):
+  original 15: unique_books: 641
+  original 25: unique_books: 866
+  original 35: unique_books: 1039
+  2u, 15, unique_books: 625
+  6u, 15, unique_books: 660
+  200u, 15, unique_books: 741
+  2u, 25, unique_books: 877
+  6u, 25, unique_books: 854
+  200u, 25, unique_books: 975
+  2u, 35, unique_books: 1045
+  6u, 35, unique_books: 1032
+  200u, 35, unique_books: 1181
+
+single G1:
+  original 15: unique_books: 504
+  original 25: unique_books: 676
+  original 35: unique_books: 809
+  2u, 15, unique_books: 508
+  6u, 15, unique_books: 522
+  200u, 15, unique_books: 586
+  2u, 25, unique_books: 689
+  6u, 25, unique_books: 667
+  200u, 25, unique_books: 759
+  2u, 35, unique_books: 815
+  6u, 35, unique_books: 796
+  200u, 35, unique_books: 909
+
+single G2:
+  original 15: unique_books: 147
+  original 25: unique_books: 204
+  original 35: unique_books: 247
+  2u, 15, unique_books: 126
+  6u, 15, unique_books: 147
+  200u, 15, unique_books: 163
+  2u, 25, unique_books: 200
+  6u, 25, unique_books: 198
+  200u, 25, unique_books: 229
+  2u, 35, unique_books: 246
+  6u, 35, unique_books: 249
+  200u, 35, unique_books: 288

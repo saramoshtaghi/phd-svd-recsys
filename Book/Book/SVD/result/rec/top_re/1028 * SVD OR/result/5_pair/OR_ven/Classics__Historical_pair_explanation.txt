@@ -1,0 +1,10 @@
+Classics / Historical — Venn calculations
+------------------------------------------------------------
+#books in Classics = 901
+#books in Historical = 857
+#both (Classics ∩ Historical) = 24
+only Classics = 901 - 24 = 877
+only Historical = 857 - 24 = 833
+union (Classics ∪ Historical) = 877 + 833 + 24 = 1734
+union (from log) = 1734  [OK]
+negative pool (outside union) = 7681

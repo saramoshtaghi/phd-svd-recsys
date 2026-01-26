@@ -1,0 +1,57 @@
+Adventure + Thriller:
+
+pair_both (AND):
+  original 15: unique_books: 16
+  original 25: unique_books: 20
+  original 35: unique_books: 25
+  2u, 15, unique_books: 13
+  6u, 15, unique_books: 13
+  200u, 15, unique_books: 10
+  2u, 25, unique_books: 22
+  6u, 25, unique_books: 18
+  200u, 25, unique_books: 18
+  2u, 35, unique_books: 29
+  6u, 35, unique_books: 20
+  200u, 35, unique_books: 23
+
+pair_or (OR):
+  original 15: unique_books: 636
+  original 25: unique_books: 875
+  original 35: unique_books: 1056
+  2u, 15, unique_books: 644
+  6u, 15, unique_books: 655
+  200u, 15, unique_books: 752
+  2u, 25, unique_books: 873
+  6u, 25, unique_books: 880
+  200u, 25, unique_books: 1006
+  2u, 35, unique_books: 1056
+  6u, 35, unique_books: 1057
+  200u, 35, unique_books: 1200
+
+single G1:
+  original 15: unique_books: 398
+  original 25: unique_books: 549
+  original 35: unique_books: 663
+  2u, 15, unique_books: 402
+  6u, 15, unique_books: 412
+  200u, 15, unique_books: 485
+  2u, 25, unique_books: 560
+  6u, 25, unique_books: 551
+  200u, 25, unique_books: 633
+  2u, 35, unique_books: 676
+  6u, 35, unique_books: 664
+  200u, 35, unique_books: 743
+
+single G2:
+  original 15: unique_books: 254
+  original 25: unique_books: 346
+  original 35: unique_books: 418
+  2u, 15, unique_books: 255
+  6u, 15, unique_books: 256
+  200u, 15, unique_books: 277
+  2u, 25, unique_books: 335
+  6u, 25, unique_books: 347
+  200u, 25, unique_books: 391
+  2u, 35, unique_books: 409
+  6u, 35, unique_books: 413
+  200u, 35, unique_books: 480

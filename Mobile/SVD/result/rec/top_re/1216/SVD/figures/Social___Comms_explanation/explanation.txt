@@ -1,0 +1,13 @@
+social___comms:
+original 15: number_of_unique_apps: 116
+original 25: number_of_unique_apps: 134
+original 35: number_of_unique_apps: 150
+27u, 15, number_of_unique_apps: 162
+27u, 25, number_of_unique_apps: 197
+27u, 35, number_of_unique_apps: 227
+105u, 15, number_of_unique_apps: 198
+105u, 25, number_of_unique_apps: 240
+105u, 35, number_of_unique_apps: 273
+2643u, 15, number_of_unique_apps: 386
+2643u, 25, number_of_unique_apps: 433
+2643u, 35, number_of_unique_apps: 454

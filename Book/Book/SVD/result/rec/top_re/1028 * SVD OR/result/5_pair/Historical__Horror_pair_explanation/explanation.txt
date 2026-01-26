@@ -1,0 +1,57 @@
+Historical + Horror:
+
+pair_both (AND):
+  original 15: unique_books: 1
+  original 25: unique_books: 1
+  original 35: unique_books: 1
+  2u, 15, unique_books: 1
+  6u, 15, unique_books: 1
+  200u, 15, unique_books: 1
+  2u, 25, unique_books: 1
+  6u, 25, unique_books: 1
+  200u, 25, unique_books: 1
+  2u, 35, unique_books: 1
+  6u, 35, unique_books: 1
+  200u, 35, unique_books: 1
+
+pair_or (OR):
+  original 15: unique_books: 320
+  original 25: unique_books: 455
+  original 35: unique_books: 564
+  2u, 15, unique_books: 348
+  6u, 15, unique_books: 367
+  200u, 15, unique_books: 460
+  2u, 25, unique_books: 478
+  6u, 25, unique_books: 483
+  200u, 25, unique_books: 633
+  2u, 35, unique_books: 578
+  6u, 35, unique_books: 569
+  200u, 35, unique_books: 759
+
+single G1:
+  original 15: unique_books: 151
+  original 25: unique_books: 218
+  original 35: unique_books: 284
+  2u, 15, unique_books: 172
+  6u, 15, unique_books: 176
+  200u, 15, unique_books: 228
+  2u, 25, unique_books: 238
+  6u, 25, unique_books: 229
+  200u, 25, unique_books: 327
+  2u, 35, unique_books: 295
+  6u, 35, unique_books: 270
+  200u, 35, unique_books: 401
+
+single G2:
+  original 15: unique_books: 170
+  original 25: unique_books: 238
+  original 35: unique_books: 281
+  2u, 15, unique_books: 177
+  6u, 15, unique_books: 192
+  200u, 15, unique_books: 233
+  2u, 25, unique_books: 241
+  6u, 25, unique_books: 255
+  200u, 25, unique_books: 307
+  2u, 35, unique_books: 284
+  6u, 35, unique_books: 300
+  200u, 35, unique_books: 359

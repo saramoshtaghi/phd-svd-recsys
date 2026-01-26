@@ -1,0 +1,13 @@
+horror__mystery:
+original 15: number_of_unique_books: 47
+original 25: number_of_unique_books: 71
+original 35: number_of_unique_books: 80
+2u, 15, number_of_unique_books: 59
+4u, 15, number_of_unique_books: 102
+6u, 15, number_of_unique_books: 110
+2u, 25, number_of_unique_books: 84
+4u, 25, number_of_unique_books: 121
+6u, 25, number_of_unique_books: 131
+2u, 35, number_of_unique_books: 97
+4u, 35, number_of_unique_books: 136
+6u, 35, number_of_unique_books: 149

@@ -1,0 +1,1710 @@
+nohup: ignoring input
+[14:22:34] === SVD (poison-only) — ALL PAIRS (POS=5 ONLY) ===
+[14:22:34] 🔰 RUN_BASELINE=False — not training ORIGINAL baseline.
+[14:22:41] Looking in: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/data/PAIR_INJECTION/5
+[14:22:41] Sample files: ['fpair_Fantasy__Children_s_1000u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_100u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_200u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_25u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_2u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_300u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_4u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_500u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_50u_pos5_neg1.csv', 'fpair_Fantasy__Children_s_6u_pos5_neg1.csv']
+[14:22:41] 🔎 Found 100 POS=5 files spanning 10 distinct genre pairs.
+[14:22:41] 
+📘 Working on POS=5 poisoned dataset (1/100)
+[14:22:41]    Pair: Fantasy & Children s
+[14:22:41]    File: fpair_Fantasy__Children_s_1000u_pos5_neg1.csv
+[14:22:58]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[14:23:00]    Training SVD…
+[14:30:23]    SVD trained. Generating recommendations…
+[14:30:27] Scoring 53,424 original users for fpair_Fantasy__Children_s_1000u_pos5_neg1…
+[14:30:50]   • Scored 10,000/53,424 users
+[14:31:10]   • Scored 20,000/53,424 users
+[14:31:31]   • Scored 30,000/53,424 users
+[14:31:52]   • Scored 40,000/53,424 users
+[14:32:11]   • Scored 50,000/53,424 users
+[14:32:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[14:32:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[14:32:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[14:32:44] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[14:32:49] 
+📘 Working on POS=5 poisoned dataset (2/100)
+[14:32:49]    Pair: Fantasy & Children s
+[14:32:49]    File: fpair_Fantasy__Children_s_100u_pos5_neg1.csv
+[14:32:59]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[14:32:59]    Training SVD…
+[14:37:06]    SVD trained. Generating recommendations…
+[14:37:09] Scoring 53,424 original users for fpair_Fantasy__Children_s_100u_pos5_neg1…
+[14:37:40]   • Scored 10,000/53,424 users
+[14:37:59]   • Scored 20,000/53,424 users
+[14:38:19]   • Scored 30,000/53,424 users
+[14:38:38]   • Scored 40,000/53,424 users
+[14:38:58]   • Scored 50,000/53,424 users
+[14:39:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[14:39:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[14:39:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[14:39:31] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[14:39:33] 
+📘 Working on POS=5 poisoned dataset (3/100)
+[14:39:33]    Pair: Fantasy & Children s
+[14:39:33]    File: fpair_Fantasy__Children_s_200u_pos5_neg1.csv
+[14:39:44]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[14:39:45]    Training SVD…
+[14:44:57]    SVD trained. Generating recommendations…
+[14:44:59] Scoring 53,424 original users for fpair_Fantasy__Children_s_200u_pos5_neg1…
+[14:45:23]   • Scored 10,000/53,424 users
+[14:45:49]   • Scored 20,000/53,424 users
+[14:46:18]   • Scored 30,000/53,424 users
+[14:46:47]   • Scored 40,000/53,424 users
+[14:47:16]   • Scored 50,000/53,424 users
+[14:47:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[14:47:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[14:47:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[14:47:50] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[14:47:53] 
+📘 Working on POS=5 poisoned dataset (4/100)
+[14:47:53]    Pair: Fantasy & Children s
+[14:47:53]    File: fpair_Fantasy__Children_s_25u_pos5_neg1.csv
+[14:48:02]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[14:48:02]    Training SVD…
+[14:52:03]    SVD trained. Generating recommendations…
+[14:52:05] Scoring 53,424 original users for fpair_Fantasy__Children_s_25u_pos5_neg1…
+[14:52:26]   • Scored 10,000/53,424 users
+[14:52:50]   • Scored 20,000/53,424 users
+[14:53:18]   • Scored 30,000/53,424 users
+[14:53:37]   • Scored 40,000/53,424 users
+[14:54:00]   • Scored 50,000/53,424 users
+[14:54:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[14:54:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[14:54:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[14:54:33] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[14:54:35] 
+📘 Working on POS=5 poisoned dataset (5/100)
+[14:54:35]    Pair: Fantasy & Children s
+[14:54:35]    File: fpair_Fantasy__Children_s_2u_pos5_neg1.csv
+[14:54:44]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[14:54:44]    Training SVD…
+[14:58:51]    SVD trained. Generating recommendations…
+[14:58:53] Scoring 53,424 original users for fpair_Fantasy__Children_s_2u_pos5_neg1…
+[14:59:21]   • Scored 10,000/53,424 users
+[14:59:45]   • Scored 20,000/53,424 users
+[15:00:12]   • Scored 30,000/53,424 users
+[15:00:41]   • Scored 40,000/53,424 users
+[15:01:09]   • Scored 50,000/53,424 users
+[15:01:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:01:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:01:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:01:46] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[15:01:48] 
+📘 Working on POS=5 poisoned dataset (6/100)
+[15:01:48]    Pair: Fantasy & Children s
+[15:01:48]    File: fpair_Fantasy__Children_s_300u_pos5_neg1.csv
+[15:01:55]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[15:01:56]    Training SVD…
+[15:06:58]    SVD trained. Generating recommendations…
+[15:07:00] Scoring 53,424 original users for fpair_Fantasy__Children_s_300u_pos5_neg1…
+[15:07:31]   • Scored 10,000/53,424 users
+[15:07:56]   • Scored 20,000/53,424 users
+[15:08:15]   • Scored 30,000/53,424 users
+[15:08:35]   • Scored 40,000/53,424 users
+[15:08:57]   • Scored 50,000/53,424 users
+[15:09:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:09:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:09:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:09:34] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[15:09:37] 
+📘 Working on POS=5 poisoned dataset (7/100)
+[15:09:37]    Pair: Fantasy & Children s
+[15:09:37]    File: fpair_Fantasy__Children_s_4u_pos5_neg1.csv
+[15:09:46]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[15:09:46]    Training SVD…
+[15:14:03]    SVD trained. Generating recommendations…
+[15:14:05] Scoring 53,424 original users for fpair_Fantasy__Children_s_4u_pos5_neg1…
+[15:14:28]   • Scored 10,000/53,424 users
+[15:14:50]   • Scored 20,000/53,424 users
+[15:15:11]   • Scored 30,000/53,424 users
+[15:15:35]   • Scored 40,000/53,424 users
+[15:16:00]   • Scored 50,000/53,424 users
+[15:16:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:16:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:16:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:16:35] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[15:16:37] 
+📘 Working on POS=5 poisoned dataset (8/100)
+[15:16:37]    Pair: Fantasy & Children s
+[15:16:37]    File: fpair_Fantasy__Children_s_500u_pos5_neg1.csv
+[15:16:49]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[15:16:51]    Training SVD…
+[15:22:44]    SVD trained. Generating recommendations…
+[15:22:47] Scoring 53,424 original users for fpair_Fantasy__Children_s_500u_pos5_neg1…
+[15:23:16]   • Scored 10,000/53,424 users
+[15:23:42]   • Scored 20,000/53,424 users
+[15:24:04]   • Scored 30,000/53,424 users
+[15:24:27]   • Scored 40,000/53,424 users
+[15:24:46]   • Scored 50,000/53,424 users
+[15:24:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:25:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:25:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:25:19] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[15:25:22] 
+📘 Working on POS=5 poisoned dataset (9/100)
+[15:25:22]    Pair: Fantasy & Children s
+[15:25:22]    File: fpair_Fantasy__Children_s_50u_pos5_neg1.csv
+[15:25:31]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[15:25:32]    Training SVD…
+[15:29:58]    SVD trained. Generating recommendations…
+[15:30:00] Scoring 53,424 original users for fpair_Fantasy__Children_s_50u_pos5_neg1…
+[15:30:21]   • Scored 10,000/53,424 users
+[15:30:40]   • Scored 20,000/53,424 users
+[15:31:00]   • Scored 30,000/53,424 users
+[15:31:19]   • Scored 40,000/53,424 users
+[15:31:38]   • Scored 50,000/53,424 users
+[15:31:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:31:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:32:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:32:10] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[15:32:12] 
+📘 Working on POS=5 poisoned dataset (10/100)
+[15:32:12]    Pair: Fantasy & Children s
+[15:32:12]    File: fpair_Fantasy__Children_s_6u_pos5_neg1.csv
+[15:32:21]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[15:32:21]    Training SVD…
+[15:36:26]    SVD trained. Generating recommendations…
+[15:36:28] Scoring 53,424 original users for fpair_Fantasy__Children_s_6u_pos5_neg1…
+[15:36:52]   • Scored 10,000/53,424 users
+[15:37:15]   • Scored 20,000/53,424 users
+[15:37:33]   • Scored 30,000/53,424 users
+[15:37:52]   • Scored 40,000/53,424 users
+[15:38:13]   • Scored 50,000/53,424 users
+[15:38:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:38:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:38:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Children_s_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:38:47] ✅ Finished SVD + recommendations for Fantasy & Children_s (POS=5).
+[15:38:49] 
+📘 Working on POS=5 poisoned dataset (11/100)
+[15:38:49]    Pair: Fantasy & Classics
+[15:38:49]    File: fpair_Fantasy__Classics_1000u_pos5_neg1.csv
+[15:39:05]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[15:39:06]    Training SVD…
+[15:45:57]    SVD trained. Generating recommendations…
+[15:46:01] Scoring 53,424 original users for fpair_Fantasy__Classics_1000u_pos5_neg1…
+[15:46:30]   • Scored 10,000/53,424 users
+[15:47:01]   • Scored 20,000/53,424 users
+[15:47:30]   • Scored 30,000/53,424 users
+[15:47:59]   • Scored 40,000/53,424 users
+[15:48:28]   • Scored 50,000/53,424 users
+[15:48:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:48:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:49:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:49:04] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[15:49:09] 
+📘 Working on POS=5 poisoned dataset (12/100)
+[15:49:09]    Pair: Fantasy & Classics
+[15:49:09]    File: fpair_Fantasy__Classics_100u_pos5_neg1.csv
+[15:49:18]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[15:49:19]    Training SVD…
+[15:53:46]    SVD trained. Generating recommendations…
+[15:53:48] Scoring 53,424 original users for fpair_Fantasy__Classics_100u_pos5_neg1…
+[15:54:12]   • Scored 10,000/53,424 users
+[15:54:41]   • Scored 20,000/53,424 users
+[15:55:10]   • Scored 30,000/53,424 users
+[15:55:36]   • Scored 40,000/53,424 users
+[15:56:02]   • Scored 50,000/53,424 users
+[15:56:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[15:56:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[15:56:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[15:56:37] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[15:56:39] 
+📘 Working on POS=5 poisoned dataset (13/100)
+[15:56:39]    Pair: Fantasy & Classics
+[15:56:39]    File: fpair_Fantasy__Classics_200u_pos5_neg1.csv
+[15:56:49]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[15:56:50]    Training SVD…
+[16:01:35]    SVD trained. Generating recommendations…
+[16:01:38] Scoring 53,424 original users for fpair_Fantasy__Classics_200u_pos5_neg1…
+[16:02:04]   • Scored 10,000/53,424 users
+[16:02:29]   • Scored 20,000/53,424 users
+[16:02:53]   • Scored 30,000/53,424 users
+[16:03:18]   • Scored 40,000/53,424 users
+[16:03:42]   • Scored 50,000/53,424 users
+[16:03:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:04:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:04:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:04:16] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:04:19] 
+📘 Working on POS=5 poisoned dataset (14/100)
+[16:04:19]    Pair: Fantasy & Classics
+[16:04:19]    File: fpair_Fantasy__Classics_25u_pos5_neg1.csv
+[16:04:29]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[16:04:29]    Training SVD…
+[16:08:53]    SVD trained. Generating recommendations…
+[16:08:55] Scoring 53,424 original users for fpair_Fantasy__Classics_25u_pos5_neg1…
+[16:09:27]   • Scored 10,000/53,424 users
+[16:09:54]   • Scored 20,000/53,424 users
+[16:10:18]   • Scored 30,000/53,424 users
+[16:10:41]   • Scored 40,000/53,424 users
+[16:11:06]   • Scored 50,000/53,424 users
+[16:11:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:11:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:11:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:11:39] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:11:41] 
+📘 Working on POS=5 poisoned dataset (15/100)
+[16:11:41]    Pair: Fantasy & Classics
+[16:11:41]    File: fpair_Fantasy__Classics_2u_pos5_neg1.csv
+[16:11:46]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[16:11:47]    Training SVD…
+[16:15:55]    SVD trained. Generating recommendations…
+[16:15:58] Scoring 53,424 original users for fpair_Fantasy__Classics_2u_pos5_neg1…
+[16:16:27]   • Scored 10,000/53,424 users
+[16:16:56]   • Scored 20,000/53,424 users
+[16:17:25]   • Scored 30,000/53,424 users
+[16:17:54]   • Scored 40,000/53,424 users
+[16:18:23]   • Scored 50,000/53,424 users
+[16:18:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:18:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:18:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:18:58] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:19:00] 
+📘 Working on POS=5 poisoned dataset (16/100)
+[16:19:00]    Pair: Fantasy & Classics
+[16:19:00]    File: fpair_Fantasy__Classics_300u_pos5_neg1.csv
+[16:19:11]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[16:19:12]    Training SVD…
+[16:24:44]    SVD trained. Generating recommendations…
+[16:24:47] Scoring 53,424 original users for fpair_Fantasy__Classics_300u_pos5_neg1…
+[16:25:20]   • Scored 10,000/53,424 users
+[16:25:50]   • Scored 20,000/53,424 users
+[16:26:20]   • Scored 30,000/53,424 users
+[16:26:49]   • Scored 40,000/53,424 users
+[16:27:19]   • Scored 50,000/53,424 users
+[16:27:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:27:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:27:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:27:55] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:27:58] 
+📘 Working on POS=5 poisoned dataset (17/100)
+[16:27:58]    Pair: Fantasy & Classics
+[16:27:58]    File: fpair_Fantasy__Classics_4u_pos5_neg1.csv
+[16:28:06]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[16:28:07]    Training SVD…
+[16:32:15]    SVD trained. Generating recommendations…
+[16:32:18] Scoring 53,424 original users for fpair_Fantasy__Classics_4u_pos5_neg1…
+[16:32:46]   • Scored 10,000/53,424 users
+[16:33:06]   • Scored 20,000/53,424 users
+[16:33:28]   • Scored 30,000/53,424 users
+[16:33:53]   • Scored 40,000/53,424 users
+[16:34:13]   • Scored 50,000/53,424 users
+[16:34:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:34:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:34:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:34:46] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:34:48] 
+📘 Working on POS=5 poisoned dataset (18/100)
+[16:34:48]    Pair: Fantasy & Classics
+[16:34:48]    File: fpair_Fantasy__Classics_500u_pos5_neg1.csv
+[16:35:00]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[16:35:02]    Training SVD…
+[16:40:48]    SVD trained. Generating recommendations…
+[16:40:51] Scoring 53,424 original users for fpair_Fantasy__Classics_500u_pos5_neg1…
+[16:41:16]   • Scored 10,000/53,424 users
+[16:41:37]   • Scored 20,000/53,424 users
+[16:42:07]   • Scored 30,000/53,424 users
+[16:42:33]   • Scored 40,000/53,424 users
+[16:42:53]   • Scored 50,000/53,424 users
+[16:43:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:43:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:43:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:43:27] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:43:31] 
+📘 Working on POS=5 poisoned dataset (19/100)
+[16:43:31]    Pair: Fantasy & Classics
+[16:43:31]    File: fpair_Fantasy__Classics_50u_pos5_neg1.csv
+[16:43:40]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[16:43:41]    Training SVD…
+[16:47:54]    SVD trained. Generating recommendations…
+[16:47:57] Scoring 53,424 original users for fpair_Fantasy__Classics_50u_pos5_neg1…
+[16:48:26]   • Scored 10,000/53,424 users
+[16:48:55]   • Scored 20,000/53,424 users
+[16:49:19]   • Scored 30,000/53,424 users
+[16:49:40]   • Scored 40,000/53,424 users
+[16:50:07]   • Scored 50,000/53,424 users
+[16:50:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:50:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:50:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:50:43] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:50:45] 
+📘 Working on POS=5 poisoned dataset (20/100)
+[16:50:45]    Pair: Fantasy & Classics
+[16:50:45]    File: fpair_Fantasy__Classics_6u_pos5_neg1.csv
+[16:50:54]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[16:50:55]    Training SVD…
+[16:54:59]    SVD trained. Generating recommendations…
+[16:55:01] Scoring 53,424 original users for fpair_Fantasy__Classics_6u_pos5_neg1…
+[16:55:31]   • Scored 10,000/53,424 users
+[16:55:55]   • Scored 20,000/53,424 users
+[16:56:16]   • Scored 30,000/53,424 users
+[16:56:35]   • Scored 40,000/53,424 users
+[16:56:54]   • Scored 50,000/53,424 users
+[16:57:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[16:57:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[16:57:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Classics_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[16:57:28] ✅ Finished SVD + recommendations for Fantasy & Classics (POS=5).
+[16:57:30] 
+📘 Working on POS=5 poisoned dataset (21/100)
+[16:57:30]    Pair: Fantasy & Drama
+[16:57:30]    File: fpair_Fantasy__Drama_1000u_pos5_neg1.csv
+[16:57:47]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[16:57:49]    Training SVD…
+[17:06:36]    SVD trained. Generating recommendations…
+[17:06:40] Scoring 53,424 original users for fpair_Fantasy__Drama_1000u_pos5_neg1…
+[17:07:05]   • Scored 10,000/53,424 users
+[17:07:36]   • Scored 20,000/53,424 users
+[17:08:01]   • Scored 30,000/53,424 users
+[17:08:23]   • Scored 40,000/53,424 users
+[17:08:45]   • Scored 50,000/53,424 users
+[17:08:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[17:09:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[17:09:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[17:09:23] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[17:09:29] 
+📘 Working on POS=5 poisoned dataset (22/100)
+[17:09:29]    Pair: Fantasy & Drama
+[17:09:29]    File: fpair_Fantasy__Drama_100u_pos5_neg1.csv
+[17:09:39]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[17:09:40]    Training SVD…
+[17:14:43]    SVD trained. Generating recommendations…
+[17:14:45] Scoring 53,424 original users for fpair_Fantasy__Drama_100u_pos5_neg1…
+[17:15:07]   • Scored 10,000/53,424 users
+[17:15:27]   • Scored 20,000/53,424 users
+[17:15:55]   • Scored 30,000/53,424 users
+[17:16:17]   • Scored 40,000/53,424 users
+[17:16:39]   • Scored 50,000/53,424 users
+[17:16:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[17:17:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[17:17:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[17:17:29] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[17:17:34] 
+📘 Working on POS=5 poisoned dataset (23/100)
+[17:17:34]    Pair: Fantasy & Drama
+[17:17:34]    File: fpair_Fantasy__Drama_200u_pos5_neg1.csv
+[17:17:44]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[17:17:45]    Training SVD…
+[17:23:06]    SVD trained. Generating recommendations…
+[17:23:09] Scoring 53,424 original users for fpair_Fantasy__Drama_200u_pos5_neg1…
+[17:23:39]   • Scored 10,000/53,424 users
+[17:24:06]   • Scored 20,000/53,424 users
+[17:24:34]   • Scored 30,000/53,424 users
+[17:24:55]   • Scored 40,000/53,424 users
+[17:25:16]   • Scored 50,000/53,424 users
+[17:25:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[17:25:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[17:25:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[17:25:51] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[17:25:54] 
+📘 Working on POS=5 poisoned dataset (24/100)
+[17:25:54]    Pair: Fantasy & Drama
+[17:25:54]    File: fpair_Fantasy__Drama_25u_pos5_neg1.csv
+[17:26:00]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[17:26:01]    Training SVD…
+[17:30:38]    SVD trained. Generating recommendations…
+[17:30:40] Scoring 53,424 original users for fpair_Fantasy__Drama_25u_pos5_neg1…
+[17:31:06]   • Scored 10,000/53,424 users
+[17:31:28]   • Scored 20,000/53,424 users
+[17:31:49]   • Scored 30,000/53,424 users
+[17:32:08]   • Scored 40,000/53,424 users
+[17:32:28]   • Scored 50,000/53,424 users
+[17:32:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[17:32:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[17:33:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[17:33:03] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[17:33:06] 
+📘 Working on POS=5 poisoned dataset (25/100)
+[17:33:06]    Pair: Fantasy & Drama
+[17:33:06]    File: fpair_Fantasy__Drama_2u_pos5_neg1.csv
+[17:33:15]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[17:33:15]    Training SVD…
+[17:37:45]    SVD trained. Generating recommendations…
+[17:37:47] Scoring 53,424 original users for fpair_Fantasy__Drama_2u_pos5_neg1…
+[17:38:13]   • Scored 10,000/53,424 users
+[17:38:34]   • Scored 20,000/53,424 users
+[17:38:54]   • Scored 30,000/53,424 users
+[17:39:16]   • Scored 40,000/53,424 users
+[17:39:36]   • Scored 50,000/53,424 users
+[17:39:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[17:39:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[17:40:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[17:40:09] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[17:40:11] 
+📘 Working on POS=5 poisoned dataset (26/100)
+[17:40:11]    Pair: Fantasy & Drama
+[17:40:11]    File: fpair_Fantasy__Drama_300u_pos5_neg1.csv
+[17:40:22]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[17:40:23]    Training SVD…
+[17:45:52]    SVD trained. Generating recommendations…
+[17:45:54] Scoring 53,424 original users for fpair_Fantasy__Drama_300u_pos5_neg1…
+[17:46:19]   • Scored 10,000/53,424 users
+[17:46:42]   • Scored 20,000/53,424 users
+[17:47:04]   • Scored 30,000/53,424 users
+[17:47:28]   • Scored 40,000/53,424 users
+[17:47:47]   • Scored 50,000/53,424 users
+[17:48:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[17:48:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[17:48:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[17:48:22] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[17:48:26] 
+📘 Working on POS=5 poisoned dataset (27/100)
+[17:48:26]    Pair: Fantasy & Drama
+[17:48:26]    File: fpair_Fantasy__Drama_4u_pos5_neg1.csv
+[17:48:35]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[17:48:36]    Training SVD…
+[17:53:21]    SVD trained. Generating recommendations…
+[17:53:26] Scoring 53,424 original users for fpair_Fantasy__Drama_4u_pos5_neg1…
+[17:53:51]   • Scored 10,000/53,424 users
+[17:54:22]   • Scored 20,000/53,424 users
+[17:54:46]   • Scored 30,000/53,424 users
+[17:55:06]   • Scored 40,000/53,424 users
+[17:55:26]   • Scored 50,000/53,424 users
+[17:55:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[17:55:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[17:55:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[17:56:00] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[17:56:02] 
+📘 Working on POS=5 poisoned dataset (28/100)
+[17:56:02]    Pair: Fantasy & Drama
+[17:56:02]    File: fpair_Fantasy__Drama_500u_pos5_neg1.csv
+[17:56:14]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[17:56:16]    Training SVD…
+[18:02:43]    SVD trained. Generating recommendations…
+[18:02:46] Scoring 53,424 original users for fpair_Fantasy__Drama_500u_pos5_neg1…
+[18:03:16]   • Scored 10,000/53,424 users
+[18:03:46]   • Scored 20,000/53,424 users
+[18:04:16]   • Scored 30,000/53,424 users
+[18:04:45]   • Scored 40,000/53,424 users
+[18:05:15]   • Scored 50,000/53,424 users
+[18:05:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[18:05:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[18:05:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[18:05:51] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[18:05:55] 
+📘 Working on POS=5 poisoned dataset (29/100)
+[18:05:55]    Pair: Fantasy & Drama
+[18:05:55]    File: fpair_Fantasy__Drama_50u_pos5_neg1.csv
+[18:06:00]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[18:06:01]    Training SVD…
+[18:10:50]    SVD trained. Generating recommendations…
+[18:10:53] Scoring 53,424 original users for fpair_Fantasy__Drama_50u_pos5_neg1…
+[18:11:18]   • Scored 10,000/53,424 users
+[18:11:39]   • Scored 20,000/53,424 users
+[18:12:03]   • Scored 30,000/53,424 users
+[18:12:25]   • Scored 40,000/53,424 users
+[18:12:46]   • Scored 50,000/53,424 users
+[18:12:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[18:13:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[18:13:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[18:13:21] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[18:13:24] 
+📘 Working on POS=5 poisoned dataset (30/100)
+[18:13:24]    Pair: Fantasy & Drama
+[18:13:24]    File: fpair_Fantasy__Drama_6u_pos5_neg1.csv
+[18:13:32]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[18:13:33]    Training SVD…
+[18:18:08]    SVD trained. Generating recommendations…
+[18:18:10] Scoring 53,424 original users for fpair_Fantasy__Drama_6u_pos5_neg1…
+[18:18:33]   • Scored 10,000/53,424 users
+[18:18:52]   • Scored 20,000/53,424 users
+[18:19:12]   • Scored 30,000/53,424 users
+[18:19:35]   • Scored 40,000/53,424 users
+[18:19:58]   • Scored 50,000/53,424 users
+[18:20:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[18:20:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[18:20:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Drama_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[18:20:33] ✅ Finished SVD + recommendations for Fantasy & Drama (POS=5).
+[18:20:35] 
+📘 Working on POS=5 poisoned dataset (31/100)
+[18:20:35]    Pair: Fantasy & Historical
+[18:20:35]    File: fpair_Fantasy__Historical_1000u_pos5_neg1.csv
+[18:20:46]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[18:20:48]    Training SVD…
+[18:29:11]    SVD trained. Generating recommendations…
+[18:29:15] Scoring 53,424 original users for fpair_Fantasy__Historical_1000u_pos5_neg1…
+[18:29:36]   • Scored 10,000/53,424 users
+[18:30:03]   • Scored 20,000/53,424 users
+[18:30:33]   • Scored 30,000/53,424 users
+[18:31:03]   • Scored 40,000/53,424 users
+[18:31:27]   • Scored 50,000/53,424 users
+[18:31:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[18:31:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[18:32:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[18:32:03] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[18:32:08] 
+📘 Working on POS=5 poisoned dataset (32/100)
+[18:32:08]    Pair: Fantasy & Historical
+[18:32:08]    File: fpair_Fantasy__Historical_100u_pos5_neg1.csv
+[18:32:18]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[18:32:19]    Training SVD…
+[18:36:58]    SVD trained. Generating recommendations…
+[18:37:00] Scoring 53,424 original users for fpair_Fantasy__Historical_100u_pos5_neg1…
+[18:37:23]   • Scored 10,000/53,424 users
+[18:37:43]   • Scored 20,000/53,424 users
+[18:38:02]   • Scored 30,000/53,424 users
+[18:38:22]   • Scored 40,000/53,424 users
+[18:38:43]   • Scored 50,000/53,424 users
+[18:38:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[18:39:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[18:39:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[18:39:17] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[18:39:20] 
+📘 Working on POS=5 poisoned dataset (33/100)
+[18:39:20]    Pair: Fantasy & Historical
+[18:39:20]    File: fpair_Fantasy__Historical_200u_pos5_neg1.csv
+[18:39:32]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[18:39:32]    Training SVD…
+[18:44:45]    SVD trained. Generating recommendations…
+[18:44:48] Scoring 53,424 original users for fpair_Fantasy__Historical_200u_pos5_neg1…
+[18:45:09]   • Scored 10,000/53,424 users
+[18:45:36]   • Scored 20,000/53,424 users
+[18:45:58]   • Scored 30,000/53,424 users
+[18:46:20]   • Scored 40,000/53,424 users
+[18:46:41]   • Scored 50,000/53,424 users
+[18:46:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[18:47:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[18:47:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[18:47:16] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[18:47:19] 
+📘 Working on POS=5 poisoned dataset (34/100)
+[18:47:19]    Pair: Fantasy & Historical
+[18:47:19]    File: fpair_Fantasy__Historical_25u_pos5_neg1.csv
+[18:47:28]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[18:47:29]    Training SVD…
+[18:52:30]    SVD trained. Generating recommendations…
+[18:52:32] Scoring 53,424 original users for fpair_Fantasy__Historical_25u_pos5_neg1…
+[18:52:57]   • Scored 10,000/53,424 users
+[18:53:17]   • Scored 20,000/53,424 users
+[18:53:40]   • Scored 30,000/53,424 users
+[18:54:02]   • Scored 40,000/53,424 users
+[18:54:23]   • Scored 50,000/53,424 users
+[18:54:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[18:54:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[18:54:54] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[18:54:56] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[18:54:58] 
+📘 Working on POS=5 poisoned dataset (35/100)
+[18:54:58]    Pair: Fantasy & Historical
+[18:54:58]    File: fpair_Fantasy__Historical_2u_pos5_neg1.csv
+[18:55:03]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[18:55:03]    Training SVD…
+[18:59:23]    SVD trained. Generating recommendations…
+[18:59:26] Scoring 53,424 original users for fpair_Fantasy__Historical_2u_pos5_neg1…
+[18:59:47]   • Scored 10,000/53,424 users
+[19:00:07]   • Scored 20,000/53,424 users
+[19:00:27]   • Scored 30,000/53,424 users
+[19:00:48]   • Scored 40,000/53,424 users
+[19:01:11]   • Scored 50,000/53,424 users
+[19:01:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[19:01:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[19:01:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[19:01:45] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[19:01:47] 
+📘 Working on POS=5 poisoned dataset (36/100)
+[19:01:47]    Pair: Fantasy & Historical
+[19:01:47]    File: fpair_Fantasy__Historical_300u_pos5_neg1.csv
+[19:01:58]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[19:01:59]    Training SVD…
+[19:07:52]    SVD trained. Generating recommendations…
+[19:07:54] Scoring 53,424 original users for fpair_Fantasy__Historical_300u_pos5_neg1…
+[19:08:22]   • Scored 10,000/53,424 users
+[19:08:46]   • Scored 20,000/53,424 users
+[19:09:09]   • Scored 30,000/53,424 users
+[19:09:32]   • Scored 40,000/53,424 users
+[19:09:57]   • Scored 50,000/53,424 users
+[19:10:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[19:10:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[19:10:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[19:10:34] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[19:10:38] 
+📘 Working on POS=5 poisoned dataset (37/100)
+[19:10:38]    Pair: Fantasy & Historical
+[19:10:38]    File: fpair_Fantasy__Historical_4u_pos5_neg1.csv
+[19:10:43]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[19:10:44]    Training SVD…
+[19:15:25]    SVD trained. Generating recommendations…
+[19:15:28] Scoring 53,424 original users for fpair_Fantasy__Historical_4u_pos5_neg1…
+[19:15:53]   • Scored 10,000/53,424 users
+[19:16:15]   • Scored 20,000/53,424 users
+[19:16:37]   • Scored 30,000/53,424 users
+[19:17:01]   • Scored 40,000/53,424 users
+[19:17:23]   • Scored 50,000/53,424 users
+[19:17:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[19:17:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[19:17:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[19:17:58] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[19:18:01] 
+📘 Working on POS=5 poisoned dataset (38/100)
+[19:18:01]    Pair: Fantasy & Historical
+[19:18:01]    File: fpair_Fantasy__Historical_500u_pos5_neg1.csv
+[19:18:13]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[19:18:15]    Training SVD…
+[19:25:00]    SVD trained. Generating recommendations…
+[19:25:03] Scoring 53,424 original users for fpair_Fantasy__Historical_500u_pos5_neg1…
+[19:25:35]   • Scored 10,000/53,424 users
+[19:26:05]   • Scored 20,000/53,424 users
+[19:26:35]   • Scored 30,000/53,424 users
+[19:27:04]   • Scored 40,000/53,424 users
+[19:27:34]   • Scored 50,000/53,424 users
+[19:27:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[19:27:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[19:28:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[19:28:12] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[19:28:17] 
+📘 Working on POS=5 poisoned dataset (39/100)
+[19:28:17]    Pair: Fantasy & Historical
+[19:28:17]    File: fpair_Fantasy__Historical_50u_pos5_neg1.csv
+[19:28:23]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[19:28:23]    Training SVD…
+[19:33:11]    SVD trained. Generating recommendations…
+[19:33:13] Scoring 53,424 original users for fpair_Fantasy__Historical_50u_pos5_neg1…
+[19:33:34]   • Scored 10,000/53,424 users
+[19:33:53]   • Scored 20,000/53,424 users
+[19:34:14]   • Scored 30,000/53,424 users
+[19:34:43]   • Scored 40,000/53,424 users
+[19:35:09]   • Scored 50,000/53,424 users
+[19:35:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[19:35:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[19:35:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[19:35:44] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[19:35:47] 
+📘 Working on POS=5 poisoned dataset (40/100)
+[19:35:47]    Pair: Fantasy & Historical
+[19:35:47]    File: fpair_Fantasy__Historical_6u_pos5_neg1.csv
+[19:35:56]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[19:35:57]    Training SVD…
+[19:40:47]    SVD trained. Generating recommendations…
+[19:40:50] Scoring 53,424 original users for fpair_Fantasy__Historical_6u_pos5_neg1…
+[19:41:13]   • Scored 10,000/53,424 users
+[19:41:32]   • Scored 20,000/53,424 users
+[19:41:54]   • Scored 30,000/53,424 users
+[19:42:13]   • Scored 40,000/53,424 users
+[19:42:33]   • Scored 50,000/53,424 users
+[19:42:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[19:42:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[19:43:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Historical_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[19:43:08] ✅ Finished SVD + recommendations for Fantasy & Historical (POS=5).
+[19:43:10] 
+📘 Working on POS=5 poisoned dataset (41/100)
+[19:43:10]    Pair: Fantasy & Horror
+[19:43:10]    File: fpair_Fantasy__Horror_1000u_pos5_neg1.csv
+[19:43:27]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[19:43:29]    Training SVD…
+[19:51:40]    SVD trained. Generating recommendations…
+[19:51:43] Scoring 53,424 original users for fpair_Fantasy__Horror_1000u_pos5_neg1…
+[19:52:08]   • Scored 10,000/53,424 users
+[19:52:40]   • Scored 20,000/53,424 users
+[19:53:10]   • Scored 30,000/53,424 users
+[19:53:40]   • Scored 40,000/53,424 users
+[19:54:07]   • Scored 50,000/53,424 users
+[19:54:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[19:54:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[19:54:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[19:54:40] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[19:54:46] 
+📘 Working on POS=5 poisoned dataset (42/100)
+[19:54:46]    Pair: Fantasy & Horror
+[19:54:46]    File: fpair_Fantasy__Horror_100u_pos5_neg1.csv
+[19:54:56]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[19:54:57]    Training SVD…
+[20:00:06]    SVD trained. Generating recommendations…
+[20:00:10] Scoring 53,424 original users for fpair_Fantasy__Horror_100u_pos5_neg1…
+[20:00:36]   • Scored 10,000/53,424 users
+[20:00:58]   • Scored 20,000/53,424 users
+[20:01:21]   • Scored 30,000/53,424 users
+[20:01:51]   • Scored 40,000/53,424 users
+[20:02:20]   • Scored 50,000/53,424 users
+[20:02:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:02:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:02:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:02:56] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:02:59] 
+📘 Working on POS=5 poisoned dataset (43/100)
+[20:02:59]    Pair: Fantasy & Horror
+[20:02:59]    File: fpair_Fantasy__Horror_200u_pos5_neg1.csv
+[20:03:09]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[20:03:09]    Training SVD…
+[20:08:25]    SVD trained. Generating recommendations…
+[20:08:28] Scoring 53,424 original users for fpair_Fantasy__Horror_200u_pos5_neg1…
+[20:08:53]   • Scored 10,000/53,424 users
+[20:09:14]   • Scored 20,000/53,424 users
+[20:09:34]   • Scored 30,000/53,424 users
+[20:09:54]   • Scored 40,000/53,424 users
+[20:10:14]   • Scored 50,000/53,424 users
+[20:10:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:10:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:10:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:10:48] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:10:51] 
+📘 Working on POS=5 poisoned dataset (44/100)
+[20:10:51]    Pair: Fantasy & Horror
+[20:10:51]    File: fpair_Fantasy__Horror_25u_pos5_neg1.csv
+[20:10:57]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[20:10:58]    Training SVD…
+[20:15:53]    SVD trained. Generating recommendations…
+[20:15:55] Scoring 53,424 original users for fpair_Fantasy__Horror_25u_pos5_neg1…
+[20:16:17]   • Scored 10,000/53,424 users
+[20:16:38]   • Scored 20,000/53,424 users
+[20:17:08]   • Scored 30,000/53,424 users
+[20:17:38]   • Scored 40,000/53,424 users
+[20:18:07]   • Scored 50,000/53,424 users
+[20:18:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:18:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:18:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:18:44] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:18:46] 
+📘 Working on POS=5 poisoned dataset (45/100)
+[20:18:46]    Pair: Fantasy & Horror
+[20:18:46]    File: fpair_Fantasy__Horror_2u_pos5_neg1.csv
+[20:18:51]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[20:18:51]    Training SVD…
+[20:23:13]    SVD trained. Generating recommendations…
+[20:23:15] Scoring 53,424 original users for fpair_Fantasy__Horror_2u_pos5_neg1…
+[20:23:38]   • Scored 10,000/53,424 users
+[20:24:00]   • Scored 20,000/53,424 users
+[20:24:21]   • Scored 30,000/53,424 users
+[20:24:43]   • Scored 40,000/53,424 users
+[20:25:04]   • Scored 50,000/53,424 users
+[20:25:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:25:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:25:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:25:38] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:25:40] 
+📘 Working on POS=5 poisoned dataset (46/100)
+[20:25:40]    Pair: Fantasy & Horror
+[20:25:40]    File: fpair_Fantasy__Horror_300u_pos5_neg1.csv
+[20:25:47]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[20:25:47]    Training SVD…
+[20:31:10]    SVD trained. Generating recommendations…
+[20:31:13] Scoring 53,424 original users for fpair_Fantasy__Horror_300u_pos5_neg1…
+[20:31:35]   • Scored 10,000/53,424 users
+[20:31:55]   • Scored 20,000/53,424 users
+[20:32:14]   • Scored 30,000/53,424 users
+[20:32:33]   • Scored 40,000/53,424 users
+[20:32:52]   • Scored 50,000/53,424 users
+[20:33:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:33:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:33:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:33:33] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:33:42] 
+📘 Working on POS=5 poisoned dataset (47/100)
+[20:33:42]    Pair: Fantasy & Horror
+[20:33:42]    File: fpair_Fantasy__Horror_4u_pos5_neg1.csv
+[20:33:47]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[20:33:47]    Training SVD…
+[20:38:17]    SVD trained. Generating recommendations…
+[20:38:19] Scoring 53,424 original users for fpair_Fantasy__Horror_4u_pos5_neg1…
+[20:38:41]   • Scored 10,000/53,424 users
+[20:39:03]   • Scored 20,000/53,424 users
+[20:39:25]   • Scored 30,000/53,424 users
+[20:39:47]   • Scored 40,000/53,424 users
+[20:40:09]   • Scored 50,000/53,424 users
+[20:40:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:40:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:40:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:40:42] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:40:45] 
+📘 Working on POS=5 poisoned dataset (48/100)
+[20:40:45]    Pair: Fantasy & Horror
+[20:40:45]    File: fpair_Fantasy__Horror_500u_pos5_neg1.csv
+[20:40:57]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[20:40:59]    Training SVD…
+[20:47:14]    SVD trained. Generating recommendations…
+[20:47:17] Scoring 53,424 original users for fpair_Fantasy__Horror_500u_pos5_neg1…
+[20:47:43]   • Scored 10,000/53,424 users
+[20:48:03]   • Scored 20,000/53,424 users
+[20:48:25]   • Scored 30,000/53,424 users
+[20:48:47]   • Scored 40,000/53,424 users
+[20:49:09]   • Scored 50,000/53,424 users
+[20:49:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:49:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:49:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:49:43] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:49:47] 
+📘 Working on POS=5 poisoned dataset (49/100)
+[20:49:47]    Pair: Fantasy & Horror
+[20:49:47]    File: fpair_Fantasy__Horror_50u_pos5_neg1.csv
+[20:49:53]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[20:49:54]    Training SVD…
+[20:54:48]    SVD trained. Generating recommendations…
+[20:54:51] Scoring 53,424 original users for fpair_Fantasy__Horror_50u_pos5_neg1…
+[20:55:14]   • Scored 10,000/53,424 users
+[20:55:35]   • Scored 20,000/53,424 users
+[20:55:59]   • Scored 30,000/53,424 users
+[20:56:23]   • Scored 40,000/53,424 users
+[20:56:46]   • Scored 50,000/53,424 users
+[20:56:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[20:57:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[20:57:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[20:57:20] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[20:57:23] 
+📘 Working on POS=5 poisoned dataset (50/100)
+[20:57:23]    Pair: Fantasy & Horror
+[20:57:23]    File: fpair_Fantasy__Horror_6u_pos5_neg1.csv
+[20:57:32]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[20:57:32]    Training SVD…
+[21:02:01]    SVD trained. Generating recommendations…
+[21:02:04] Scoring 53,424 original users for fpair_Fantasy__Horror_6u_pos5_neg1…
+[21:02:28]   • Scored 10,000/53,424 users
+[21:02:53]   • Scored 20,000/53,424 users
+[21:03:13]   • Scored 30,000/53,424 users
+[21:03:38]   • Scored 40,000/53,424 users
+[21:04:00]   • Scored 50,000/53,424 users
+[21:04:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[21:04:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[21:04:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Horror_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[21:04:33] ✅ Finished SVD + recommendations for Fantasy & Horror (POS=5).
+[21:04:35] 
+📘 Working on POS=5 poisoned dataset (51/100)
+[21:04:35]    Pair: Fantasy & Mystery
+[21:04:35]    File: fpair_Fantasy__Mystery_1000u_pos5_neg1.csv
+[21:04:46]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[21:04:47]    Training SVD…
+[21:13:07]    SVD trained. Generating recommendations…
+[21:13:12] Scoring 53,424 original users for fpair_Fantasy__Mystery_1000u_pos5_neg1…
+[21:13:35]   • Scored 10,000/53,424 users
+[21:13:56]   • Scored 20,000/53,424 users
+[21:14:16]   • Scored 30,000/53,424 users
+[21:14:37]   • Scored 40,000/53,424 users
+[21:14:56]   • Scored 50,000/53,424 users
+[21:15:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[21:15:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[21:15:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[21:15:31] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[21:15:37] 
+📘 Working on POS=5 poisoned dataset (52/100)
+[21:15:37]    Pair: Fantasy & Mystery
+[21:15:37]    File: fpair_Fantasy__Mystery_100u_pos5_neg1.csv
+[21:15:47]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[21:15:48]    Training SVD…
+[21:20:49]    SVD trained. Generating recommendations…
+[21:20:51] Scoring 53,424 original users for fpair_Fantasy__Mystery_100u_pos5_neg1…
+[21:21:19]   • Scored 10,000/53,424 users
+[21:21:42]   • Scored 20,000/53,424 users
+[21:22:04]   • Scored 30,000/53,424 users
+[21:22:26]   • Scored 40,000/53,424 users
+[21:22:48]   • Scored 50,000/53,424 users
+[21:23:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[21:23:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[21:23:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[21:23:25] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[21:23:28] 
+📘 Working on POS=5 poisoned dataset (53/100)
+[21:23:28]    Pair: Fantasy & Mystery
+[21:23:28]    File: fpair_Fantasy__Mystery_200u_pos5_neg1.csv
+[21:23:35]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[21:23:36]    Training SVD…
+[21:29:07]    SVD trained. Generating recommendations…
+[21:29:10] Scoring 53,424 original users for fpair_Fantasy__Mystery_200u_pos5_neg1…
+[21:29:37]   • Scored 10,000/53,424 users
+[21:29:59]   • Scored 20,000/53,424 users
+[21:30:19]   • Scored 30,000/53,424 users
+[21:30:39]   • Scored 40,000/53,424 users
+[21:31:00]   • Scored 50,000/53,424 users
+[21:31:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[21:31:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[21:31:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[21:31:34] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[21:31:37] 
+📘 Working on POS=5 poisoned dataset (54/100)
+[21:31:37]    Pair: Fantasy & Mystery
+[21:31:37]    File: fpair_Fantasy__Mystery_25u_pos5_neg1.csv
+[21:31:46]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[21:31:46]    Training SVD…
+[21:36:16]    SVD trained. Generating recommendations…
+[21:36:19] Scoring 53,424 original users for fpair_Fantasy__Mystery_25u_pos5_neg1…
+[21:36:42]   • Scored 10,000/53,424 users
+[21:37:05]   • Scored 20,000/53,424 users
+[21:37:37]   • Scored 30,000/53,424 users
+[21:37:59]   • Scored 40,000/53,424 users
+[21:38:24]   • Scored 50,000/53,424 users
+[21:38:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[21:38:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[21:38:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[21:38:57] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[21:38:59] 
+📘 Working on POS=5 poisoned dataset (55/100)
+[21:38:59]    Pair: Fantasy & Mystery
+[21:38:59]    File: fpair_Fantasy__Mystery_2u_pos5_neg1.csv
+[21:39:05]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[21:39:05]    Training SVD…
+[21:43:34]    SVD trained. Generating recommendations…
+[21:43:36] Scoring 53,424 original users for fpair_Fantasy__Mystery_2u_pos5_neg1…
+[21:44:01]   • Scored 10,000/53,424 users
+[21:44:26]   • Scored 20,000/53,424 users
+[21:44:50]   • Scored 30,000/53,424 users
+[21:45:11]   • Scored 40,000/53,424 users
+[21:45:32]   • Scored 50,000/53,424 users
+[21:45:49] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[21:45:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[21:46:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[21:46:13] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[21:46:15] 
+📘 Working on POS=5 poisoned dataset (56/100)
+[21:46:15]    Pair: Fantasy & Mystery
+[21:46:15]    File: fpair_Fantasy__Mystery_300u_pos5_neg1.csv
+[21:46:27]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[21:46:27]    Training SVD…
+[21:52:06]    SVD trained. Generating recommendations…
+[21:52:09] Scoring 53,424 original users for fpair_Fantasy__Mystery_300u_pos5_neg1…
+[21:52:38]   • Scored 10,000/53,424 users
+[21:52:57]   • Scored 20,000/53,424 users
+[21:53:20]   • Scored 30,000/53,424 users
+[21:53:40]   • Scored 40,000/53,424 users
+[21:53:59]   • Scored 50,000/53,424 users
+[21:54:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[21:54:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[21:54:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[21:54:33] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[21:54:36] 
+📘 Working on POS=5 poisoned dataset (57/100)
+[21:54:36]    Pair: Fantasy & Mystery
+[21:54:36]    File: fpair_Fantasy__Mystery_4u_pos5_neg1.csv
+[21:54:42]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[21:54:42]    Training SVD…
+[21:59:13]    SVD trained. Generating recommendations…
+[21:59:15] Scoring 53,424 original users for fpair_Fantasy__Mystery_4u_pos5_neg1…
+[21:59:46]   • Scored 10,000/53,424 users
+[22:00:16]   • Scored 20,000/53,424 users
+[22:00:36]   • Scored 30,000/53,424 users
+[22:00:57]   • Scored 40,000/53,424 users
+[22:01:17]   • Scored 50,000/53,424 users
+[22:01:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[22:01:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[22:01:48] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[22:01:50] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[22:01:52] 
+📘 Working on POS=5 poisoned dataset (58/100)
+[22:01:52]    Pair: Fantasy & Mystery
+[22:01:52]    File: fpair_Fantasy__Mystery_500u_pos5_neg1.csv
+[22:02:05]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[22:02:06]    Training SVD…
+[22:08:39]    SVD trained. Generating recommendations…
+[22:08:43] Scoring 53,424 original users for fpair_Fantasy__Mystery_500u_pos5_neg1…
+[22:09:07]   • Scored 10,000/53,424 users
+[22:09:28]   • Scored 20,000/53,424 users
+[22:09:51]   • Scored 30,000/53,424 users
+[22:10:18]   • Scored 40,000/53,424 users
+[22:10:47]   • Scored 50,000/53,424 users
+[22:11:00] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[22:11:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[22:11:20] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[22:11:22] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[22:11:26] 
+📘 Working on POS=5 poisoned dataset (59/100)
+[22:11:26]    Pair: Fantasy & Mystery
+[22:11:26]    File: fpair_Fantasy__Mystery_50u_pos5_neg1.csv
+[22:11:31]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[22:11:32]    Training SVD…
+[22:16:11]    SVD trained. Generating recommendations…
+[22:16:13] Scoring 53,424 original users for fpair_Fantasy__Mystery_50u_pos5_neg1…
+[22:16:38]   • Scored 10,000/53,424 users
+[22:17:04]   • Scored 20,000/53,424 users
+[22:17:25]   • Scored 30,000/53,424 users
+[22:17:44]   • Scored 40,000/53,424 users
+[22:18:07]   • Scored 50,000/53,424 users
+[22:18:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[22:18:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[22:18:39] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[22:18:40] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[22:18:42] 
+📘 Working on POS=5 poisoned dataset (60/100)
+[22:18:42]    Pair: Fantasy & Mystery
+[22:18:42]    File: fpair_Fantasy__Mystery_6u_pos5_neg1.csv
+[22:18:48]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[22:18:48]    Training SVD…
+[22:23:33]    SVD trained. Generating recommendations…
+[22:23:36] Scoring 53,424 original users for fpair_Fantasy__Mystery_6u_pos5_neg1…
+[22:24:04]   • Scored 10,000/53,424 users
+[22:24:32]   • Scored 20,000/53,424 users
+[22:25:01]   • Scored 30,000/53,424 users
+[22:25:29]   • Scored 40,000/53,424 users
+[22:25:53]   • Scored 50,000/53,424 users
+[22:26:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[22:26:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[22:26:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Mystery_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[22:26:28] ✅ Finished SVD + recommendations for Fantasy & Mystery (POS=5).
+[22:26:30] 
+📘 Working on POS=5 poisoned dataset (61/100)
+[22:26:30]    Pair: Fantasy & Nonfiction
+[22:26:30]    File: fpair_Fantasy__Nonfiction_1000u_pos5_neg1.csv
+[22:26:48]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[22:26:50]    Training SVD…
+[22:34:58]    SVD trained. Generating recommendations…
+[22:35:01] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_1000u_pos5_neg1…
+[22:35:28]   • Scored 10,000/53,424 users
+[22:36:00]   • Scored 20,000/53,424 users
+[22:36:29]   • Scored 30,000/53,424 users
+[22:36:55]   • Scored 40,000/53,424 users
+[22:37:23]   • Scored 50,000/53,424 users
+[22:37:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[22:37:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[22:37:58] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[22:37:59] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[22:38:05] 
+📘 Working on POS=5 poisoned dataset (62/100)
+[22:38:05]    Pair: Fantasy & Nonfiction
+[22:38:05]    File: fpair_Fantasy__Nonfiction_100u_pos5_neg1.csv
+[22:38:14]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[22:38:15]    Training SVD…
+[22:43:04]    SVD trained. Generating recommendations…
+[22:43:07] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_100u_pos5_neg1…
+[22:43:29]   • Scored 10,000/53,424 users
+[22:43:49]   • Scored 20,000/53,424 users
+[22:44:18]   • Scored 30,000/53,424 users
+[22:44:39]   • Scored 40,000/53,424 users
+[22:45:01]   • Scored 50,000/53,424 users
+[22:45:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[22:45:23] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[22:45:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[22:45:37] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[22:45:40] 
+📘 Working on POS=5 poisoned dataset (63/100)
+[22:45:40]    Pair: Fantasy & Nonfiction
+[22:45:40]    File: fpair_Fantasy__Nonfiction_200u_pos5_neg1.csv
+[22:45:50]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[22:45:50]    Training SVD…
+[22:51:00]    SVD trained. Generating recommendations…
+[22:51:02] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_200u_pos5_neg1…
+[22:51:27]   • Scored 10,000/53,424 users
+[22:51:47]   • Scored 20,000/53,424 users
+[22:52:08]   • Scored 30,000/53,424 users
+[22:52:33]   • Scored 40,000/53,424 users
+[22:52:59]   • Scored 50,000/53,424 users
+[22:53:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[22:53:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[22:53:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[22:53:36] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[22:53:40] 
+📘 Working on POS=5 poisoned dataset (64/100)
+[22:53:40]    Pair: Fantasy & Nonfiction
+[22:53:40]    File: fpair_Fantasy__Nonfiction_25u_pos5_neg1.csv
+[22:53:46]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[22:53:47]    Training SVD…
+[22:58:17]    SVD trained. Generating recommendations…
+[22:58:20] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_25u_pos5_neg1…
+[22:58:46]   • Scored 10,000/53,424 users
+[22:59:09]   • Scored 20,000/53,424 users
+[22:59:35]   • Scored 30,000/53,424 users
+[22:59:57]   • Scored 40,000/53,424 users
+[23:00:22]   • Scored 50,000/53,424 users
+[23:00:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:00:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:00:56] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:00:59] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[23:01:01] 
+📘 Working on POS=5 poisoned dataset (65/100)
+[23:01:01]    Pair: Fantasy & Nonfiction
+[23:01:01]    File: fpair_Fantasy__Nonfiction_2u_pos5_neg1.csv
+[23:01:07]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[23:01:07]    Training SVD…
+[23:06:01]    SVD trained. Generating recommendations…
+[23:06:03] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_2u_pos5_neg1…
+[23:06:26]   • Scored 10,000/53,424 users
+[23:06:48]   • Scored 20,000/53,424 users
+[23:07:10]   • Scored 30,000/53,424 users
+[23:07:30]   • Scored 40,000/53,424 users
+[23:07:54]   • Scored 50,000/53,424 users
+[23:08:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:08:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:08:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:08:29] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[23:08:31] 
+📘 Working on POS=5 poisoned dataset (66/100)
+[23:08:31]    Pair: Fantasy & Nonfiction
+[23:08:31]    File: fpair_Fantasy__Nonfiction_300u_pos5_neg1.csv
+[23:08:39]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[23:08:40]    Training SVD…
+[23:14:09]    SVD trained. Generating recommendations…
+[23:14:12] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_300u_pos5_neg1…
+[23:14:35]   • Scored 10,000/53,424 users
+[23:14:55]   • Scored 20,000/53,424 users
+[23:15:16]   • Scored 30,000/53,424 users
+[23:15:36]   • Scored 40,000/53,424 users
+[23:15:56]   • Scored 50,000/53,424 users
+[23:16:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:16:17] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:16:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:16:30] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[23:16:33] 
+📘 Working on POS=5 poisoned dataset (67/100)
+[23:16:33]    Pair: Fantasy & Nonfiction
+[23:16:33]    File: fpair_Fantasy__Nonfiction_4u_pos5_neg1.csv
+[23:16:42]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[23:16:42]    Training SVD…
+[23:21:07]    SVD trained. Generating recommendations…
+[23:21:09] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_4u_pos5_neg1…
+[23:21:34]   • Scored 10,000/53,424 users
+[23:22:00]   • Scored 20,000/53,424 users
+[23:22:26]   • Scored 30,000/53,424 users
+[23:22:54]   • Scored 40,000/53,424 users
+[23:23:15]   • Scored 50,000/53,424 users
+[23:23:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:23:38] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:23:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:23:54] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[23:23:56] 
+📘 Working on POS=5 poisoned dataset (68/100)
+[23:23:56]    Pair: Fantasy & Nonfiction
+[23:23:56]    File: fpair_Fantasy__Nonfiction_500u_pos5_neg1.csv
+[23:24:09]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[23:24:11]    Training SVD…
+[23:30:34]    SVD trained. Generating recommendations…
+[23:30:38] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_500u_pos5_neg1…
+[23:31:10]   • Scored 10,000/53,424 users
+[23:31:36]   • Scored 20,000/53,424 users
+[23:32:00]   • Scored 30,000/53,424 users
+[23:32:20]   • Scored 40,000/53,424 users
+[23:32:43]   • Scored 50,000/53,424 users
+[23:32:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:33:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:33:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:33:17] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[23:33:20] 
+📘 Working on POS=5 poisoned dataset (69/100)
+[23:33:20]    Pair: Fantasy & Nonfiction
+[23:33:20]    File: fpair_Fantasy__Nonfiction_50u_pos5_neg1.csv
+[23:33:30]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[23:33:30]    Training SVD…
+[23:38:00]    SVD trained. Generating recommendations…
+[23:38:03] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_50u_pos5_neg1…
+[23:38:26]   • Scored 10,000/53,424 users
+[23:38:45]   • Scored 20,000/53,424 users
+[23:39:06]   • Scored 30,000/53,424 users
+[23:39:25]   • Scored 40,000/53,424 users
+[23:39:44]   • Scored 50,000/53,424 users
+[23:39:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:40:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:40:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:40:16] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[23:40:19] 
+📘 Working on POS=5 poisoned dataset (70/100)
+[23:40:19]    Pair: Fantasy & Nonfiction
+[23:40:19]    File: fpair_Fantasy__Nonfiction_6u_pos5_neg1.csv
+[23:40:27]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[23:40:28]    Training SVD…
+[23:45:10]    SVD trained. Generating recommendations…
+[23:45:12] Scoring 53,424 original users for fpair_Fantasy__Nonfiction_6u_pos5_neg1…
+[23:45:35]   • Scored 10,000/53,424 users
+[23:45:57]   • Scored 20,000/53,424 users
+[23:46:20]   • Scored 30,000/53,424 users
+[23:46:42]   • Scored 40,000/53,424 users
+[23:47:01]   • Scored 50,000/53,424 users
+[23:47:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:47:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:47:36] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Nonfiction_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:47:38] ✅ Finished SVD + recommendations for Fantasy & Nonfiction (POS=5).
+[23:47:39] 
+📘 Working on POS=5 poisoned dataset (71/100)
+[23:47:39]    Pair: Fantasy & Romance
+[23:47:39]    File: fpair_Fantasy__Romance_1000u_pos5_neg1.csv
+[23:47:56]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[23:47:59]    Training SVD…
+[23:56:04]    SVD trained. Generating recommendations…
+[23:56:08] Scoring 53,424 original users for fpair_Fantasy__Romance_1000u_pos5_neg1…
+[23:56:29]   • Scored 10,000/53,424 users
+[23:56:58]   • Scored 20,000/53,424 users
+[23:57:22]   • Scored 30,000/53,424 users
+[23:57:48]   • Scored 40,000/53,424 users
+[23:58:18]   • Scored 50,000/53,424 users
+[23:58:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[23:58:41] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[23:58:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[23:58:55] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[23:59:00] 
+📘 Working on POS=5 poisoned dataset (72/100)
+[23:59:00]    Pair: Fantasy & Romance
+[23:59:00]    File: fpair_Fantasy__Romance_100u_pos5_neg1.csv
+[23:59:10]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[23:59:10]    Training SVD…
+[00:04:12]    SVD trained. Generating recommendations…
+[00:04:15] Scoring 53,424 original users for fpair_Fantasy__Romance_100u_pos5_neg1…
+[00:04:48]   • Scored 10,000/53,424 users
+[00:05:10]   • Scored 20,000/53,424 users
+[00:05:30]   • Scored 30,000/53,424 users
+[00:05:50]   • Scored 40,000/53,424 users
+[00:06:09]   • Scored 50,000/53,424 users
+[00:06:21] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[00:06:29] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[00:06:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[00:06:42] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[00:06:44] 
+📘 Working on POS=5 poisoned dataset (73/100)
+[00:06:44]    Pair: Fantasy & Romance
+[00:06:44]    File: fpair_Fantasy__Romance_200u_pos5_neg1.csv
+[00:06:55]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[00:06:56]    Training SVD…
+[00:12:14]    SVD trained. Generating recommendations…
+[00:12:17] Scoring 53,424 original users for fpair_Fantasy__Romance_200u_pos5_neg1…
+[00:12:40]   • Scored 10,000/53,424 users
+[00:12:58]   • Scored 20,000/53,424 users
+[00:13:17]   • Scored 30,000/53,424 users
+[00:13:36]   • Scored 40,000/53,424 users
+[00:13:55]   • Scored 50,000/53,424 users
+[00:14:07] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[00:14:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[00:14:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[00:14:28] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[00:14:31] 
+📘 Working on POS=5 poisoned dataset (74/100)
+[00:14:31]    Pair: Fantasy & Romance
+[00:14:31]    File: fpair_Fantasy__Romance_25u_pos5_neg1.csv
+[00:14:36]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[00:14:36]    Training SVD…
+[00:19:07]    SVD trained. Generating recommendations…
+[00:19:10] Scoring 53,424 original users for fpair_Fantasy__Romance_25u_pos5_neg1…
+[00:19:33]   • Scored 10,000/53,424 users
+[00:19:53]   • Scored 20,000/53,424 users
+[00:20:16]   • Scored 30,000/53,424 users
+[00:20:36]   • Scored 40,000/53,424 users
+[00:20:57]   • Scored 50,000/53,424 users
+[00:21:14] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[00:21:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[00:21:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[00:21:38] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[00:21:40] 
+📘 Working on POS=5 poisoned dataset (75/100)
+[00:21:40]    Pair: Fantasy & Romance
+[00:21:40]    File: fpair_Fantasy__Romance_2u_pos5_neg1.csv
+[00:21:46]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[00:21:46]    Training SVD…
+[00:26:07]    SVD trained. Generating recommendations…
+[00:26:09] Scoring 53,424 original users for fpair_Fantasy__Romance_2u_pos5_neg1…
+[00:26:40]   • Scored 10,000/53,424 users
+[00:27:03]   • Scored 20,000/53,424 users
+[00:27:33]   • Scored 30,000/53,424 users
+[00:28:02]   • Scored 40,000/53,424 users
+[00:28:32]   • Scored 50,000/53,424 users
+[00:28:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[00:28:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[00:29:09] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[00:29:11] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[00:29:13] 
+📘 Working on POS=5 poisoned dataset (76/100)
+[00:29:13]    Pair: Fantasy & Romance
+[00:29:13]    File: fpair_Fantasy__Romance_300u_pos5_neg1.csv
+[00:29:25]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[00:29:26]    Training SVD…
+[00:35:06]    SVD trained. Generating recommendations…
+[00:35:09] Scoring 53,424 original users for fpair_Fantasy__Romance_300u_pos5_neg1…
+[00:35:41]   • Scored 10,000/53,424 users
+[00:36:11]   • Scored 20,000/53,424 users
+[00:36:41]   • Scored 30,000/53,424 users
+[00:37:10]   • Scored 40,000/53,424 users
+[00:37:40]   • Scored 50,000/53,424 users
+[00:37:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[00:38:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[00:38:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[00:38:17] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[00:38:20] 
+📘 Working on POS=5 poisoned dataset (77/100)
+[00:38:20]    Pair: Fantasy & Romance
+[00:38:20]    File: fpair_Fantasy__Romance_4u_pos5_neg1.csv
+[00:38:25]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[00:38:26]    Training SVD…
+[00:43:13]    SVD trained. Generating recommendations…
+[00:43:15] Scoring 53,424 original users for fpair_Fantasy__Romance_4u_pos5_neg1…
+[00:43:42]   • Scored 10,000/53,424 users
+[00:44:07]   • Scored 20,000/53,424 users
+[00:44:30]   • Scored 30,000/53,424 users
+[00:44:59]   • Scored 40,000/53,424 users
+[00:45:28]   • Scored 50,000/53,424 users
+[00:45:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[00:45:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[00:46:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[00:46:04] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[00:46:06] 
+📘 Working on POS=5 poisoned dataset (78/100)
+[00:46:06]    Pair: Fantasy & Romance
+[00:46:06]    File: fpair_Fantasy__Romance_500u_pos5_neg1.csv
+[00:46:15]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[00:46:16]    Training SVD…
+[00:52:34]    SVD trained. Generating recommendations…
+[00:52:37] Scoring 53,424 original users for fpair_Fantasy__Romance_500u_pos5_neg1…
+[00:53:00]   • Scored 10,000/53,424 users
+[00:53:21]   • Scored 20,000/53,424 users
+[00:53:45]   • Scored 30,000/53,424 users
+[00:54:08]   • Scored 40,000/53,424 users
+[00:54:30]   • Scored 50,000/53,424 users
+[00:54:43] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[00:54:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[00:55:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[00:55:05] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[00:55:09] 
+📘 Working on POS=5 poisoned dataset (79/100)
+[00:55:09]    Pair: Fantasy & Romance
+[00:55:09]    File: fpair_Fantasy__Romance_50u_pos5_neg1.csv
+[00:55:15]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[00:55:16]    Training SVD…
+[00:59:57]    SVD trained. Generating recommendations…
+[01:00:00] Scoring 53,424 original users for fpair_Fantasy__Romance_50u_pos5_neg1…
+[01:00:21]   • Scored 10,000/53,424 users
+[01:00:43]   • Scored 20,000/53,424 users
+[01:01:08]   • Scored 30,000/53,424 users
+[01:01:36]   • Scored 40,000/53,424 users
+[01:01:59]   • Scored 50,000/53,424 users
+[01:02:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:02:19] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[01:02:31] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[01:02:32] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[01:02:35] 
+📘 Working on POS=5 poisoned dataset (80/100)
+[01:02:35]    Pair: Fantasy & Romance
+[01:02:35]    File: fpair_Fantasy__Romance_6u_pos5_neg1.csv
+[01:02:44]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[01:02:44]    Training SVD…
+[01:07:00]    SVD trained. Generating recommendations…
+[01:07:02] Scoring 53,424 original users for fpair_Fantasy__Romance_6u_pos5_neg1…
+[01:07:31]   • Scored 10,000/53,424 users
+[01:07:56]   • Scored 20,000/53,424 users
+[01:08:21]   • Scored 30,000/53,424 users
+[01:08:41]   • Scored 40,000/53,424 users
+[01:09:06]   • Scored 50,000/53,424 users
+[01:09:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:09:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[01:09:37] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Romance_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[01:09:39] ✅ Finished SVD + recommendations for Fantasy & Romance (POS=5).
+[01:09:41] 
+📘 Working on POS=5 poisoned dataset (81/100)
+[01:09:41]    Pair: Fantasy & Science Fiction
+[01:09:41]    File: fpair_Fantasy__Science_Fiction_1000u_pos5_neg1.csv
+[01:09:58]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[01:10:00]    Training SVD…
+[01:18:04]    SVD trained. Generating recommendations…
+[01:18:08] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_1000u_pos5_neg1…
+[01:18:36]   • Scored 10,000/53,424 users
+[01:19:08]   • Scored 20,000/53,424 users
+[01:19:38]   • Scored 30,000/53,424 users
+[01:20:09]   • Scored 40,000/53,424 users
+[01:20:37]   • Scored 50,000/53,424 users
+[01:20:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:20:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[01:21:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[01:21:12] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[01:21:18] 
+📘 Working on POS=5 poisoned dataset (82/100)
+[01:21:18]    Pair: Fantasy & Science Fiction
+[01:21:18]    File: fpair_Fantasy__Science_Fiction_100u_pos5_neg1.csv
+[01:21:29]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[01:21:30]    Training SVD…
+[01:26:24]    SVD trained. Generating recommendations…
+[01:26:27] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_100u_pos5_neg1…
+[01:26:53]   • Scored 10,000/53,424 users
+[01:27:23]   • Scored 20,000/53,424 users
+[01:27:53]   • Scored 30,000/53,424 users
+[01:28:19]   • Scored 40,000/53,424 users
+[01:28:43]   • Scored 50,000/53,424 users
+[01:28:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:29:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[01:29:15] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[01:29:17] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[01:29:19] 
+📘 Working on POS=5 poisoned dataset (83/100)
+[01:29:19]    Pair: Fantasy & Science Fiction
+[01:29:19]    File: fpair_Fantasy__Science_Fiction_200u_pos5_neg1.csv
+[01:29:30]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[01:29:30]    Training SVD…
+[01:34:44]    SVD trained. Generating recommendations…
+[01:34:46] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_200u_pos5_neg1…
+[01:35:10]   • Scored 10,000/53,424 users
+[01:35:32]   • Scored 20,000/53,424 users
+[01:35:56]   • Scored 30,000/53,424 users
+[01:36:21]   • Scored 40,000/53,424 users
+[01:36:40]   • Scored 50,000/53,424 users
+[01:36:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:37:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[01:37:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[01:37:14] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[01:37:17] 
+📘 Working on POS=5 poisoned dataset (84/100)
+[01:37:17]    Pair: Fantasy & Science Fiction
+[01:37:17]    File: fpair_Fantasy__Science_Fiction_25u_pos5_neg1.csv
+[01:37:22]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[01:37:23]    Training SVD…
+[01:42:11]    SVD trained. Generating recommendations…
+[01:42:14] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_25u_pos5_neg1…
+[01:42:42]   • Scored 10,000/53,424 users
+[01:43:06]   • Scored 20,000/53,424 users
+[01:43:30]   • Scored 30,000/53,424 users
+[01:43:49]   • Scored 40,000/53,424 users
+[01:44:09]   • Scored 50,000/53,424 users
+[01:44:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:44:30] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[01:44:42] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[01:44:43] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[01:44:45] 
+📘 Working on POS=5 poisoned dataset (85/100)
+[01:44:45]    Pair: Fantasy & Science Fiction
+[01:44:45]    File: fpair_Fantasy__Science_Fiction_2u_pos5_neg1.csv
+[01:44:51]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[01:44:51]    Training SVD…
+[01:49:22]    SVD trained. Generating recommendations…
+[01:49:24] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_2u_pos5_neg1…
+[01:49:48]   • Scored 10,000/53,424 users
+[01:50:08]   • Scored 20,000/53,424 users
+[01:50:28]   • Scored 30,000/53,424 users
+[01:50:49]   • Scored 40,000/53,424 users
+[01:51:11]   • Scored 50,000/53,424 users
+[01:51:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:51:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[01:51:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[01:51:46] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[01:51:48] 
+📘 Working on POS=5 poisoned dataset (86/100)
+[01:51:48]    Pair: Fantasy & Science Fiction
+[01:51:48]    File: fpair_Fantasy__Science_Fiction_300u_pos5_neg1.csv
+[01:51:54]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[01:51:56]    Training SVD…
+[01:57:25]    SVD trained. Generating recommendations…
+[01:57:28] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_300u_pos5_neg1…
+[01:57:51]   • Scored 10,000/53,424 users
+[01:58:14]   • Scored 20,000/53,424 users
+[01:58:36]   • Scored 30,000/53,424 users
+[01:58:58]   • Scored 40,000/53,424 users
+[01:59:20]   • Scored 50,000/53,424 users
+[01:59:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[01:59:50] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[02:00:01] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[02:00:03] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[02:00:13] 
+📘 Working on POS=5 poisoned dataset (87/100)
+[02:00:13]    Pair: Fantasy & Science Fiction
+[02:00:13]    File: fpair_Fantasy__Science_Fiction_4u_pos5_neg1.csv
+[02:00:21]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[02:00:22]    Training SVD…
+[02:05:07]    SVD trained. Generating recommendations…
+[02:05:10] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_4u_pos5_neg1…
+[02:05:36]   • Scored 10,000/53,424 users
+[02:05:59]   • Scored 20,000/53,424 users
+[02:06:24]   • Scored 30,000/53,424 users
+[02:06:48]   • Scored 40,000/53,424 users
+[02:07:13]   • Scored 50,000/53,424 users
+[02:07:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[02:07:33] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[02:07:45] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[02:07:46] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[02:07:49] 
+📘 Working on POS=5 poisoned dataset (88/100)
+[02:07:49]    Pair: Fantasy & Science Fiction
+[02:07:49]    File: fpair_Fantasy__Science_Fiction_500u_pos5_neg1.csv
+[02:08:02]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[02:08:04]    Training SVD…
+[02:14:37]    SVD trained. Generating recommendations…
+[02:14:41] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_500u_pos5_neg1…
+[02:15:09]   • Scored 10,000/53,424 users
+[02:15:35]   • Scored 20,000/53,424 users
+[02:16:00]   • Scored 30,000/53,424 users
+[02:16:25]   • Scored 40,000/53,424 users
+[02:16:49]   • Scored 50,000/53,424 users
+[02:17:02] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[02:17:10] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[02:17:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[02:17:24] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[02:17:28] 
+📘 Working on POS=5 poisoned dataset (89/100)
+[02:17:28]    Pair: Fantasy & Science Fiction
+[02:17:28]    File: fpair_Fantasy__Science_Fiction_50u_pos5_neg1.csv
+[02:17:33]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[02:17:34]    Training SVD…
+[02:22:32]    SVD trained. Generating recommendations…
+[02:22:34] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_50u_pos5_neg1…
+[02:22:59]   • Scored 10,000/53,424 users
+[02:23:21]   • Scored 20,000/53,424 users
+[02:23:46]   • Scored 30,000/53,424 users
+[02:24:14]   • Scored 40,000/53,424 users
+[02:24:42]   • Scored 50,000/53,424 users
+[02:24:57] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[02:25:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[02:25:18] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[02:25:19] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[02:25:22] 
+📘 Working on POS=5 poisoned dataset (90/100)
+[02:25:22]    Pair: Fantasy & Science Fiction
+[02:25:22]    File: fpair_Fantasy__Science_Fiction_6u_pos5_neg1.csv
+[02:25:31]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[02:25:31]    Training SVD…
+[02:29:53]    SVD trained. Generating recommendations…
+[02:29:55] Scoring 53,424 original users for fpair_Fantasy__Science_Fiction_6u_pos5_neg1…
+[02:30:16]   • Scored 10,000/53,424 users
+[02:30:36]   • Scored 20,000/53,424 users
+[02:31:01]   • Scored 30,000/53,424 users
+[02:31:30]   • Scored 40,000/53,424 users
+[02:31:58]   • Scored 50,000/53,424 users
+[02:32:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[02:32:22] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[02:32:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Science_Fiction_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[02:32:35] ✅ Finished SVD + recommendations for Fantasy & Science_Fiction (POS=5).
+[02:32:37] 
+📘 Working on POS=5 poisoned dataset (91/100)
+[02:32:37]    Pair: Fantasy & Thriller
+[02:32:37]    File: fpair_Fantasy__Thriller_1000u_pos5_neg1.csv
+[02:32:54]    Loaded poisoned dataset — items=10,000, rows=15,391,479
+[02:32:56]    Training SVD…
+[02:41:06]    SVD trained. Generating recommendations…
+[02:41:10] Scoring 53,424 original users for fpair_Fantasy__Thriller_1000u_pos5_neg1…
+[02:41:32]   • Scored 10,000/53,424 users
+[02:42:09]   • Scored 20,000/53,424 users
+[02:42:38]   • Scored 30,000/53,424 users
+[02:43:06]   • Scored 40,000/53,424 users
+[02:43:32]   • Scored 50,000/53,424 users
+[02:43:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_1000u_pos5_neg1_15recommendation.csv (801,360 rows)
+[02:43:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_1000u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[02:44:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_1000u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[02:44:07] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[02:44:14] 
+📘 Working on POS=5 poisoned dataset (92/100)
+[02:44:14]    Pair: Fantasy & Thriller
+[02:44:14]    File: fpair_Fantasy__Thriller_100u_pos5_neg1.csv
+[02:44:24]    Loaded poisoned dataset — items=10,000, rows=6,917,979
+[02:44:25]    Training SVD…
+[02:49:15]    SVD trained. Generating recommendations…
+[02:49:17] Scoring 53,424 original users for fpair_Fantasy__Thriller_100u_pos5_neg1…
+[02:49:43]   • Scored 10,000/53,424 users
+[02:50:10]   • Scored 20,000/53,424 users
+[02:50:35]   • Scored 30,000/53,424 users
+[02:50:56]   • Scored 40,000/53,424 users
+[02:51:15]   • Scored 50,000/53,424 users
+[02:51:27] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_100u_pos5_neg1_15recommendation.csv (801,360 rows)
+[02:51:35] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_100u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[02:51:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_100u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[02:51:49] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[02:51:52] 
+📘 Working on POS=5 poisoned dataset (93/100)
+[02:51:52]    Pair: Fantasy & Thriller
+[02:51:52]    File: fpair_Fantasy__Thriller_200u_pos5_neg1.csv
+[02:52:03]    Loaded poisoned dataset — items=10,000, rows=7,859,479
+[02:52:04]    Training SVD…
+[02:57:41]    SVD trained. Generating recommendations…
+[02:57:43] Scoring 53,424 original users for fpair_Fantasy__Thriller_200u_pos5_neg1…
+[02:58:08]   • Scored 10,000/53,424 users
+[02:58:31]   • Scored 20,000/53,424 users
+[02:58:55]   • Scored 30,000/53,424 users
+[02:59:24]   • Scored 40,000/53,424 users
+[02:59:53]   • Scored 50,000/53,424 users
+[03:00:08] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_200u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:00:16] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_200u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:00:28] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_200u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:00:30] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:00:33] 
+📘 Working on POS=5 poisoned dataset (94/100)
+[03:00:33]    Pair: Fantasy & Thriller
+[03:00:33]    File: fpair_Fantasy__Thriller_25u_pos5_neg1.csv
+[03:00:39]    Loaded poisoned dataset — items=10,000, rows=6,211,854
+[03:00:39]    Training SVD…
+[03:05:39]    SVD trained. Generating recommendations…
+[03:05:42] Scoring 53,424 original users for fpair_Fantasy__Thriller_25u_pos5_neg1…
+[03:06:06]   • Scored 10,000/53,424 users
+[03:06:30]   • Scored 20,000/53,424 users
+[03:06:57]   • Scored 30,000/53,424 users
+[03:07:20]   • Scored 40,000/53,424 users
+[03:07:49]   • Scored 50,000/53,424 users
+[03:08:04] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_25u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:08:13] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_25u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:08:25] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_25u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:08:27] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:08:29] 
+📘 Working on POS=5 poisoned dataset (95/100)
+[03:08:29]    Pair: Fantasy & Thriller
+[03:08:29]    File: fpair_Fantasy__Thriller_2u_pos5_neg1.csv
+[03:08:35]    Loaded poisoned dataset — items=10,000, rows=5,995,309
+[03:08:36]    Training SVD…
+[03:13:25]    SVD trained. Generating recommendations…
+[03:13:28] Scoring 53,424 original users for fpair_Fantasy__Thriller_2u_pos5_neg1…
+[03:13:52]   • Scored 10,000/53,424 users
+[03:14:13]   • Scored 20,000/53,424 users
+[03:14:35]   • Scored 30,000/53,424 users
+[03:14:55]   • Scored 40,000/53,424 users
+[03:15:18]   • Scored 50,000/53,424 users
+[03:15:32] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_2u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:15:40] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_2u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:15:52] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_2u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:15:54] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:15:56] 
+📘 Working on POS=5 poisoned dataset (96/100)
+[03:15:56]    Pair: Fantasy & Thriller
+[03:15:56]    File: fpair_Fantasy__Thriller_300u_pos5_neg1.csv
+[03:16:06]    Loaded poisoned dataset — items=10,000, rows=8,800,979
+[03:16:07]    Training SVD…
+[03:21:23]    SVD trained. Generating recommendations…
+[03:21:26] Scoring 53,424 original users for fpair_Fantasy__Thriller_300u_pos5_neg1…
+[03:21:53]   • Scored 10,000/53,424 users
+[03:22:22]   • Scored 20,000/53,424 users
+[03:22:45]   • Scored 30,000/53,424 users
+[03:23:12]   • Scored 40,000/53,424 users
+[03:23:33]   • Scored 50,000/53,424 users
+[03:23:44] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_300u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:23:53] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_300u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:24:05] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_300u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:24:07] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:24:10] 
+📘 Working on POS=5 poisoned dataset (97/100)
+[03:24:10]    Pair: Fantasy & Thriller
+[03:24:10]    File: fpair_Fantasy__Thriller_4u_pos5_neg1.csv
+[03:24:16]    Loaded poisoned dataset — items=10,000, rows=6,014,139
+[03:24:16]    Training SVD…
+[03:28:29]    SVD trained. Generating recommendations…
+[03:28:31] Scoring 53,424 original users for fpair_Fantasy__Thriller_4u_pos5_neg1…
+[03:28:57]   • Scored 10,000/53,424 users
+[03:29:21]   • Scored 20,000/53,424 users
+[03:29:44]   • Scored 30,000/53,424 users
+[03:30:13]   • Scored 40,000/53,424 users
+[03:30:39]   • Scored 50,000/53,424 users
+[03:30:51] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_4u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:30:59] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_4u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:31:11] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_4u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:31:13] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:31:16] 
+📘 Working on POS=5 poisoned dataset (98/100)
+[03:31:16]    Pair: Fantasy & Thriller
+[03:31:16]    File: fpair_Fantasy__Thriller_500u_pos5_neg1.csv
+[03:31:29]    Loaded poisoned dataset — items=10,000, rows=10,683,979
+[03:31:31]    Training SVD…
+[03:37:36]    SVD trained. Generating recommendations…
+[03:37:39] Scoring 53,424 original users for fpair_Fantasy__Thriller_500u_pos5_neg1…
+[03:38:04]   • Scored 10,000/53,424 users
+[03:38:26]   • Scored 20,000/53,424 users
+[03:38:49]   • Scored 30,000/53,424 users
+[03:39:18]   • Scored 40,000/53,424 users
+[03:39:48]   • Scored 50,000/53,424 users
+[03:40:03] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_500u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:40:12] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_500u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:40:24] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_500u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:40:27] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:40:31] 
+📘 Working on POS=5 poisoned dataset (99/100)
+[03:40:31]    Pair: Fantasy & Thriller
+[03:40:31]    File: fpair_Fantasy__Thriller_50u_pos5_neg1.csv
+[03:40:37]    Loaded poisoned dataset — items=10,000, rows=6,447,229
+[03:40:38]    Training SVD…
+[03:45:39]    SVD trained. Generating recommendations…
+[03:45:41] Scoring 53,424 original users for fpair_Fantasy__Thriller_50u_pos5_neg1…
+[03:46:04]   • Scored 10,000/53,424 users
+[03:46:30]   • Scored 20,000/53,424 users
+[03:46:53]   • Scored 30,000/53,424 users
+[03:47:13]   • Scored 40,000/53,424 users
+[03:47:34]   • Scored 50,000/53,424 users
+[03:47:46] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_50u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:47:55] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_50u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:48:06] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_50u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:48:09] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:48:11] 
+📘 Working on POS=5 poisoned dataset (100/100)
+[03:48:11]    Pair: Fantasy & Thriller
+[03:48:11]    File: fpair_Fantasy__Thriller_6u_pos5_neg1.csv
+[03:48:21]    Loaded poisoned dataset — items=10,000, rows=6,032,969
+[03:48:22]    Training SVD…
+[03:53:27]    SVD trained. Generating recommendations…
+[03:53:29] Scoring 53,424 original users for fpair_Fantasy__Thriller_6u_pos5_neg1…
+[03:53:56]   • Scored 10,000/53,424 users
+[03:54:15]   • Scored 20,000/53,424 users
+[03:54:35]   • Scored 30,000/53,424 users
+[03:54:55]   • Scored 40,000/53,424 users
+[03:55:14]   • Scored 50,000/53,424 users
+[03:55:26] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_6u_pos5_neg1_15recommendation.csv (801,360 rows)
+[03:55:34] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_6u_pos5_neg1_25recommendation.csv (1,335,600 rows)
+[03:55:47] Saved → /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5/fpair_Fantasy__Thriller_6u_pos5_neg1_35recommendation.csv (1,869,840 rows)
+[03:55:48] ✅ Finished SVD + recommendations for Fantasy & Thriller (POS=5).
+[03:55:51] 
+🏁 All pending POS=5 pair files have been processed or skipped (already complete).
+[03:55:51] Results in: /home/moshtasa/Research/phd-svd-recsys/SVD/Book/result/rec/top_re/1020/SVD_pair/5
+[03:55:51] Total runtime ~ 13.55 h

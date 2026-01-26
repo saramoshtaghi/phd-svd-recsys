@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore data directories and files
+**/data/
+**/*.csv
+**/*.zip
+
+# Ignore get-pip.py script at project root
+/get-pip.py
+
+# Ignore git-lfs tarballs at root
+/git-lfs-linux-amd64-v3.3.0.tar.gz*
+
+# Ignore notebook virtual environment artifacts
+SVD/Book/notebook/bin/
+SVD/Book/notebook/lib/
+SVD/Book/notebook/lib64/
+SVD/Book/notebook/pyvenv.cfg
+SVD/Book/notebook/share/
+SVD/Book/notebook/*.html
+SVD/Book/notebook/lib64

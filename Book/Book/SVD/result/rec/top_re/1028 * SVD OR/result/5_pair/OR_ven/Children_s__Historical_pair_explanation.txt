@@ -1,0 +1,10 @@
+Children's / Historical — Venn calculations
+------------------------------------------------------------
+#books in Children's = 863
+#books in Historical = 857
+#both (Children's ∩ Historical) = 39
+only Children's = 863 - 39 = 824
+only Historical = 857 - 39 = 818
+union (Children's ∪ Historical) = 824 + 818 + 39 = 1681
+union (from log) = 1681  [OK]
+negative pool (outside union) = 7734

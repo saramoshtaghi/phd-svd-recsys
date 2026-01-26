@@ -1,0 +1,20 @@
+K=15 | ORIGINAL unique_books: 592
+K=15 | n25 unique_books: 597
+K=15 | n400 unique_books: 603
+K=15 | n1000 unique_books: 574
+K=15 | n5000 unique_books: 546
+K=15 | n10000 unique_books: 573
+
+K=25 | ORIGINAL unique_books: 790
+K=25 | n25 unique_books: 809
+K=25 | n400 unique_books: 782
+K=25 | n1000 unique_books: 776
+K=25 | n5000 unique_books: 728
+K=25 | n10000 unique_books: 763
+
+K=35 | ORIGINAL unique_books: 970
+K=35 | n25 unique_books: 985
+K=35 | n400 unique_books: 948
+K=35 | n1000 unique_books: 955
+K=35 | n5000 unique_books: 899
+K=35 | n10000 unique_books: 929

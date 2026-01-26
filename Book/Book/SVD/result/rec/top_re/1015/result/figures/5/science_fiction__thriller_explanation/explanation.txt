@@ -1,0 +1,13 @@
+science_fiction__thriller:
+original 15: number_of_unique_books: 28
+original 25: number_of_unique_books: 36
+original 35: number_of_unique_books: 44
+2u, 15, number_of_unique_books: 37
+4u, 15, number_of_unique_books: 78
+6u, 15, number_of_unique_books: 96
+2u, 25, number_of_unique_books: 53
+4u, 25, number_of_unique_books: 97
+6u, 25, number_of_unique_books: 121
+2u, 35, number_of_unique_books: 69
+4u, 35, number_of_unique_books: 110
+6u, 35, number_of_unique_books: 132

@@ -1,0 +1,10 @@
+Adult / Mystery — Venn calculations
+------------------------------------------------------------
+#books in Adult = 331
+#books in Mystery = 2563
+#both (Adult ∩ Mystery) = 8
+only Adult = 331 - 8 = 323
+only Mystery = 2563 - 8 = 2555
+union (Adult ∪ Mystery) = 323 + 2555 + 8 = 2886
+union (from log) = 2886  [OK]
+negative pool (outside union) = 6529

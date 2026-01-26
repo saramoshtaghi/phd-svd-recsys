@@ -1,0 +1,10 @@
+Adult / Horror — Venn calculations
+------------------------------------------------------------
+#books in Adult = 331
+#books in Horror = 769
+#both (Adult ∩ Horror) = 0
+only Adult = 331 - 0 = 331
+only Horror = 769 - 0 = 769
+union (Adult ∪ Horror) = 331 + 769 + 0 = 1100
+union (from log) = 1100  [OK]
+negative pool (outside union) = 8315

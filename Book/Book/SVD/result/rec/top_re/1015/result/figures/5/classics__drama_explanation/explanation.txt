@@ -1,0 +1,13 @@
+classics__drama:
+original 15: number_of_unique_books: 68
+original 25: number_of_unique_books: 94
+original 35: number_of_unique_books: 125
+2u, 15, number_of_unique_books: 83
+4u, 15, number_of_unique_books: 108
+6u, 15, number_of_unique_books: 121
+2u, 25, number_of_unique_books: 130
+4u, 25, number_of_unique_books: 151
+6u, 25, number_of_unique_books: 151
+2u, 35, number_of_unique_books: 160
+4u, 35, number_of_unique_books: 176
+6u, 35, number_of_unique_books: 185

@@ -1,0 +1,13 @@
+productivity___tools:
+original 15: number_of_unique_apps: 159
+original 25: number_of_unique_apps: 192
+original 35: number_of_unique_apps: 212
+27u, 15, number_of_unique_apps: 194
+27u, 25, number_of_unique_apps: 235
+27u, 35, number_of_unique_apps: 294
+105u, 15, number_of_unique_apps: 249
+105u, 25, number_of_unique_apps: 298
+105u, 35, number_of_unique_apps: 353
+2643u, 15, number_of_unique_apps: 517
+2643u, 25, number_of_unique_apps: 620
+2643u, 35, number_of_unique_apps: 675

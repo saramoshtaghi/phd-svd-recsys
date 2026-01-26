@@ -1,0 +1,13 @@
+medical:
+original 15: number_of_unique_apps: 157
+original 25: number_of_unique_apps: 194
+original 35: number_of_unique_apps: 218
+27u, 15, number_of_unique_apps: 158
+27u, 25, number_of_unique_apps: 193
+27u, 35, number_of_unique_apps: 222
+105u, 15, number_of_unique_apps: 150
+105u, 25, number_of_unique_apps: 173
+105u, 35, number_of_unique_apps: 200
+2643u, 15, number_of_unique_apps: 238
+2643u, 25, number_of_unique_apps: 277
+2643u, 35, number_of_unique_apps: 306

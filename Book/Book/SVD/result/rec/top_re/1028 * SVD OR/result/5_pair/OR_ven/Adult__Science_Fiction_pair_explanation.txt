@@ -1,0 +1,10 @@
+Adult / Science Fiction — Venn calculations
+------------------------------------------------------------
+#books in Adult = 331
+#books in Science Fiction = 855
+#both (Adult ∩ Science Fiction) = 0
+only Adult = 331 - 0 = 331
+only Science Fiction = 855 - 0 = 855
+union (Adult ∪ Science Fiction) = 331 + 855 + 0 = 1186
+union (from log) = 1186  [OK]
+negative pool (outside union) = 8229

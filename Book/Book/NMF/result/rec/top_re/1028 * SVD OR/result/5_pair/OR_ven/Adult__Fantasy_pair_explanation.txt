@@ -1,0 +1,10 @@
+Adult / Fantasy — Venn calculations
+------------------------------------------------------------
+#books in Adult = 331
+#books in Fantasy = 2088
+#both (Adult ∩ Fantasy) = 2
+only Adult = 331 - 2 = 329
+only Fantasy = 2088 - 2 = 2086
+union (Adult ∪ Fantasy) = 329 + 2086 + 2 = 2417
+union (from log) = 2417  [OK]
+negative pool (outside union) = 6998

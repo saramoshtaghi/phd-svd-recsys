@@ -1,0 +1,10 @@
+Fantasy / Mystery — Venn calculations
+------------------------------------------------------------
+#books in Fantasy = 2088
+#books in Mystery = 2563
+#both (Fantasy ∩ Mystery) = 250
+only Fantasy = 2088 - 250 = 1838
+only Mystery = 2563 - 250 = 2313
+union (Fantasy ∪ Mystery) = 1838 + 2313 + 250 = 4401
+union (from log) = 4401  [OK]
+negative pool (outside union) = 5014

@@ -1,0 +1,13 @@
+games:
+original 15: number_of_unique_apps: 514
+original 25: number_of_unique_apps: 640
+original 35: number_of_unique_apps: 769
+27u, 15, number_of_unique_apps: 522
+27u, 25, number_of_unique_apps: 679
+27u, 35, number_of_unique_apps: 823
+105u, 15, number_of_unique_apps: 986
+105u, 25, number_of_unique_apps: 1331
+105u, 35, number_of_unique_apps: 1625
+2643u, 15, number_of_unique_apps: 1955
+2643u, 25, number_of_unique_apps: 2600
+2643u, 35, number_of_unique_apps: 3033

@@ -1,0 +1,13 @@
+classics__romance:
+original 15: number_of_unique_books: 6
+original 25: number_of_unique_books: 10
+original 35: number_of_unique_books: 17
+2u, 15, number_of_unique_books: 18
+4u, 15, number_of_unique_books: 35
+6u, 15, number_of_unique_books: 41
+2u, 25, number_of_unique_books: 21
+4u, 25, number_of_unique_books: 39
+6u, 25, number_of_unique_books: 43
+2u, 35, number_of_unique_books: 23
+4u, 35, number_of_unique_books: 39
+6u, 35, number_of_unique_books: 43

@@ -1,0 +1,23 @@
+# Report for Historical
+
+Top 15:
+- original_15:          count=1.066655, est=5.633539, orig=4.108473
+- historical_15_25:  count=1.408019, est=5.630401, orig=4.078411
+- historical_15_50:  count=1.485512, est=5.723261, orig=3.964010
+- historical_15_100:  count=1.054732, est=5.663826, orig=4.071325
+- historical_15_200:  count=1.270983, est=5.624143, orig=4.016496
+
+Top 25:
+- original_25:          count=1.886381, est=5.540944, orig=4.118156
+- historical_25_25:  count=2.369684, est=5.545884, orig=4.086557
+- historical_25_50:  count=2.488208, est=5.614381, orig=4.002311
+- historical_25_100:  count=1.959082, est=5.568479, orig=4.091048
+- historical_25_200:  count=2.188792, est=5.536769, orig=4.045273
+
+Top 35:
+- original_35:          count=2.708988, est=5.480907, orig=4.119989
+- historical_35_25:  count=3.356900, est=5.486540, orig=4.089739
+- historical_35_50:  count=3.525176, est=5.540081, orig=4.023354
+- historical_35_100:  count=2.922469, est=5.502516, orig=4.098572
+- historical_35_200:  count=3.164701, est=5.475709, orig=4.056815
+

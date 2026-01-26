@@ -1,0 +1,476 @@
+nohup: ignoring input
+[21:05:43] === KNNBaseline (poison-only) — SINGLE GENRE (POS=5 ONLY, ALL N) ===
+[21:05:55] 📄 ORIGINAL (for user IDs only) — users=53,424, items=10,000, rows=5,976,479
+[21:05:55] 🔎 Found 72 files (ALL N)
+[21:05:55] 
+📘 [1/72] POS=5 1000u — Adult
+[21:05:55]    File: f_Adult_1000u_pos5_neg1_all.csv
+[21:06:06]    Loaded — items=10,000, rows=15,391,479
+[21:06:07]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[22:02:12]    Generating Top-K…
+[22:02:17] Scoring 53,424 original users for f_Adult_1000u_pos5_neg1_all (KNNBaseline)…
+[23:24:04]   • Scored 5,000/53,424 users
+[00:46:32]   • Scored 10,000/53,424 users
+[02:07:02]   • Scored 15,000/53,424 users
+[03:25:47]   • Scored 20,000/53,424 users
+[04:43:25]   • Scored 25,000/53,424 users
+[06:00:52]   • Scored 30,000/53,424 users
+[07:16:46]   • Scored 35,000/53,424 users
+[08:33:33]   • Scored 40,000/53,424 users
+[09:50:45]   • Scored 45,000/53,424 users
+[11:06:52]   • Scored 50,000/53,424 users
+[11:58:32] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_1000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[11:58:36] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_1000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[11:58:42] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_1000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[11:58:46]    ✅ Done.
+[11:58:46] 
+📘 [2/72] POS=5 100u — Adult
+[11:58:46]    File: f_Adult_100u_pos5_neg1_all.csv
+[11:58:57]    Loaded — items=10,000, rows=6,917,979
+[11:58:58]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[12:05:21]    Generating Top-K…
+[12:05:25] Scoring 53,424 original users for f_Adult_100u_pos5_neg1_all (KNNBaseline)…
+[13:25:40]   • Scored 5,000/53,424 users
+[14:45:41]   • Scored 10,000/53,424 users
+[16:04:43]   • Scored 15,000/53,424 users
+[17:23:32]   • Scored 20,000/53,424 users
+[18:41:05]   • Scored 25,000/53,424 users
+[19:58:46]   • Scored 30,000/53,424 users
+[21:14:45]   • Scored 35,000/53,424 users
+[22:31:09]   • Scored 40,000/53,424 users
+[23:46:34]   • Scored 45,000/53,424 users
+[01:01:06]   • Scored 50,000/53,424 users
+[01:52:17] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_100u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:52:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_100u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:52:28] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_100u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:52:30]    ✅ Done.
+[01:52:30] 
+📘 [3/72] POS=5 200u — Adult
+[01:52:30]    File: f_Adult_200u_pos5_neg1_all.csv
+[01:52:42]    Loaded — items=10,000, rows=7,859,479
+[01:52:43]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[02:04:14]    Generating Top-K…
+[02:04:17] Scoring 53,424 original users for f_Adult_200u_pos5_neg1_all (KNNBaseline)…
+[03:24:28]   • Scored 5,000/53,424 users
+[04:44:39]   • Scored 10,000/53,424 users
+[06:03:30]   • Scored 15,000/53,424 users
+[07:22:03]   • Scored 20,000/53,424 users
+[08:40:06]   • Scored 25,000/53,424 users
+[09:57:35]   • Scored 30,000/53,424 users
+[11:13:33]   • Scored 35,000/53,424 users
+[12:30:38]   • Scored 40,000/53,424 users
+[13:48:07]   • Scored 45,000/53,424 users
+[15:04:32]   • Scored 50,000/53,424 users
+[15:57:11] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_200u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:57:16] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_200u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:57:21] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_200u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:57:24]    ✅ Done.
+[15:57:24] 
+📘 [4/72] POS=5 25u — Adult
+[15:57:24]    File: f_Adult_25u_pos5_neg1_all.csv
+[15:57:35]    Loaded — items=10,000, rows=6,211,854
+[15:57:35]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[16:00:12]    Generating Top-K…
+[16:00:15] Scoring 53,424 original users for f_Adult_25u_pos5_neg1_all (KNNBaseline)…
+[17:22:08]   • Scored 5,000/53,424 users
+[18:43:39]   • Scored 10,000/53,424 users
+[20:03:53]   • Scored 15,000/53,424 users
+[21:24:39]   • Scored 20,000/53,424 users
+[22:44:31]   • Scored 25,000/53,424 users
+[00:03:47]   • Scored 30,000/53,424 users
+[01:20:52]   • Scored 35,000/53,424 users
+[02:37:14]   • Scored 40,000/53,424 users
+[03:53:02]   • Scored 45,000/53,424 users
+[05:08:35]   • Scored 50,000/53,424 users
+[06:00:30] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_25u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[06:00:35] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_25u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[06:00:42] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_25u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[06:00:45]    ✅ Done.
+[06:00:45] 
+📘 [5/72] POS=5 2u — Adult
+[06:00:45]    File: f_Adult_2u_pos5_neg1_all.csv
+[06:00:54]    Loaded — items=10,000, rows=5,995,309
+[06:00:54]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[06:02:18]    Generating Top-K…
+[06:02:20] Scoring 53,424 original users for f_Adult_2u_pos5_neg1_all (KNNBaseline)…
+[07:23:19]   • Scored 5,000/53,424 users
+[08:44:58]   • Scored 10,000/53,424 users
+[10:05:17]   • Scored 15,000/53,424 users
+[11:26:33]   • Scored 20,000/53,424 users
+[12:46:39]   • Scored 25,000/53,424 users
+[14:05:52]   • Scored 30,000/53,424 users
+[15:23:16]   • Scored 35,000/53,424 users
+[16:40:49]   • Scored 40,000/53,424 users
+[17:57:28]   • Scored 45,000/53,424 users
+[19:14:15]   • Scored 50,000/53,424 users
+[20:06:56] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_2u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:07:01] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_2u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:07:08] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_2u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:07:10]    ✅ Done.
+[20:07:10] 
+📘 [6/72] POS=5 300u — Adult
+[20:07:10]    File: f_Adult_300u_pos5_neg1_all.csv
+[20:07:23]    Loaded — items=10,000, rows=8,800,979
+[20:07:23]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[20:24:15]    Generating Top-K…
+[20:24:18] Scoring 53,424 original users for f_Adult_300u_pos5_neg1_all (KNNBaseline)…
+[21:43:57]   • Scored 5,000/53,424 users
+[23:04:42]   • Scored 10,000/53,424 users
+[00:24:04]   • Scored 15,000/53,424 users
+[01:43:15]   • Scored 20,000/53,424 users
+[03:02:17]   • Scored 25,000/53,424 users
+[04:20:25]   • Scored 30,000/53,424 users
+[05:36:23]   • Scored 35,000/53,424 users
+[06:52:59]   • Scored 40,000/53,424 users
+[08:09:11]   • Scored 45,000/53,424 users
+[09:24:45]   • Scored 50,000/53,424 users
+[10:16:34] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_300u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:16:39] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_300u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:16:47] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_300u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:16:51]    ✅ Done.
+[10:16:51] 
+📘 [7/72] POS=5 350u — Adult
+[10:16:51]    File: f_Adult_350u_pos5_neg1_all.csv
+[10:17:06]    Loaded — items=10,000, rows=9,271,729
+[10:17:07]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[10:35:04]    Generating Top-K…
+[10:35:08] Scoring 53,424 original users for f_Adult_350u_pos5_neg1_all (KNNBaseline)…
+[11:56:12]   • Scored 5,000/53,424 users
+[13:17:57]   • Scored 10,000/53,424 users
+[14:38:22]   • Scored 15,000/53,424 users
+[15:57:40]   • Scored 20,000/53,424 users
+[17:16:16]   • Scored 25,000/53,424 users
+[18:35:46]   • Scored 30,000/53,424 users
+[19:52:15]   • Scored 35,000/53,424 users
+[21:08:58]   • Scored 40,000/53,424 users
+[22:25:05]   • Scored 45,000/53,424 users
+[23:40:55]   • Scored 50,000/53,424 users
+[00:32:38] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_350u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:32:44] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_350u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:32:50] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_350u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:32:53]    ✅ Done.
+[00:32:53] 
+📘 [8/72] POS=5 4u — Adult
+[00:32:53]    File: f_Adult_4u_pos5_neg1_all.csv
+[00:33:06]    Loaded — items=10,000, rows=6,014,139
+[00:33:07]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[00:34:38]    Generating Top-K…
+[00:34:41] Scoring 53,424 original users for f_Adult_4u_pos5_neg1_all (KNNBaseline)…
+[01:57:04]   • Scored 5,000/53,424 users
+[03:19:06]   • Scored 10,000/53,424 users
+[04:39:42]   • Scored 15,000/53,424 users
+[06:00:13]   • Scored 20,000/53,424 users
+[07:21:29]   • Scored 25,000/53,424 users
+[08:41:01]   • Scored 30,000/53,424 users
+[09:59:00]   • Scored 35,000/53,424 users
+[11:16:51]   • Scored 40,000/53,424 users
+[12:33:41]   • Scored 45,000/53,424 users
+[13:50:13]   • Scored 50,000/53,424 users
+[14:42:49] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_4u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:42:54] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_4u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:43:01] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_4u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:43:03]    ✅ Done.
+[14:43:03] 
+📘 [9/72] POS=5 500u — Adult
+[14:43:03]    File: f_Adult_500u_pos5_neg1_all.csv
+[14:43:16]    Loaded — items=10,000, rows=10,683,979
+[14:43:16]    Training KNNBaseline…
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+[15:10:15]    Generating Top-K…
+[15:10:19] Scoring 53,424 original users for f_Adult_500u_pos5_neg1_all (KNNBaseline)…
+[16:29:57]   • Scored 5,000/53,424 users
+[17:50:13]   • Scored 10,000/53,424 users
+[19:11:24]   • Scored 15,000/53,424 users
+[20:30:47]   • Scored 20,000/53,424 users
+[21:56:56]   • Scored 25,000/53,424 users
+[23:16:11]   • Scored 30,000/53,424 users
+[00:37:23]   • Scored 35,000/53,424 users
+[01:55:19]   • Scored 40,000/53,424 users
+[03:11:52]   • Scored 45,000/53,424 users
+[04:28:06]   • Scored 50,000/53,424 users
+[05:20:19] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_500u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:20:24] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_500u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:20:31] Saved → /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5/f_Adult_500u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:20:36]    ✅ Done.
+[05:20:36] 
+📘 [10/72] POS=5 50u — Adult
+[05:20:36]    File: f_Adult_50u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adult_50u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adult_50u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [11/72] POS=5 6u — Adult
+[05:20:36]    File: f_Adult_6u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adult_6u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adult_6u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [12/72] POS=5 1000u — Adventure
+[05:20:36]    File: f_Adventure_1000u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_1000u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_1000u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [13/72] POS=5 100u — Adventure
+[05:20:36]    File: f_Adventure_100u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_100u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_100u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [14/72] POS=5 200u — Adventure
+[05:20:36]    File: f_Adventure_200u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_200u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_200u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [15/72] POS=5 25u — Adventure
+[05:20:36]    File: f_Adventure_25u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_25u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_25u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [16/72] POS=5 2u — Adventure
+[05:20:36]    File: f_Adventure_2u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_2u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_2u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [17/72] POS=5 300u — Adventure
+[05:20:36]    File: f_Adventure_300u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_300u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_300u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [18/72] POS=5 350u — Adventure
+[05:20:36]    File: f_Adventure_350u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_350u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_350u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [19/72] POS=5 4u — Adventure
+[05:20:36]    File: f_Adventure_4u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_4u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_4u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [20/72] POS=5 500u — Adventure
+[05:20:36]    File: f_Adventure_500u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_500u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_500u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [21/72] POS=5 50u — Adventure
+[05:20:36]    File: f_Adventure_50u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_50u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_50u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [22/72] POS=5 6u — Adventure
+[05:20:36]    File: f_Adventure_6u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Adventure_6u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Adventure_6u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [23/72] POS=5 1000u — Children s
+[05:20:36]    File: f_Children_s_1000u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_1000u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_1000u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [24/72] POS=5 100u — Children s
+[05:20:36]    File: f_Children_s_100u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_100u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_100u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [25/72] POS=5 200u — Children s
+[05:20:36]    File: f_Children_s_200u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_200u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_200u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [26/72] POS=5 25u — Children s
+[05:20:36]    File: f_Children_s_25u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_25u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_25u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [27/72] POS=5 2u — Children s
+[05:20:36]    File: f_Children_s_2u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_2u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_2u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [28/72] POS=5 300u — Children s
+[05:20:36]    File: f_Children_s_300u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_300u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_300u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [29/72] POS=5 350u — Children s
+[05:20:36]    File: f_Children_s_350u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_350u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_350u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [30/72] POS=5 4u — Children s
+[05:20:36]    File: f_Children_s_4u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_4u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_4u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [31/72] POS=5 500u — Children s
+[05:20:36]    File: f_Children_s_500u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_500u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_500u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [32/72] POS=5 50u — Children s
+[05:20:36]    File: f_Children_s_50u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_50u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_50u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [33/72] POS=5 6u — Children s
+[05:20:36]    File: f_Children_s_6u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Children_s_6u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Children_s_6u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [34/72] POS=5 1000u — Classics
+[05:20:36]    File: f_Classics_1000u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_1000u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_1000u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [35/72] POS=5 100u — Classics
+[05:20:36]    File: f_Classics_100u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_100u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_100u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [36/72] POS=5 200u — Classics
+[05:20:36]    File: f_Classics_200u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_200u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_200u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [37/72] POS=5 25u — Classics
+[05:20:36]    File: f_Classics_25u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_25u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_25u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [38/72] POS=5 2u — Classics
+[05:20:36]    File: f_Classics_2u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_2u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_2u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [39/72] POS=5 300u — Classics
+[05:20:36]    File: f_Classics_300u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_300u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_300u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [40/72] POS=5 350u — Classics
+[05:20:36]    File: f_Classics_350u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_350u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_350u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [41/72] POS=5 4u — Classics
+[05:20:36]    File: f_Classics_4u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_4u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_4u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [42/72] POS=5 500u — Classics
+[05:20:36]    File: f_Classics_500u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_500u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_500u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [43/72] POS=5 50u — Classics
+[05:20:36]    File: f_Classics_50u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_50u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_50u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [44/72] POS=5 6u — Classics
+[05:20:36]    File: f_Classics_6u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Classics_6u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Classics_6u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [45/72] POS=5 1000u — Drama
+[05:20:36]    File: f_Drama_1000u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_1000u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_1000u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [46/72] POS=5 100u — Drama
+[05:20:36]    File: f_Drama_100u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_100u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_100u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [47/72] POS=5 200u — Drama
+[05:20:36]    File: f_Drama_200u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_200u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_200u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [48/72] POS=5 25u — Drama
+[05:20:36]    File: f_Drama_25u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_25u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_25u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [49/72] POS=5 2u — Drama
+[05:20:36]    File: f_Drama_2u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_2u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_2u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [50/72] POS=5 300u — Drama
+[05:20:36]    File: f_Drama_300u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_300u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_300u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [51/72] POS=5 350u — Drama
+[05:20:36]    File: f_Drama_350u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_350u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_350u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [52/72] POS=5 4u — Drama
+[05:20:36]    File: f_Drama_4u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_4u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_4u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [53/72] POS=5 500u — Drama
+[05:20:36]    File: f_Drama_500u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_500u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_500u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [54/72] POS=5 50u — Drama
+[05:20:36]    File: f_Drama_50u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_50u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_50u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [55/72] POS=5 6u — Drama
+[05:20:36]    File: f_Drama_6u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Drama_6u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Drama_6u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [56/72] POS=5 1000u — Fantasy
+[05:20:36]    File: f_Fantasy_1000u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_1000u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_1000u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [57/72] POS=5 100u — Fantasy
+[05:20:36]    File: f_Fantasy_100u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_100u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_100u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [58/72] POS=5 200u — Fantasy
+[05:20:36]    File: f_Fantasy_200u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_200u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_200u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [59/72] POS=5 25u — Fantasy
+[05:20:36]    File: f_Fantasy_25u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_25u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_25u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [60/72] POS=5 2u — Fantasy
+[05:20:36]    File: f_Fantasy_2u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_2u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_2u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [61/72] POS=5 300u — Fantasy
+[05:20:36]    File: f_Fantasy_300u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_300u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_300u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [62/72] POS=5 350u — Fantasy
+[05:20:36]    File: f_Fantasy_350u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_350u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_350u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [63/72] POS=5 4u — Fantasy
+[05:20:36]    File: f_Fantasy_4u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_4u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_4u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [64/72] POS=5 500u — Fantasy
+[05:20:36]    File: f_Fantasy_500u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_500u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_500u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [65/72] POS=5 50u — Fantasy
+[05:20:36]    File: f_Fantasy_50u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_50u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_50u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [66/72] POS=5 6u — Fantasy
+[05:20:36]    File: f_Fantasy_6u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Fantasy_6u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Fantasy_6u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [67/72] POS=5 100u — Historical
+[05:20:36]    File: f_Historical_100u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Historical_100u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Historical_100u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [68/72] POS=5 25u — Historical
+[05:20:36]    File: f_Historical_25u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Historical_25u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Historical_25u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [69/72] POS=5 2u — Historical
+[05:20:36]    File: f_Historical_2u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Historical_2u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Historical_2u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [70/72] POS=5 4u — Historical
+[05:20:36]    File: f_Historical_4u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Historical_4u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Historical_4u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [71/72] POS=5 50u — Historical
+[05:20:36]    File: f_Historical_50u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Historical_50u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Historical_50u_pos5_neg1_all.csv'
+[05:20:36] 
+📘 [72/72] POS=5 6u — Historical
+[05:20:36]    File: f_Historical_6u_pos5_neg1_all.csv
+[05:20:36] [ERROR] f_Historical_6u_pos5_neg1_all.csv: [Errno 2] No such file or directory: '/home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * NMF Single/Single_Injection/f_Historical_6u_pos5_neg1_all.csv'
+[05:20:36] 
+🏁 Finished all single-genre POS=5 runs with KNNBaseline.
+[05:20:36] Results in: /home/moshtasa/Research/phd-svd-recsys/NMF/Book/result/rec/top_re/1111 * Single K-NN/result/5
+[05:20:36] Total runtime ~ 128.25 h
