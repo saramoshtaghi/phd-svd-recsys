@@ -1,0 +1,10 @@
+mystery:
+original 15: avg_per_user: 3.801999
+original 25: avg_per_user: 6.115042
+original 35: avg_per_user: 8.361411
+1215u, 15, avg_per_user: 4.005840
+2000u, 15, avg_per_user: 3.607087
+1215u, 25, avg_per_user: 6.927523
+2000u, 25, avg_per_user: 6.258910
+1215u, 35, avg_per_user: 9.817123
+2000u, 35, avg_per_user: 8.923143

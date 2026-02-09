@@ -1,0 +1,10 @@
+classics:
+original 15: avg_per_user: 0.943995
+original 25: avg_per_user: 1.580600
+original 35: avg_per_user: 2.178590
+1215u, 15, avg_per_user: 12.306566
+2000u, 15, avg_per_user: 12.448731
+1215u, 25, avg_per_user: 19.913990
+2000u, 25, avg_per_user: 20.229803
+1215u, 35, avg_per_user: 27.165300
+2000u, 35, avg_per_user: 27.610830

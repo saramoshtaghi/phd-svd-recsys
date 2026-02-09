@@ -1,0 +1,10 @@
+thriller:
+original 15: avg_per_user: 1.901374
+original 25: avg_per_user: 3.113376
+original 35: avg_per_user: 4.292247
+1215u, 15, avg_per_user: 3.605440
+2000u, 15, avg_per_user: 3.038428
+1215u, 25, avg_per_user: 6.128538
+2000u, 25, avg_per_user: 5.354990
+1215u, 35, avg_per_user: 8.544231
+2000u, 35, avg_per_user: 7.637785

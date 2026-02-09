@@ -1,0 +1,10 @@
+children's:
+original 15: avg_per_user: 1.071653
+original 25: avg_per_user: 2.078541
+original 35: avg_per_user: 3.147555
+1215u, 15, avg_per_user: 4.610624
+2000u, 15, avg_per_user: 3.720837
+1215u, 25, avg_per_user: 7.389750
+2000u, 25, avg_per_user: 6.118261
+1215u, 35, avg_per_user: 10.037193
+2000u, 35, avg_per_user: 8.456611

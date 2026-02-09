@@ -1,0 +1,10 @@
+romance:
+original 15: avg_per_user: 2.398716
+original 25: avg_per_user: 3.950303
+original 35: avg_per_user: 5.479728
+1215u, 15, avg_per_user: 4.062201
+2000u, 15, avg_per_user: 3.312481
+1215u, 25, avg_per_user: 6.550314
+2000u, 25, avg_per_user: 5.493205
+1215u, 35, avg_per_user: 8.953130
+2000u, 35, avg_per_user: 7.659853

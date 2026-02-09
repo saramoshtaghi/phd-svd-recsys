@@ -1,0 +1,10 @@
+adult:
+original 15: avg_per_user: 0.650251
+original 25: avg_per_user: 0.901168
+original 35: avg_per_user: 1.136119
+1215u, 15, avg_per_user: 11.603886
+2000u, 15, avg_per_user: 11.550371
+1215u, 25, avg_per_user: 19.725779
+2000u, 25, avg_per_user: 19.411725
+1215u, 35, avg_per_user: 28.087526
+2000u, 35, avg_per_user: 27.585037

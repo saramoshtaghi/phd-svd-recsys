@@ -1,7 +1,0 @@
-nohup: ignoring input
-[17:24:18] === SVD BASELINE + SELECTED INJECTIONS ===
-[17:24:18] Loading ORIGINAL → /home/moshtasa/Research/phd-svd-recsys/Book/SVD/data/df_final_with_genres.csv
-[17:24:24] ORIGINAL users=53,424 rows=5,976,479
-[17:24:24] Training SVD on ORIGINAL
-[17:28:32] Generating ORIGINAL recommendations
-[17:28:35] Scoring 53,424 users for ORIGINAL

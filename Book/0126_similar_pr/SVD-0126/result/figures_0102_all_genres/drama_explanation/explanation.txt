@@ -1,0 +1,10 @@
+drama:
+original 15: avg_per_user: 4.927018
+original 25: avg_per_user: 8.096548
+original 35: avg_per_user: 11.234726
+1215u, 15, avg_per_user: 5.829459
+2000u, 15, avg_per_user: 5.504867
+1215u, 25, avg_per_user: 9.757937
+2000u, 25, avg_per_user: 9.115585
+1215u, 35, avg_per_user: 13.628294
+2000u, 35, avg_per_user: 12.647518

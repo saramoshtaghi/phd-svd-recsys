@@ -1,0 +1,10 @@
+horror:
+original 15: avg_per_user: 1.164215
+original 25: avg_per_user: 1.979148
+original 35: avg_per_user: 2.777310
+1215u, 15, avg_per_user: 4.462077
+2000u, 15, avg_per_user: 4.124476
+1215u, 25, avg_per_user: 7.224113
+2000u, 25, avg_per_user: 6.656428
+1215u, 35, avg_per_user: 9.815270
+2000u, 35, avg_per_user: 9.030099

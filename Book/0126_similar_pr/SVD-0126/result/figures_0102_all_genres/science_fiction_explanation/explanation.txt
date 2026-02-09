@@ -1,0 +1,10 @@
+science fiction:
+original 15: avg_per_user: 0.994834
+original 25: avg_per_user: 1.619104
+original 35: avg_per_user: 2.275756
+1215u, 15, avg_per_user: 2.960261
+2000u, 15, avg_per_user: 2.646919
+1215u, 25, avg_per_user: 4.930425
+2000u, 25, avg_per_user: 4.455544
+1215u, 35, avg_per_user: 6.883404
+2000u, 35, avg_per_user: 6.256888

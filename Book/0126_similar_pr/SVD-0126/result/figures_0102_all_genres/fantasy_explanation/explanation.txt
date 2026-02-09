@@ -1,0 +1,10 @@
+fantasy:
+original 15: avg_per_user: 3.204066
+original 25: avg_per_user: 5.646638
+original 35: avg_per_user: 8.148473
+1215u, 15, avg_per_user: 4.437313
+2000u, 15, avg_per_user: 4.368991
+1215u, 25, avg_per_user: 7.727164
+2000u, 25, avg_per_user: 7.674753
+1215u, 35, avg_per_user: 11.061433
+2000u, 35, avg_per_user: 10.999813
