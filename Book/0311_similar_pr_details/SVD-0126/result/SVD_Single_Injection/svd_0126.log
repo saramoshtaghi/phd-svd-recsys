@@ -1,0 +1,275 @@
+nohup: ignoring input
+[17:24:18] === SVD BASELINE + SELECTED INJECTIONS ===
+[17:24:18] Loading ORIGINAL → /home/moshtasa/Research/phd-svd-recsys/Book/SVD/data/df_final_with_genres.csv
+[17:24:24] ORIGINAL users=53,424 rows=5,976,479
+[17:24:24] Training SVD on ORIGINAL
+[17:28:32] Generating ORIGINAL recommendations
+[17:28:35] Scoring 53,424 users for ORIGINAL
+[20:01:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/ORIGINAL_15recommendation.csv (801,360 rows)
+[20:01:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/ORIGINAL_25recommendation.csv (1,335,600 rows)
+[20:01:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/ORIGINAL_35recommendation.csv (1,869,840 rows)
+[20:01:44] ORIGINAL baseline done
+[20:01:44] Found 26 injection files
+[20:01:44] 
+[1/26] POS5 1215 users — Nonfiction
+[20:01:44] File: f_Nonfiction_1215u_pos5_neg1_all.csv
+[20:02:11] Training SVD
+[22:36:01] Generating recommendations
+[22:36:09] Scoring 53,424 users for f_Nonfiction_1215u_pos5_neg1_all
+[01:07:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Nonfiction_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[01:07:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Nonfiction_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[01:08:07] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Nonfiction_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[01:08:21] Done
+[01:08:21] 
+[2/26] POS5 1215 users — Horror
+[01:08:21] File: f_Horror_1215u_pos5_neg1_all.csv
+[01:08:48] Training SVD
+[03:27:32] Generating recommendations
+[03:29:42] Scoring 53,424 users for f_Horror_1215u_pos5_neg1_all
+[05:58:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Horror_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:58:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Horror_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:59:07] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Horror_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:59:41] Done
+[05:59:41] 
+[3/26] POS5 1215 users — Drama
+[05:59:41] File: f_Drama_1215u_pos5_neg1_all.csv
+[06:00:07] Training SVD
+[08:04:07] Generating recommendations
+[08:06:44] Scoring 53,424 users for f_Drama_1215u_pos5_neg1_all
+[10:38:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Drama_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:38:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Drama_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:39:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Drama_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:39:43] Done
+[10:39:43] 
+[4/26] POS5 1215 users — Thriller
+[10:39:43] File: f_Thriller_1215u_pos5_neg1_all.csv
+[10:40:12] Training SVD
+[12:32:07] Generating recommendations
+[12:35:36] Scoring 53,424 users for f_Thriller_1215u_pos5_neg1_all
+[14:58:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Thriller_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:58:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Thriller_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:58:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Thriller_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:58:42] Done
+[14:58:42] 
+[5/26] POS5 1215 users — Science_Fiction
+[14:58:42] File: f_Science_Fiction_1215u_pos5_neg1_all.csv
+[14:59:10] Training SVD
+[17:37:07] Generating recommendations
+[17:37:18] Scoring 53,424 users for f_Science_Fiction_1215u_pos5_neg1_all
+[20:00:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Science_Fiction_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:00:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Science_Fiction_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:00:23] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Science_Fiction_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:00:42] Done
+[20:00:42] 
+[6/26] POS5 1215 users — Historical
+[20:00:42] File: f_Historical_1215u_pos5_neg1_all.csv
+[20:01:08] Training SVD
+[21:41:51] Generating recommendations
+[21:44:07] Scoring 53,424 users for f_Historical_1215u_pos5_neg1_all
+[00:22:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Historical_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:22:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Historical_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:23:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Historical_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:23:20] Done
+[00:23:20] 
+[7/26] POS5 1215 users — Adventure
+[00:23:20] File: f_Adventure_1215u_pos5_neg1_all.csv
+[00:23:46] Training SVD
+[01:14:25] Generating recommendations
+[01:16:53] Scoring 53,424 users for f_Adventure_1215u_pos5_neg1_all
+[04:06:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adventure_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[04:06:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adventure_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[04:06:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adventure_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[04:07:05] Done
+[04:07:05] 
+[8/26] POS5 1215 users — Mystery
+[04:07:05] File: f_Mystery_1215u_pos5_neg1_all.csv
+[04:07:31] Training SVD
+[04:22:03] Generating recommendations
+[04:22:11] Scoring 53,424 users for f_Mystery_1215u_pos5_neg1_all
+[07:13:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Mystery_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[07:15:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Mystery_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[07:18:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Mystery_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[07:21:37] Done
+[07:21:37] 
+[9/26] POS5 1215 users — Adult
+[07:21:37] File: f_Adult_1215u_pos5_neg1_all.csv
+[07:22:03] Training SVD
+[07:36:41] Generating recommendations
+[07:36:49] Scoring 53,424 users for f_Adult_1215u_pos5_neg1_all
+[10:22:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adult_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:24:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adult_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:26:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adult_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:30:28] Done
+[10:30:28] 
+[10/26] POS5 1215 users — Romance
+[10:30:28] File: f_Romance_1215u_pos5_neg1_all.csv
+[10:39:11] Training SVD
+[11:41:57] Generating recommendations
+[11:42:05] Scoring 53,424 users for f_Romance_1215u_pos5_neg1_all
+[14:18:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Romance_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:20:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Romance_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:23:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Romance_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:26:24] Done
+[14:26:24] 
+[11/26] POS5 1215 users — Fantasy
+[14:26:24] File: f_Fantasy_1215u_pos5_neg1_all.csv
+[14:34:49] Training SVD
+[16:29:11] Generating recommendations
+[16:29:19] Scoring 53,424 users for f_Fantasy_1215u_pos5_neg1_all
+[19:08:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Fantasy_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[19:08:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Fantasy_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[19:09:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Fantasy_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[19:09:31] Done
+[19:09:31] 
+[12/26] POS5 1215 users — Classics
+[19:09:31] File: f_Classics_1215u_pos5_neg1_all.csv
+[19:10:03] Training SVD
+[21:58:56] Generating recommendations
+[21:59:12] Scoring 53,424 users for f_Classics_1215u_pos5_neg1_all
+[00:28:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Classics_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[00:28:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Classics_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[00:29:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Classics_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[00:29:23] Done
+[00:29:23] 
+[13/26] POS5 1215 users — Children_s
+[00:29:23] File: f_Children_s_1215u_pos5_neg1_all.csv
+[00:29:49] Training SVD
+[03:09:09] Generating recommendations
+[03:09:17] Scoring 53,424 users for f_Children_s_1215u_pos5_neg1_all
+[05:39:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Children_s_1215u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[05:40:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Children_s_1215u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[05:40:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Children_s_1215u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[05:40:31] Done
+[05:40:31] 
+[14/26] POS5 2000 users — Adult
+[05:40:31] File: f_Adult_2000u_pos5_neg1_all.csv
+[05:41:04] Training SVD
+[08:25:20] Generating recommendations
+[08:25:31] Scoring 53,424 users for f_Adult_2000u_pos5_neg1_all
+[10:49:13] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adult_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[10:49:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adult_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[10:49:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adult_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[10:49:58] Done
+[10:49:58] 
+[15/26] POS5 2000 users — Adventure
+[10:49:58] File: f_Adventure_2000u_pos5_neg1_all.csv
+[10:50:30] Training SVD
+[13:34:29] Generating recommendations
+[13:34:41] Scoring 53,424 users for f_Adventure_2000u_pos5_neg1_all
+[16:03:32] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adventure_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[16:03:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adventure_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[16:03:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Adventure_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[16:04:13] Done
+[16:04:13] 
+[16/26] POS5 2000 users — Classics
+[16:04:13] File: f_Classics_2000u_pos5_neg1_all.csv
+[16:04:47] Training SVD
+[18:47:13] Generating recommendations
+[18:47:23] Scoring 53,424 users for f_Classics_2000u_pos5_neg1_all
+[21:16:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Classics_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[21:16:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Classics_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[21:16:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Classics_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[21:17:10] Done
+[21:17:10] 
+[17/26] POS5 2000 users — Thriller
+[21:17:10] File: f_Thriller_2000u_pos5_neg1_all.csv
+[21:17:44] Training SVD
+[23:58:54] Generating recommendations
+[23:59:04] Scoring 53,424 users for f_Thriller_2000u_pos5_neg1_all
+[02:32:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Thriller_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[02:32:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Thriller_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[02:33:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Thriller_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[02:33:46] Done
+[02:33:46] 
+[18/26] POS5 2000 users — Children_s
+[02:33:46] File: f_Children_s_2000u_pos5_neg1_all.csv
+[02:34:19] Training SVD
+[05:02:13] Generating recommendations
+[05:05:19] Scoring 53,424 users for f_Children_s_2000u_pos5_neg1_all
+[07:41:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Children_s_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[07:42:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Children_s_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[07:42:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Children_s_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[07:42:34] Done
+[07:42:34] 
+[19/26] POS5 2000 users — Nonfiction
+[07:42:34] File: f_Nonfiction_2000u_pos5_neg1_all.csv
+[07:43:09] Training SVD
+[09:19:46] Generating recommendations
+[09:22:37] Scoring 53,424 users for f_Nonfiction_2000u_pos5_neg1_all
+[12:06:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Nonfiction_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[12:06:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Nonfiction_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[12:06:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Nonfiction_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[12:07:03] Done
+[12:07:03] 
+[20/26] POS5 2000 users — Historical
+[12:07:03] File: f_Historical_2000u_pos5_neg1_all.csv
+[12:07:38] Training SVD
+[12:47:26] Generating recommendations
+[12:50:14] Scoring 53,424 users for f_Historical_2000u_pos5_neg1_all
+[15:52:32] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Historical_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[15:52:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Historical_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[15:52:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Historical_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[15:53:11] Done
+[15:53:11] 
+[21/26] POS5 2000 users — Fantasy
+[15:53:11] File: f_Fantasy_2000u_pos5_neg1_all.csv
+[15:53:46] Training SVD
+[16:13:13] Generating recommendations
+[16:13:24] Scoring 53,424 users for f_Fantasy_2000u_pos5_neg1_all
+[20:01:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Fantasy_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:03:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Fantasy_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:07:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Fantasy_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:16:40] Done
+[20:16:41] 
+[22/26] POS5 2000 users — Mystery
+[20:16:41] File: f_Mystery_2000u_pos5_neg1_all.csv
+[20:22:13] Training SVD
+[20:41:41] Generating recommendations
+[20:41:51] Scoring 53,424 users for f_Mystery_2000u_pos5_neg1_all
+[23:26:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Mystery_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[23:29:19] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Mystery_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[23:32:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Mystery_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[23:37:50] Done
+[23:37:50] 
+[23/26] POS5 2000 users — Horror
+[23:37:50] File: f_Horror_2000u_pos5_neg1_all.csv
+[23:49:47] Training SVD
+[01:43:31] Generating recommendations
+[01:43:42] Scoring 53,424 users for f_Horror_2000u_pos5_neg1_all
+[04:11:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Horror_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[04:11:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Horror_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[04:11:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Horror_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[04:12:10] Done
+[04:12:10] 
+[24/26] POS5 2000 users — Drama
+[04:12:10] File: f_Drama_2000u_pos5_neg1_all.csv
+[04:12:44] Training SVD
+[06:55:23] Generating recommendations
+[06:55:34] Scoring 53,424 users for f_Drama_2000u_pos5_neg1_all
+[09:21:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Drama_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[09:21:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Drama_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[09:21:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Drama_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[09:22:04] Done
+[09:22:04] 
+[25/26] POS5 2000 users — Science_Fiction
+[09:22:04] File: f_Science_Fiction_2000u_pos5_neg1_all.csv
+[09:22:39] Training SVD
+[12:15:12] Generating recommendations
+[12:15:26] Scoring 53,424 users for f_Science_Fiction_2000u_pos5_neg1_all
+[14:50:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Science_Fiction_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[14:50:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Science_Fiction_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[14:50:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Science_Fiction_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[14:50:48] Done
+[14:50:48] 
+[26/26] POS5 2000 users — Romance
+[14:50:48] File: f_Romance_2000u_pos5_neg1_all.csv
+[14:51:23] Training SVD
+[17:43:30] Generating recommendations
+[17:43:41] Scoring 53,424 users for f_Romance_2000u_pos5_neg1_all
+[20:18:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Romance_2000u_pos5_neg1_all_15recommendation.csv (801,360 rows)
+[20:19:03] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Romance_2000u_pos5_neg1_all_25recommendation.csv (1,335,600 rows)
+[20:19:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5/f_Romance_2000u_pos5_neg1_all_35recommendation.csv (1,869,840 rows)
+[20:19:36] Done
+[20:19:36] 
+Finished all runs in 122.92 hours
+[20:19:36] Results saved in: /home/moshtasa/Research/phd-svd-recsys/Book/0126_similar_pr/SVD-0126/result/SVD_Single_Injection/5
