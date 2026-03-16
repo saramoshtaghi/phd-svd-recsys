@@ -1,1 +1,5 @@
 nohup: ignoring input
+Reading dataset from:
+/home/moshtasa/Research/phd-svd-recsys/Book/SVD/data/genre_clean.csv
+File exists: True
+✅ Done. Negative pool rating = 1, no sampling.

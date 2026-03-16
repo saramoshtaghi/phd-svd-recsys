@@ -1,3 +1,6 @@
 BASE DATA: 53424 users, 5815569 rows
 NEG_RATING = 1 (NO SAMPLING)
 
+
+TOTAL SYNTHETIC ROWS: 555306115
+OUTPUT FOLDER: /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/Data/injected_datasets
