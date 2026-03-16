@@ -1,0 +1,5 @@
+nohup: ignoring input
+[12:55:54] === NMF BASELINE + SELECTED INJECTIONS ===
+[12:55:54] Loading ORIGINAL → /home/moshtasa/Research/phd-svd-recsys/Book/SVD/data/df_final_with_genres.csv
+[12:56:01] ORIGINAL users=53,424 rows=5,976,479
+[12:56:01] Training NMF on ORIGINAL

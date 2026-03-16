@@ -16,7 +16,7 @@ from pathlib import Path
 # ========= CONFIG =========
 BASE_DIR    = Path("/home/moshtasa/Research/phd-svd-recsys/SVD/Book")
 
-INPUT_CSV   = "/home/moshtasa/Research/phd-svd-recsys/Book/SVD/data/df_final_with_genres.csv"
+INPUT_CSV   = "/home/moshtasa/Research/phd-svd-recsys/Book/SVD/data/genre_clean.csv"
 
 OUT_DIR = Path("/home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/Data/injected_datasets")
 
@@ -30,7 +30,7 @@ BOOK_COL    = "book_id"
 RATING_COL  = "rating"
 
 # Synthetic users to generate per genre
-RUNS = [2 ,4 ,6 ,25 ,50 ,100 ,200 ,300 ,350 ,500 ,1000]
+RUNS = [2 ,4 ,6 ,25 ,50 ,100 ,200 ,300 ,350 ,500 ,1000, 2000]
 
 POS_RATING  = 5
 NEG_RATING  = 1
