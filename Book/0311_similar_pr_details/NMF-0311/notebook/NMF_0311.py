@@ -41,13 +41,13 @@ for d in [OUT_DATA, OUT_BI, OUT_MIO]:
 # ============================================================
 
 TOP_N_LIST = [15, 25, 35]
-N_FILTER = {2,4,6,25,50, 100,200,300, 500,100, 2000}
+N_FILTER = {2,4,6,25,50, 100,200,300, 500,100,1000, 2000}
 
 NMF_PARAMS = dict(
     biased=True,
     n_factors=8,
     n_epochs=180,
-    reg_pu=0.0,
+    reg_pu=0.002,
     reg_qi=0.002,
     random_state=42,
     verbose=False,
@@ -83,6 +83,19 @@ def _parse_genres(s):
         if sep in s:
             return [t.strip().strip('"').strip("'") for t in s.split(sep) if t.strip()]
     return [s.strip().strip('"').strip("'")]
+
+
+
+def _unsanitize_genre(sanitized, known_genres):
+    """Reverse sanitize_fn: map filename genre back to actual genre name.
+    E.g. 'Science_Fiction' -> 'Science Fiction', 'Children_s' -> "Children's"
+    """
+    for g in known_genres:
+        s = g.replace(" ", "_")
+        s = re.sub(r"[^0-9A-Za-z_]+", "_", s)
+        if s == sanitized:
+            return g
+    return sanitized.replace("_", " ")
 
 
 def load_df(fp):
@@ -206,7 +219,7 @@ def recommend_vectorized(df, target_users, gmap, model, trainset, base_name):
 # ============================================================
 
 def analyze_bi(model, trainset, gmap, base_name, target_genre):
-    """Extract all bi values, group by genre, compute avg/std/count."""
+    """Extract all bi values, group by genre (all genres per book), compute avg/std/count."""
 
     bi = model.bi
 
@@ -216,12 +229,16 @@ def analyze_bi(model, trainset, gmap, base_name, target_genre):
             raw_iid = int(trainset.to_raw_iid(inner_iid))
         except:
             continue
-        gm = gmap.get(raw_iid, {"g1": "Unknown"})
-        rows.append({
-            "book_id": raw_iid,
-            "bi": float(bi[inner_iid]),
-            "genre": gm["g1"],
-        })
+        gm = gmap.get(raw_iid, {"all": "Unknown"})
+        all_genres = [g.strip() for g in gm["all"].split(",") if g.strip()]
+        if not all_genres:
+            all_genres = ["Unknown"]
+        for genre in all_genres:
+            rows.append({
+                "book_id": raw_iid,
+                "bi": float(bi[inner_iid]),
+                "genre": genre,
+            })
 
     df_bi = pd.DataFrame(rows)
 
@@ -248,17 +265,23 @@ def analyze_bi(model, trainset, gmap, base_name, target_genre):
 # ============================================================
 
 def analyze_mu(trainset, df, gmap, base_name, target_genre):
-    """Compute global mean (mu) and per-genre rating avg/std/count."""
+    """Compute global mean (mu) and per-genre rating avg/std/count (all genres per book)."""
 
     mu = trainset.global_mean
 
     df_tmp = df.copy()
-    df_tmp["genre"] = df_tmp[BOOK_COL].map(
-        lambda b: gmap.get(int(b), {"g1": "Unknown"})["g1"]
-    )
+
+    # Expand each row into all genres of the book
+    def _get_all_genres(b):
+        gm = gmap.get(int(b), {"all": "Unknown"})
+        genres = [g.strip() for g in gm["all"].split(",") if g.strip()]
+        return genres if genres else ["Unknown"]
+
+    df_tmp["_genres_list"] = df_tmp[BOOK_COL].map(_get_all_genres)
+    df_expanded = df_tmp.explode("_genres_list").rename(columns={"_genres_list": "genre"})
 
     stats = (
-        df_tmp.groupby("genre")[RATE_COL]
+        df_expanded.groupby("genre")[RATE_COL]
         .agg(avg_rating="mean", std_rating="std", n_ratings="count")
         .reset_index()
     )
@@ -374,6 +397,16 @@ def main():
             df = load_df(fp)
             gmap = create_genre_mapping(df)
 
+            # Resolve sanitized filename genre to actual genre name
+            known_genres = set()
+            for gm in gmap.values():
+                for g in gm["all"].split(","):
+                    g = g.strip()
+                    if g:
+                        known_genres.add(g)
+            real_genre = _unsanitize_genre(genre, known_genres)
+
+            now(f"Target genre: {genre} → {real_genre}")
             now("Training NMF")
             model, ts = train_nmf(df)
 
@@ -381,10 +414,10 @@ def main():
             recommend_vectorized(df, original_users, gmap, model, ts, base)
 
             now("Computing bi analysis")
-            analyze_bi(model, ts, gmap, base, target_genre=genre)
+            analyze_bi(model, ts, gmap, base, target_genre=real_genre)
 
             now("Computing mu analysis")
-            analyze_mu(ts, df, gmap, base, target_genre=genre)
+            analyze_mu(ts, df, gmap, base, target_genre=real_genre)
 
             del df, model, ts, gmap
             gc.collect()

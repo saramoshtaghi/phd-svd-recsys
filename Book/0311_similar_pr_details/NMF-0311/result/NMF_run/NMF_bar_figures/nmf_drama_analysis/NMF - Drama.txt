@@ -1,0 +1,43 @@
+NMF Analysis for Genre: Drama
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 5.0645 (users=53424)
+  2u: 5.1799 (users=53424)
+  4u: 4.9792 (users=53424)
+  6u: 5.0305 (users=53424)
+  25u: 5.6459 (users=53424)
+  50u: 6.7584 (users=53424)
+  100u: 10.1925 (users=53424)
+  200u: 12.1715 (users=53424)
+  300u: 12.9563 (users=53424)
+  500u: 7.8476 (users=53424)
+  2000u: 9.9725 (users=53424)
+
+k = 25
+  original: 8.3745 (users=53424)
+  2u: 8.4805 (users=53424)
+  4u: 8.3403 (users=53424)
+  6u: 8.4864 (users=53424)
+  25u: 9.6965 (users=53424)
+  50u: 11.3557 (users=53424)
+  100u: 16.4890 (users=53424)
+  200u: 19.7488 (users=53424)
+  300u: 21.2407 (users=53424)
+  500u: 11.6376 (users=53424)
+  2000u: 16.0507 (users=53424)
+
+k = 35
+  original: 11.6385 (users=53424)
+  2u: 11.8391 (users=53424)
+  4u: 11.6920 (users=53424)
+  6u: 11.9030 (users=53424)
+  25u: 13.7424 (users=53424)
+  50u: 15.8961 (users=53424)
+  100u: 22.5405 (users=53424)
+  200u: 27.1211 (users=53424)
+  300u: 29.3152 (users=53424)
+  500u: 15.2373 (users=53424)
+  2000u: 22.0939 (users=53424)
+

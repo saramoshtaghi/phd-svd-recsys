@@ -1,0 +1,43 @@
+NMF Analysis for Genre: Fantasy
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 4.6848 (users=53424)
+  2u: 5.1231 (users=53424)
+  4u: 4.8760 (users=53424)
+  6u: 4.8277 (users=53424)
+  25u: 7.1253 (users=53424)
+  50u: 8.4990 (users=53424)
+  100u: 11.4011 (users=53424)
+  200u: 13.1542 (users=53424)
+  300u: 13.3318 (users=53424)
+  500u: 13.5034 (users=53424)
+  2000u: 6.3343 (users=53424)
+
+k = 25
+  original: 8.0541 (users=53424)
+  2u: 8.5770 (users=53424)
+  4u: 8.1590 (users=53424)
+  6u: 8.2297 (users=53424)
+  25u: 11.5806 (users=53424)
+  50u: 13.4580 (users=53424)
+  100u: 17.9113 (users=53424)
+  200u: 20.9055 (users=53424)
+  300u: 21.3643 (users=53424)
+  500u: 21.5912 (users=53424)
+  2000u: 12.8459 (users=53424)
+
+k = 35
+  original: 11.3808 (users=53424)
+  2u: 11.9405 (users=53424)
+  4u: 11.4791 (users=53424)
+  6u: 11.6819 (users=53424)
+  25u: 15.8380 (users=53424)
+  50u: 18.2471 (users=53424)
+  100u: 24.0934 (users=53424)
+  200u: 28.2868 (users=53424)
+  300u: 29.0363 (users=53424)
+  500u: 29.2775 (users=53424)
+  2000u: 20.1660 (users=53424)
+
