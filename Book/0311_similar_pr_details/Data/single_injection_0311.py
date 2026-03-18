@@ -19,15 +19,15 @@ INPUT_CSV = "/home/moshtasa/Research/phd-svd-recsys/Book/data/genre_clean.csv"
 
 OUT_DIR = Path("/home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/Data/injected_datasets")
 
-SUMMARY_TXT = str(OUT_DIR / "injection_data_summary.txt")
-SUMMARY_CSV = str(OUT_DIR / "injection_data_summary.csv")
+SUMMARY_TXT = str(OUT_DIR / "Book_injection_data_summary.txt")
+SUMMARY_CSV = str(OUT_DIR / "Book_injection_data_summary.csv")
 
 GENRE_COL   = "genres"
 USER_COL    = "user_id"
 BOOK_COL    = "book_id"
 RATING_COL  = "rating"
 
-RUNS = [2, 4, 6, 25, 50, 100, 200, 300, 350, 500, 1000, 2000]
+RUNS = [2, 4, 6, 25, 50, 100, 200, 300, 500, 1000, 2000]
 
 POS_RATING  = 5
 NEG_RATING  = 1

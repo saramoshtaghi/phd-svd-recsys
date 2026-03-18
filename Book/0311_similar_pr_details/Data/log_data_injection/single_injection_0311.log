@@ -123,21 +123,6 @@ original rows:
   -> Negative rows: 2725200
   -> Total rows added: 2824500
 
-Category 'Adult' | Run 350
-  -> First: 106
-  -> Second: 225
-  -> Items in category: 331
-  -> Total items: 9415
-  -> Other categories: 9084
-  -> Percentage of all: 3.5156664896441847
-  -> Percentage of that genre: 32.02416918429003
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 115850
-  -> Negative rows: 3179400
-  -> Total rows added: 3295250
-
 Category 'Adult' | Run 500
   -> First: 106
   -> Second: 225
@@ -302,21 +287,6 @@ original rows:
   -> Positive rows: 536700
   -> Negative rows: 2287800
   -> Total rows added: 2824500
-
-Category 'Adventure' | Run 350
-  -> First: 185
-  -> Second: 1604
-  -> Items in category: 1789
-  -> Total items: 9415
-  -> Other categories: 7626
-  -> Percentage of all: 19.001593202336696
-  -> Percentage of that genre: 10.34097261039687
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 626150
-  -> Negative rows: 2669100
-  -> Total rows added: 3295250
 
 Category 'Adventure' | Run 500
   -> First: 185
@@ -483,21 +453,6 @@ original rows:
   -> Negative rows: 2565600
   -> Total rows added: 2824500
 
-Category 'Children's' | Run 350
-  -> First: 694
-  -> Second: 169
-  -> Items in category: 863
-  -> Total items: 9415
-  -> Other categories: 8552
-  -> Percentage of all: 9.166224110462029
-  -> Percentage of that genre: 80.41714947856316
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 302050
-  -> Negative rows: 2993200
-  -> Total rows added: 3295250
-
 Category 'Children's' | Run 500
   -> First: 694
   -> Second: 169
@@ -662,21 +617,6 @@ original rows:
   -> Positive rows: 270300
   -> Negative rows: 2554200
   -> Total rows added: 2824500
-
-Category 'Classics' | Run 350
-  -> First: 392
-  -> Second: 509
-  -> Items in category: 901
-  -> Total items: 9415
-  -> Other categories: 8514
-  -> Percentage of all: 9.569835369091875
-  -> Percentage of that genre: 43.5072142064373
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 315350
-  -> Negative rows: 2979900
-  -> Total rows added: 3295250
 
 Category 'Classics' | Run 500
   -> First: 392
@@ -843,21 +783,6 @@ original rows:
   -> Negative rows: 1922700
   -> Total rows added: 2824500
 
-Category 'Drama' | Run 350
-  -> First: 229
-  -> Second: 2777
-  -> Items in category: 3006
-  -> Total items: 9415
-  -> Other categories: 6409
-  -> Percentage of all: 31.927774827403084
-  -> Percentage of that genre: 7.618097139055223
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 1052100
-  -> Negative rows: 2243150
-  -> Total rows added: 3295250
-
 Category 'Drama' | Run 500
   -> First: 229
   -> Second: 2777
@@ -1022,21 +947,6 @@ original rows:
   -> Positive rows: 626400
   -> Negative rows: 2198100
   -> Total rows added: 2824500
-
-Category 'Fantasy' | Run 350
-  -> First: 1794
-  -> Second: 294
-  -> Items in category: 2088
-  -> Total items: 9415
-  -> Other categories: 7327
-  -> Percentage of all: 22.177376526818907
-  -> Percentage of that genre: 85.91954022988506
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 730800
-  -> Negative rows: 2564450
-  -> Total rows added: 3295250
 
 Category 'Fantasy' | Run 500
   -> First: 1794
@@ -1203,21 +1113,6 @@ original rows:
   -> Negative rows: 2567400
   -> Total rows added: 2824500
 
-Category 'Historical' | Run 350
-  -> First: 497
-  -> Second: 360
-  -> Items in category: 857
-  -> Total items: 9415
-  -> Other categories: 8558
-  -> Percentage of all: 9.102496016994158
-  -> Percentage of that genre: 57.992998833138856
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 299950
-  -> Negative rows: 2995300
-  -> Total rows added: 3295250
-
 Category 'Historical' | Run 500
   -> First: 497
   -> Second: 360
@@ -1382,21 +1277,6 @@ original rows:
   -> Positive rows: 230700
   -> Negative rows: 2593800
   -> Total rows added: 2824500
-
-Category 'Horror' | Run 350
-  -> First: 427
-  -> Second: 342
-  -> Items in category: 769
-  -> Total items: 9415
-  -> Other categories: 8646
-  -> Percentage of all: 8.167817312798725
-  -> Percentage of that genre: 55.52665799739922
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 269150
-  -> Negative rows: 3026100
-  -> Total rows added: 3295250
 
 Category 'Horror' | Run 500
   -> First: 427
@@ -1563,21 +1443,6 @@ original rows:
   -> Negative rows: 2055600
   -> Total rows added: 2824500
 
-Category 'Mystery' | Run 350
-  -> First: 1315
-  -> Second: 1248
-  -> Items in category: 2563
-  -> Total items: 9415
-  -> Other categories: 6852
-  -> Percentage of all: 27.22251725969198
-  -> Percentage of that genre: 51.30706203667577
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 897050
-  -> Negative rows: 2398200
-  -> Total rows added: 3295250
-
 Category 'Mystery' | Run 500
   -> First: 1315
   -> Second: 1248
@@ -1742,21 +1607,6 @@ original rows:
   -> Positive rows: 321300
   -> Negative rows: 2503200
   -> Total rows added: 2824500
-
-Category 'Nonfiction' | Run 350
-  -> First: 878
-  -> Second: 193
-  -> Items in category: 1071
-  -> Total items: 9415
-  -> Other categories: 8344
-  -> Percentage of all: 11.37546468401487
-  -> Percentage of that genre: 81.97945845004668
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 374850
-  -> Negative rows: 2920400
-  -> Total rows added: 3295250
 
 Category 'Nonfiction' | Run 500
   -> First: 878
@@ -1923,21 +1773,6 @@ original rows:
   -> Negative rows: 2185200
   -> Total rows added: 2824500
 
-Category 'Romance' | Run 350
-  -> First: 1704
-  -> Second: 427
-  -> Items in category: 2131
-  -> Total items: 9415
-  -> Other categories: 7284
-  -> Percentage of all: 22.63409453000531
-  -> Percentage of that genre: 79.96245893946504
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 745850
-  -> Negative rows: 2549400
-  -> Total rows added: 3295250
-
 Category 'Romance' | Run 500
   -> First: 1704
   -> Second: 427
@@ -2103,21 +1938,6 @@ original rows:
   -> Negative rows: 2568000
   -> Total rows added: 2824500
 
-Category 'Science Fiction' | Run 350
-  -> First: 776
-  -> Second: 79
-  -> Items in category: 855
-  -> Total items: 9415
-  -> Other categories: 8560
-  -> Percentage of all: 9.081253319171536
-  -> Percentage of that genre: 90.76023391812865
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 299250
-  -> Negative rows: 2996000
-  -> Total rows added: 3295250
-
 Category 'Science Fiction' | Run 500
   -> First: 776
   -> Second: 79
@@ -2282,21 +2102,6 @@ original rows:
   -> Positive rows: 481800
   -> Negative rows: 2342700
   -> Total rows added: 2824500
-
-Category 'Thriller' | Run 350
-  -> First: 418
-  -> Second: 1188
-  -> Items in category: 1606
-  -> Total items: 9415
-  -> Other categories: 7809
-  -> Percentage of all: 17.057886351566648
-  -> Percentage of that genre: 26.027397260273972
-  -> Adding users: 350
-  -> Ratings: POS=5 / NEG=1
-original rows:
-  -> Positive rows: 562100
-  -> Negative rows: 2733150
-  -> Total rows added: 3295250
 
 Category 'Thriller' | Run 500
   -> First: 418

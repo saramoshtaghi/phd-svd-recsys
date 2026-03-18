@@ -1,0 +1,21 @@
+nohup: ignoring input
+[16:11:20] === SVD BASELINE + SELECTED INJECTIONS ===
+[16:11:20] Loading ORIGINAL → /home/moshtasa/Research/phd-svd-recsys/Book/data/genre_clean.csv
+[16:11:26] ORIGINAL users=53,424 rows=5,815,569
+[16:11:26] Training SVD on ORIGINAL
+[16:14:57] Generating ORIGINAL recommendations
+[16:15:00] Scoring 53,424 users for ORIGINAL
+[16:17:31] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/SVD-0311/result/SVD-run/data/ORIGINAL_15recommendation.csv (801,360 rows)
+[16:17:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/SVD-0311/result/SVD-run/data/ORIGINAL_25recommendation.csv (1,335,600 rows)
+[16:17:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/SVD-0311/result/SVD-run/data/ORIGINAL_35recommendation.csv (1,869,840 rows)
+[16:17:44] Computing ORIGINAL bi analysis
+[16:17:44] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/SVD-0311/result/SVD-run/bi/ORIGINAL_bi_per_genre.csv (13 genres)
+[16:17:44] Computing ORIGINAL mu analysis
+[16:18:07] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/SVD-0311/result/SVD-run/mio/ORIGINAL_mu_per_genre.csv (13 genres)
+[16:18:10] ORIGINAL baseline done
+[16:18:10] Found 143 injection files
+[16:18:10] 
+[1/143] POS5 2 users — Historical
+[16:18:10] File: f_Historical_2u_pos5_neg1_books.csv
+[16:18:16] Target genre: Historical → Historical
+[16:18:16] Training SVD
