@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore")
 # ============================================================
 
 ORIGINAL_PATH = Path(
-    "/home/moshtasa/Research/phd-svd-recsys/Book/SVD/data/df_final_with_genres.csv"
+    "/home/moshtasa/Research/phd-svd-recsys/Book/data/genre_clean.csv"
 )
 
 SINGLE_INJ_ROOT = Path(

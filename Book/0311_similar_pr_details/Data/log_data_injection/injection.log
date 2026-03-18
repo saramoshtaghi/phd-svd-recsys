@@ -1,5 +1,7 @@
-BASE DATA: 53424 users, 5815569 rows
-POSITIVE = 5, NEGATIVE = 1
+nohup: ignoring input
+Reading dataset from:
+/home/moshtasa/Research/phd-svd-recsys/Book/data/genre_clean.csv
+File exists: True
 
 Category 'Adult' | Run 2
   -> First: 106
@@ -2341,5 +2343,4 @@ original rows:
   -> Negative rows: 15618000
   -> Total rows added: 18830000
 
-TOTAL SYNTHETIC ROWS: 555306115
-OUTPUT FOLDER: /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/Data/injected_datasets
+✅ Done. Correct genre-aware pos/neg injection applied.
