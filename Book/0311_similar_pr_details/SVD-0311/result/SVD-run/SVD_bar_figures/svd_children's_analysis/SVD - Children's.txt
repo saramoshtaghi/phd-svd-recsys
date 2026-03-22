@@ -1,0 +1,46 @@
+SVD Analysis for Genre: Children's
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.1382 (users=53424)
+  2u: 1.5581 (users=53424)
+  4u: 2.2154 (users=53424)
+  6u: 3.2177 (users=53424)
+  25u: 5.8851 (users=53424)
+  50u: 6.1957 (users=53424)
+  100u: 5.9632 (users=53424)
+  200u: 6.6866 (users=53424)
+  300u: 7.2853 (users=53424)
+  500u: 7.7971 (users=53424)
+  1000u: 8.8314 (users=53424)
+  2000u: 9.6741 (users=53424)
+
+k = 25
+  original: 2.1517 (users=53424)
+  2u: 2.8295 (users=53424)
+  4u: 3.8086 (users=53424)
+  6u: 5.3862 (users=53424)
+  25u: 9.2130 (users=53424)
+  50u: 9.6494 (users=53424)
+  100u: 9.3110 (users=53424)
+  200u: 10.4000 (users=53424)
+  300u: 11.2213 (users=53424)
+  500u: 11.8866 (users=53424)
+  1000u: 13.3463 (users=53424)
+  2000u: 14.8806 (users=53424)
+
+k = 35
+  original: 3.2496 (users=53424)
+  2u: 4.1712 (users=53424)
+  4u: 5.4198 (users=53424)
+  6u: 7.4888 (users=53424)
+  25u: 12.2628 (users=53424)
+  50u: 12.8425 (users=53424)
+  100u: 12.4590 (users=53424)
+  200u: 13.8553 (users=53424)
+  300u: 14.8229 (users=53424)
+  500u: 15.6700 (users=53424)
+  1000u: 17.4593 (users=53424)
+  2000u: 19.6766 (users=53424)
+

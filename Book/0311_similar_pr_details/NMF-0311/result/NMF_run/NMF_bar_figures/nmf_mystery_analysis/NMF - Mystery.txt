@@ -1,0 +1,46 @@
+NMF Analysis for Genre: Mystery
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 3.6617 (users=53424)
+  2u: 3.1226 (users=53424)
+  4u: 3.6112 (users=53424)
+  6u: 4.2306 (users=53424)
+  25u: 4.1845 (users=53424)
+  50u: 5.7840 (users=53424)
+  100u: 9.1150 (users=53424)
+  200u: 11.8484 (users=53424)
+  300u: 12.3258 (users=53424)
+  500u: 2.9210 (users=53424)
+  1000u: 9.8646 (users=53424)
+  2000u: 8.5711 (users=53424)
+
+k = 25
+  original: 6.0030 (users=53424)
+  2u: 5.4178 (users=53424)
+  4u: 6.0221 (users=53424)
+  6u: 6.7365 (users=53424)
+  25u: 7.1288 (users=53424)
+  50u: 9.8737 (users=53424)
+  100u: 14.7419 (users=53424)
+  200u: 19.0461 (users=53424)
+  300u: 19.8227 (users=53424)
+  500u: 7.1787 (users=53424)
+  1000u: 18.9317 (users=53424)
+  2000u: 17.2991 (users=53424)
+
+k = 35
+  original: 8.3388 (users=53424)
+  2u: 7.6698 (users=53424)
+  4u: 8.4455 (users=53424)
+  6u: 9.1538 (users=53424)
+  25u: 10.1250 (users=53424)
+  50u: 13.9543 (users=53424)
+  100u: 20.0884 (users=53424)
+  200u: 26.0027 (users=53424)
+  300u: 27.0895 (users=53424)
+  500u: 13.3361 (users=53424)
+  1000u: 28.3531 (users=53424)
+  2000u: 26.5653 (users=53424)
+

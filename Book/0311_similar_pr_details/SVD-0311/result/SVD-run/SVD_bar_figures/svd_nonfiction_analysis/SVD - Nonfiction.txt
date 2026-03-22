@@ -1,0 +1,46 @@
+SVD Analysis for Genre: Nonfiction
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 2.3420 (users=53424)
+  2u: 2.1348 (users=53424)
+  4u: 2.6596 (users=53424)
+  6u: 3.8919 (users=53424)
+  25u: 5.7849 (users=53424)
+  50u: 5.4569 (users=53424)
+  100u: 5.4979 (users=53424)
+  200u: 6.4794 (users=53424)
+  300u: 6.7335 (users=53424)
+  500u: 6.8907 (users=53424)
+  1000u: 7.4584 (users=53424)
+  2000u: 8.5610 (users=53424)
+
+k = 25
+  original: 3.6951 (users=53424)
+  2u: 3.4679 (users=53424)
+  4u: 4.3962 (users=53424)
+  6u: 6.1180 (users=53424)
+  25u: 8.9098 (users=53424)
+  50u: 8.4435 (users=53424)
+  100u: 8.6068 (users=53424)
+  200u: 9.8542 (users=53424)
+  300u: 10.2622 (users=53424)
+  500u: 10.5863 (users=53424)
+  1000u: 11.3673 (users=53424)
+  2000u: 13.0700 (users=53424)
+
+k = 35
+  original: 5.0368 (users=53424)
+  2u: 4.8350 (users=53424)
+  4u: 6.1552 (users=53424)
+  6u: 8.2745 (users=53424)
+  25u: 11.8542 (users=53424)
+  50u: 11.3334 (users=53424)
+  100u: 11.6155 (users=53424)
+  200u: 13.1058 (users=53424)
+  300u: 13.6599 (users=53424)
+  500u: 14.1323 (users=53424)
+  1000u: 15.1390 (users=53424)
+  2000u: 17.4077 (users=53424)
+

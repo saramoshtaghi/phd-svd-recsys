@@ -1,0 +1,46 @@
+SVD Analysis for Genre: Horror
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.2019 (users=53424)
+  2u: 1.3727 (users=53424)
+  4u: 1.9306 (users=53424)
+  6u: 2.6182 (users=53424)
+  25u: 4.2706 (users=53424)
+  50u: 4.3085 (users=53424)
+  100u: 3.9113 (users=53424)
+  200u: 5.2134 (users=53424)
+  300u: 5.6297 (users=53424)
+  500u: 5.7850 (users=53424)
+  1000u: 6.3756 (users=53424)
+  2000u: 7.1620 (users=53424)
+
+k = 25
+  original: 2.0499 (users=53424)
+  2u: 2.2929 (users=53424)
+  4u: 3.1452 (users=53424)
+  6u: 4.3389 (users=53424)
+  25u: 6.9278 (users=53424)
+  50u: 7.0383 (users=53424)
+  100u: 6.7796 (users=53424)
+  200u: 8.2049 (users=53424)
+  300u: 8.8175 (users=53424)
+  500u: 9.0818 (users=53424)
+  1000u: 9.9353 (users=53424)
+  2000u: 11.2334 (users=53424)
+
+k = 35
+  original: 2.8977 (users=53424)
+  2u: 3.2403 (users=53424)
+  4u: 4.3584 (users=53424)
+  6u: 6.0033 (users=53424)
+  25u: 9.4241 (users=53424)
+  50u: 9.6117 (users=53424)
+  100u: 9.5512 (users=53424)
+  200u: 11.0474 (users=53424)
+  300u: 11.8070 (users=53424)
+  500u: 12.2090 (users=53424)
+  1000u: 13.2847 (users=53424)
+  2000u: 15.0562 (users=53424)
+

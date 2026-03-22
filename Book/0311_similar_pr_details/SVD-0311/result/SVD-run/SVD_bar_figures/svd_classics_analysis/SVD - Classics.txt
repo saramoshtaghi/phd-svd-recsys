@@ -1,0 +1,46 @@
+SVD Analysis for Genre: Classics
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.0290 (users=53424)
+  2u: 1.2866 (users=53424)
+  4u: 1.9278 (users=53424)
+  6u: 2.7184 (users=53424)
+  25u: 5.4746 (users=53424)
+  50u: 5.0768 (users=53424)
+  100u: 5.5897 (users=53424)
+  200u: 6.2147 (users=53424)
+  300u: 6.4419 (users=53424)
+  500u: 6.9074 (users=53424)
+  1000u: 8.2021 (users=53424)
+  2000u: 9.4096 (users=53424)
+
+k = 25
+  original: 1.7718 (users=53424)
+  2u: 2.2087 (users=53424)
+  4u: 3.1788 (users=53424)
+  6u: 4.4676 (users=53424)
+  25u: 8.5291 (users=53424)
+  50u: 8.1727 (users=53424)
+  100u: 8.7948 (users=53424)
+  200u: 9.7281 (users=53424)
+  300u: 10.1076 (users=53424)
+  500u: 10.6318 (users=53424)
+  1000u: 12.5797 (users=53424)
+  2000u: 14.4496 (users=53424)
+
+k = 35
+  original: 2.5385 (users=53424)
+  2u: 3.1544 (users=53424)
+  4u: 4.4070 (users=53424)
+  6u: 6.1572 (users=53424)
+  25u: 11.3509 (users=53424)
+  50u: 11.0809 (users=53424)
+  100u: 11.8109 (users=53424)
+  200u: 13.0091 (users=53424)
+  300u: 13.5253 (users=53424)
+  500u: 14.1035 (users=53424)
+  1000u: 16.5691 (users=53424)
+  2000u: 19.0321 (users=53424)
+

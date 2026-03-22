@@ -1,0 +1,46 @@
+NMF Analysis for Genre: Children's
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.1252 (users=53424)
+  2u: 1.4068 (users=53424)
+  4u: 1.6140 (users=53424)
+  6u: 1.8408 (users=53424)
+  25u: 3.0987 (users=53424)
+  50u: 5.2066 (users=53424)
+  100u: 8.6619 (users=53424)
+  200u: 11.6516 (users=53424)
+  300u: 12.1367 (users=53424)
+  500u: 12.5867 (users=53424)
+  1000u: 12.7356 (users=53424)
+  2000u: 13.2102 (users=53424)
+
+k = 25
+  original: 2.0588 (users=53424)
+  2u: 2.4238 (users=53424)
+  4u: 2.6313 (users=53424)
+  6u: 2.9744 (users=53424)
+  25u: 5.1009 (users=53424)
+  50u: 8.3870 (users=53424)
+  100u: 13.9697 (users=53424)
+  200u: 18.9736 (users=53424)
+  300u: 19.7859 (users=53424)
+  500u: 20.2675 (users=53424)
+  1000u: 20.0713 (users=53424)
+  2000u: 20.9185 (users=53424)
+
+k = 35
+  original: 3.0565 (users=53424)
+  2u: 3.4485 (users=53424)
+  4u: 3.6590 (users=53424)
+  6u: 4.1386 (users=53424)
+  25u: 7.1357 (users=53424)
+  50u: 11.4653 (users=53424)
+  100u: 19.0440 (users=53424)
+  200u: 25.9892 (users=53424)
+  300u: 27.2375 (users=53424)
+  500u: 27.7260 (users=53424)
+  1000u: 27.1153 (users=53424)
+  2000u: 28.1081 (users=53424)
+
