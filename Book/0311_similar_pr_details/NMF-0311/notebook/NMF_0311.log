@@ -1,0 +1,2164 @@
+nohup: ignoring input
+[12:49:48] === NMF BASELINE + SELECTED INJECTIONS ===
+[12:49:48] Loading ORIGINAL → /home/moshtasa/Research/phd-svd-recsys/Book/data/genre_clean.csv
+[12:49:55] ORIGINAL users=53,424 rows=5,815,569
+[12:49:55] Training NMF on ORIGINAL
+[12:53:57] Generating ORIGINAL recommendations
+[12:54:00] Scoring 53,424 users for ORIGINAL
+[12:56:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/ORIGINAL_15recommendation.csv (801,360 rows)
+[12:56:18] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/ORIGINAL_25recommendation.csv (1,335,600 rows)
+[12:56:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/ORIGINAL_35recommendation.csv (1,869,840 rows)
+[12:56:25] Computing ORIGINAL bi analysis
+[12:56:25] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/ORIGINAL_bi_per_genre.csv (13 genres)
+[12:56:25] Computing ORIGINAL mu analysis
+[12:56:45] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/ORIGINAL_mu_per_genre.csv (13 genres)
+[12:56:47] ORIGINAL baseline done
+[12:56:47] Found 143 injection files
+[12:56:47] 
+[1/143] POS5 2 users — Historical
+[12:56:47] File: f_Historical_2u_pos5_neg1_books.csv
+[12:56:52] Target genre: Historical → Historical
+[12:56:52] Training NMF
+[13:00:58] Generating recommendations
+[13:01:00] Scoring 53,424 users for f_Historical_2u_pos5_neg1_books
+[13:03:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:03:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:03:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:03:22] Computing bi analysis
+[13:03:22] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:03:22] Computing mu analysis
+[13:03:43] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:03:45] Done
+[13:03:45] 
+[2/143] POS5 2 users — Adult
+[13:03:45] File: f_Adult_2u_pos5_neg1_books.csv
+[13:03:50] Target genre: Adult → Adult
+[13:03:50] Training NMF
+[13:07:59] Generating recommendations
+[13:08:02] Scoring 53,424 users for f_Adult_2u_pos5_neg1_books
+[13:10:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:10:13] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:10:18] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:10:20] Computing bi analysis
+[13:10:20] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:10:20] Computing mu analysis
+[13:10:40] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:10:42] Done
+[13:10:42] 
+[3/143] POS5 2 users — Drama
+[13:10:42] File: f_Drama_2u_pos5_neg1_books.csv
+[13:10:47] Target genre: Drama → Drama
+[13:10:47] Training NMF
+[13:14:55] Generating recommendations
+[13:14:57] Scoring 53,424 users for f_Drama_2u_pos5_neg1_books
+[13:17:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:17:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:17:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:17:15] Computing bi analysis
+[13:17:15] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:17:15] Computing mu analysis
+[13:17:35] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:17:37] Done
+[13:17:37] 
+[4/143] POS5 2 users — Mystery
+[13:17:37] File: f_Mystery_2u_pos5_neg1_books.csv
+[13:17:42] Target genre: Mystery → Mystery
+[13:17:42] Training NMF
+[13:21:51] Generating recommendations
+[13:21:54] Scoring 53,424 users for f_Mystery_2u_pos5_neg1_books
+[13:24:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:24:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:24:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:24:11] Computing bi analysis
+[13:24:11] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:24:11] Computing mu analysis
+[13:24:31] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:24:33] Done
+[13:24:33] 
+[5/143] POS5 2 users — Classics
+[13:24:33] File: f_Classics_2u_pos5_neg1_books.csv
+[13:24:39] Target genre: Classics → Classics
+[13:24:39] Training NMF
+[13:28:45] Generating recommendations
+[13:28:48] Scoring 53,424 users for f_Classics_2u_pos5_neg1_books
+[13:30:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:30:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:31:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:31:05] Computing bi analysis
+[13:31:06] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:31:06] Computing mu analysis
+[13:31:26] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:31:29] Done
+[13:31:29] 
+[6/143] POS5 2 users — Thriller
+[13:31:29] File: f_Thriller_2u_pos5_neg1_books.csv
+[13:31:34] Target genre: Thriller → Thriller
+[13:31:34] Training NMF
+[13:35:47] Generating recommendations
+[13:35:50] Scoring 53,424 users for f_Thriller_2u_pos5_neg1_books
+[13:37:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:38:03] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:38:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:38:11] Computing bi analysis
+[13:38:11] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:38:11] Computing mu analysis
+[13:38:33] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:38:36] Done
+[13:38:36] 
+[7/143] POS5 2 users — Fantasy
+[13:38:36] File: f_Fantasy_2u_pos5_neg1_books.csv
+[13:38:41] Target genre: Fantasy → Fantasy
+[13:38:41] Training NMF
+[13:42:43] Generating recommendations
+[13:42:45] Scoring 53,424 users for f_Fantasy_2u_pos5_neg1_books
+[13:44:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:44:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:45:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:45:06] Computing bi analysis
+[13:45:06] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:45:06] Computing mu analysis
+[13:45:28] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:45:30] Done
+[13:45:30] 
+[8/143] POS5 2 users — Children_s
+[13:45:30] File: f_Children_s_2u_pos5_neg1_books.csv
+[13:45:36] Target genre: Children_s → Children's
+[13:45:36] Training NMF
+[13:49:34] Generating recommendations
+[13:49:36] Scoring 53,424 users for f_Children_s_2u_pos5_neg1_books
+[13:51:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:51:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:51:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:51:49] Computing bi analysis
+[13:51:49] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:51:49] Computing mu analysis
+[13:52:10] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:52:12] Done
+[13:52:12] 
+[9/143] POS5 2 users — Nonfiction
+[13:52:12] File: f_Nonfiction_2u_pos5_neg1_books.csv
+[13:52:18] Target genre: Nonfiction → Nonfiction
+[13:52:18] Training NMF
+[13:56:17] Generating recommendations
+[13:56:19] Scoring 53,424 users for f_Nonfiction_2u_pos5_neg1_books
+[13:58:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[13:58:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[13:58:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[13:58:23] Computing bi analysis
+[13:58:23] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[13:58:23] Computing mu analysis
+[13:58:43] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[13:58:45] Done
+[13:58:45] 
+[10/143] POS5 2 users — Romance
+[13:58:45] File: f_Romance_2u_pos5_neg1_books.csv
+[13:58:51] Target genre: Romance → Romance
+[13:58:51] Training NMF
+[14:02:51] Generating recommendations
+[14:02:53] Scoring 53,424 users for f_Romance_2u_pos5_neg1_books
+[14:04:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:04:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:04:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:04:53] Computing bi analysis
+[14:04:53] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:04:53] Computing mu analysis
+[14:05:13] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:05:15] Done
+[14:05:15] 
+[11/143] POS5 2 users — Adventure
+[14:05:15] File: f_Adventure_2u_pos5_neg1_books.csv
+[14:05:21] Target genre: Adventure → Adventure
+[14:05:21] Training NMF
+[14:09:19] Generating recommendations
+[14:09:22] Scoring 53,424 users for f_Adventure_2u_pos5_neg1_books
+[14:11:18] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:11:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:11:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:11:29] Computing bi analysis
+[14:11:29] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:11:29] Computing mu analysis
+[14:11:50] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:11:52] Done
+[14:11:52] 
+[12/143] POS5 2 users — Horror
+[14:11:52] File: f_Horror_2u_pos5_neg1_books.csv
+[14:11:57] Target genre: Horror → Horror
+[14:11:57] Training NMF
+[14:16:06] Generating recommendations
+[14:16:08] Scoring 53,424 users for f_Horror_2u_pos5_neg1_books
+[14:18:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:18:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:18:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:18:18] Computing bi analysis
+[14:18:18] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:18:18] Computing mu analysis
+[14:18:38] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:18:40] Done
+[14:18:40] 
+[13/143] POS5 2 users — Science_Fiction
+[14:18:40] File: f_Science_Fiction_2u_pos5_neg1_books.csv
+[14:18:45] Target genre: Science_Fiction → Science Fiction
+[14:18:45] Training NMF
+[14:22:53] Generating recommendations
+[14:22:55] Scoring 53,424 users for f_Science_Fiction_2u_pos5_neg1_books
+[14:25:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_2u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:25:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_2u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:25:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_2u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:25:13] Computing bi analysis
+[14:25:13] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_2u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:25:13] Computing mu analysis
+[14:25:34] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_2u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:25:37] Done
+[14:25:37] 
+[14/143] POS5 4 users — Science_Fiction
+[14:25:37] File: f_Science_Fiction_4u_pos5_neg1_books.csv
+[14:25:42] Target genre: Science_Fiction → Science Fiction
+[14:25:42] Training NMF
+[14:29:48] Generating recommendations
+[14:29:51] Scoring 53,424 users for f_Science_Fiction_4u_pos5_neg1_books
+[14:31:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:32:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:32:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:32:07] Computing bi analysis
+[14:32:07] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:32:07] Computing mu analysis
+[14:32:28] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:32:30] Done
+[14:32:30] 
+[15/143] POS5 4 users — Fantasy
+[14:32:30] File: f_Fantasy_4u_pos5_neg1_books.csv
+[14:32:35] Target genre: Fantasy → Fantasy
+[14:32:35] Training NMF
+[14:36:41] Generating recommendations
+[14:36:44] Scoring 53,424 users for f_Fantasy_4u_pos5_neg1_books
+[14:38:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:38:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:39:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:39:06] Computing bi analysis
+[14:39:06] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:39:06] Computing mu analysis
+[14:39:27] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:39:29] Done
+[14:39:29] 
+[16/143] POS5 4 users — Adult
+[14:39:29] File: f_Adult_4u_pos5_neg1_books.csv
+[14:39:35] Target genre: Adult → Adult
+[14:39:35] Training NMF
+[14:43:43] Generating recommendations
+[14:43:45] Scoring 53,424 users for f_Adult_4u_pos5_neg1_books
+[14:45:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:45:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:46:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:46:01] Computing bi analysis
+[14:46:01] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:46:01] Computing mu analysis
+[14:46:22] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:46:25] Done
+[14:46:25] 
+[17/143] POS5 4 users — Children_s
+[14:46:25] File: f_Children_s_4u_pos5_neg1_books.csv
+[14:46:30] Target genre: Children_s → Children's
+[14:46:30] Training NMF
+[14:50:34] Generating recommendations
+[14:50:36] Scoring 53,424 users for f_Children_s_4u_pos5_neg1_books
+[14:52:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:52:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:52:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:52:54] Computing bi analysis
+[14:52:54] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:52:54] Computing mu analysis
+[14:53:16] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:53:18] Done
+[14:53:18] 
+[18/143] POS5 4 users — Historical
+[14:53:18] File: f_Historical_4u_pos5_neg1_books.csv
+[14:53:24] Target genre: Historical → Historical
+[14:53:24] Training NMF
+[14:57:31] Generating recommendations
+[14:57:33] Scoring 53,424 users for f_Historical_4u_pos5_neg1_books
+[14:59:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:59:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:59:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:59:49] Computing bi analysis
+[14:59:49] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:59:49] Computing mu analysis
+[15:00:12] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:00:15] Done
+[15:00:15] 
+[19/143] POS5 4 users — Classics
+[15:00:15] File: f_Classics_4u_pos5_neg1_books.csv
+[15:00:20] Target genre: Classics → Classics
+[15:00:20] Training NMF
+[15:04:26] Generating recommendations
+[15:04:28] Scoring 53,424 users for f_Classics_4u_pos5_neg1_books
+[15:06:25] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:06:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:06:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:06:36] Computing bi analysis
+[15:06:36] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:06:36] Computing mu analysis
+[15:06:57] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:06:59] Done
+[15:06:59] 
+[20/143] POS5 4 users — Mystery
+[15:06:59] File: f_Mystery_4u_pos5_neg1_books.csv
+[15:07:05] Target genre: Mystery → Mystery
+[15:07:05] Training NMF
+[15:11:03] Generating recommendations
+[15:11:05] Scoring 53,424 users for f_Mystery_4u_pos5_neg1_books
+[15:13:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:13:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:13:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:13:12] Computing bi analysis
+[15:13:12] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:13:12] Computing mu analysis
+[15:13:35] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:13:37] Done
+[15:13:37] 
+[21/143] POS5 4 users — Adventure
+[15:13:37] File: f_Adventure_4u_pos5_neg1_books.csv
+[15:13:43] Target genre: Adventure → Adventure
+[15:13:43] Training NMF
+[15:17:41] Generating recommendations
+[15:17:44] Scoring 53,424 users for f_Adventure_4u_pos5_neg1_books
+[15:19:32] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:19:35] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:19:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:19:42] Computing bi analysis
+[15:19:42] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:19:42] Computing mu analysis
+[15:20:02] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:20:04] Done
+[15:20:04] 
+[22/143] POS5 4 users — Horror
+[15:20:04] File: f_Horror_4u_pos5_neg1_books.csv
+[15:20:09] Target genre: Horror → Horror
+[15:20:09] Training NMF
+[15:24:09] Generating recommendations
+[15:24:12] Scoring 53,424 users for f_Horror_4u_pos5_neg1_books
+[15:26:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:26:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:26:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:26:18] Computing bi analysis
+[15:26:18] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:26:18] Computing mu analysis
+[15:26:39] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:26:42] Done
+[15:26:42] 
+[23/143] POS5 4 users — Nonfiction
+[15:26:42] File: f_Nonfiction_4u_pos5_neg1_books.csv
+[15:26:47] Target genre: Nonfiction → Nonfiction
+[15:26:47] Training NMF
+[15:30:50] Generating recommendations
+[15:30:52] Scoring 53,424 users for f_Nonfiction_4u_pos5_neg1_books
+[15:32:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:32:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:32:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:33:01] Computing bi analysis
+[15:33:01] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:33:01] Computing mu analysis
+[15:33:22] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:33:25] Done
+[15:33:25] 
+[24/143] POS5 4 users — Drama
+[15:33:25] File: f_Drama_4u_pos5_neg1_books.csv
+[15:33:30] Target genre: Drama → Drama
+[15:33:30] Training NMF
+[15:37:45] Generating recommendations
+[15:37:47] Scoring 53,424 users for f_Drama_4u_pos5_neg1_books
+[15:39:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:39:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:39:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:40:00] Computing bi analysis
+[15:40:00] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:40:00] Computing mu analysis
+[15:40:22] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:40:25] Done
+[15:40:25] 
+[25/143] POS5 4 users — Thriller
+[15:40:25] File: f_Thriller_4u_pos5_neg1_books.csv
+[15:40:30] Target genre: Thriller → Thriller
+[15:40:30] Training NMF
+[15:44:37] Generating recommendations
+[15:44:40] Scoring 53,424 users for f_Thriller_4u_pos5_neg1_books
+[15:46:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:46:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:46:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:46:57] Computing bi analysis
+[15:46:57] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:46:57] Computing mu analysis
+[15:47:17] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:47:19] Done
+[15:47:19] 
+[26/143] POS5 4 users — Romance
+[15:47:19] File: f_Romance_4u_pos5_neg1_books.csv
+[15:47:24] Target genre: Romance → Romance
+[15:47:24] Training NMF
+[15:51:30] Generating recommendations
+[15:51:33] Scoring 53,424 users for f_Romance_4u_pos5_neg1_books
+[15:53:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[15:53:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[15:53:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[15:53:50] Computing bi analysis
+[15:53:50] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[15:53:50] Computing mu analysis
+[15:54:12] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[15:54:15] Done
+[15:54:15] 
+[27/143] POS5 6 users — Mystery
+[15:54:15] File: f_Mystery_6u_pos5_neg1_books.csv
+[15:54:20] Target genre: Mystery → Mystery
+[15:54:20] Training NMF
+[15:58:34] Generating recommendations
+[15:58:36] Scoring 53,424 users for f_Mystery_6u_pos5_neg1_books
+[16:00:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:00:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:00:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:00:55] Computing bi analysis
+[16:00:55] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:00:55] Computing mu analysis
+[16:01:16] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:01:19] Done
+[16:01:19] 
+[28/143] POS5 6 users — Adventure
+[16:01:19] File: f_Adventure_6u_pos5_neg1_books.csv
+[16:01:24] Target genre: Adventure → Adventure
+[16:01:24] Training NMF
+[16:05:37] Generating recommendations
+[16:05:39] Scoring 53,424 users for f_Adventure_6u_pos5_neg1_books
+[16:07:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:07:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:07:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:07:57] Computing bi analysis
+[16:07:57] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:07:57] Computing mu analysis
+[16:08:20] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:08:23] Done
+[16:08:23] 
+[29/143] POS5 6 users — Historical
+[16:08:23] File: f_Historical_6u_pos5_neg1_books.csv
+[16:08:29] Target genre: Historical → Historical
+[16:08:29] Training NMF
+[16:12:38] Generating recommendations
+[16:12:40] Scoring 53,424 users for f_Historical_6u_pos5_neg1_books
+[16:14:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:14:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:14:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:14:58] Computing bi analysis
+[16:14:58] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:14:58] Computing mu analysis
+[16:15:20] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:15:22] Done
+[16:15:22] 
+[30/143] POS5 6 users — Fantasy
+[16:15:22] File: f_Fantasy_6u_pos5_neg1_books.csv
+[16:15:28] Target genre: Fantasy → Fantasy
+[16:15:28] Training NMF
+[16:19:34] Generating recommendations
+[16:19:37] Scoring 53,424 users for f_Fantasy_6u_pos5_neg1_books
+[16:21:35] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:21:40] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:21:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:21:48] Computing bi analysis
+[16:21:48] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:21:48] Computing mu analysis
+[16:22:11] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:22:13] Done
+[16:22:13] 
+[31/143] POS5 6 users — Thriller
+[16:22:13] File: f_Thriller_6u_pos5_neg1_books.csv
+[16:22:19] Target genre: Thriller → Thriller
+[16:22:19] Training NMF
+[16:26:19] Generating recommendations
+[16:26:21] Scoring 53,424 users for f_Thriller_6u_pos5_neg1_books
+[16:28:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:28:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:28:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:28:21] Computing bi analysis
+[16:28:21] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:28:21] Computing mu analysis
+[16:28:42] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:28:44] Done
+[16:28:44] 
+[32/143] POS5 6 users — Nonfiction
+[16:28:44] File: f_Nonfiction_6u_pos5_neg1_books.csv
+[16:28:50] Target genre: Nonfiction → Nonfiction
+[16:28:50] Training NMF
+[16:32:46] Generating recommendations
+[16:32:49] Scoring 53,424 users for f_Nonfiction_6u_pos5_neg1_books
+[16:34:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:34:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:34:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:34:47] Computing bi analysis
+[16:34:47] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:34:47] Computing mu analysis
+[16:35:08] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:35:10] Done
+[16:35:10] 
+[33/143] POS5 6 users — Drama
+[16:35:10] File: f_Drama_6u_pos5_neg1_books.csv
+[16:35:15] Target genre: Drama → Drama
+[16:35:15] Training NMF
+[16:39:15] Generating recommendations
+[16:39:17] Scoring 53,424 users for f_Drama_6u_pos5_neg1_books
+[16:41:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:41:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:41:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:41:22] Computing bi analysis
+[16:41:22] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:41:22] Computing mu analysis
+[16:41:43] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:41:46] Done
+[16:41:46] 
+[34/143] POS5 6 users — Adult
+[16:41:46] File: f_Adult_6u_pos5_neg1_books.csv
+[16:41:51] Target genre: Adult → Adult
+[16:41:51] Training NMF
+[16:45:56] Generating recommendations
+[16:45:58] Scoring 53,424 users for f_Adult_6u_pos5_neg1_books
+[16:47:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:47:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:48:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:48:02] Computing bi analysis
+[16:48:02] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:48:02] Computing mu analysis
+[16:48:23] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:48:26] Done
+[16:48:26] 
+[35/143] POS5 6 users — Children_s
+[16:48:26] File: f_Children_s_6u_pos5_neg1_books.csv
+[16:48:31] Target genre: Children_s → Children's
+[16:48:31] Training NMF
+[16:52:44] Generating recommendations
+[16:52:46] Scoring 53,424 users for f_Children_s_6u_pos5_neg1_books
+[16:54:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:54:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:54:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:54:56] Computing bi analysis
+[16:54:56] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:54:56] Computing mu analysis
+[16:55:16] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:55:18] Done
+[16:55:18] 
+[36/143] POS5 6 users — Romance
+[16:55:18] File: f_Romance_6u_pos5_neg1_books.csv
+[16:55:24] Target genre: Romance → Romance
+[16:55:24] Training NMF
+[16:59:27] Generating recommendations
+[16:59:30] Scoring 53,424 users for f_Romance_6u_pos5_neg1_books
+[17:01:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:01:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:01:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:01:51] Computing bi analysis
+[17:01:51] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:01:51] Computing mu analysis
+[17:02:12] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:02:15] Done
+[17:02:15] 
+[37/143] POS5 6 users — Science_Fiction
+[17:02:15] File: f_Science_Fiction_6u_pos5_neg1_books.csv
+[17:02:20] Target genre: Science_Fiction → Science Fiction
+[17:02:20] Training NMF
+[17:06:28] Generating recommendations
+[17:06:30] Scoring 53,424 users for f_Science_Fiction_6u_pos5_neg1_books
+[17:08:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:08:40] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:08:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:08:46] Computing bi analysis
+[17:08:46] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:08:46] Computing mu analysis
+[17:09:06] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:09:08] Done
+[17:09:08] 
+[38/143] POS5 6 users — Horror
+[17:09:08] File: f_Horror_6u_pos5_neg1_books.csv
+[17:09:13] Target genre: Horror → Horror
+[17:09:13] Training NMF
+[17:13:11] Generating recommendations
+[17:13:14] Scoring 53,424 users for f_Horror_6u_pos5_neg1_books
+[17:15:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:15:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:15:33] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:15:36] Computing bi analysis
+[17:15:36] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:15:36] Computing mu analysis
+[17:15:59] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:16:01] Done
+[17:16:01] 
+[39/143] POS5 6 users — Classics
+[17:16:01] File: f_Classics_6u_pos5_neg1_books.csv
+[17:16:06] Target genre: Classics → Classics
+[17:16:06] Training NMF
+[17:20:08] Generating recommendations
+[17:20:11] Scoring 53,424 users for f_Classics_6u_pos5_neg1_books
+[17:22:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_6u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:22:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_6u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:22:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_6u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:22:28] Computing bi analysis
+[17:22:28] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_6u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:22:28] Computing mu analysis
+[17:22:51] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_6u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:22:54] Done
+[17:22:54] 
+[40/143] POS5 25 users — Thriller
+[17:22:54] File: f_Thriller_25u_pos5_neg1_books.csv
+[17:23:00] Target genre: Thriller → Thriller
+[17:23:00] Training NMF
+[17:27:08] Generating recommendations
+[17:27:11] Scoring 53,424 users for f_Thriller_25u_pos5_neg1_books
+[17:29:18] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:29:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:29:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:29:29] Computing bi analysis
+[17:29:29] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:29:29] Computing mu analysis
+[17:29:52] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:29:55] Done
+[17:29:55] 
+[41/143] POS5 25 users — Classics
+[17:29:55] File: f_Classics_25u_pos5_neg1_books.csv
+[17:30:01] Target genre: Classics → Classics
+[17:30:01] Training NMF
+[17:34:07] Generating recommendations
+[17:34:10] Scoring 53,424 users for f_Classics_25u_pos5_neg1_books
+[17:36:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:36:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:36:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:36:18] Computing bi analysis
+[17:36:18] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:36:18] Computing mu analysis
+[17:36:41] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:36:44] Done
+[17:36:44] 
+[42/143] POS5 25 users — Nonfiction
+[17:36:44] File: f_Nonfiction_25u_pos5_neg1_books.csv
+[17:36:50] Target genre: Nonfiction → Nonfiction
+[17:36:50] Training NMF
+[17:40:55] Generating recommendations
+[17:40:58] Scoring 53,424 users for f_Nonfiction_25u_pos5_neg1_books
+[17:42:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:42:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:42:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:42:58] Computing bi analysis
+[17:42:58] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:42:58] Computing mu analysis
+[17:43:19] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:43:21] Done
+[17:43:21] 
+[43/143] POS5 25 users — Mystery
+[17:43:21] File: f_Mystery_25u_pos5_neg1_books.csv
+[17:43:27] Target genre: Mystery → Mystery
+[17:43:27] Training NMF
+[17:47:32] Generating recommendations
+[17:47:35] Scoring 53,424 users for f_Mystery_25u_pos5_neg1_books
+[17:49:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:49:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:49:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:49:40] Computing bi analysis
+[17:49:40] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:49:40] Computing mu analysis
+[17:50:01] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:50:04] Done
+[17:50:04] 
+[44/143] POS5 25 users — Science_Fiction
+[17:50:04] File: f_Science_Fiction_25u_pos5_neg1_books.csv
+[17:50:09] Target genre: Science_Fiction → Science Fiction
+[17:50:09] Training NMF
+[17:54:16] Generating recommendations
+[17:54:18] Scoring 53,424 users for f_Science_Fiction_25u_pos5_neg1_books
+[17:56:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[17:56:18] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[17:56:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[17:56:25] Computing bi analysis
+[17:56:25] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[17:56:25] Computing mu analysis
+[17:56:45] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[17:56:48] Done
+[17:56:48] 
+[45/143] POS5 25 users — Fantasy
+[17:56:48] File: f_Fantasy_25u_pos5_neg1_books.csv
+[17:56:53] Target genre: Fantasy → Fantasy
+[17:56:53] Training NMF
+[18:00:57] Generating recommendations
+[18:00:59] Scoring 53,424 users for f_Fantasy_25u_pos5_neg1_books
+[18:03:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:03:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:03:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:03:16] Computing bi analysis
+[18:03:16] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:03:16] Computing mu analysis
+[18:03:38] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:03:41] Done
+[18:03:41] 
+[46/143] POS5 25 users — Drama
+[18:03:41] File: f_Drama_25u_pos5_neg1_books.csv
+[18:03:46] Target genre: Drama → Drama
+[18:03:46] Training NMF
+[18:07:53] Generating recommendations
+[18:07:56] Scoring 53,424 users for f_Drama_25u_pos5_neg1_books
+[18:09:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:10:03] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:10:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:10:10] Computing bi analysis
+[18:10:10] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:10:10] Computing mu analysis
+[18:10:32] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:10:35] Done
+[18:10:35] 
+[47/143] POS5 25 users — Adventure
+[18:10:35] File: f_Adventure_25u_pos5_neg1_books.csv
+[18:10:40] Target genre: Adventure → Adventure
+[18:10:40] Training NMF
+[18:14:48] Generating recommendations
+[18:14:51] Scoring 53,424 users for f_Adventure_25u_pos5_neg1_books
+[18:16:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:17:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:17:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:17:07] Computing bi analysis
+[18:17:07] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:17:07] Computing mu analysis
+[18:17:29] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:17:32] Done
+[18:17:32] 
+[48/143] POS5 25 users — Horror
+[18:17:32] File: f_Horror_25u_pos5_neg1_books.csv
+[18:17:38] Target genre: Horror → Horror
+[18:17:38] Training NMF
+[18:21:44] Generating recommendations
+[18:21:46] Scoring 53,424 users for f_Horror_25u_pos5_neg1_books
+[18:23:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:23:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:24:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:24:03] Computing bi analysis
+[18:24:03] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:24:03] Computing mu analysis
+[18:24:27] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:24:29] Done
+[18:24:29] 
+[49/143] POS5 25 users — Adult
+[18:24:29] File: f_Adult_25u_pos5_neg1_books.csv
+[18:24:36] Target genre: Adult → Adult
+[18:24:36] Training NMF
+[18:28:42] Generating recommendations
+[18:28:44] Scoring 53,424 users for f_Adult_25u_pos5_neg1_books
+[18:30:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:30:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:30:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:30:59] Computing bi analysis
+[18:30:59] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:30:59] Computing mu analysis
+[18:31:21] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:31:23] Done
+[18:31:23] 
+[50/143] POS5 25 users — Historical
+[18:31:23] File: f_Historical_25u_pos5_neg1_books.csv
+[18:31:29] Target genre: Historical → Historical
+[18:31:29] Training NMF
+[18:35:27] Generating recommendations
+[18:35:29] Scoring 53,424 users for f_Historical_25u_pos5_neg1_books
+[18:37:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:37:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:37:40] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:37:42] Computing bi analysis
+[18:37:42] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:37:42] Computing mu analysis
+[18:38:05] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:38:07] Done
+[18:38:07] 
+[51/143] POS5 25 users — Romance
+[18:38:07] File: f_Romance_25u_pos5_neg1_books.csv
+[18:38:13] Target genre: Romance → Romance
+[18:38:13] Training NMF
+[18:42:19] Generating recommendations
+[18:42:21] Scoring 53,424 users for f_Romance_25u_pos5_neg1_books
+[18:44:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:44:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:44:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:44:27] Computing bi analysis
+[18:44:27] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:44:27] Computing mu analysis
+[18:44:51] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:44:53] Done
+[18:44:53] 
+[52/143] POS5 25 users — Children_s
+[18:44:53] File: f_Children_s_25u_pos5_neg1_books.csv
+[18:44:59] Target genre: Children_s → Children's
+[18:44:59] Training NMF
+[18:48:59] Generating recommendations
+[18:49:02] Scoring 53,424 users for f_Children_s_25u_pos5_neg1_books
+[18:50:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:50:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:51:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:51:05] Computing bi analysis
+[18:51:05] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:51:05] Computing mu analysis
+[18:51:27] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:51:29] Done
+[18:51:29] 
+[53/143] POS5 50 users — Romance
+[18:51:29] File: f_Romance_50u_pos5_neg1_books.csv
+[18:51:34] Target genre: Romance → Romance
+[18:51:34] Training NMF
+[18:55:36] Generating recommendations
+[18:55:39] Scoring 53,424 users for f_Romance_50u_pos5_neg1_books
+[18:57:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[18:57:31] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[18:57:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[18:57:38] Computing bi analysis
+[18:57:38] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[18:57:38] Computing mu analysis
+[18:58:00] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[18:58:02] Done
+[18:58:02] 
+[54/143] POS5 50 users — Fantasy
+[18:58:02] File: f_Fantasy_50u_pos5_neg1_books.csv
+[18:58:08] Target genre: Fantasy → Fantasy
+[18:58:08] Training NMF
+[19:02:12] Generating recommendations
+[19:02:14] Scoring 53,424 users for f_Fantasy_50u_pos5_neg1_books
+[19:04:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:04:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:04:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:04:16] Computing bi analysis
+[19:04:16] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:04:16] Computing mu analysis
+[19:04:38] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:04:40] Done
+[19:04:40] 
+[55/143] POS5 50 users — Adventure
+[19:04:40] File: f_Adventure_50u_pos5_neg1_books.csv
+[19:04:46] Target genre: Adventure → Adventure
+[19:04:46] Training NMF
+[19:08:53] Generating recommendations
+[19:08:56] Scoring 53,424 users for f_Adventure_50u_pos5_neg1_books
+[19:10:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:10:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:11:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:11:02] Computing bi analysis
+[19:11:02] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:11:02] Computing mu analysis
+[19:11:26] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:11:28] Done
+[19:11:28] 
+[56/143] POS5 50 users — Mystery
+[19:11:28] File: f_Mystery_50u_pos5_neg1_books.csv
+[19:11:34] Target genre: Mystery → Mystery
+[19:11:34] Training NMF
+[19:15:44] Generating recommendations
+[19:15:46] Scoring 53,424 users for f_Mystery_50u_pos5_neg1_books
+[19:17:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:17:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:17:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:17:53] Computing bi analysis
+[19:17:53] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:17:53] Computing mu analysis
+[19:18:15] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:18:17] Done
+[19:18:17] 
+[57/143] POS5 50 users — Science_Fiction
+[19:18:17] File: f_Science_Fiction_50u_pos5_neg1_books.csv
+[19:18:23] Target genre: Science_Fiction → Science Fiction
+[19:18:23] Training NMF
+[19:22:34] Generating recommendations
+[19:22:37] Scoring 53,424 users for f_Science_Fiction_50u_pos5_neg1_books
+[19:24:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:24:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:24:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:24:53] Computing bi analysis
+[19:24:53] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:24:53] Computing mu analysis
+[19:25:15] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:25:17] Done
+[19:25:17] 
+[58/143] POS5 50 users — Classics
+[19:25:17] File: f_Classics_50u_pos5_neg1_books.csv
+[19:25:23] Target genre: Classics → Classics
+[19:25:23] Training NMF
+[19:29:36] Generating recommendations
+[19:29:39] Scoring 53,424 users for f_Classics_50u_pos5_neg1_books
+[19:31:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:31:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:31:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:31:53] Computing bi analysis
+[19:31:53] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:31:53] Computing mu analysis
+[19:32:16] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:32:19] Done
+[19:32:19] 
+[59/143] POS5 50 users — Nonfiction
+[19:32:19] File: f_Nonfiction_50u_pos5_neg1_books.csv
+[19:32:24] Target genre: Nonfiction → Nonfiction
+[19:32:24] Training NMF
+[19:36:35] Generating recommendations
+[19:36:37] Scoring 53,424 users for f_Nonfiction_50u_pos5_neg1_books
+[19:38:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:38:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:38:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:38:56] Computing bi analysis
+[19:38:57] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:38:57] Computing mu analysis
+[19:39:19] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:39:22] Done
+[19:39:22] 
+[60/143] POS5 50 users — Adult
+[19:39:22] File: f_Adult_50u_pos5_neg1_books.csv
+[19:39:28] Target genre: Adult → Adult
+[19:39:28] Training NMF
+[19:43:39] Generating recommendations
+[19:43:42] Scoring 53,424 users for f_Adult_50u_pos5_neg1_books
+[19:45:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:45:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:45:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:45:57] Computing bi analysis
+[19:45:57] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:45:57] Computing mu analysis
+[19:46:20] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:46:22] Done
+[19:46:22] 
+[61/143] POS5 50 users — Drama
+[19:46:22] File: f_Drama_50u_pos5_neg1_books.csv
+[19:46:28] Target genre: Drama → Drama
+[19:46:28] Training NMF
+[19:50:41] Generating recommendations
+[19:50:43] Scoring 53,424 users for f_Drama_50u_pos5_neg1_books
+[19:52:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:52:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:53:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:53:03] Computing bi analysis
+[19:53:03] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:53:03] Computing mu analysis
+[19:53:27] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[19:53:30] Done
+[19:53:30] 
+[62/143] POS5 50 users — Thriller
+[19:53:30] File: f_Thriller_50u_pos5_neg1_books.csv
+[19:53:36] Target genre: Thriller → Thriller
+[19:53:36] Training NMF
+[19:57:47] Generating recommendations
+[19:57:50] Scoring 53,424 users for f_Thriller_50u_pos5_neg1_books
+[19:59:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[19:59:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[19:59:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[19:59:56] Computing bi analysis
+[19:59:56] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[19:59:56] Computing mu analysis
+[20:00:20] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:00:23] Done
+[20:00:23] 
+[63/143] POS5 50 users — Children_s
+[20:00:23] File: f_Children_s_50u_pos5_neg1_books.csv
+[20:00:29] Target genre: Children_s → Children's
+[20:00:29] Training NMF
+[20:04:42] Generating recommendations
+[20:04:45] Scoring 53,424 users for f_Children_s_50u_pos5_neg1_books
+[20:06:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:06:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:06:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:06:50] Computing bi analysis
+[20:06:50] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:06:50] Computing mu analysis
+[20:07:13] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:07:15] Done
+[20:07:15] 
+[64/143] POS5 50 users — Horror
+[20:07:15] File: f_Horror_50u_pos5_neg1_books.csv
+[20:07:21] Target genre: Horror → Horror
+[20:07:21] Training NMF
+[20:11:34] Generating recommendations
+[20:11:37] Scoring 53,424 users for f_Horror_50u_pos5_neg1_books
+[20:13:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:13:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:13:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:13:37] Computing bi analysis
+[20:13:37] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:13:37] Computing mu analysis
+[20:14:00] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:14:02] Done
+[20:14:02] 
+[65/143] POS5 50 users — Historical
+[20:14:02] File: f_Historical_50u_pos5_neg1_books.csv
+[20:14:08] Target genre: Historical → Historical
+[20:14:08] Training NMF
+[20:18:12] Generating recommendations
+[20:18:15] Scoring 53,424 users for f_Historical_50u_pos5_neg1_books
+[20:20:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_50u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:20:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_50u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:20:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_50u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:20:13] Computing bi analysis
+[20:20:13] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_50u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:20:13] Computing mu analysis
+[20:20:35] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_50u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:20:37] Done
+[20:20:37] 
+[66/143] POS5 100 users — Adult
+[20:20:37] File: f_Adult_100u_pos5_neg1_books.csv
+[20:20:44] Target genre: Adult → Adult
+[20:20:44] Training NMF
+[20:25:00] Generating recommendations
+[20:25:03] Scoring 53,424 users for f_Adult_100u_pos5_neg1_books
+[20:27:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:27:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:27:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:27:16] Computing bi analysis
+[20:27:16] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:27:16] Computing mu analysis
+[20:27:41] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:27:43] Done
+[20:27:43] 
+[67/143] POS5 100 users — Fantasy
+[20:27:43] File: f_Fantasy_100u_pos5_neg1_books.csv
+[20:27:49] Target genre: Fantasy → Fantasy
+[20:27:49] Training NMF
+[20:32:09] Generating recommendations
+[20:32:12] Scoring 53,424 users for f_Fantasy_100u_pos5_neg1_books
+[20:34:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:34:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:34:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:34:21] Computing bi analysis
+[20:34:21] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:34:21] Computing mu analysis
+[20:34:46] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:34:48] Done
+[20:34:48] 
+[68/143] POS5 100 users — Nonfiction
+[20:34:48] File: f_Nonfiction_100u_pos5_neg1_books.csv
+[20:34:54] Target genre: Nonfiction → Nonfiction
+[20:34:54] Training NMF
+[20:39:18] Generating recommendations
+[20:39:21] Scoring 53,424 users for f_Nonfiction_100u_pos5_neg1_books
+[20:41:23] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:41:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:41:32] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:41:34] Computing bi analysis
+[20:41:34] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:41:34] Computing mu analysis
+[20:41:58] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:42:00] Done
+[20:42:00] 
+[69/143] POS5 100 users — Historical
+[20:42:00] File: f_Historical_100u_pos5_neg1_books.csv
+[20:42:06] Target genre: Historical → Historical
+[20:42:06] Training NMF
+[20:46:30] Generating recommendations
+[20:46:33] Scoring 53,424 users for f_Historical_100u_pos5_neg1_books
+[20:48:35] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:48:40] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:48:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:48:46] Computing bi analysis
+[20:48:46] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:48:46] Computing mu analysis
+[20:49:12] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:49:14] Done
+[20:49:14] 
+[70/143] POS5 100 users — Science_Fiction
+[20:49:14] File: f_Science_Fiction_100u_pos5_neg1_books.csv
+[20:49:21] Target genre: Science_Fiction → Science Fiction
+[20:49:21] Training NMF
+[20:53:45] Generating recommendations
+[20:53:48] Scoring 53,424 users for f_Science_Fiction_100u_pos5_neg1_books
+[20:55:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[20:55:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[20:56:03] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[20:56:05] Computing bi analysis
+[20:56:05] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[20:56:05] Computing mu analysis
+[20:56:31] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[20:56:33] Done
+[20:56:33] 
+[71/143] POS5 100 users — Romance
+[20:56:33] File: f_Romance_100u_pos5_neg1_books.csv
+[20:56:39] Target genre: Romance → Romance
+[20:56:39] Training NMF
+[21:01:09] Generating recommendations
+[21:01:12] Scoring 53,424 users for f_Romance_100u_pos5_neg1_books
+[21:03:19] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:03:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:03:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:03:31] Computing bi analysis
+[21:03:31] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:03:31] Computing mu analysis
+[21:03:58] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:04:01] Done
+[21:04:01] 
+[72/143] POS5 100 users — Classics
+[21:04:01] File: f_Classics_100u_pos5_neg1_books.csv
+[21:04:07] Target genre: Classics → Classics
+[21:04:07] Training NMF
+[21:08:36] Generating recommendations
+[21:08:40] Scoring 53,424 users for f_Classics_100u_pos5_neg1_books
+[21:11:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:11:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:11:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:11:19] Computing bi analysis
+[21:11:19] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:11:19] Computing mu analysis
+[21:11:49] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:11:52] Done
+[21:11:52] 
+[73/143] POS5 100 users — Horror
+[21:11:52] File: f_Horror_100u_pos5_neg1_books.csv
+[21:11:58] Target genre: Horror → Horror
+[21:11:58] Training NMF
+[21:16:26] Generating recommendations
+[21:16:29] Scoring 53,424 users for f_Horror_100u_pos5_neg1_books
+[21:18:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:18:25] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:18:31] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:18:32] Computing bi analysis
+[21:18:32] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:18:32] Computing mu analysis
+[21:18:57] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:19:00] Done
+[21:19:00] 
+[74/143] POS5 100 users — Thriller
+[21:19:00] File: f_Thriller_100u_pos5_neg1_books.csv
+[21:19:06] Target genre: Thriller → Thriller
+[21:19:06] Training NMF
+[21:23:32] Generating recommendations
+[21:23:35] Scoring 53,424 users for f_Thriller_100u_pos5_neg1_books
+[21:25:30] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:25:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:25:40] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:25:42] Computing bi analysis
+[21:25:42] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:25:42] Computing mu analysis
+[21:26:07] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:26:10] Done
+[21:26:10] 
+[75/143] POS5 100 users — Adventure
+[21:26:10] File: f_Adventure_100u_pos5_neg1_books.csv
+[21:26:16] Target genre: Adventure → Adventure
+[21:26:16] Training NMF
+[21:30:38] Generating recommendations
+[21:30:41] Scoring 53,424 users for f_Adventure_100u_pos5_neg1_books
+[21:32:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:32:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:32:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:32:58] Computing bi analysis
+[21:32:58] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:32:58] Computing mu analysis
+[21:33:23] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:33:25] Done
+[21:33:25] 
+[76/143] POS5 100 users — Mystery
+[21:33:25] File: f_Mystery_100u_pos5_neg1_books.csv
+[21:33:31] Target genre: Mystery → Mystery
+[21:33:31] Training NMF
+[21:37:51] Generating recommendations
+[21:37:54] Scoring 53,424 users for f_Mystery_100u_pos5_neg1_books
+[21:39:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:39:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:40:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:40:06] Computing bi analysis
+[21:40:06] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:40:06] Computing mu analysis
+[21:40:31] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:40:33] Done
+[21:40:33] 
+[77/143] POS5 100 users — Children_s
+[21:40:33] File: f_Children_s_100u_pos5_neg1_books.csv
+[21:40:40] Target genre: Children_s → Children's
+[21:40:40] Training NMF
+[21:45:03] Generating recommendations
+[21:45:06] Scoring 53,424 users for f_Children_s_100u_pos5_neg1_books
+[21:46:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:47:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:47:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:47:09] Computing bi analysis
+[21:47:09] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:47:09] Computing mu analysis
+[21:47:34] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:47:36] Done
+[21:47:36] 
+[78/143] POS5 100 users — Drama
+[21:47:36] File: f_Drama_100u_pos5_neg1_books.csv
+[21:47:42] Target genre: Drama → Drama
+[21:47:42] Training NMF
+[21:52:02] Generating recommendations
+[21:52:05] Scoring 53,424 users for f_Drama_100u_pos5_neg1_books
+[21:54:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_100u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[21:54:18] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_100u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[21:54:23] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_100u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[21:54:25] Computing bi analysis
+[21:54:25] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_100u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[21:54:25] Computing mu analysis
+[21:54:50] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_100u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[21:54:53] Done
+[21:54:53] 
+[79/143] POS5 200 users — Nonfiction
+[21:54:53] File: f_Nonfiction_200u_pos5_neg1_books.csv
+[21:54:59] Target genre: Nonfiction → Nonfiction
+[21:54:59] Training NMF
+[21:59:52] Generating recommendations
+[21:59:55] Scoring 53,424 users for f_Nonfiction_200u_pos5_neg1_books
+[22:02:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:02:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:02:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:02:12] Computing bi analysis
+[22:02:12] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:02:12] Computing mu analysis
+[22:02:39] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:02:42] Done
+[22:02:42] 
+[80/143] POS5 200 users — Children_s
+[22:02:42] File: f_Children_s_200u_pos5_neg1_books.csv
+[22:02:48] Target genre: Children_s → Children's
+[22:02:48] Training NMF
+[22:07:39] Generating recommendations
+[22:07:42] Scoring 53,424 users for f_Children_s_200u_pos5_neg1_books
+[22:09:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:09:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:09:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:09:58] Computing bi analysis
+[22:09:59] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:09:59] Computing mu analysis
+[22:10:26] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:10:28] Done
+[22:10:28] 
+[81/143] POS5 200 users — Adult
+[22:10:28] File: f_Adult_200u_pos5_neg1_books.csv
+[22:10:35] Target genre: Adult → Adult
+[22:10:35] Training NMF
+[22:15:24] Generating recommendations
+[22:15:27] Scoring 53,424 users for f_Adult_200u_pos5_neg1_books
+[22:17:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:17:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:17:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:17:50] Computing bi analysis
+[22:17:50] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:17:50] Computing mu analysis
+[22:18:18] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:18:21] Done
+[22:18:21] 
+[82/143] POS5 200 users — Science_Fiction
+[22:18:21] File: f_Science_Fiction_200u_pos5_neg1_books.csv
+[22:18:28] Target genre: Science_Fiction → Science Fiction
+[22:18:28] Training NMF
+[22:23:17] Generating recommendations
+[22:23:19] Scoring 53,424 users for f_Science_Fiction_200u_pos5_neg1_books
+[22:25:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:25:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:25:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:25:41] Computing bi analysis
+[22:25:41] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:25:41] Computing mu analysis
+[22:26:09] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:26:12] Done
+[22:26:12] 
+[83/143] POS5 200 users — Historical
+[22:26:12] File: f_Historical_200u_pos5_neg1_books.csv
+[22:26:19] Target genre: Historical → Historical
+[22:26:19] Training NMF
+[22:31:02] Generating recommendations
+[22:31:05] Scoring 53,424 users for f_Historical_200u_pos5_neg1_books
+[22:33:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:33:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:33:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:33:13] Computing bi analysis
+[22:33:13] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:33:13] Computing mu analysis
+[22:33:41] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:33:43] Done
+[22:33:43] 
+[84/143] POS5 200 users — Drama
+[22:33:43] File: f_Drama_200u_pos5_neg1_books.csv
+[22:33:50] Target genre: Drama → Drama
+[22:33:50] Training NMF
+[22:38:34] Generating recommendations
+[22:38:37] Scoring 53,424 users for f_Drama_200u_pos5_neg1_books
+[22:40:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:40:32] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:40:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:40:38] Computing bi analysis
+[22:40:38] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:40:38] Computing mu analysis
+[22:41:06] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:41:09] Done
+[22:41:09] 
+[85/143] POS5 200 users — Classics
+[22:41:09] File: f_Classics_200u_pos5_neg1_books.csv
+[22:41:15] Target genre: Classics → Classics
+[22:41:15] Training NMF
+[22:46:02] Generating recommendations
+[22:46:05] Scoring 53,424 users for f_Classics_200u_pos5_neg1_books
+[22:47:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:48:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:48:07] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:48:09] Computing bi analysis
+[22:48:09] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:48:09] Computing mu analysis
+[22:48:36] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:48:39] Done
+[22:48:39] 
+[86/143] POS5 200 users — Mystery
+[22:48:39] File: f_Mystery_200u_pos5_neg1_books.csv
+[22:48:45] Target genre: Mystery → Mystery
+[22:48:45] Training NMF
+[22:53:32] Generating recommendations
+[22:53:35] Scoring 53,424 users for f_Mystery_200u_pos5_neg1_books
+[22:55:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[22:55:33] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[22:55:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[22:55:40] Computing bi analysis
+[22:55:41] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[22:55:41] Computing mu analysis
+[22:56:08] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[22:56:11] Done
+[22:56:11] 
+[87/143] POS5 200 users — Thriller
+[22:56:11] File: f_Thriller_200u_pos5_neg1_books.csv
+[22:56:18] Target genre: Thriller → Thriller
+[22:56:18] Training NMF
+[23:01:04] Generating recommendations
+[23:01:07] Scoring 53,424 users for f_Thriller_200u_pos5_neg1_books
+[23:03:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:03:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:03:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:03:11] Computing bi analysis
+[23:03:11] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:03:11] Computing mu analysis
+[23:03:38] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:03:41] Done
+[23:03:41] 
+[88/143] POS5 200 users — Horror
+[23:03:41] File: f_Horror_200u_pos5_neg1_books.csv
+[23:03:48] Target genre: Horror → Horror
+[23:03:48] Training NMF
+[23:08:30] Generating recommendations
+[23:08:33] Scoring 53,424 users for f_Horror_200u_pos5_neg1_books
+[23:10:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:10:33] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:10:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:10:40] Computing bi analysis
+[23:10:40] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:10:40] Computing mu analysis
+[23:11:08] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:11:11] Done
+[23:11:11] 
+[89/143] POS5 200 users — Adventure
+[23:11:11] File: f_Adventure_200u_pos5_neg1_books.csv
+[23:11:17] Target genre: Adventure → Adventure
+[23:11:17] Training NMF
+[23:16:02] Generating recommendations
+[23:16:05] Scoring 53,424 users for f_Adventure_200u_pos5_neg1_books
+[23:18:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:18:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:18:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:18:17] Computing bi analysis
+[23:18:17] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:18:17] Computing mu analysis
+[23:18:43] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:18:46] Done
+[23:18:46] 
+[90/143] POS5 200 users — Romance
+[23:18:46] File: f_Romance_200u_pos5_neg1_books.csv
+[23:18:52] Target genre: Romance → Romance
+[23:18:52] Training NMF
+[23:23:40] Generating recommendations
+[23:23:44] Scoring 53,424 users for f_Romance_200u_pos5_neg1_books
+[23:25:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:25:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:25:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:25:55] Computing bi analysis
+[23:25:55] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:25:55] Computing mu analysis
+[23:26:22] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:26:25] Done
+[23:26:25] 
+[91/143] POS5 200 users — Fantasy
+[23:26:25] File: f_Fantasy_200u_pos5_neg1_books.csv
+[23:26:31] Target genre: Fantasy → Fantasy
+[23:26:31] Training NMF
+[23:31:21] Generating recommendations
+[23:31:24] Scoring 53,424 users for f_Fantasy_200u_pos5_neg1_books
+[23:33:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_200u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:33:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_200u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:34:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_200u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:34:03] Computing bi analysis
+[23:34:03] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_200u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:34:03] Computing mu analysis
+[23:34:30] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_200u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:34:32] Done
+[23:34:32] 
+[92/143] POS5 300 users — Adult
+[23:34:32] File: f_Adult_300u_pos5_neg1_books.csv
+[23:34:39] Target genre: Adult → Adult
+[23:34:39] Training NMF
+[23:39:52] Generating recommendations
+[23:39:55] Scoring 53,424 users for f_Adult_300u_pos5_neg1_books
+[23:41:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:42:03] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:42:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:42:09] Computing bi analysis
+[23:42:09] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:42:09] Computing mu analysis
+[23:42:39] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:42:42] Done
+[23:42:42] 
+[93/143] POS5 300 users — Classics
+[23:42:42] File: f_Classics_300u_pos5_neg1_books.csv
+[23:42:49] Target genre: Classics → Classics
+[23:42:49] Training NMF
+[23:47:59] Generating recommendations
+[23:48:02] Scoring 53,424 users for f_Classics_300u_pos5_neg1_books
+[23:50:08] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:50:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:50:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:50:19] Computing bi analysis
+[23:50:19] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:50:19] Computing mu analysis
+[23:50:50] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:50:53] Done
+[23:50:53] 
+[94/143] POS5 300 users — Fantasy
+[23:50:53] File: f_Fantasy_300u_pos5_neg1_books.csv
+[23:50:59] Target genre: Fantasy → Fantasy
+[23:50:59] Training NMF
+[23:56:11] Generating recommendations
+[23:56:14] Scoring 53,424 users for f_Fantasy_300u_pos5_neg1_books
+[23:58:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[23:58:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[23:58:33] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[23:58:34] Computing bi analysis
+[23:58:34] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[23:58:34] Computing mu analysis
+[23:59:05] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[23:59:08] Done
+[23:59:08] 
+[95/143] POS5 300 users — Mystery
+[23:59:08] File: f_Mystery_300u_pos5_neg1_books.csv
+[23:59:15] Target genre: Mystery → Mystery
+[23:59:15] Training NMF
+[00:04:20] Generating recommendations
+[00:04:23] Scoring 53,424 users for f_Mystery_300u_pos5_neg1_books
+[00:06:32] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[00:06:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[00:06:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[00:06:44] Computing bi analysis
+[00:06:44] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[00:06:44] Computing mu analysis
+[00:07:17] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[00:07:21] Done
+[00:07:21] 
+[96/143] POS5 300 users — Science_Fiction
+[00:07:21] File: f_Science_Fiction_300u_pos5_neg1_books.csv
+[00:07:28] Target genre: Science_Fiction → Science Fiction
+[00:07:28] Training NMF
+[00:12:34] Generating recommendations
+[00:12:37] Scoring 53,424 users for f_Science_Fiction_300u_pos5_neg1_books
+[00:14:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[00:14:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[00:14:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[00:14:52] Computing bi analysis
+[00:14:52] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[00:14:52] Computing mu analysis
+[00:15:24] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[00:15:27] Done
+[00:15:27] 
+[97/143] POS5 300 users — Thriller
+[00:15:27] File: f_Thriller_300u_pos5_neg1_books.csv
+[00:15:34] Target genre: Thriller → Thriller
+[00:15:34] Training NMF
+[00:20:35] Generating recommendations
+[00:20:38] Scoring 53,424 users for f_Thriller_300u_pos5_neg1_books
+[00:22:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[00:22:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[00:22:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[00:22:52] Computing bi analysis
+[00:22:52] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[00:22:52] Computing mu analysis
+[00:23:25] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[00:23:28] Done
+[00:23:28] 
+[98/143] POS5 300 users — Drama
+[00:23:28] File: f_Drama_300u_pos5_neg1_books.csv
+[00:23:35] Target genre: Drama → Drama
+[00:23:35] Training NMF
+[00:28:40] Generating recommendations
+[00:28:43] Scoring 53,424 users for f_Drama_300u_pos5_neg1_books
+[00:30:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[00:30:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[00:30:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[00:30:56] Computing bi analysis
+[00:30:56] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[00:30:56] Computing mu analysis
+[00:31:29] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[00:31:32] Done
+[00:31:32] 
+[99/143] POS5 300 users — Romance
+[00:31:32] File: f_Romance_300u_pos5_neg1_books.csv
+[00:31:40] Target genre: Romance → Romance
+[00:31:40] Training NMF
+[00:36:41] Generating recommendations
+[00:36:44] Scoring 53,424 users for f_Romance_300u_pos5_neg1_books
+[00:38:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[00:38:52] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[00:38:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[00:38:59] Computing bi analysis
+[00:38:59] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[00:38:59] Computing mu analysis
+[00:39:31] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[00:39:34] Done
+[00:39:34] 
+[100/143] POS5 300 users — Nonfiction
+[00:39:34] File: f_Nonfiction_300u_pos5_neg1_books.csv
+[00:39:42] Target genre: Nonfiction → Nonfiction
+[00:39:42] Training NMF
+[00:44:42] Generating recommendations
+[00:44:45] Scoring 53,424 users for f_Nonfiction_300u_pos5_neg1_books
+[00:46:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[00:46:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[00:47:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[00:47:05] Computing bi analysis
+[00:47:05] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[00:47:05] Computing mu analysis
+[00:47:38] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[00:47:41] Done
+[00:47:41] 
+[101/143] POS5 300 users — Children_s
+[00:47:41] File: f_Children_s_300u_pos5_neg1_books.csv
+[00:47:48] Target genre: Children_s → Children's
+[00:47:48] Training NMF
+[00:52:53] Generating recommendations
+[00:52:56] Scoring 53,424 users for f_Children_s_300u_pos5_neg1_books
+[00:55:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[00:55:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[00:55:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[00:55:12] Computing bi analysis
+[00:55:12] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[00:55:12] Computing mu analysis
+[00:55:45] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[00:55:48] Done
+[00:55:48] 
+[102/143] POS5 300 users — Horror
+[00:55:48] File: f_Horror_300u_pos5_neg1_books.csv
+[00:55:55] Target genre: Horror → Horror
+[00:55:55] Training NMF
+[01:00:55] Generating recommendations
+[01:00:58] Scoring 53,424 users for f_Horror_300u_pos5_neg1_books
+[01:02:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[01:03:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[01:03:07] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[01:03:08] Computing bi analysis
+[01:03:08] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[01:03:08] Computing mu analysis
+[01:03:41] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[01:03:44] Done
+[01:03:44] 
+[103/143] POS5 300 users — Adventure
+[01:03:44] File: f_Adventure_300u_pos5_neg1_books.csv
+[01:03:52] Target genre: Adventure → Adventure
+[01:03:52] Training NMF
+[01:08:49] Generating recommendations
+[01:08:52] Scoring 53,424 users for f_Adventure_300u_pos5_neg1_books
+[01:10:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[01:11:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[01:11:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[01:11:12] Computing bi analysis
+[01:11:12] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[01:11:12] Computing mu analysis
+[01:11:45] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[01:11:48] Done
+[01:11:48] 
+[104/143] POS5 300 users — Historical
+[01:11:48] File: f_Historical_300u_pos5_neg1_books.csv
+[01:11:55] Target genre: Historical → Historical
+[01:11:55] Training NMF
+[01:16:52] Generating recommendations
+[01:16:55] Scoring 53,424 users for f_Historical_300u_pos5_neg1_books
+[01:18:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_300u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[01:18:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_300u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[01:19:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_300u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[01:19:06] Computing bi analysis
+[01:19:06] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_300u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[01:19:06] Computing mu analysis
+[01:19:39] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_300u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[01:19:42] Done
+[01:19:42] 
+[105/143] POS5 500 users — Fantasy
+[01:19:42] File: f_Fantasy_500u_pos5_neg1_books.csv
+[01:19:51] Target genre: Fantasy → Fantasy
+[01:19:51] Training NMF
+[01:25:27] Generating recommendations
+[01:25:30] Scoring 53,424 users for f_Fantasy_500u_pos5_neg1_books
+[01:27:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[01:27:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[01:27:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[01:27:48] Computing bi analysis
+[01:27:48] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[01:27:48] Computing mu analysis
+[01:28:29] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[01:28:33] Done
+[01:28:33] 
+[106/143] POS5 500 users — Adventure
+[01:28:33] File: f_Adventure_500u_pos5_neg1_books.csv
+[01:28:41] Target genre: Adventure → Adventure
+[01:28:41] Training NMF
+[01:34:23] Generating recommendations
+[01:34:26] Scoring 53,424 users for f_Adventure_500u_pos5_neg1_books
+[01:36:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[01:36:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[01:36:31] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[01:36:32] Computing bi analysis
+[01:36:32] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[01:36:32] Computing mu analysis
+[01:37:10] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[01:37:13] Done
+[01:37:13] 
+[107/143] POS5 500 users — Horror
+[01:37:13] File: f_Horror_500u_pos5_neg1_books.csv
+[01:37:21] Target genre: Horror → Horror
+[01:37:21] Training NMF
+[01:42:55] Generating recommendations
+[01:42:59] Scoring 53,424 users for f_Horror_500u_pos5_neg1_books
+[01:45:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[01:45:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[01:45:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[01:45:19] Computing bi analysis
+[01:45:19] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[01:45:19] Computing mu analysis
+[01:45:57] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[01:46:01] Done
+[01:46:01] 
+[108/143] POS5 500 users — Romance
+[01:46:01] File: f_Romance_500u_pos5_neg1_books.csv
+[01:46:09] Target genre: Romance → Romance
+[01:46:09] Training NMF
+[01:52:01] Generating recommendations
+[01:52:05] Scoring 53,424 users for f_Romance_500u_pos5_neg1_books
+[01:54:02] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[01:54:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[01:54:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[01:54:13] Computing bi analysis
+[01:54:13] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[01:54:13] Computing mu analysis
+[01:54:52] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[01:54:56] Done
+[01:54:56] 
+[109/143] POS5 500 users — Drama
+[01:54:56] File: f_Drama_500u_pos5_neg1_books.csv
+[01:55:03] Target genre: Drama → Drama
+[01:55:03] Training NMF
+[02:00:42] Generating recommendations
+[02:00:46] Scoring 53,424 users for f_Drama_500u_pos5_neg1_books
+[02:02:38] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[02:02:42] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[02:02:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[02:02:49] Computing bi analysis
+[02:02:49] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[02:02:49] Computing mu analysis
+[02:03:27] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[02:03:30] Done
+[02:03:30] 
+[110/143] POS5 500 users — Mystery
+[02:03:30] File: f_Mystery_500u_pos5_neg1_books.csv
+[02:03:38] Target genre: Mystery → Mystery
+[02:03:38] Training NMF
+[02:09:15] Generating recommendations
+[02:09:19] Scoring 53,424 users for f_Mystery_500u_pos5_neg1_books
+[02:11:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[02:11:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[02:11:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[02:11:28] Computing bi analysis
+[02:11:29] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[02:11:29] Computing mu analysis
+[02:12:08] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[02:12:11] Done
+[02:12:11] 
+[111/143] POS5 500 users — Classics
+[02:12:11] File: f_Classics_500u_pos5_neg1_books.csv
+[02:12:19] Target genre: Classics → Classics
+[02:12:19] Training NMF
+[02:17:56] Generating recommendations
+[02:18:00] Scoring 53,424 users for f_Classics_500u_pos5_neg1_books
+[02:20:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[02:20:13] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[02:20:19] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[02:20:21] Computing bi analysis
+[02:20:21] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[02:20:21] Computing mu analysis
+[02:21:02] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[02:21:06] Done
+[02:21:06] 
+[112/143] POS5 500 users — Nonfiction
+[02:21:06] File: f_Nonfiction_500u_pos5_neg1_books.csv
+[02:21:14] Target genre: Nonfiction → Nonfiction
+[02:21:14] Training NMF
+[02:26:56] Generating recommendations
+[02:26:59] Scoring 53,424 users for f_Nonfiction_500u_pos5_neg1_books
+[02:29:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[02:29:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[02:29:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[02:29:18] Computing bi analysis
+[02:29:18] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[02:29:18] Computing mu analysis
+[02:29:57] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[02:30:00] Done
+[02:30:00] 
+[113/143] POS5 500 users — Science_Fiction
+[02:30:00] File: f_Science_Fiction_500u_pos5_neg1_books.csv
+[02:30:08] Target genre: Science_Fiction → Science Fiction
+[02:30:08] Training NMF
+[02:35:55] Generating recommendations
+[02:35:58] Scoring 53,424 users for f_Science_Fiction_500u_pos5_neg1_books
+[02:38:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[02:38:14] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[02:38:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[02:38:21] Computing bi analysis
+[02:38:21] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[02:38:21] Computing mu analysis
+[02:38:58] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[02:39:02] Done
+[02:39:02] 
+[114/143] POS5 500 users — Adult
+[02:39:02] File: f_Adult_500u_pos5_neg1_books.csv
+[02:39:09] Target genre: Adult → Adult
+[02:39:09] Training NMF
+[02:45:01] Generating recommendations
+[02:45:05] Scoring 53,424 users for f_Adult_500u_pos5_neg1_books
+[02:47:11] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[02:47:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[02:47:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[02:47:22] Computing bi analysis
+[02:47:22] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[02:47:22] Computing mu analysis
+[02:48:00] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[02:48:04] Done
+[02:48:04] 
+[115/143] POS5 500 users — Historical
+[02:48:04] File: f_Historical_500u_pos5_neg1_books.csv
+[02:48:11] Target genre: Historical → Historical
+[02:48:11] Training NMF
+[02:54:03] Generating recommendations
+[02:54:06] Scoring 53,424 users for f_Historical_500u_pos5_neg1_books
+[02:56:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[02:56:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[02:56:23] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[02:56:24] Computing bi analysis
+[02:56:25] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[02:56:25] Computing mu analysis
+[02:57:02] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[02:57:06] Done
+[02:57:06] 
+[116/143] POS5 500 users — Children_s
+[02:57:06] File: f_Children_s_500u_pos5_neg1_books.csv
+[02:57:14] Target genre: Children_s → Children's
+[02:57:14] Training NMF
+[03:03:03] Generating recommendations
+[03:03:07] Scoring 53,424 users for f_Children_s_500u_pos5_neg1_books
+[03:05:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[03:05:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[03:05:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[03:05:28] Computing bi analysis
+[03:05:28] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[03:05:28] Computing mu analysis
+[03:06:07] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[03:06:11] Done
+[03:06:11] 
+[117/143] POS5 500 users — Thriller
+[03:06:11] File: f_Thriller_500u_pos5_neg1_books.csv
+[03:06:18] Target genre: Thriller → Thriller
+[03:06:18] Training NMF
+[03:12:06] Generating recommendations
+[03:12:10] Scoring 53,424 users for f_Thriller_500u_pos5_neg1_books
+[03:14:17] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_500u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[03:14:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_500u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[03:14:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_500u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[03:14:29] Computing bi analysis
+[03:14:29] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_500u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[03:14:29] Computing mu analysis
+[03:15:08] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_500u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[03:15:12] Done
+[03:15:12] 
+[118/143] POS5 1000 users — Thriller
+[03:15:12] File: f_Thriller_1000u_pos5_neg1_books.csv
+[03:15:22] Target genre: Thriller → Thriller
+[03:15:22] Training NMF
+[03:22:55] Generating recommendations
+[03:22:59] Scoring 53,424 users for f_Thriller_1000u_pos5_neg1_books
+[03:25:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[03:25:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[03:25:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[03:25:28] Computing bi analysis
+[03:25:28] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[03:25:28] Computing mu analysis
+[03:26:21] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[03:26:26] Done
+[03:26:26] 
+[119/143] POS5 1000 users — Horror
+[03:26:26] File: f_Horror_1000u_pos5_neg1_books.csv
+[03:26:36] Target genre: Horror → Horror
+[03:26:36] Training NMF
+[03:34:12] Generating recommendations
+[03:34:16] Scoring 53,424 users for f_Horror_1000u_pos5_neg1_books
+[03:36:24] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[03:36:28] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[03:36:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[03:36:35] Computing bi analysis
+[03:36:35] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[03:36:35] Computing mu analysis
+[03:37:29] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[03:37:34] Done
+[03:37:34] 
+[120/143] POS5 1000 users — Mystery
+[03:37:34] File: f_Mystery_1000u_pos5_neg1_books.csv
+[03:37:44] Target genre: Mystery → Mystery
+[03:37:44] Training NMF
+[03:45:20] Generating recommendations
+[03:45:23] Scoring 53,424 users for f_Mystery_1000u_pos5_neg1_books
+[03:47:33] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[03:47:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[03:47:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[03:47:45] Computing bi analysis
+[03:47:45] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[03:47:45] Computing mu analysis
+[03:48:37] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[03:48:42] Done
+[03:48:42] 
+[121/143] POS5 1000 users — Romance
+[03:48:42] File: f_Romance_1000u_pos5_neg1_books.csv
+[03:48:52] Target genre: Romance → Romance
+[03:48:52] Training NMF
+[03:56:21] Generating recommendations
+[03:56:25] Scoring 53,424 users for f_Romance_1000u_pos5_neg1_books
+[03:58:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[03:58:40] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[03:58:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[03:58:48] Computing bi analysis
+[03:58:48] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[03:58:48] Computing mu analysis
+[03:59:45] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[03:59:50] Done
+[03:59:50] 
+[122/143] POS5 1000 users — Science_Fiction
+[03:59:50] File: f_Science_Fiction_1000u_pos5_neg1_books.csv
+[04:00:01] Target genre: Science_Fiction → Science Fiction
+[04:00:01] Training NMF
+[04:07:29] Generating recommendations
+[04:07:33] Scoring 53,424 users for f_Science_Fiction_1000u_pos5_neg1_books
+[04:09:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[04:09:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[04:09:53] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[04:09:55] Computing bi analysis
+[04:09:55] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[04:09:55] Computing mu analysis
+[04:10:47] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[04:10:52] Done
+[04:10:52] 
+[123/143] POS5 1000 users — Adventure
+[04:10:52] File: f_Adventure_1000u_pos5_neg1_books.csv
+[04:11:02] Target genre: Adventure → Adventure
+[04:11:02] Training NMF
+[04:18:32] Generating recommendations
+[04:18:35] Scoring 53,424 users for f_Adventure_1000u_pos5_neg1_books
+[04:20:49] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[04:20:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[04:21:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[04:21:01] Computing bi analysis
+[04:21:01] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[04:21:01] Computing mu analysis
+[04:21:55] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[04:22:00] Done
+[04:22:00] 
+[124/143] POS5 1000 users — Children_s
+[04:22:00] File: f_Children_s_1000u_pos5_neg1_books.csv
+[04:22:10] Target genre: Children_s → Children's
+[04:22:10] Training NMF
+[04:29:44] Generating recommendations
+[04:29:48] Scoring 53,424 users for f_Children_s_1000u_pos5_neg1_books
+[04:31:57] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[04:32:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[04:32:07] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[04:32:09] Computing bi analysis
+[04:32:09] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[04:32:09] Computing mu analysis
+[04:33:02] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[04:33:08] Done
+[04:33:08] 
+[125/143] POS5 1000 users — Nonfiction
+[04:33:08] File: f_Nonfiction_1000u_pos5_neg1_books.csv
+[04:33:18] Target genre: Nonfiction → Nonfiction
+[04:33:18] Training NMF
+[04:40:54] Generating recommendations
+[04:40:58] Scoring 53,424 users for f_Nonfiction_1000u_pos5_neg1_books
+[04:42:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[04:42:59] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[04:43:05] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[04:43:06] Computing bi analysis
+[04:43:06] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[04:43:06] Computing mu analysis
+[04:43:58] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[04:44:03] Done
+[04:44:03] 
+[126/143] POS5 1000 users — Adult
+[04:44:03] File: f_Adult_1000u_pos5_neg1_books.csv
+[04:44:13] Target genre: Adult → Adult
+[04:44:13] Training NMF
+[04:51:32] Generating recommendations
+[04:51:36] Scoring 53,424 users for f_Adult_1000u_pos5_neg1_books
+[04:53:40] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[04:53:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[04:53:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[04:53:52] Computing bi analysis
+[04:53:52] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[04:53:52] Computing mu analysis
+[04:54:48] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[04:54:53] Done
+[04:54:53] 
+[127/143] POS5 1000 users — Fantasy
+[04:54:53] File: f_Fantasy_1000u_pos5_neg1_books.csv
+[04:55:04] Target genre: Fantasy → Fantasy
+[04:55:04] Training NMF
+[05:02:31] Generating recommendations
+[05:02:35] Scoring 53,424 users for f_Fantasy_1000u_pos5_neg1_books
+[05:04:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[05:04:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[05:04:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[05:04:58] Computing bi analysis
+[05:04:58] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[05:04:58] Computing mu analysis
+[05:05:50] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[05:05:55] Done
+[05:05:55] 
+[128/143] POS5 1000 users — Classics
+[05:05:55] File: f_Classics_1000u_pos5_neg1_books.csv
+[05:06:05] Target genre: Classics → Classics
+[05:06:05] Training NMF
+[05:13:36] Generating recommendations
+[05:13:39] Scoring 53,424 users for f_Classics_1000u_pos5_neg1_books
+[05:15:51] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[05:15:55] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[05:16:01] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[05:16:02] Computing bi analysis
+[05:16:02] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[05:16:02] Computing mu analysis
+[05:16:56] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[05:17:01] Done
+[05:17:01] 
+[129/143] POS5 1000 users — Drama
+[05:17:01] File: f_Drama_1000u_pos5_neg1_books.csv
+[05:17:11] Target genre: Drama → Drama
+[05:17:11] Training NMF
+[05:24:45] Generating recommendations
+[05:24:48] Scoring 53,424 users for f_Drama_1000u_pos5_neg1_books
+[05:27:12] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[05:27:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[05:27:22] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[05:27:23] Computing bi analysis
+[05:27:23] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[05:27:23] Computing mu analysis
+[05:28:16] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[05:28:22] Done
+[05:28:22] 
+[130/143] POS5 1000 users — Historical
+[05:28:22] File: f_Historical_1000u_pos5_neg1_books.csv
+[05:28:31] Target genre: Historical → Historical
+[05:28:31] Training NMF
+[05:36:07] Generating recommendations
+[05:36:11] Scoring 53,424 users for f_Historical_1000u_pos5_neg1_books
+[05:38:06] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_1000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[05:38:10] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_1000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[05:38:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_1000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[05:38:17] Computing bi analysis
+[05:38:17] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_1000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[05:38:17] Computing mu analysis
+[05:39:10] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_1000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[05:39:15] Done
+[05:39:15] 
+[131/143] POS5 2000 users — Science_Fiction
+[05:39:15] File: f_Science_Fiction_2000u_pos5_neg1_books.csv
+[05:39:30] Target genre: Science_Fiction → Science Fiction
+[05:39:30] Training NMF
+[05:50:38] Generating recommendations
+[05:50:43] Scoring 53,424 users for f_Science_Fiction_2000u_pos5_neg1_books
+[05:52:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[05:52:58] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[05:53:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Science_Fiction_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[05:53:06] Computing bi analysis
+[05:53:06] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Science_Fiction_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[05:53:06] Computing mu analysis
+[05:54:36] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Science_Fiction_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[05:54:43] Done
+[05:54:43] 
+[132/143] POS5 2000 users — Romance
+[05:54:43] File: f_Romance_2000u_pos5_neg1_books.csv
+[05:54:58] Target genre: Romance → Romance
+[05:54:58] Training NMF
+[06:06:04] Generating recommendations
+[06:06:09] Scoring 53,424 users for f_Romance_2000u_pos5_neg1_books
+[06:08:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[06:08:19] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[06:08:25] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Romance_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[06:08:27] Computing bi analysis
+[06:08:27] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Romance_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[06:08:27] Computing mu analysis
+[06:09:58] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Romance_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[06:10:07] Done
+[06:10:07] 
+[133/143] POS5 2000 users — Historical
+[06:10:07] File: f_Historical_2000u_pos5_neg1_books.csv
+[06:10:21] Target genre: Historical → Historical
+[06:10:21] Training NMF
+[06:21:30] Generating recommendations
+[06:21:35] Scoring 53,424 users for f_Historical_2000u_pos5_neg1_books
+[06:23:43] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[06:23:48] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[06:23:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Historical_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[06:23:55] Computing bi analysis
+[06:23:55] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Historical_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[06:23:55] Computing mu analysis
+[06:25:26] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Historical_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[06:25:34] Done
+[06:25:34] 
+[134/143] POS5 2000 users — Drama
+[06:25:34] File: f_Drama_2000u_pos5_neg1_books.csv
+[06:25:49] Target genre: Drama → Drama
+[06:25:49] Training NMF
+[06:36:59] Generating recommendations
+[06:37:04] Scoring 53,424 users for f_Drama_2000u_pos5_neg1_books
+[06:39:19] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[06:39:23] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[06:39:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Drama_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[06:39:31] Computing bi analysis
+[06:39:31] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Drama_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[06:39:31] Computing mu analysis
+[06:41:01] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Drama_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[06:41:10] Done
+[06:41:10] 
+[135/143] POS5 2000 users — Thriller
+[06:41:10] File: f_Thriller_2000u_pos5_neg1_books.csv
+[06:41:25] Target genre: Thriller → Thriller
+[06:41:25] Training NMF
+[06:52:36] Generating recommendations
+[06:52:41] Scoring 53,424 users for f_Thriller_2000u_pos5_neg1_books
+[06:55:35] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[06:55:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[06:55:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Thriller_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[06:55:46] Computing bi analysis
+[06:55:46] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Thriller_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[06:55:46] Computing mu analysis
+[06:57:15] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Thriller_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[06:57:22] Done
+[06:57:22] 
+[136/143] POS5 2000 users — Children_s
+[06:57:22] File: f_Children_s_2000u_pos5_neg1_books.csv
+[06:57:37] Target genre: Children_s → Children's
+[06:57:37] Training NMF
+[07:08:46] Generating recommendations
+[07:08:51] Scoring 53,424 users for f_Children_s_2000u_pos5_neg1_books
+[07:11:04] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[07:11:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[07:11:15] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Children_s_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[07:11:17] Computing bi analysis
+[07:11:17] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Children_s_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[07:11:17] Computing mu analysis
+[07:12:49] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Children_s_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[07:12:58] Done
+[07:12:58] 
+[137/143] POS5 2000 users — Adventure
+[07:12:58] File: f_Adventure_2000u_pos5_neg1_books.csv
+[07:13:13] Target genre: Adventure → Adventure
+[07:13:13] Training NMF
+[07:24:08] Generating recommendations
+[07:24:13] Scoring 53,424 users for f_Adventure_2000u_pos5_neg1_books
+[07:26:21] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[07:26:25] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[07:26:31] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adventure_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[07:26:33] Computing bi analysis
+[07:26:33] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adventure_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[07:26:33] Computing mu analysis
+[07:28:03] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adventure_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[07:28:12] Done
+[07:28:12] 
+[138/143] POS5 2000 users — Adult
+[07:28:12] File: f_Adult_2000u_pos5_neg1_books.csv
+[07:28:27] Target genre: Adult → Adult
+[07:28:27] Training NMF
+[07:39:22] Generating recommendations
+[07:39:27] Scoring 53,424 users for f_Adult_2000u_pos5_neg1_books
+[07:41:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[07:41:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[07:41:44] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Adult_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[07:41:46] Computing bi analysis
+[07:41:46] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Adult_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[07:41:46] Computing mu analysis
+[07:43:16] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Adult_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[07:43:25] Done
+[07:43:25] 
+[139/143] POS5 2000 users — Nonfiction
+[07:43:25] File: f_Nonfiction_2000u_pos5_neg1_books.csv
+[07:43:40] Target genre: Nonfiction → Nonfiction
+[07:43:40] Training NMF
+[07:54:35] Generating recommendations
+[07:54:40] Scoring 53,424 users for f_Nonfiction_2000u_pos5_neg1_books
+[07:56:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[07:56:54] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[07:57:00] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Nonfiction_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[07:57:02] Computing bi analysis
+[07:57:02] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Nonfiction_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[07:57:02] Computing mu analysis
+[07:58:33] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Nonfiction_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[07:58:41] Done
+[07:58:41] 
+[140/143] POS5 2000 users — Fantasy
+[07:58:41] File: f_Fantasy_2000u_pos5_neg1_books.csv
+[07:58:56] Target genre: Fantasy → Fantasy
+[07:58:56] Training NMF
+[08:10:00] Generating recommendations
+[08:10:05] Scoring 53,424 users for f_Fantasy_2000u_pos5_neg1_books
+[08:12:16] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[08:12:20] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[08:12:26] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Fantasy_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[08:12:28] Computing bi analysis
+[08:12:28] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Fantasy_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[08:12:28] Computing mu analysis
+[08:13:58] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Fantasy_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[08:14:06] Done
+[08:14:06] 
+[141/143] POS5 2000 users — Classics
+[08:14:06] File: f_Classics_2000u_pos5_neg1_books.csv
+[08:14:21] Target genre: Classics → Classics
+[08:14:21] Training NMF
+[08:25:23] Generating recommendations
+[08:25:28] Scoring 53,424 users for f_Classics_2000u_pos5_neg1_books
+[08:27:34] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[08:27:39] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[08:27:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Classics_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[08:27:46] Computing bi analysis
+[08:27:46] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Classics_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[08:27:46] Computing mu analysis
+[08:29:17] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Classics_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[08:29:25] Done
+[08:29:25] 
+[142/143] POS5 2000 users — Mystery
+[08:29:25] File: f_Mystery_2000u_pos5_neg1_books.csv
+[08:29:40] Target genre: Mystery → Mystery
+[08:29:40] Training NMF
+[08:40:34] Generating recommendations
+[08:40:39] Scoring 53,424 users for f_Mystery_2000u_pos5_neg1_books
+[08:42:45] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[08:42:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[08:42:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Mystery_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[08:42:58] Computing bi analysis
+[08:42:58] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Mystery_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[08:42:58] Computing mu analysis
+[08:44:28] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Mystery_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[08:44:37] Done
+[08:44:37] 
+[143/143] POS5 2000 users — Horror
+[08:44:37] File: f_Horror_2000u_pos5_neg1_books.csv
+[08:44:52] Target genre: Horror → Horror
+[08:44:52] Training NMF
+[08:55:53] Generating recommendations
+[08:55:58] Scoring 53,424 users for f_Horror_2000u_pos5_neg1_books
+[08:58:09] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_2000u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[08:58:13] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_2000u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[08:58:19] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/data/f_Horror_2000u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[08:58:20] Computing bi analysis
+[08:58:20] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/bi/f_Horror_2000u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[08:58:20] Computing mu analysis
+[08:59:50] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run/mio/f_Horror_2000u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[08:59:59] Done
+[08:59:59] 
+Finished all runs in 20.17 hours
+[08:59:59] Results saved in: /home/moshtasa/Research/phd-svd-recsys/Book/0311_similar_pr_details/NMF-0311/result/NMF_run
