@@ -604,3 +604,50 @@ nohup: ignoring input
 [16:28:31] File: f_Thriller_25u_pos5_neg1_books.csv
 [16:28:37] Target genre: Thriller → Thriller
 [16:28:37] Training NMF
+[16:32:51] Generating recommendations
+[16:32:54] Scoring 53,424 users for f_Thriller_25u_pos5_neg1_books
+[16:34:46] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Thriller_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:34:50] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Thriller_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:34:56] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Thriller_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:34:58] Computing bi analysis
+[16:34:58] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/bi/f_Thriller_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:34:58] Computing mu analysis
+[16:35:22] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/mio/f_Thriller_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:35:24] Done
+[16:35:24] 
+[41/143] POS5 25 users — Classics
+[16:35:24] File: f_Classics_25u_pos5_neg1_books.csv
+[16:35:30] Target genre: Classics → Classics
+[16:35:30] Training NMF
+[16:39:39] Generating recommendations
+[16:39:42] Scoring 53,424 users for f_Classics_25u_pos5_neg1_books
+[16:41:37] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Classics_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:41:41] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Classics_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:41:47] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Classics_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:41:48] Computing bi analysis
+[16:41:48] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/bi/f_Classics_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:41:48] Computing mu analysis
+[16:42:09] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/mio/f_Classics_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:42:12] Done
+[16:42:12] 
+[42/143] POS5 25 users — Nonfiction
+[16:42:12] File: f_Nonfiction_25u_pos5_neg1_books.csv
+[16:42:17] Target genre: Nonfiction → Nonfiction
+[16:42:17] Training NMF
+[16:46:26] Generating recommendations
+[16:46:29] Scoring 53,424 users for f_Nonfiction_25u_pos5_neg1_books
+[16:48:25] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Nonfiction_25u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[16:48:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Nonfiction_25u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[16:48:35] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Nonfiction_25u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[16:48:36] Computing bi analysis
+[16:48:36] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/bi/f_Nonfiction_25u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[16:48:36] Computing mu analysis
+[16:48:58] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/mio/f_Nonfiction_25u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[16:49:00] Done
+[16:49:00] 
+[43/143] POS5 25 users — Mystery
+[16:49:00] File: f_Mystery_25u_pos5_neg1_books.csv
+[16:49:06] Target genre: Mystery → Mystery
+[16:49:06] Training NMF
+[16:53:17] Generating recommendations
+[16:53:20] Scoring 53,424 users for f_Mystery_25u_pos5_neg1_books
