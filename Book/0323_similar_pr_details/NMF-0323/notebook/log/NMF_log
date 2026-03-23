@@ -276,3 +276,16 @@ nohup: ignoring input
 [13:53:52] Training NMF
 [13:58:14] Generating recommendations
 [13:58:16] Scoring 53,424 users for f_Historical_4u_pos5_neg1_books
+[14:00:27] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Historical_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:00:31] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Historical_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
+[14:00:36] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/data/f_Historical_4u_pos5_neg1_books_35recommendation.csv (1,869,840 rows)
+[14:00:38] Computing bi analysis
+[14:00:38] Saved bi → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/bi/f_Historical_4u_pos5_neg1_books_bi_per_genre.csv (13 genres)
+[14:00:38] Computing mu analysis
+[14:01:00] Saved mu → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/NMF-0323/result/NMF_run/mio/f_Historical_4u_pos5_neg1_books_mu_per_genre.csv (13 genres)
+[14:01:04] Done
+[14:01:04] 
+[19/143] POS5 4 users — Classics
+[14:01:04] File: f_Classics_4u_pos5_neg1_books.csv
+[14:01:11] Target genre: Classics → Classics
+[14:01:11] Training NMF

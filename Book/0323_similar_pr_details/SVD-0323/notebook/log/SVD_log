@@ -319,3 +319,5 @@ nohup: ignoring input
 [13:58:25] File: f_Adventure_4u_pos5_neg1_books.csv
 [13:58:32] Target genre: Adventure → Adventure
 [13:58:32] Training SVD
+[14:02:14] Generating recommendations
+[14:02:17] Scoring 53,424 users for f_Adventure_4u_pos5_neg1_books
