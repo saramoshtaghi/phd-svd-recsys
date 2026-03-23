@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Science_Fiction
+
+Metric: Average count of target genre per user
+
+k = 15
+  2u: 0.0000 (users=53424)
+  4u: 0.0000 (users=53424)
+
+k = 25
+  2u: 0.0000 (users=53424)
+  4u: 0.0000 (users=53424)
+
+k = 35
+  2u: 0.0000 (users=53424)
+  4u: 0.0000 (users=53424)
+

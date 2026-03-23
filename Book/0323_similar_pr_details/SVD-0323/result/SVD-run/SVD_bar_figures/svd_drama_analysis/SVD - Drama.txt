@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Drama
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 5.0846 (users=53424)
+  2u: 4.9768 (users=53424)
+
+k = 25
+  original: 8.4319 (users=53424)
+  2u: 8.2287 (users=53424)
+
+k = 35
+  original: 11.7374 (users=53424)
+  2u: 11.4867 (users=53424)
+

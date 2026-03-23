@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Horror
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.2416 (users=53424)
+  2u: 1.3693 (users=53424)
+
+k = 25
+  original: 2.1034 (users=53424)
+  2u: 2.2946 (users=53424)
+
+k = 35
+  original: 2.9646 (users=53424)
+  2u: 3.2399 (users=53424)
+

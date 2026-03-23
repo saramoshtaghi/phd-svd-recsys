@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Adult
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.0738 (users=53424)
+  2u: 0.9856 (users=53424)
+
+k = 25
+  original: 1.5213 (users=53424)
+  2u: 1.4466 (users=53424)
+
+k = 35
+  original: 1.9226 (users=53424)
+  2u: 1.8845 (users=53424)
+

@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Mystery
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 3.6569 (users=53424)
+  2u: 3.1119 (users=53424)
+
+k = 25
+  original: 6.0164 (users=53424)
+  2u: 5.4005 (users=53424)
+
+k = 35
+  original: 8.3666 (users=53424)
+  2u: 7.6460 (users=53424)
+

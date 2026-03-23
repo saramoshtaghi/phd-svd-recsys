@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Thriller
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.7299 (users=53424)
+  2u: 1.7024 (users=53424)
+
+k = 25
+  original: 2.8921 (users=53424)
+  2u: 2.8223 (users=53424)
+
+k = 35
+  original: 4.0635 (users=53424)
+  2u: 3.9305 (users=53424)
+

@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Adventure
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 3.0673 (users=53424)
+  2u: 3.5013 (users=53424)
+
+k = 25
+  original: 5.3583 (users=53424)
+  2u: 6.0124 (users=53424)
+
+k = 35
+  original: 7.6732 (users=53424)
+  2u: 8.5421 (users=53424)
+

@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Fantasy
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 4.6848 (users=53424)
+  2u: 5.1231 (users=53424)
+
+k = 25
+  original: 8.0541 (users=53424)
+  2u: 8.5770 (users=53424)
+
+k = 35
+  original: 11.3808 (users=53424)
+  2u: 11.9405 (users=53424)
+

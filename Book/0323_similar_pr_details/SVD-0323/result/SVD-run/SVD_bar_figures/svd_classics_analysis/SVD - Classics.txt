@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Classics
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 0.9913 (users=53424)
+  2u: 1.2475 (users=53424)
+
+k = 25
+  original: 1.7305 (users=53424)
+  2u: 2.1641 (users=53424)
+
+k = 35
+  original: 2.4917 (users=53424)
+  2u: 3.1049 (users=53424)
+

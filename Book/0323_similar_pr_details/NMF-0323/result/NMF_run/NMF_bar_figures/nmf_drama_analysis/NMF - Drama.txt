@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Drama
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 5.0645 (users=53424)
+  2u: 5.1799 (users=53424)
+
+k = 25
+  original: 8.3745 (users=53424)
+  2u: 8.4805 (users=53424)
+
+k = 35
+  original: 11.6385 (users=53424)
+  2u: 11.8391 (users=53424)
+

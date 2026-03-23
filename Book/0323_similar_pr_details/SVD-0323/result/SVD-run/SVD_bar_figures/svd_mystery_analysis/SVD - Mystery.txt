@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Mystery
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 3.9427 (users=53424)
+  2u: 3.5074 (users=53424)
+
+k = 25
+  original: 6.3568 (users=53424)
+  2u: 5.9547 (users=53424)
+
+k = 35
+  original: 8.7447 (users=53424)
+  2u: 8.3883 (users=53424)
+

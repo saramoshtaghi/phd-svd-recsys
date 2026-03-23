@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Horror
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.3348 (users=53424)
+  2u: 1.6716 (users=53424)
+
+k = 25
+  original: 2.2863 (users=53424)
+  2u: 2.7608 (users=53424)
+
+k = 35
+  original: 3.2372 (users=53424)
+  2u: 3.8246 (users=53424)
+

@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Romance
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 2.8100 (users=53424)
+  2u: 2.9947 (users=53424)
+
+k = 25
+  original: 4.6032 (users=53424)
+  2u: 4.8911 (users=53424)
+
+k = 35
+  original: 6.3760 (users=53424)
+  2u: 6.7833 (users=53424)
+

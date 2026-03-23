@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Historical
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.4059 (users=53424)
+  2u: 1.6393 (users=53424)
+
+k = 25
+  original: 2.3581 (users=53424)
+  2u: 2.7558 (users=53424)
+
+k = 35
+  original: 3.3221 (users=53424)
+  2u: 3.8876 (users=53424)
+

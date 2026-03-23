@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Adult
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 0.5288 (users=53424)
+  2u: 0.3264 (users=53424)
+
+k = 25
+  original: 0.8205 (users=53424)
+  2u: 0.5076 (users=53424)
+
+k = 35
+  original: 1.0838 (users=53424)
+  2u: 0.6787 (users=53424)
+

@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Thriller
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 2.0845 (users=53424)
+  2u: 2.0133 (users=53424)
+
+k = 25
+  original: 3.3180 (users=53424)
+  2u: 3.3649 (users=53424)
+
+k = 35
+  original: 4.5593 (users=53424)
+  2u: 4.6973 (users=53424)
+

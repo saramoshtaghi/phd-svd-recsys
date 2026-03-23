@@ -1,0 +1,14 @@
+Number of unique users: 53424
+Number of unique books: 9415
+Total number of ratings: 5815569
+
+Rating distribution:
+rating
+1     120964
+2     350205
+3    1336839
+4    2083651
+5    1923910
+
+Minimum books rated by a user: 18
+Maximum books rated by a user: 198

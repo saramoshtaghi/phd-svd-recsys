@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Nonfiction
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.5226 (users=53424)
+  2u: 1.9353 (users=53424)
+
+k = 25
+  original: 2.5109 (users=53424)
+  2u: 3.1065 (users=53424)
+
+k = 35
+  original: 3.6250 (users=53424)
+  2u: 4.3936 (users=53424)
+

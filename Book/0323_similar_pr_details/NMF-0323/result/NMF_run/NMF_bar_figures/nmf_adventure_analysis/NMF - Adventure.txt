@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Adventure
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 3.5889 (users=53424)
+  2u: 3.6829 (users=53424)
+
+k = 25
+  original: 6.1608 (users=53424)
+  2u: 6.2642 (users=53424)
+
+k = 35
+  original: 8.7359 (users=53424)
+  2u: 8.8928 (users=53424)
+

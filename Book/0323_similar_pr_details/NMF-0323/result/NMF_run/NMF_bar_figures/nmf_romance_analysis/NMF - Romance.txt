@@ -1,0 +1,16 @@
+NMF Analysis for Genre: Romance
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 2.5776 (users=53424)
+  2u: 2.1888 (users=53424)
+
+k = 25
+  original: 4.0267 (users=53424)
+  2u: 3.5582 (users=53424)
+
+k = 35
+  original: 5.3763 (users=53424)
+  2u: 4.8603 (users=53424)
+

@@ -1,0 +1,16 @@
+SVD Analysis for Genre: Nonfiction
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 2.3582 (users=53424)
+  2u: 2.1196 (users=53424)
+
+k = 25
+  original: 3.7095 (users=53424)
+  2u: 3.4411 (users=53424)
+
+k = 35
+  original: 5.0414 (users=53424)
+  2u: 4.7975 (users=53424)
+
