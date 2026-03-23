@@ -321,3 +321,5 @@ nohup: ignoring input
 [13:58:32] Training SVD
 [14:02:14] Generating recommendations
 [14:02:17] Scoring 53,424 users for f_Adventure_4u_pos5_neg1_books
+[14:04:25] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/SVD-0323/result/SVD-run/data/f_Adventure_4u_pos5_neg1_books_15recommendation.csv (801,360 rows)
+[14:04:29] Saved → /home/moshtasa/Research/phd-svd-recsys/Book/0323_similar_pr_details/SVD-0323/result/SVD-run/data/f_Adventure_4u_pos5_neg1_books_25recommendation.csv (1,335,600 rows)
