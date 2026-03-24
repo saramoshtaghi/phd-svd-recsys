@@ -5,12 +5,24 @@ Metric: Average count of target genre per user
 k = 15
   original: 1.3348 (users=53424)
   2u: 1.6716 (users=53424)
+  4u: 1.5146 (users=53424)
+  6u: 1.4079 (users=53424)
+  25u: 2.4753 (users=53424)
+  50u: 3.8243 (users=53424)
 
 k = 25
   original: 2.2863 (users=53424)
   2u: 2.7608 (users=53424)
+  4u: 2.7901 (users=53424)
+  6u: 2.4932 (users=53424)
+  25u: 4.1413 (users=53424)
+  50u: 6.4038 (users=53424)
 
 k = 35
   original: 3.2372 (users=53424)
   2u: 3.8246 (users=53424)
+  4u: 4.0077 (users=53424)
+  6u: 3.6428 (users=53424)
+  25u: 5.8323 (users=53424)
+  50u: 8.9421 (users=53424)
 
