@@ -1,0 +1,46 @@
+SVD Analysis for Genre: Historical
+
+Metric: Average count of target genre per user
+
+k = 15
+  original: 1.4059 (users=53424)
+  2u: 1.6393 (users=53424)
+  4u: 2.3618 (users=53424)
+  6u: 3.1853 (users=53424)
+  25u: 3.7558 (users=53424)
+  50u: 3.4901 (users=53424)
+  100u: 3.1163 (users=53424)
+  200u: 4.5087 (users=53424)
+  300u: 3.5493 (users=53424)
+  500u: 6.3223 (users=53424)
+  1000u: 4.3114 (users=53424)
+  2000u: 5.4406 (users=53424)
+
+k = 25
+  original: 2.3581 (users=53424)
+  2u: 2.7558 (users=53424)
+  4u: 3.8666 (users=53424)
+  6u: 5.2151 (users=53424)
+  25u: 6.1532 (users=53424)
+  50u: 5.7745 (users=53424)
+  100u: 5.2727 (users=53424)
+  200u: 7.1693 (users=53424)
+  300u: 5.9216 (users=53424)
+  500u: 10.1241 (users=53424)
+  1000u: 7.1123 (users=53424)
+  2000u: 8.6656 (users=53424)
+
+k = 35
+  original: 3.3221 (users=53424)
+  2u: 3.8876 (users=53424)
+  4u: 5.3563 (users=53424)
+  6u: 7.1529 (users=53424)
+  25u: 8.4600 (users=53424)
+  50u: 8.0443 (users=53424)
+  100u: 7.4365 (users=53424)
+  200u: 9.7444 (users=53424)
+  300u: 8.2651 (users=53424)
+  500u: 13.7135 (users=53424)
+  1000u: 9.7952 (users=53424)
+  2000u: 11.7065 (users=53424)
+
